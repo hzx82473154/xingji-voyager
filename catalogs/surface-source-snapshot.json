@@ -1,0 +1,3529 @@
+{
+  "retrieved": "2026-10-09",
+  "purpose": "Provenance digest of the former source cache; no third-party page, script, stylesheet or article body is redistributed. Numerical facts are selected separately.",
+  "sanitizedOn": "2026-10-13",
+  "files": [
+    {
+      "name": "pluto-sbdb.json",
+      "upstreamResponseSha256": "89d3c505b62c306f5bb1749b09e9eabbd62efe17e35e248eaec898b81fec5c53",
+      "rawResponseDistributed": false,
+      "sourceUrl": "https://ssd-api.jpl.nasa.gov/sbdb.api?sstr=134340&phys-par=true",
+      "object": {
+        "des": "134340",
+        "fullname": "134340 Pluto (1930 BM)",
+        "spkid": "20134340",
+        "kind": "an"
+      },
+      "parameters": [
+        {
+          "name": "H",
+          "value": "-0.55",
+          "sigma": null,
+          "units": null,
+          "ref": "MPO966248"
+        },
+        {
+          "name": "rot_per",
+          "value": "153.2935",
+          "sigma": null,
+          "units": "h",
+          "ref": "LCDB (Rev. 2023-October); Warner et al., 2009"
+        }
+      ],
+      "orbit": {
+        "epoch": "2457588.5",
+        "equinox": "J2000",
+        "elements": [
+          {
+            "name": "e",
+            "value": ".2518378778576892",
+            "sigma": null,
+            "units": null
+          },
+          {
+            "name": "a",
+            "value": "39.58862938517124",
+            "sigma": null,
+            "units": "au"
+          },
+          {
+            "name": "q",
+            "value": "29.61871297351516",
+            "sigma": null,
+            "units": "au"
+          },
+          {
+            "name": "i",
+            "value": "17.14771140999114",
+            "sigma": null,
+            "units": "deg"
+          },
+          {
+            "name": "om",
+            "value": "110.2923840543057",
+            "sigma": null,
+            "units": "deg"
+          },
+          {
+            "name": "w",
+            "value": "113.7090015158565",
+            "sigma": null,
+            "units": "deg"
+          },
+          {
+            "name": "ma",
+            "value": "38.68366347318184",
+            "sigma": null,
+            "units": "deg"
+          },
+          {
+            "name": "tp",
+            "value": "2447812.094159956090",
+            "sigma": null,
+            "units": "TDB"
+          },
+          {
+            "name": "per",
+            "value": "90981.71647718345",
+            "sigma": null,
+            "units": "d"
+          },
+          {
+            "name": "n",
+            "value": ".003956838955553025",
+            "sigma": null,
+            "units": "deg/d"
+          },
+          {
+            "name": "ad",
+            "value": "49.55854579682732",
+            "sigma": null,
+            "units": "au"
+          }
+        ]
+      },
+      "processing": "Selected numerical facts and bibliography identifiers; source explanatory notes and raw response bodies removed."
+    },
+    {
+      "name": "sat-elements.html",
+      "upstreamResponseSha256": "1e5e52225cf636b78d0ac602eb5352c5648aa025ba45d61593d824e70779dfdd",
+      "rawResponseDistributed": false,
+      "sourceUrl": "https://ssd.jpl.nasa.gov/sats/elem/",
+      "processing": "Full upstream HTML, styles, scripts and article text removed; original byte hash and source URL retained. Imported numerical results are stored separately in the current catalogs."
+    },
+    {
+      "name": "sat-phys.html",
+      "upstreamResponseSha256": "0c6323f469e48ac654f7d4dd263ed6c62ad14689218c5451a98da29d625aaf10",
+      "rawResponseDistributed": false,
+      "sourceUrl": "https://ssd.jpl.nasa.gov/sats/phys_par/",
+      "processing": "Full upstream HTML, styles, scripts and article text removed; original byte hash and source URL retained. Imported numerical results are stored separately in the current catalogs."
+    },
+    {
+      "name": "sbdb-1.json",
+      "upstreamResponseSha256": "73a8231c37f2b5d859264a59292239073a5beb00e0fe9f87ebca1abec2f492a8",
+      "rawResponseDistributed": false,
+      "sourceUrl": "https://ssd-api.jpl.nasa.gov/sbdb.api?sstr=1&phys-par=true",
+      "object": {
+        "des": "1",
+        "fullname": "1 Ceres (A801 AA)",
+        "spkid": "20000001",
+        "kind": "an"
+      },
+      "parameters": [
+        {
+          "name": "H",
+          "value": "3.34",
+          "sigma": null,
+          "units": null,
+          "ref": "MPO980521"
+        },
+        {
+          "name": "G",
+          "value": "0.12",
+          "sigma": null,
+          "units": null,
+          "ref": "PDS3 (MPC 17257)"
+        },
+        {
+          "name": "diameter",
+          "value": "939.4",
+          "sigma": "0.2",
+          "units": "km",
+          "ref": "Nature vol. 537, pp515-517 (22 September 2016)"
+        },
+        {
+          "name": "extent",
+          "value": "964.4 x 964.2 x 891.8",
+          "sigma": "0.2 x 0.2 x 0.2",
+          "units": "km",
+          "ref": "Nature vol. 537, pp515-517 (22 September 2016)"
+        },
+        {
+          "name": "GM",
+          "value": "62.6284",
+          "sigma": "0.0009",
+          "units": "km^3/s^2",
+          "ref": "Nature vol. 537, pp515-517 (22 September 2016)"
+        },
+        {
+          "name": "density",
+          "value": "2.162",
+          "sigma": "0.008",
+          "units": "g/cm^3",
+          "ref": "Nature vol. 537, pp515-517 (22 September 2016)"
+        },
+        {
+          "name": "rot_per",
+          "value": "9.074170",
+          "sigma": "0.000001",
+          "units": "h",
+          "ref": "Nature vol. 537, pp515-517 (22 September 2016)"
+        },
+        {
+          "name": "pole",
+          "value": "291.421/66.758",
+          "sigma": "0.007/0.002",
+          "units": null,
+          "ref": "Nature vol. 537, pp515-517 (22 September 2016)"
+        },
+        {
+          "name": "albedo",
+          "value": "0.090",
+          "sigma": "0.003",
+          "units": null,
+          "ref": "Li et al. (2006) Icarus v182:pp143-160"
+        },
+        {
+          "name": "BV",
+          "value": "0.713",
+          "sigma": "0.014",
+          "units": null,
+          "ref": "EAR-A-5-DDR-UBV-MEAN-VALUES-V1.2"
+        },
+        {
+          "name": "UB",
+          "value": "0.426",
+          "sigma": "0.026",
+          "units": null,
+          "ref": "EAR-A-5-DDR-UBV-MEAN-VALUES-V1.2"
+        },
+        {
+          "name": "spec_T",
+          "value": "G",
+          "sigma": null,
+          "units": null,
+          "ref": "EAR-A-5-DDR-TAXONOMY-V4.0"
+        },
+        {
+          "name": "spec_B",
+          "value": "C",
+          "sigma": null,
+          "units": null,
+          "ref": "EAR-A-5-DDR-TAXONOMY-V4.0"
+        }
+      ],
+      "orbit": {
+        "epoch": "2461200.5",
+        "equinox": "J2000",
+        "cov_epoch": "2458849.5",
+        "elements": [
+          {
+            "name": "e",
+            "value": ".07969229514816586",
+            "sigma": "4.7755E-12",
+            "units": null
+          },
+          {
+            "name": "a",
+            "value": "2.765552595034094",
+            "sigma": "1.0134E-11",
+            "units": "au"
+          },
+          {
+            "name": "q",
+            "value": "2.545159361382861",
+            "sigma": "1.9113E-11",
+            "units": "au"
+          },
+          {
+            "name": "i",
+            "value": "10.58802780183462",
+            "sigma": "4.6124E-9",
+            "units": "deg"
+          },
+          {
+            "name": "om",
+            "value": "80.24862682043221",
+            "sigma": "6.1807E-8",
+            "units": "deg"
+          },
+          {
+            "name": "w",
+            "value": "73.29421453021587",
+            "sigma": "6.6076E-8",
+            "units": "deg"
+          },
+          {
+            "name": "ma",
+            "value": "274.4193463761342",
+            "sigma": "6.1728E-9",
+            "units": "deg"
+          },
+          {
+            "name": "tp",
+            "value": "2461599.841466614066",
+            "sigma": "2.8446E-8",
+            "units": "TDB"
+          },
+          {
+            "name": "per",
+            "value": "1679.853119758983",
+            "sigma": "9.2333E-9",
+            "units": "d"
+          },
+          {
+            "name": "n",
+            "value": ".21430445064843",
+            "sigma": "1.1779E-12",
+            "units": "deg/d"
+          },
+          {
+            "name": "ad",
+            "value": "2.985945828685327",
+            "sigma": "1.0942E-11",
+            "units": "au"
+          }
+        ]
+      },
+      "processing": "Selected numerical facts and bibliography identifiers; source explanatory notes and raw response bodies removed."
+    },
+    {
+      "name": "sbdb-101955.json",
+      "upstreamResponseSha256": "9b9496c628e7b896ac18eeadaf32e7fe64e9778f20688df4641c7ffd469888e5",
+      "rawResponseDistributed": false,
+      "sourceUrl": "https://ssd-api.jpl.nasa.gov/sbdb.api?sstr=101955&phys-par=true",
+      "object": {
+        "des": "101955",
+        "fullname": "101955 Bennu (1999 RQ36)",
+        "spkid": "20101955",
+        "kind": "an"
+      },
+      "parameters": [
+        {
+          "name": "H",
+          "value": "20.21",
+          "sigma": "0.03",
+          "units": null,
+          "ref": "Hergenrother, M.C., et al., Nat. Commun. 10, 1291 (2019)"
+        },
+        {
+          "name": "G",
+          "value": "-0.031",
+          "sigma": "0.009",
+          "units": null,
+          "ref": "Hergenrother, M.C., et al., Nat. Commun. 10, 1291 (2019)"
+        },
+        {
+          "name": "diameter",
+          "value": "0.48444",
+          "sigma": "0.00030",
+          "units": "km",
+          "ref": "Daly, M.G., et al., Sci. Adv. 6, eabd3649 (2020)"
+        },
+        {
+          "name": "extent",
+          "value": "0.5047 x 0.4918 x 0.4567",
+          "sigma": "0.002 x 0.002 x 0.002",
+          "units": "km",
+          "ref": "Daly, M.G., et al., Sci. Adv. 6, eabd3649 (2020)"
+        },
+        {
+          "name": "GM",
+          "value": "4.8904e-9",
+          "sigma": "0.0009e-9",
+          "units": "km^3/s^2",
+          "ref": "Chesley, S.R., et al., J. Geophys. Res. (Planets) 125, e06363 (2020)"
+        },
+        {
+          "name": "density",
+          "value": "1.194",
+          "sigma": "0.003",
+          "units": "g/cm^3",
+          "ref": "Daly, M.G., et al., Sci. Adv. 6, eabd3649 (2020)"
+        },
+        {
+          "name": "rot_per",
+          "value": "4.296061",
+          "sigma": "0.000002",
+          "units": "h",
+          "ref": "Hergenrother, M.C., et al., Nat. Commun. 10, 1291 (2019)"
+        },
+        {
+          "name": "rot_acc",
+          "value": "6.34e-8",
+          "sigma": "0.91e-8",
+          "units": "rad/d^2",
+          "ref": "Hergenrother, M.C., et al., Nat. Commun. 10, 1291 (2019)"
+        },
+        {
+          "name": "pole",
+          "value": "85.4522/-60.3678",
+          "sigma": "0.0003/0.0001",
+          "units": null,
+          "ref": "Daly, M.G., et al., Sci. Adv. 6, eabd3649 (2020)"
+        },
+        {
+          "name": "albedo",
+          "value": "0.044",
+          "sigma": "0.002",
+          "units": null,
+          "ref": "Hergenrother, M.C., et al., Nat. Commun. 10, 1291 (2019)"
+        },
+        {
+          "name": "I",
+          "value": "300",
+          "sigma": "30",
+          "units": "J/m^2/s^0.5/K",
+          "ref": "Rozitis, B., et al., Sci. Adv. 6, eabc3699 (2020)"
+        },
+        {
+          "name": "BV",
+          "value": "0.64",
+          "sigma": "0.04",
+          "units": null,
+          "ref": "Hergenrother, C.W. et al. Icarus 226, 663-670 (2013)"
+        },
+        {
+          "name": "UB",
+          "value": "0.16",
+          "sigma": "0.05",
+          "units": null,
+          "ref": "Hergenrother, C.W. et al. Icarus 226, 663-670 (2013)"
+        },
+        {
+          "name": "IR",
+          "value": "-0.33",
+          "sigma": "0.06",
+          "units": null,
+          "ref": "Hergenrother, C.W. et al. Icarus 226, 663-670 (2013)"
+        },
+        {
+          "name": "spec_B",
+          "value": "B",
+          "sigma": null,
+          "units": null,
+          "ref": "Clark, B.E., et al., Icarus 216, 462-475 (2011)"
+        }
+      ],
+      "orbit": {
+        "epoch": "2455562.5",
+        "equinox": "J2000",
+        "cov_epoch": "2455562.5",
+        "elements": [
+          {
+            "name": "e",
+            "value": ".2037450762416414",
+            "sigma": "6.9748E-11",
+            "units": null
+          },
+          {
+            "name": "a",
+            "value": "1.126391025894812",
+            "sigma": "1.9673E-10",
+            "units": "au"
+          },
+          {
+            "name": "q",
+            "value": ".8968944004459729",
+            "sigma": "2.3047E-10",
+            "units": "au"
+          },
+          {
+            "name": "i",
+            "value": "6.03494377024794",
+            "sigma": "6.8601E-9",
+            "units": "deg"
+          },
+          {
+            "name": "om",
+            "value": "2.06086619569642",
+            "sigma": "5.5577E-8",
+            "units": "deg"
+          },
+          {
+            "name": "w",
+            "value": "66.22306084084298",
+            "sigma": "6.4419E-8",
+            "units": "deg"
+          },
+          {
+            "name": "ma",
+            "value": "101.703952002457",
+            "sigma": "4.2749E-8",
+            "units": "deg"
+          },
+          {
+            "name": "tp",
+            "value": "2455439.141940872670",
+            "sigma": "2.2536E-8",
+            "units": "TDB"
+          },
+          {
+            "name": "per",
+            "value": "436.6487281120201",
+            "sigma": "1.144E-7",
+            "units": "d"
+          },
+          {
+            "name": "n",
+            "value": ".8244613503320309",
+            "sigma": "2.16E-10",
+            "units": "deg/d"
+          },
+          {
+            "name": "ad",
+            "value": "1.355887651343651",
+            "sigma": "2.3681E-10",
+            "units": "au"
+          }
+        ]
+      },
+      "processing": "Selected numerical facts and bibliography identifiers; source explanatory notes and raw response bodies removed."
+    },
+    {
+      "name": "sbdb-103P.json",
+      "upstreamResponseSha256": "98b4d592c4fd42871ee520fa33bb6882d88093d178b399cb4ddeaa943209dcc4",
+      "rawResponseDistributed": false,
+      "sourceUrl": "https://ssd-api.jpl.nasa.gov/sbdb.api?sstr=103P&phys-par=true",
+      "object": {
+        "des": "103P",
+        "fullname": "103P/Hartley 2",
+        "spkid": "1000041",
+        "kind": "cn"
+      },
+      "parameters": [
+        {
+          "name": "M1",
+          "value": "16.0",
+          "sigma": "0.9",
+          "units": null,
+          "ref": "K233/5"
+        },
+        {
+          "name": "K1",
+          "value": "4.5",
+          "sigma": null,
+          "units": null,
+          "ref": "K233/5"
+        },
+        {
+          "name": "diameter",
+          "value": "1.6",
+          "sigma": null,
+          "units": "km",
+          "ref": "Lamy,P.L.,Toth,I.,Fernandez,Y.R.,Weaver,H.A. (2004) Comets II, pp. 223-264"
+        },
+        {
+          "name": "rot_per",
+          "value": "18.1",
+          "sigma": null,
+          "units": "h",
+          "ref": "LCDB (Rev. 2023-October); Warner et al., 2009"
+        }
+      ],
+      "orbit": {
+        "epoch": "2457152.5",
+        "equinox": "J2000",
+        "cov_epoch": "2457152.5",
+        "elements": [
+          {
+            "name": "e",
+            "value": ".6935978573940613",
+            "sigma": "1.9437E-8",
+            "units": null
+          },
+          {
+            "name": "a",
+            "value": "3.475652487146584",
+            "sigma": "2.114E-7",
+            "units": "au"
+          },
+          {
+            "name": "q",
+            "value": "1.064947369015373",
+            "sigma": "3.8E-8",
+            "units": "au"
+          },
+          {
+            "name": "i",
+            "value": "13.59946797122405",
+            "sigma": "1.9866E-6",
+            "units": "deg"
+          },
+          {
+            "name": "om",
+            "value": "219.7421743331336",
+            "sigma": "9.2179E-6",
+            "units": "deg"
+          },
+          {
+            "name": "w",
+            "value": "181.3218438419628",
+            "sigma": "9.5589E-6",
+            "units": "deg"
+          },
+          {
+            "name": "ma",
+            "value": "251.7821727285582",
+            "sigma": "2.2794E-5",
+            "units": "deg"
+          },
+          {
+            "name": "tp",
+            "value": "2457863.957983132166",
+            "sigma": ".00021474",
+            "units": "TDB"
+          },
+          {
+            "name": "per",
+            "value": "2366.753060797867",
+            "sigma": ".00021593",
+            "units": "d"
+          },
+          {
+            "name": "n",
+            "value": ".1521071234523465",
+            "sigma": "1.3877E-8",
+            "units": "deg/d"
+          },
+          {
+            "name": "ad",
+            "value": "5.886357605277794",
+            "sigma": "3.5802E-7",
+            "units": "au"
+          }
+        ]
+      },
+      "processing": "Selected numerical facts and bibliography identifiers; source explanatory notes and raw response bodies removed."
+    },
+    {
+      "name": "sbdb-152830.json",
+      "upstreamResponseSha256": "ee44208307371a37e5b3bcca9d31bd10b34341d9553221e95cabb5dbf9b0c49a",
+      "rawResponseDistributed": false,
+      "sourceUrl": "https://ssd-api.jpl.nasa.gov/sbdb.api?sstr=152830&phys-par=true",
+      "object": {
+        "des": "152830",
+        "fullname": "152830 Dinkinesh (1999 VD57)",
+        "spkid": "20152830",
+        "kind": "an"
+      },
+      "parameters": [
+        {
+          "name": "H",
+          "value": "17.40",
+          "sigma": null,
+          "units": null,
+          "ref": "MPO694373"
+        },
+        {
+          "name": "diameter",
+          "value": "0.719",
+          "sigma": "0.024",
+          "units": "km",
+          "ref": "Levison et al. (2024), https://doi.org/10.1038/s41586-024-07378-0"
+        },
+        {
+          "name": "GM",
+          "value": "3.3e-8",
+          "sigma": "0.16e-8",
+          "units": "km^3/s^2",
+          "ref": "Levison et al. (2024), https://doi.org/10.1038/s41586-024-07378-0"
+        },
+        {
+          "name": "density",
+          "value": "2400",
+          "sigma": "350",
+          "units": "g/cm^3",
+          "ref": "Levison et al. (2024), https://doi.org/10.1038/s41586-024-07378-0"
+        },
+        {
+          "name": "rot_per",
+          "value": "52.67",
+          "sigma": "0.04",
+          "units": "h",
+          "ref": "Mottola, S. et al. (2023) https://doi.org/10.1093/mnrasl/slad066"
+        }
+      ],
+      "orbit": {
+        "epoch": "2461200.5",
+        "equinox": "J2000",
+        "cov_epoch": "2460249.5",
+        "elements": [
+          {
+            "name": "e",
+            "value": ".1126817135846694",
+            "sigma": "3.3552E-8",
+            "units": null
+          },
+          {
+            "name": "a",
+            "value": "2.191768748791583",
+            "sigma": "6.882E-9",
+            "units": "au"
+          },
+          {
+            "name": "q",
+            "value": "1.944796490396421",
+            "sigma": "7.2524E-8",
+            "units": "au"
+          },
+          {
+            "name": "i",
+            "value": "2.093117265661373",
+            "sigma": "2.1517E-6",
+            "units": "deg"
+          },
+          {
+            "name": "om",
+            "value": "21.35270512523402",
+            "sigma": "9.066E-5",
+            "units": "deg"
+          },
+          {
+            "name": "w",
+            "value": "66.91637126596935",
+            "sigma": "9.3607E-5",
+            "units": "deg"
+          },
+          {
+            "name": "ma",
+            "value": "29.60751779009531",
+            "sigma": "1.7556E-5",
+            "units": "deg"
+          },
+          {
+            "name": "tp",
+            "value": "2461103.025723479988",
+            "sigma": "5.8052E-5",
+            "units": "TDB"
+          },
+          {
+            "name": "per",
+            "value": "1185.196942073384",
+            "sigma": "5.5821E-6",
+            "units": "d"
+          },
+          {
+            "name": "n",
+            "value": ".3037469868680356",
+            "sigma": "1.4306E-9",
+            "units": "deg/d"
+          },
+          {
+            "name": "ad",
+            "value": "2.438741007186746",
+            "sigma": "7.6575E-9",
+            "units": "au"
+          }
+        ]
+      },
+      "processing": "Selected numerical facts and bibliography identifiers; source explanatory notes and raw response bodies removed."
+    },
+    {
+      "name": "sbdb-162173.json",
+      "upstreamResponseSha256": "0ffdba377a0351968f1629cb17df8707ac84df9875e30bd24a2a9059c396f331",
+      "rawResponseDistributed": false,
+      "sourceUrl": "https://ssd-api.jpl.nasa.gov/sbdb.api?sstr=162173&phys-par=true",
+      "object": {
+        "des": "162173",
+        "fullname": "162173 Ryugu (1999 JU3)",
+        "spkid": "20162173",
+        "kind": "an"
+      },
+      "parameters": [
+        {
+          "name": "H",
+          "value": "19.55",
+          "sigma": null,
+          "units": null,
+          "ref": "MPO745323"
+        },
+        {
+          "name": "diameter",
+          "value": "0.896",
+          "sigma": "0.004",
+          "units": "km",
+          "ref": "Watanabe, S.; Hirabayashi, M.; Hirata, N.; Hirata, Na.; et al. (2019) Science 364, 267-272."
+        },
+        {
+          "name": "extent",
+          "value": "1.004x0.876",
+          "sigma": null,
+          "units": "km",
+          "ref": "Watanabe, S.; Hirabayashi, M.; Hirata, N.; Hirata, Na.; et al. (2019) Science 364, 267-272."
+        },
+        {
+          "name": "GM",
+          "value": "3.00e-8",
+          "sigma": "0.04e-8",
+          "units": "km^3/s^2",
+          "ref": "Watanabe, S.; Hirabayashi, M.; Hirata, N.; Hirata, Na.; et al. (2019) Science 364, 267-272."
+        },
+        {
+          "name": "density",
+          "value": "1.19",
+          "sigma": "0.02",
+          "units": "g/cm^3",
+          "ref": "Watanabe, S.; Hirabayashi, M.; Hirata, N.; Hirata, Na.; et al. (2019) Science 364, 267-272."
+        },
+        {
+          "name": "rot_per",
+          "value": "7.63262",
+          "sigma": "0.00002",
+          "units": "h",
+          "ref": "Watanabe, S.; Hirabayashi, M.; Hirata, N.; Hirata, Na.; et al. (2019) Science 364, 267-272."
+        },
+        {
+          "name": "pole",
+          "value": "96.3956/-66.3937",
+          "sigma": "0.0082/0.006",
+          "units": null,
+          "ref": "Preusker, F.; Scholten, F.; Elgner, S.; Matz, K. D.; et al. (2019) A&A 632 L4."
+        },
+        {
+          "name": "albedo",
+          "value": "0.045",
+          "sigma": "0.002",
+          "units": null,
+          "ref": "Sugita, S.; Honda, R.; Morota, T.; et al. (2019) Science 364, 6437."
+        },
+        {
+          "name": "spec_B",
+          "value": "Cb",
+          "sigma": null,
+          "units": null,
+          "ref": "Sugita, S.; Honda, R.; Morota, T.; et al. (2019) Science 364, 6437."
+        }
+      ],
+      "orbit": {
+        "epoch": "2461200.5",
+        "equinox": "J2000",
+        "cov_epoch": "2458753.5",
+        "elements": [
+          {
+            "name": "e",
+            "value": ".1910730046480051",
+            "sigma": "8.1156E-9",
+            "units": null
+          },
+          {
+            "name": "a",
+            "value": "1.190918932702464",
+            "sigma": "2.2717E-9",
+            "units": "au"
+          },
+          {
+            "name": "q",
+            "value": ".9633664739388087",
+            "sigma": "1.0094E-8",
+            "units": "au"
+          },
+          {
+            "name": "i",
+            "value": "5.866442486408568",
+            "sigma": "4.199E-7",
+            "units": "deg"
+          },
+          {
+            "name": "om",
+            "value": "251.2897123995624",
+            "sigma": "2.6083E-6",
+            "units": "deg"
+          },
+          {
+            "name": "w",
+            "value": "211.608993811871",
+            "sigma": "2.9589E-6",
+            "units": "deg"
+          },
+          {
+            "name": "ma",
+            "value": "62.34067409463987",
+            "sigma": "2.6185E-6",
+            "units": "deg"
+          },
+          {
+            "name": "tp",
+            "value": "2461118.296422313344",
+            "sigma": "3.2282E-6",
+            "units": "TDB"
+          },
+          {
+            "name": "per",
+            "value": "474.7027265420688",
+            "sigma": "1.3583E-6",
+            "units": "d"
+          },
+          {
+            "name": "n",
+            "value": ".7583693538530714",
+            "sigma": "2.17E-9",
+            "units": "deg/d"
+          },
+          {
+            "name": "ad",
+            "value": "1.418471391466119",
+            "sigma": "2.7058E-9",
+            "units": "au"
+          }
+        ]
+      },
+      "processing": "Selected numerical facts and bibliography identifiers; source explanatory notes and raw response bodies removed."
+    },
+    {
+      "name": "sbdb-19P.json",
+      "upstreamResponseSha256": "2d084e41c348985b84781bb1dad03422302212196eb5f5523b333b8dda2e0787",
+      "rawResponseDistributed": false,
+      "sourceUrl": "https://ssd-api.jpl.nasa.gov/sbdb.api?sstr=19P&phys-par=true",
+      "object": {
+        "des": "19P",
+        "fullname": "19P/Borrelly",
+        "spkid": "1000005",
+        "kind": "cn"
+      },
+      "parameters": [
+        {
+          "name": "M1",
+          "value": "9.9",
+          "sigma": "0.8",
+          "units": null,
+          "ref": "K283/1"
+        },
+        {
+          "name": "K1",
+          "value": "14.",
+          "sigma": null,
+          "units": null,
+          "ref": "K283/1"
+        },
+        {
+          "name": "M2",
+          "value": "13.2",
+          "sigma": "01.",
+          "units": null,
+          "ref": "K283/1"
+        },
+        {
+          "name": "K2",
+          "value": "5.",
+          "sigma": null,
+          "units": null,
+          "ref": "K283/1"
+        },
+        {
+          "name": "PC",
+          "value": "0.03",
+          "sigma": null,
+          "units": null,
+          "ref": "K283/1"
+        },
+        {
+          "name": "diameter",
+          "value": "4.8",
+          "sigma": null,
+          "units": "km",
+          "ref": "Lamy,P.L.,Toth,I.,Fernandez,Y.R.,Weaver,H.A. (to be published)"
+        },
+        {
+          "name": "albedo",
+          "value": "0.022",
+          "sigma": "0.003",
+          "units": null,
+          "ref": "Earth, Moon, and Planets, v. 89, Issue 1, p. 117-134 (2002)"
+        }
+      ],
+      "orbit": {
+        "epoch": "2459286.5",
+        "equinox": "J2000",
+        "cov_epoch": "2459286.5",
+        "elements": [
+          {
+            "name": "e",
+            "value": ".637905167468658",
+            "sigma": "7.5916E-8",
+            "units": null
+          },
+          {
+            "name": "a",
+            "value": "3.606961348253051",
+            "sigma": "2.8488E-7",
+            "units": "au"
+          },
+          {
+            "name": "q",
+            "value": "1.306062065342712",
+            "sigma": "3.3234E-7",
+            "units": "au"
+          },
+          {
+            "name": "i",
+            "value": "29.31742259578772",
+            "sigma": "9.5822E-6",
+            "units": "deg"
+          },
+          {
+            "name": "om",
+            "value": "74.29810325407669",
+            "sigma": "1.7929E-5",
+            "units": "deg"
+          },
+          {
+            "name": "w",
+            "value": "351.8632567518044",
+            "sigma": "2.6853E-5",
+            "units": "deg"
+          },
+          {
+            "name": "ma",
+            "value": "313.1295527995831",
+            "sigma": "9.9453E-6",
+            "units": "deg"
+          },
+          {
+            "name": "tp",
+            "value": "2459612.267125755096",
+            "sigma": "4.0212E-5",
+            "units": "TDB"
+          },
+          {
+            "name": "per",
+            "value": "2502.134549097954",
+            "sigma": ".00029643",
+            "units": "d"
+          },
+          {
+            "name": "n",
+            "value": ".1438771548595513",
+            "sigma": "1.7045E-8",
+            "units": "deg/d"
+          },
+          {
+            "name": "ad",
+            "value": "5.907860631163389",
+            "sigma": "4.6661E-7",
+            "units": "au"
+          }
+        ]
+      },
+      "processing": "Selected numerical facts and bibliography identifiers; source explanatory notes and raw response bodies removed."
+    },
+    {
+      "name": "sbdb-1P.json",
+      "upstreamResponseSha256": "15a72586b20effe95f5b7ad544b26ff8e6725a3ebf37f8078df088acb3d1df19",
+      "rawResponseDistributed": false,
+      "sourceUrl": "https://ssd-api.jpl.nasa.gov/sbdb.api?sstr=1P&phys-par=true",
+      "object": {
+        "des": "1P",
+        "fullname": "1P/Halley",
+        "spkid": "1000036",
+        "kind": "cn"
+      },
+      "parameters": [
+        {
+          "name": "M1",
+          "value": "5.5",
+          "sigma": null,
+          "units": null,
+          "ref": "ICQ 2005 Handbook"
+        },
+        {
+          "name": "K1",
+          "value": "8.0",
+          "sigma": null,
+          "units": null,
+          "ref": "ICQ 2005 Handbook"
+        },
+        {
+          "name": "M2",
+          "value": "13.6",
+          "sigma": null,
+          "units": null,
+          "ref": "ICQ 2005 Handbook"
+        },
+        {
+          "name": "K2",
+          "value": "5.0",
+          "sigma": null,
+          "units": null,
+          "ref": "ICQ 2005 Handbook"
+        },
+        {
+          "name": "PC",
+          "value": "0.03",
+          "sigma": null,
+          "units": null,
+          "ref": "ICQ 2005 Handbook"
+        },
+        {
+          "name": "diameter",
+          "value": "11.0",
+          "sigma": null,
+          "units": "km",
+          "ref": "Lamy,P.L.;Toth,I.;Fernandez,Y.R.;Weaver,H.A. (2004) Comets II, pp. 223-264"
+        },
+        {
+          "name": "extent",
+          "value": "14.9x8.2",
+          "sigma": null,
+          "units": "km",
+          "ref": "Keller et al. (1987) Astron. Astrophys. 187:807-823"
+        },
+        {
+          "name": "albedo",
+          "value": "0.04",
+          "sigma": "0.01",
+          "units": null,
+          "ref": "Earth, Moon, and Planets, v. 89, Issue 1, p. 117-134 (2002)"
+        }
+      ],
+      "orbit": {
+        "epoch": "2439875.5",
+        "equinox": "J2000",
+        "cov_epoch": "2439875.5",
+        "elements": [
+          {
+            "name": "e",
+            "value": ".9679359956953211",
+            "sigma": "7.5527E-9",
+            "units": null
+          },
+          {
+            "name": "a",
+            "value": "17.92863504856923",
+            "sigma": "9.9587E-9",
+            "units": "au"
+          },
+          {
+            "name": "q",
+            "value": ".5748638313743413",
+            "sigma": "1.3552E-7",
+            "units": "au"
+          },
+          {
+            "name": "i",
+            "value": "162.1905300439129",
+            "sigma": "1.5093E-5",
+            "units": "deg"
+          },
+          {
+            "name": "om",
+            "value": "59.09894720612437",
+            "sigma": "1.9861E-5",
+            "units": "deg"
+          },
+          {
+            "name": "w",
+            "value": "112.2414314637764",
+            "sigma": "2.0534E-5",
+            "units": "deg"
+          },
+          {
+            "name": "ma",
+            "value": "274.3823371366792",
+            "sigma": "1.2457E-7",
+            "units": "deg"
+          },
+          {
+            "name": "tp",
+            "value": "2446469.973616146677",
+            "sigma": "1.2976E-5",
+            "units": "TDB"
+          },
+          {
+            "name": "per",
+            "value": "27728.04608790421",
+            "sigma": "2.3103E-5",
+            "units": "d"
+          },
+          {
+            "name": "n",
+            "value": ".01298324443268444",
+            "sigma": "1.0818E-11",
+            "units": "deg/d"
+          },
+          {
+            "name": "ad",
+            "value": "35.28240626576412",
+            "sigma": "1.9598E-8",
+            "units": "au"
+          }
+        ]
+      },
+      "processing": "Selected numerical facts and bibliography identifiers; source explanatory notes and raw response bodies removed."
+    },
+    {
+      "name": "sbdb-21.json",
+      "upstreamResponseSha256": "84e6c3cd02d004482bed7ba69005439f0c3ebbc4f0cdac5096ddc2b2d25e18de",
+      "rawResponseDistributed": false,
+      "sourceUrl": "https://ssd-api.jpl.nasa.gov/sbdb.api?sstr=21&phys-par=true",
+      "object": {
+        "des": "21",
+        "fullname": "21 Lutetia (A852 VA)",
+        "spkid": "20000021",
+        "kind": "an"
+      },
+      "parameters": [
+        {
+          "name": "H",
+          "value": "7.48",
+          "sigma": null,
+          "units": null,
+          "ref": "MPO980521"
+        },
+        {
+          "name": "G",
+          "value": "0.11",
+          "sigma": null,
+          "units": null,
+          "ref": "PDS3 (MPC 17257)"
+        },
+        {
+          "name": "diameter",
+          "value": "98",
+          "sigma": "2",
+          "units": "km",
+          "ref": "Sierks et al., Science 334, 487, 2011"
+        },
+        {
+          "name": "extent",
+          "value": "121 x 101 x 75",
+          "sigma": "1 x 1 x 13",
+          "units": "km",
+          "ref": "Sierks et al., Science 334, 487, 2011"
+        },
+        {
+          "name": "GM",
+          "value": "0.1134",
+          "sigma": "0.0011",
+          "units": "km^3/s^2",
+          "ref": "Patzold et al., Science 334, 491, 2011"
+        },
+        {
+          "name": "density",
+          "value": "3.4",
+          "sigma": "0.3",
+          "units": "g/cm^3",
+          "ref": "Patzold et al., Science 334, 491, 2011"
+        },
+        {
+          "name": "rot_per",
+          "value": "8.1655",
+          "sigma": null,
+          "units": "h",
+          "ref": "LCDB (Rev. 2023-October); Warner et al., 2009"
+        },
+        {
+          "name": "pole",
+          "value": "51.8/+10.8",
+          "sigma": "0.4/0.4",
+          "units": null,
+          "ref": "Sierks et al., Science 334, 487, 2011"
+        },
+        {
+          "name": "albedo",
+          "value": "0.19",
+          "sigma": "0.01",
+          "units": null,
+          "ref": "Sierks et al., Science 334, 487, 2011"
+        },
+        {
+          "name": "BV",
+          "value": "0.686",
+          "sigma": "0.027",
+          "units": null,
+          "ref": "EAR-A-5-DDR-UBV-MEAN-VALUES-V1.2"
+        },
+        {
+          "name": "UB",
+          "value": "0.189",
+          "sigma": "0.017",
+          "units": null,
+          "ref": "EAR-A-5-DDR-UBV-MEAN-VALUES-V1.2"
+        },
+        {
+          "name": "spec_T",
+          "value": "M",
+          "sigma": null,
+          "units": null,
+          "ref": "EAR-A-5-DDR-TAXONOMY-V4.0"
+        },
+        {
+          "name": "spec_B",
+          "value": "Xk",
+          "sigma": null,
+          "units": null,
+          "ref": "EAR-A-5-DDR-TAXONOMY-V4.0"
+        }
+      ],
+      "orbit": {
+        "epoch": "2461200.5",
+        "equinox": "J2000",
+        "cov_epoch": "2458038.5",
+        "elements": [
+          {
+            "name": "e",
+            "value": ".1647703512177245",
+            "sigma": "2.0501E-9",
+            "units": null
+          },
+          {
+            "name": "a",
+            "value": "2.434430742712361",
+            "sigma": "1.3696E-9",
+            "units": "au"
+          },
+          {
+            "name": "q",
+            "value": "2.033308734220419",
+            "sigma": "5.2013E-9",
+            "units": "au"
+          },
+          {
+            "name": "i",
+            "value": "3.064452891064415",
+            "sigma": "2.2544E-7",
+            "units": "deg"
+          },
+          {
+            "name": "om",
+            "value": "80.83855721319993",
+            "sigma": "3.2721E-6",
+            "units": "deg"
+          },
+          {
+            "name": "w",
+            "value": "249.8802780888828",
+            "sigma": "3.3777E-6",
+            "units": "deg"
+          },
+          {
+            "name": "ma",
+            "value": "298.7726414605465",
+            "sigma": "1.0716E-6",
+            "units": "deg"
+          },
+          {
+            "name": "tp",
+            "value": "2461436.459564184442",
+            "sigma": "4.2689E-6",
+            "units": "TDB"
+          },
+          {
+            "name": "per",
+            "value": "1387.377230256674",
+            "sigma": "1.1708E-6",
+            "units": "d"
+          },
+          {
+            "name": "n",
+            "value": ".2594824191639628",
+            "sigma": "2.1897E-10",
+            "units": "deg/d"
+          },
+          {
+            "name": "ad",
+            "value": "2.835552751204303",
+            "sigma": "1.5952E-9",
+            "units": "au"
+          }
+        ]
+      },
+      "processing": "Selected numerical facts and bibliography identifiers; source explanatory notes and raw response bodies removed."
+    },
+    {
+      "name": "sbdb-243.json",
+      "upstreamResponseSha256": "a80358cc246d262754a6127470078a58170d9e21c25f2912af3a24238848318c",
+      "rawResponseDistributed": false,
+      "sourceUrl": "https://ssd-api.jpl.nasa.gov/sbdb.api?sstr=243&phys-par=true",
+      "object": {
+        "des": "243",
+        "fullname": "243 Ida (A884 SB)",
+        "spkid": "20000243",
+        "kind": "an"
+      },
+      "parameters": [
+        {
+          "name": "H",
+          "value": "10.06",
+          "sigma": null,
+          "units": null,
+          "ref": "MPO980524"
+        },
+        {
+          "name": "diameter",
+          "value": "32",
+          "sigma": null,
+          "units": "km",
+          "ref": "Belton et al. (1995)"
+        },
+        {
+          "name": "extent",
+          "value": "59.8x25.4x18.6",
+          "sigma": null,
+          "units": "km",
+          "ref": "Thomas et al. (1996) Icarus v.120, pp.20-32"
+        },
+        {
+          "name": "GM",
+          "value": "0.00275",
+          "sigma": "0.00035",
+          "units": "km^3/s^2",
+          "ref": "Belton et al. (1996) Icarus v.120, pp.185-199"
+        },
+        {
+          "name": "density",
+          "value": "2.6",
+          "sigma": "0.5",
+          "units": "g/cm^3",
+          "ref": "Belton et al. (1996) Icarus v.120, pp.185-199"
+        },
+        {
+          "name": "rot_per",
+          "value": "4.634",
+          "sigma": null,
+          "units": "h",
+          "ref": "LCDB (Rev. 2023-October); Warner et al., 2009"
+        },
+        {
+          "name": "albedo",
+          "value": "0.262",
+          "sigma": "0.032",
+          "units": null,
+          "ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2012ApJ...759L...8M)"
+        },
+        {
+          "name": "BV",
+          "value": "0.802",
+          "sigma": "0.009",
+          "units": null,
+          "ref": "EAR-A-5-DDR-UBV-MEAN-VALUES-V1.2"
+        },
+        {
+          "name": "UB",
+          "value": "0.416",
+          "sigma": "0.037",
+          "units": null,
+          "ref": "EAR-A-5-DDR-UBV-MEAN-VALUES-V1.2"
+        },
+        {
+          "name": "spec_T",
+          "value": "S",
+          "sigma": null,
+          "units": null,
+          "ref": "EAR-A-5-DDR-TAXONOMY-V4.0"
+        },
+        {
+          "name": "spec_B",
+          "value": "S",
+          "sigma": null,
+          "units": null,
+          "ref": "EAR-A-5-DDR-TAXONOMY-V4.0"
+        }
+      ],
+      "orbit": {
+        "epoch": "2461200.5",
+        "equinox": "J2000",
+        "cov_epoch": "2457351.5",
+        "elements": [
+          {
+            "name": "e",
+            "value": ".04610962795708528",
+            "sigma": "1.0226E-9",
+            "units": null
+          },
+          {
+            "name": "a",
+            "value": "2.863348031699649",
+            "sigma": "1.7807E-9",
+            "units": "au"
+          },
+          {
+            "name": "q",
+            "value": "2.731320119246325",
+            "sigma": "4.0912E-9",
+            "units": "au"
+          },
+          {
+            "name": "i",
+            "value": "1.130363094271507",
+            "sigma": "6.2439E-8",
+            "units": "deg"
+          },
+          {
+            "name": "om",
+            "value": "323.5366609419851",
+            "sigma": "3.9529E-6",
+            "units": "deg"
+          },
+          {
+            "name": "w",
+            "value": "113.2571826848795",
+            "sigma": "4.3509E-6",
+            "units": "deg"
+          },
+          {
+            "name": "ma",
+            "value": "49.64769088009876",
+            "sigma": "2.059E-6",
+            "units": "deg"
+          },
+          {
+            "name": "tp",
+            "value": "2460956.434615665439",
+            "sigma": "9.9299E-6",
+            "units": "TDB"
+          },
+          {
+            "name": "per",
+            "value": "1769.740682857457",
+            "sigma": "1.6509E-6",
+            "units": "d"
+          },
+          {
+            "name": "n",
+            "value": ".2034196328801896",
+            "sigma": "1.8976E-10",
+            "units": "deg/d"
+          },
+          {
+            "name": "ad",
+            "value": "2.995375944152972",
+            "sigma": "1.8628E-9",
+            "units": "au"
+          }
+        ]
+      },
+      "processing": "Selected numerical facts and bibliography identifiers; source explanatory notes and raw response bodies removed."
+    },
+    {
+      "name": "sbdb-25143.json",
+      "upstreamResponseSha256": "965eb5b179abfd85738ce4a5b9112b5a077234fda8a3aa8e4cbbdac705b98490",
+      "rawResponseDistributed": false,
+      "sourceUrl": "https://ssd-api.jpl.nasa.gov/sbdb.api?sstr=25143&phys-par=true",
+      "object": {
+        "des": "25143",
+        "fullname": "25143 Itokawa (1998 SF36)",
+        "spkid": "20025143",
+        "kind": "an"
+      },
+      "parameters": [
+        {
+          "name": "H",
+          "value": "19.26",
+          "sigma": null,
+          "units": null,
+          "ref": "MPO691964"
+        },
+        {
+          "name": "diameter",
+          "value": "0.33",
+          "sigma": null,
+          "units": "km",
+          "ref": "Science 312:1330-1334"
+        },
+        {
+          "name": "extent",
+          "value": "0.535x0.294x0.209",
+          "sigma": "0.001",
+          "units": "km",
+          "ref": "Science 312:1330-1334"
+        },
+        {
+          "name": "GM",
+          "value": "2.1e-9",
+          "sigma": "0.063e-9",
+          "units": "km^3/s^2",
+          "ref": "Science 312:1330-1334"
+        },
+        {
+          "name": "density",
+          "value": "1.9",
+          "sigma": "0.13",
+          "units": "g/cm^3",
+          "ref": "Science 312:1330-1334"
+        },
+        {
+          "name": "rot_per",
+          "value": "12.132",
+          "sigma": null,
+          "units": "h",
+          "ref": "LCDB (Rev. 2023-October); Warner et al., 2009"
+        },
+        {
+          "name": "pole",
+          "value": "90.53/-66.30",
+          "sigma": "3.9",
+          "units": null,
+          "ref": "Demura, H., et al., Science, 312, 1347 (2006)"
+        },
+        {
+          "name": "I",
+          "value": "700",
+          "sigma": "200",
+          "units": "J/m^2/s^0.5/K",
+          "ref": "Muller, T.G., et al., Publications of the Astronomical Society of Japan, 66, 52 (2014)"
+        },
+        {
+          "name": "spec_B",
+          "value": "S(IV)",
+          "sigma": null,
+          "units": null,
+          "ref": "Binzel et al. (2001) Planet. Sci. 36, 1167-1172"
+        }
+      ],
+      "orbit": {
+        "epoch": "2461200.5",
+        "equinox": "J2000",
+        "cov_epoch": "2453005.5",
+        "elements": [
+          {
+            "name": "e",
+            "value": ".2801776414987972",
+            "sigma": "2.0795E-9",
+            "units": null
+          },
+          {
+            "name": "a",
+            "value": "1.324052284342771",
+            "sigma": "4.1248E-9",
+            "units": "au"
+          },
+          {
+            "name": "q",
+            "value": ".9530824380945183",
+            "sigma": "1.5401E-9",
+            "units": "au"
+          },
+          {
+            "name": "i",
+            "value": "1.620940810523569",
+            "sigma": "2.6923E-7",
+            "units": "deg"
+          },
+          {
+            "name": "om",
+            "value": "69.07449749929083",
+            "sigma": "6.1561E-6",
+            "units": "deg"
+          },
+          {
+            "name": "w",
+            "value": "162.8409022415483",
+            "sigma": "6.1449E-6",
+            "units": "deg"
+          },
+          {
+            "name": "ma",
+            "value": "170.653905937934",
+            "sigma": "7.4549E-6",
+            "units": "deg"
+          },
+          {
+            "name": "tp",
+            "value": "2460936.702994476837",
+            "sigma": "1.0557E-5",
+            "units": "TDB"
+          },
+          {
+            "name": "per",
+            "value": "556.4884171058932",
+            "sigma": "2.6004E-6",
+            "units": "d"
+          },
+          {
+            "name": "n",
+            "value": ".6469137342916093",
+            "sigma": "3.023E-9",
+            "units": "deg/d"
+          },
+          {
+            "name": "ad",
+            "value": "1.695022130591023",
+            "sigma": "5.2805E-9",
+            "units": "au"
+          }
+        ]
+      },
+      "processing": "Selected numerical facts and bibliography identifiers; source explanatory notes and raw response bodies removed."
+    },
+    {
+      "name": "sbdb-253.json",
+      "upstreamResponseSha256": "8ffb5ac2ce573b0afcecafc4c7a27014c8227cc72e0857c88f6ef999c97c1f7f",
+      "rawResponseDistributed": false,
+      "sourceUrl": "https://ssd-api.jpl.nasa.gov/sbdb.api?sstr=253&phys-par=true",
+      "object": {
+        "des": "253",
+        "fullname": "253 Mathilde (A885 VA)",
+        "spkid": "20000253",
+        "kind": "an"
+      },
+      "parameters": [
+        {
+          "name": "H",
+          "value": "10.35",
+          "sigma": null,
+          "units": null,
+          "ref": "E2025-MB4"
+        },
+        {
+          "name": "diameter",
+          "value": "52.8",
+          "sigma": null,
+          "units": "km",
+          "ref": null
+        },
+        {
+          "name": "GM",
+          "value": "0.00689",
+          "sigma": "0.00030",
+          "units": "km^3/s^2",
+          "ref": "Yeomans et al. (1997) Science v.278, pp.2106-2109"
+        },
+        {
+          "name": "density",
+          "value": "1.3",
+          "sigma": "0.2",
+          "units": "g/cm^3",
+          "ref": "Yeomans et al. (1997) Science v.278, pp.2106-2109"
+        },
+        {
+          "name": "rot_per",
+          "value": "417.7",
+          "sigma": null,
+          "units": "h",
+          "ref": "LCDB (Rev. 2023-October); Warner et al., 2009"
+        },
+        {
+          "name": "albedo",
+          "value": "0.0436",
+          "sigma": "0.004",
+          "units": null,
+          "ref": "IRAS-A-FPA-3-RDR-IMPS-V6.0"
+        },
+        {
+          "name": "spec_B",
+          "value": "Cb",
+          "sigma": null,
+          "units": null,
+          "ref": "EAR-A-5-DDR-TAXONOMY-V4.0"
+        }
+      ],
+      "orbit": {
+        "epoch": "2461200.5",
+        "equinox": "J2000",
+        "cov_epoch": "2456394.5",
+        "elements": [
+          {
+            "name": "e",
+            "value": ".2643478593847533",
+            "sigma": "9.2877E-10",
+            "units": null
+          },
+          {
+            "name": "a",
+            "value": "2.646901224932316",
+            "sigma": "7.654E-10",
+            "units": "au"
+          },
+          {
+            "name": "q",
+            "value": "1.947198552118577",
+            "sigma": "2.5973E-9",
+            "units": "au"
+          },
+          {
+            "name": "i",
+            "value": "6.74046762132457",
+            "sigma": "4.9106E-8",
+            "units": "deg"
+          },
+          {
+            "name": "om",
+            "value": "179.4942079651114",
+            "sigma": "4.4462E-7",
+            "units": "deg"
+          },
+          {
+            "name": "w",
+            "value": "157.5640226350525",
+            "sigma": "5.0217E-7",
+            "units": "deg"
+          },
+          {
+            "name": "ma",
+            "value": "273.5338756003301",
+            "sigma": "3.6143E-7",
+            "units": "deg"
+          },
+          {
+            "name": "tp",
+            "value": "2461578.288315718905",
+            "sigma": "1.7205E-6",
+            "units": "TDB"
+          },
+          {
+            "name": "per",
+            "value": "1572.914185793263",
+            "sigma": "6.8226E-7",
+            "units": "d"
+          },
+          {
+            "name": "n",
+            "value": ".2288745331764189",
+            "sigma": "9.9275E-11",
+            "units": "deg/d"
+          },
+          {
+            "name": "ad",
+            "value": "3.346603897746054",
+            "sigma": "9.6773E-10",
+            "units": "au"
+          }
+        ]
+      },
+      "processing": "Selected numerical facts and bibliography identifiers; source explanatory notes and raw response bodies removed."
+    },
+    {
+      "name": "sbdb-2867.json",
+      "upstreamResponseSha256": "b83ef3f0e5303dd96b5ed9a962fd732c1a53df816726c37cd97efa792d96f6cf",
+      "rawResponseDistributed": false,
+      "sourceUrl": "https://ssd-api.jpl.nasa.gov/sbdb.api?sstr=2867&phys-par=true",
+      "object": {
+        "des": "2867",
+        "fullname": "2867 Steins (1969 VC)",
+        "spkid": "20002867",
+        "kind": "an"
+      },
+      "parameters": [
+        {
+          "name": "H",
+          "value": "13.13",
+          "sigma": null,
+          "units": null,
+          "ref": "E2026E71"
+        },
+        {
+          "name": "diameter",
+          "value": "5.160",
+          "sigma": "0.167",
+          "units": "km",
+          "ref": "EAR_A_COMPIL_5_NEOWISEDIAM_V1_0[mainbelt] (http://adsabs.harvard.edu/abs/2011ApJ...741...68M)"
+        },
+        {
+          "name": "rot_per",
+          "value": "6.049",
+          "sigma": null,
+          "units": "h",
+          "ref": "LCDB (Rev. 2023-October); Warner et al., 2009"
+        },
+        {
+          "name": "albedo",
+          "value": "0.300",
+          "sigma": "0.034",
+          "units": null,
+          "ref": "EAR_A_COMPIL_5_NEOWISEDIAM_V1_0[mainbelt] (http://adsabs.harvard.edu/abs/2011ApJ...741...68M)"
+        }
+      ],
+      "orbit": {
+        "epoch": "2461200.5",
+        "equinox": "J2000",
+        "cov_epoch": "2458554.5",
+        "elements": [
+          {
+            "name": "e",
+            "value": ".1467867767199327",
+            "sigma": "5.2161E-10",
+            "units": null
+          },
+          {
+            "name": "a",
+            "value": "2.363141776987294",
+            "sigma": "4.0676E-10",
+            "units": "au"
+          },
+          {
+            "name": "q",
+            "value": "2.016263812611115",
+            "sigma": "1.4533E-9",
+            "units": "au"
+          },
+          {
+            "name": "i",
+            "value": "9.9247485385748",
+            "sigma": "4.1969E-8",
+            "units": "deg"
+          },
+          {
+            "name": "om",
+            "value": "55.2936189517901",
+            "sigma": "2.1196E-7",
+            "units": "deg"
+          },
+          {
+            "name": "w",
+            "value": "251.4371219667194",
+            "sigma": "2.386E-7",
+            "units": "deg"
+          },
+          {
+            "name": "ma",
+            "value": "275.4028858220599",
+            "sigma": "2.2169E-7",
+            "units": "deg"
+          },
+          {
+            "name": "tp",
+            "value": "2461512.307201516595",
+            "sigma": "8.6361E-7",
+            "units": "TDB"
+          },
+          {
+            "name": "per",
+            "value": "1326.884417237545",
+            "sigma": "3.4258E-7",
+            "units": "d"
+          },
+          {
+            "name": "n",
+            "value": ".2713122524639245",
+            "sigma": "7.0049E-11",
+            "units": "deg/d"
+          },
+          {
+            "name": "ad",
+            "value": "2.710019741363473",
+            "sigma": "4.6646E-10",
+            "units": "au"
+          }
+        ]
+      },
+      "processing": "Selected numerical facts and bibliography identifiers; source explanatory notes and raw response bodies removed."
+    },
+    {
+      "name": "sbdb-348.json",
+      "upstreamResponseSha256": "384b6a4882c5d60f1b53709795653b4a6f82cd59a1253627051e74192c212590",
+      "rawResponseDistributed": false,
+      "sourceUrl": "https://ssd-api.jpl.nasa.gov/sbdb.api?sstr=348&phys-par=true",
+      "object": {
+        "des": "348",
+        "fullname": "348 May (A892 WE)",
+        "spkid": "20000348",
+        "kind": "an"
+      },
+      "parameters": [
+        {
+          "name": "H",
+          "value": "9.58",
+          "sigma": null,
+          "units": null,
+          "ref": "E2026-EA1"
+        },
+        {
+          "name": "diameter",
+          "value": "82.82",
+          "sigma": "2.2",
+          "units": "km",
+          "ref": "IRAS-A-FPA-3-RDR-IMPS-V6.0"
+        },
+        {
+          "name": "rot_per",
+          "value": "7.3812",
+          "sigma": null,
+          "units": "h",
+          "ref": "LCDB (Rev. 2023-October); Warner et al., 2009"
+        },
+        {
+          "name": "albedo",
+          "value": "0.0448",
+          "sigma": "0.002",
+          "units": null,
+          "ref": "IRAS-A-FPA-3-RDR-IMPS-V6.0"
+        },
+        {
+          "name": "spec_B",
+          "value": "X",
+          "sigma": null,
+          "units": null,
+          "ref": "EAR-A-5-DDR-TAXONOMY-V4.0"
+        }
+      ],
+      "orbit": {
+        "epoch": "2461200.5",
+        "equinox": "J2000",
+        "cov_epoch": "2457613.5",
+        "elements": [
+          {
+            "name": "e",
+            "value": ".07280948191249735",
+            "sigma": "1.0385E-9",
+            "units": null
+          },
+          {
+            "name": "a",
+            "value": "2.969281545758611",
+            "sigma": "1.7205E-9",
+            "units": "au"
+          },
+          {
+            "name": "q",
+            "value": "2.753089694759587",
+            "sigma": "3.2118E-9",
+            "units": "au"
+          },
+          {
+            "name": "i",
+            "value": "9.758044911624239",
+            "sigma": "6.9E-8",
+            "units": "deg"
+          },
+          {
+            "name": "om",
+            "value": "89.89538366417813",
+            "sigma": "4.3207E-7",
+            "units": "deg"
+          },
+          {
+            "name": "w",
+            "value": "13.30257242122793",
+            "sigma": "1.0971E-6",
+            "units": "deg"
+          },
+          {
+            "name": "ma",
+            "value": "355.5109531087361",
+            "sigma": "1.4242E-6",
+            "units": "deg"
+          },
+          {
+            "name": "tp",
+            "value": "2461223.803821052660",
+            "sigma": "7.4108E-6",
+            "units": "TDB"
+          },
+          {
+            "name": "per",
+            "value": "1868.854521275803",
+            "sigma": "1.6244E-6",
+            "units": "d"
+          },
+          {
+            "name": "n",
+            "value": ".1926313663806428",
+            "sigma": "1.6743E-10",
+            "units": "deg/d"
+          },
+          {
+            "name": "ad",
+            "value": "3.185473396757635",
+            "sigma": "1.8458E-9",
+            "units": "au"
+          }
+        ]
+      },
+      "processing": "Selected numerical facts and bibliography identifiers; source explanatory notes and raw response bodies removed."
+    },
+    {
+      "name": "sbdb-4.json",
+      "upstreamResponseSha256": "975de7c4b89644eb66c58a1da682b60b3d25eb769535677b860d96944ddb6ef4",
+      "rawResponseDistributed": false,
+      "sourceUrl": "https://ssd-api.jpl.nasa.gov/sbdb.api?sstr=4&phys-par=true",
+      "object": {
+        "des": "4",
+        "fullname": "4 Vesta (A807 FA)",
+        "spkid": "20000004",
+        "kind": "an"
+      },
+      "parameters": [
+        {
+          "name": "H",
+          "value": "3.25",
+          "sigma": null,
+          "units": null,
+          "ref": "E2024D82"
+        },
+        {
+          "name": "G",
+          "value": "0.32",
+          "sigma": null,
+          "units": null,
+          "ref": "PDS3 (MPC 17257)"
+        },
+        {
+          "name": "diameter",
+          "value": "522.77",
+          "sigma": "0.1",
+          "units": "km",
+          "ref": "Park, R.S. et al. 2025, Nat Astron, DOI: 10.1038/s41550-025-02533-7"
+        },
+        {
+          "name": "extent",
+          "value": "569.24 x 554.48 x 452.66",
+          "sigma": "0.1 x 0.1 x 0.1",
+          "units": "km",
+          "ref": "Park, R.S. et al. 2025, Nat Astron, DOI: 10.1038/s41550-025-02533-7"
+        },
+        {
+          "name": "GM",
+          "value": "17.2882844",
+          "sigma": "0.0000030",
+          "units": "km^3/s^2",
+          "ref": "Park, R.S. et al. 2025, Nat Astron, DOI: 10.1038/s41550-025-02533-7"
+        },
+        {
+          "name": "density",
+          "value": "3.460",
+          "sigma": "0.005",
+          "units": "g/cm^3",
+          "ref": "Park, R.S. et al. 2025, Nat Astron, DOI: 10.1038/s41550-025-02533-7"
+        },
+        {
+          "name": "rot_per",
+          "value": "5.3421276322",
+          "sigma": "0.0000000004",
+          "units": "h",
+          "ref": "Park, R.S. et al. 2025, Nat Astron, DOI: 10.1038/s41550-025-02533-7"
+        },
+        {
+          "name": "pole",
+          "value": "309.06110/42.232386",
+          "sigma": "0.00031/0.000068",
+          "units": null,
+          "ref": "Park, R.S. et al. 2025, Nat Astron, DOI: 10.1038/s41550-025-02533-7"
+        },
+        {
+          "name": "albedo",
+          "value": "0.4228",
+          "sigma": "0.053",
+          "units": null,
+          "ref": "IRAS-A-FPA-3-RDR-IMPS-V6.0"
+        },
+        {
+          "name": "BV",
+          "value": "0.782",
+          "sigma": "0.020",
+          "units": null,
+          "ref": "EAR-A-5-DDR-UBV-MEAN-VALUES-V1.2"
+        },
+        {
+          "name": "UB",
+          "value": "0.492",
+          "sigma": "0.030",
+          "units": null,
+          "ref": "EAR-A-5-DDR-UBV-MEAN-VALUES-V1.2"
+        },
+        {
+          "name": "spec_T",
+          "value": "V",
+          "sigma": null,
+          "units": null,
+          "ref": "EAR-A-5-DDR-TAXONOMY-V4.0"
+        },
+        {
+          "name": "spec_B",
+          "value": "V",
+          "sigma": null,
+          "units": null,
+          "ref": "EAR-A-5-DDR-TAXONOMY-V4.0"
+        }
+      ],
+      "orbit": {
+        "epoch": "2461200.5",
+        "equinox": "J2000",
+        "cov_epoch": "2458849.5",
+        "elements": [
+          {
+            "name": "e",
+            "value": ".09020374382834395",
+            "sigma": "2.2909E-10",
+            "units": null
+          },
+          {
+            "name": "a",
+            "value": "2.361365965127599",
+            "sigma": "1.5328E-9",
+            "units": "au"
+          },
+          {
+            "name": "q",
+            "value": "2.148361914524259",
+            "sigma": "1.9335E-9",
+            "units": "au"
+          },
+          {
+            "name": "i",
+            "value": "7.143925545058711",
+            "sigma": "2.1704E-7",
+            "units": "deg"
+          },
+          {
+            "name": "om",
+            "value": "103.701293265032",
+            "sigma": "3.8827E-7",
+            "units": "deg"
+          },
+          {
+            "name": "w",
+            "value": "151.4686478221564",
+            "sigma": "1.8814E-7",
+            "units": "deg"
+          },
+          {
+            "name": "ma",
+            "value": "81.19015607686903",
+            "sigma": "1.9021E-6",
+            "units": "deg"
+          },
+          {
+            "name": "tp",
+            "value": "2460901.587379842988",
+            "sigma": "6.7119E-6",
+            "units": "TDB"
+          },
+          {
+            "name": "per",
+            "value": "1325.389042911101",
+            "sigma": "1.2905E-6",
+            "units": "d"
+          },
+          {
+            "name": "n",
+            "value": ".2716183613599909",
+            "sigma": "2.6447E-10",
+            "units": "deg/d"
+          },
+          {
+            "name": "ad",
+            "value": "2.574370015730939",
+            "sigma": "1.6711E-9",
+            "units": "au"
+          }
+        ]
+      },
+      "processing": "Selected numerical facts and bibliography identifiers; source explanatory notes and raw response bodies removed."
+    },
+    {
+      "name": "sbdb-433.json",
+      "upstreamResponseSha256": "1c11e27d09edeb404c298496b73c3e913392059bcab2e2e53f7abc93744c8ec1",
+      "rawResponseDistributed": false,
+      "sourceUrl": "https://ssd-api.jpl.nasa.gov/sbdb.api?sstr=433&phys-par=true",
+      "object": {
+        "des": "433",
+        "fullname": "433 Eros (A898 PA)",
+        "spkid": "20000433",
+        "kind": "an"
+      },
+      "parameters": [
+        {
+          "name": "H",
+          "value": "10.40",
+          "sigma": null,
+          "units": null,
+          "ref": "E2026L10"
+        },
+        {
+          "name": "G",
+          "value": "0.46",
+          "sigma": null,
+          "units": null,
+          "ref": "PDS3 (MPC 17258)"
+        },
+        {
+          "name": "diameter",
+          "value": "16.84",
+          "sigma": "0.06",
+          "units": "km",
+          "ref": "Yeomans et al. (2000) Science v.289,pp.2085-2088"
+        },
+        {
+          "name": "extent",
+          "value": "34.4x11.2x11.2",
+          "sigma": null,
+          "units": "km",
+          "ref": "Veverka et al. (2000) Science v.289,pp.2088-2097"
+        },
+        {
+          "name": "GM",
+          "value": "4.463e-04",
+          "sigma": "0.001e-04",
+          "units": "km^3/s^2",
+          "ref": "Yeomans et al. (2000) Science v.289,pp.2085-2088"
+        },
+        {
+          "name": "density",
+          "value": "2.67",
+          "sigma": "0.03",
+          "units": "g/cm^3",
+          "ref": "Yeomans et al. (2000) Science v.289,pp.2085-2088"
+        },
+        {
+          "name": "rot_per",
+          "value": "5.27",
+          "sigma": null,
+          "units": "h",
+          "ref": "LCDB (Rev. 2023-October); Warner et al., 2009"
+        },
+        {
+          "name": "pole",
+          "value": "11.37/17.22",
+          "sigma": "0.05",
+          "units": null,
+          "ref": "Yeomans et al. (2000) Science v.289,pp.2085-2088"
+        },
+        {
+          "name": "albedo",
+          "value": "0.25",
+          "sigma": "0.06",
+          "units": null,
+          "ref": "Veverka et al. (2000) Science v.289,pp.2088-2097"
+        },
+        {
+          "name": "BV",
+          "value": "0.921",
+          "sigma": "0.021",
+          "units": null,
+          "ref": "EAR-A-5-DDR-UBV-MEAN-VALUES-V1.2"
+        },
+        {
+          "name": "UB",
+          "value": "0.531",
+          "sigma": "0.027",
+          "units": null,
+          "ref": "EAR-A-5-DDR-UBV-MEAN-VALUES-V1.2"
+        },
+        {
+          "name": "spec_T",
+          "value": "S",
+          "sigma": null,
+          "units": null,
+          "ref": "EAR-A-5-DDR-TAXONOMY-V4.0"
+        },
+        {
+          "name": "spec_B",
+          "value": "S",
+          "sigma": null,
+          "units": null,
+          "ref": "EAR-A-5-DDR-TAXONOMY-V4.0"
+        }
+      ],
+      "orbit": {
+        "epoch": "2461200.5",
+        "equinox": "J2000",
+        "cov_epoch": "2453311.5",
+        "elements": [
+          {
+            "name": "e",
+            "value": ".2228779627700761",
+            "sigma": "9.3902E-9",
+            "units": null
+          },
+          {
+            "name": "a",
+            "value": "1.458243716760167",
+            "sigma": "1.5185E-10",
+            "units": "au"
+          },
+          {
+            "name": "q",
+            "value": "1.133233327946397",
+            "sigma": "1.3695E-8",
+            "units": "au"
+          },
+          {
+            "name": "i",
+            "value": "10.82854410314273",
+            "sigma": "1.158E-6",
+            "units": "deg"
+          },
+          {
+            "name": "om",
+            "value": "304.2679713350896",
+            "sigma": "3.5792E-6",
+            "units": "deg"
+          },
+          {
+            "name": "w",
+            "value": "178.9181319135911",
+            "sigma": "3.9825E-6",
+            "units": "deg"
+          },
+          {
+            "name": "ma",
+            "value": "62.51145501986792",
+            "sigma": "1.4849E-6",
+            "units": "deg"
+          },
+          {
+            "name": "tp",
+            "value": "2461088.813494039683",
+            "sigma": "2.647E-6",
+            "units": "TDB"
+          },
+          {
+            "name": "per",
+            "value": "643.1963890927677",
+            "sigma": "1.0047E-7",
+            "units": "d"
+          },
+          {
+            "name": "n",
+            "value": ".5597046347038453",
+            "sigma": "8.7425E-11",
+            "units": "deg/d"
+          },
+          {
+            "name": "ad",
+            "value": "1.783254105573937",
+            "sigma": "1.8569E-10",
+            "units": "au"
+          }
+        ]
+      },
+      "processing": "Selected numerical facts and bibliography identifiers; source explanatory notes and raw response bodies removed."
+    },
+    {
+      "name": "sbdb-486958.json",
+      "upstreamResponseSha256": "eba48a50cdc370f1936699163c3286d56b02a035e36af3cdbbd9a50244030098",
+      "rawResponseDistributed": false,
+      "sourceUrl": "https://ssd-api.jpl.nasa.gov/sbdb.api?sstr=486958&phys-par=true",
+      "object": {
+        "des": "486958",
+        "fullname": "486958 Arrokoth (2014 MU69)",
+        "spkid": "20486958",
+        "kind": "an"
+      },
+      "parameters": [
+        {
+          "name": "H",
+          "value": "11.06",
+          "sigma": null,
+          "units": null,
+          "ref": "MPO700677"
+        },
+        {
+          "name": "rot_per",
+          "value": "15.918",
+          "sigma": null,
+          "units": "h",
+          "ref": "LCDB (Rev. 2023-October); Warner et al., 2009"
+        }
+      ],
+      "orbit": {
+        "epoch": "2461200.5",
+        "equinox": "J2000",
+        "cov_epoch": "2458101.5",
+        "elements": [
+          {
+            "name": "e",
+            "value": ".03555717645015258",
+            "sigma": ".00033543",
+            "units": null
+          },
+          {
+            "name": "a",
+            "value": "44.05257835991367",
+            "sigma": ".01006",
+            "units": "au"
+          },
+          {
+            "name": "q",
+            "value": "42.48619305808604",
+            "sigma": ".021812",
+            "units": "au"
+          },
+          {
+            "name": "i",
+            "value": "2.450613924655929",
+            "sigma": ".00032721",
+            "units": "deg"
+          },
+          {
+            "name": "om",
+            "value": "159.0377267890618",
+            "sigma": ".010608",
+            "units": "deg"
+          },
+          {
+            "name": "w",
+            "value": "188.8507463365642",
+            "sigma": ".52967",
+            "units": "deg"
+          },
+          {
+            "name": "ma",
+            "value": "310.9839309924138",
+            "sigma": ".47947",
+            "units": "deg"
+          },
+          {
+            "name": "tp",
+            "value": "2475741.403873053510",
+            "sigma": "137.75",
+            "units": "TDB"
+          },
+          {
+            "name": "per",
+            "value": "106796.1078945169",
+            "sigma": "36.584",
+            "units": "d"
+          },
+          {
+            "name": "n",
+            "value": ".003370909362685521",
+            "sigma": "1.1547E-6",
+            "units": "deg/d"
+          },
+          {
+            "name": "ad",
+            "value": "45.61896366174129",
+            "sigma": ".010418",
+            "units": "au"
+          }
+        ]
+      },
+      "processing": "Selected numerical facts and bibliography identifiers; source explanatory notes and raw response bodies removed."
+    },
+    {
+      "name": "sbdb-52246.json",
+      "upstreamResponseSha256": "4aa6beafb558889239420bce0760e594df25bab12be7b876442bf48e31e5004a",
+      "rawResponseDistributed": false,
+      "sourceUrl": "https://ssd-api.jpl.nasa.gov/sbdb.api?sstr=52246&phys-par=true",
+      "object": {
+        "des": "52246",
+        "fullname": "52246 Donaldjohanson (1981 EQ5)",
+        "spkid": "20052246",
+        "kind": "an"
+      },
+      "parameters": [
+        {
+          "name": "H",
+          "value": "15.61",
+          "sigma": null,
+          "units": null,
+          "ref": "E2025G78"
+        },
+        {
+          "name": "diameter",
+          "value": "3.895",
+          "sigma": "0.013",
+          "units": "km",
+          "ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2011ApJ...741...68M)"
+        },
+        {
+          "name": "albedo",
+          "value": "0.103",
+          "sigma": "0.019",
+          "units": null,
+          "ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2011ApJ...741...68M)"
+        }
+      ],
+      "orbit": {
+        "epoch": "2461200.5",
+        "equinox": "J2000",
+        "cov_epoch": "2460310.5",
+        "elements": [
+          {
+            "name": "e",
+            "value": ".1868593763038477",
+            "sigma": "2.6369E-9",
+            "units": null
+          },
+          {
+            "name": "a",
+            "value": "2.383835831129859",
+            "sigma": "5.1849E-9",
+            "units": "au"
+          },
+          {
+            "name": "q",
+            "value": "1.938393754514169",
+            "sigma": "2.9758E-9",
+            "units": "au"
+          },
+          {
+            "name": "i",
+            "value": "4.425205239728406",
+            "sigma": "9.7445E-8",
+            "units": "deg"
+          },
+          {
+            "name": "om",
+            "value": "262.7765342454273",
+            "sigma": "2.8826E-6",
+            "units": "deg"
+          },
+          {
+            "name": "w",
+            "value": "212.8821499078564",
+            "sigma": "3.6681E-6",
+            "units": "deg"
+          },
+          {
+            "name": "ma",
+            "value": "147.8525890028124",
+            "sigma": "3.8808E-6",
+            "units": "deg"
+          },
+          {
+            "name": "tp",
+            "value": "2460648.372504992499",
+            "sigma": "1.2827E-5",
+            "units": "TDB"
+          },
+          {
+            "name": "per",
+            "value": "1344.351827338779",
+            "sigma": "4.386E-6",
+            "units": "d"
+          },
+          {
+            "name": "n",
+            "value": ".267787042557632",
+            "sigma": "8.7367E-10",
+            "units": "deg/d"
+          },
+          {
+            "name": "ad",
+            "value": "2.829277907745548",
+            "sigma": "6.1538E-9",
+            "units": "au"
+          }
+        ]
+      },
+      "processing": "Selected numerical facts and bibliography identifiers; source explanatory notes and raw response bodies removed."
+    },
+    {
+      "name": "sbdb-5535.json",
+      "upstreamResponseSha256": "450fc6fb29a684c5ad6818b2b8c76805162a1324acb624152440222e13e110c2",
+      "rawResponseDistributed": false,
+      "sourceUrl": "https://ssd-api.jpl.nasa.gov/sbdb.api?sstr=5535&phys-par=true",
+      "object": {
+        "des": "5535",
+        "fullname": "5535 Annefrank (1942 EM)",
+        "spkid": "20005535",
+        "kind": "an"
+      },
+      "parameters": [
+        {
+          "name": "H",
+          "value": "13.86",
+          "sigma": null,
+          "units": null,
+          "ref": "E2025-UJ7"
+        },
+        {
+          "name": "diameter",
+          "value": "4.8",
+          "sigma": null,
+          "units": "km",
+          "ref": "T.C. Duxbury et al. (2003) JGR v.109, E02002"
+        },
+        {
+          "name": "extent",
+          "value": "6.6 x 5.0 x 3.4",
+          "sigma": null,
+          "units": "km",
+          "ref": "T.C. Duxbury et al. (2003) JGR v.109, E02002"
+        },
+        {
+          "name": "rot_per",
+          "value": "15.12",
+          "sigma": null,
+          "units": "h",
+          "ref": "LCDB (Rev. 2023-October); Warner et al., 2009"
+        },
+        {
+          "name": "albedo",
+          "value": "0.311",
+          "sigma": "0.056",
+          "units": null,
+          "ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2012ApJ...759L...8M)"
+        }
+      ],
+      "orbit": {
+        "epoch": "2461200.5",
+        "equinox": "J2000",
+        "cov_epoch": "2457104.5",
+        "elements": [
+          {
+            "name": "e",
+            "value": ".06320477835864081",
+            "sigma": "5.1533E-10",
+            "units": null
+          },
+          {
+            "name": "a",
+            "value": "2.212362295339368",
+            "sigma": "4.0709E-10",
+            "units": "au"
+          },
+          {
+            "name": "q",
+            "value": "2.072530426813429",
+            "sigma": "1.2185E-9",
+            "units": "au"
+          },
+          {
+            "name": "i",
+            "value": "4.247441129212657",
+            "sigma": "4.3564E-8",
+            "units": "deg"
+          },
+          {
+            "name": "om",
+            "value": "120.5509750358684",
+            "sigma": "6.2079E-7",
+            "units": "deg"
+          },
+          {
+            "name": "w",
+            "value": "9.553711837707379",
+            "sigma": "7.6134E-7",
+            "units": "deg"
+          },
+          {
+            "name": "ma",
+            "value": "260.8814202449275",
+            "sigma": "8.007E-7",
+            "units": "deg"
+          },
+          {
+            "name": "tp",
+            "value": "2461531.429413087528",
+            "sigma": "2.7012E-6",
+            "units": "TDB"
+          },
+          {
+            "name": "per",
+            "value": "1201.940029870265",
+            "sigma": "3.3175E-7",
+            "units": "d"
+          },
+          {
+            "name": "n",
+            "value": ".2995157753742986",
+            "sigma": "8.2669E-11",
+            "units": "deg/d"
+          },
+          {
+            "name": "ad",
+            "value": "2.352194163865307",
+            "sigma": "4.3282E-10",
+            "units": "au"
+          }
+        ]
+      },
+      "processing": "Selected numerical facts and bibliography identifiers; source explanatory notes and raw response bodies removed."
+    },
+    {
+      "name": "sbdb-65803.json",
+      "upstreamResponseSha256": "dd0a2a9b791ce9e9c57301ca04f8fcdd997411c3e96f847f39817406d686da5e",
+      "rawResponseDistributed": false,
+      "sourceUrl": "https://ssd-api.jpl.nasa.gov/sbdb.api?sstr=65803&phys-par=true",
+      "object": {
+        "des": "65803",
+        "fullname": "65803 Didymos (1996 GT)",
+        "spkid": "20065803",
+        "kind": "an"
+      },
+      "parameters": [
+        {
+          "name": "H",
+          "value": "18.11",
+          "sigma": null,
+          "units": null,
+          "ref": "MPO901905"
+        },
+        {
+          "name": "diameter",
+          "value": "0.78",
+          "sigma": "0.03",
+          "units": "km",
+          "ref": "Naidu, S. P.; Benner, L. A. M.; Brozovic, M.; et al. (2020) Icarus 348, 113777"
+        },
+        {
+          "name": "extent",
+          "value": "0.797 x 0.783 x 0.761",
+          "sigma": "6% x 6% x 10%",
+          "units": "km",
+          "ref": "Naidu, S. P.; Benner, L. A. M.; Brozovic, M.; et al. (2020) Icarus 348, 113777"
+        },
+        {
+          "name": "density",
+          "value": "2.17",
+          "sigma": "0.35",
+          "units": "g/cm^3",
+          "ref": "Naidu, S. P.; Benner, L. A. M.; Brozovic, M.; et al. (2020) Icarus 348, 113777"
+        },
+        {
+          "name": "rot_per",
+          "value": "2.2593",
+          "sigma": null,
+          "units": "h",
+          "ref": "LCDB (Rev. 2023-October); Warner et al., 2009"
+        },
+        {
+          "name": "pole",
+          "value": "78, -71 degrees",
+          "sigma": "20 degrees",
+          "units": null,
+          "ref": "Naidu, S. P.; Benner, L. A. M.; Brozovic, M.; et al. (2020) Icarus 348, 113777"
+        },
+        {
+          "name": "spec_B",
+          "value": "S",
+          "sigma": null,
+          "units": null,
+          "ref": "Cheng et al. (2018)"
+        }
+      ],
+      "orbit": {
+        "epoch": "2461200.5",
+        "equinox": "J2000",
+        "cov_epoch": "2460455.",
+        "elements": [
+          {
+            "name": "e",
+            "value": ".3831233242624545",
+            "sigma": "1.0416E-10",
+            "units": null
+          },
+          {
+            "name": "a",
+            "value": "1.642709608529702",
+            "sigma": "9.9148E-11",
+            "units": "au"
+          },
+          {
+            "name": "q",
+            "value": "1.013349242511927",
+            "sigma": "1.733E-10",
+            "units": "au"
+          },
+          {
+            "name": "i",
+            "value": "3.413876519313629",
+            "sigma": "1.482E-8",
+            "units": "deg"
+          },
+          {
+            "name": "om",
+            "value": "72.9858236207145",
+            "sigma": "1.9715E-7",
+            "units": "deg"
+          },
+          {
+            "name": "w",
+            "value": "319.5807001349104",
+            "sigma": "2.1543E-7",
+            "units": "deg"
+          },
+          {
+            "name": "ma",
+            "value": "260.8612886320632",
+            "sigma": "7.0015E-8",
+            "units": "deg"
+          },
+          {
+            "name": "tp",
+            "value": "2461412.277780167719",
+            "sigma": "1.6738E-7",
+            "units": "TDB"
+          },
+          {
+            "name": "per",
+            "value": "769.0235207660371",
+            "sigma": "6.9623E-8",
+            "units": "d"
+          },
+          {
+            "name": "n",
+            "value": ".4681261239466357",
+            "sigma": "4.2381E-11",
+            "units": "deg/d"
+          },
+          {
+            "name": "ad",
+            "value": "2.272069974547477",
+            "sigma": "1.3713E-10",
+            "units": "au"
+          }
+        ]
+      },
+      "processing": "Selected numerical facts and bibliography identifiers; source explanatory notes and raw response bodies removed."
+    },
+    {
+      "name": "sbdb-67P.json",
+      "upstreamResponseSha256": "54a50a7329941afe94e05e8d4fa834da0f93c7621a39cfac1ea24d9fdd53d5c1",
+      "rawResponseDistributed": false,
+      "sourceUrl": "https://ssd-api.jpl.nasa.gov/sbdb.api?sstr=67P&phys-par=true",
+      "object": {
+        "des": "67P",
+        "fullname": "67P/Churyumov-Gerasimenko",
+        "spkid": "1000012",
+        "kind": "cn"
+      },
+      "parameters": [
+        {
+          "name": "M1",
+          "value": "12.9",
+          "sigma": "0.8",
+          "units": null,
+          "ref": "K284/1"
+        },
+        {
+          "name": "K1",
+          "value": "7.5",
+          "sigma": null,
+          "units": null,
+          "ref": "K284/1"
+        },
+        {
+          "name": "diameter",
+          "value": "3.4",
+          "sigma": "0.1",
+          "units": "km",
+          "ref": "Sierks et al., Science 347, aaa1044 (2015)"
+        },
+        {
+          "name": "GM",
+          "value": "662.2e-9",
+          "sigma": "0.2e-9",
+          "units": "km^3/s^2",
+          "ref": "Patzold et al., Nature 530, 63 (2016)"
+        },
+        {
+          "name": "density",
+          "value": "0.533",
+          "sigma": "0.006",
+          "units": "g/cm^3",
+          "ref": "Patzold et al., Nature 530, 63 (2016)"
+        },
+        {
+          "name": "rot_per",
+          "value": "12.76129",
+          "sigma": "0.00005",
+          "units": "h",
+          "ref": "Mottola et al., Astronomy & Astrophysics 569, L2 (2014)"
+        },
+        {
+          "name": "pole",
+          "value": "69.3/64.1",
+          "sigma": "0.1",
+          "units": null,
+          "ref": "Sierks et al., Science 347, aaa1044 (2015)"
+        }
+      ],
+      "orbit": {
+        "epoch": "2457305.5",
+        "equinox": "J2000",
+        "cov_epoch": "2457305.5",
+        "elements": [
+          {
+            "name": "e",
+            "value": ".6409081308996354",
+            "sigma": "2.7482E-8",
+            "units": null
+          },
+          {
+            "name": "a",
+            "value": "3.462249490129549",
+            "sigma": "1.5491E-7",
+            "units": "au"
+          },
+          {
+            "name": "q",
+            "value": "1.243265640702404",
+            "sigma": "9.8887E-8",
+            "units": "au"
+          },
+          {
+            "name": "i",
+            "value": "7.040294937543767",
+            "sigma": "2.7139E-6",
+            "units": "deg"
+          },
+          {
+            "name": "om",
+            "value": "50.13557377155012",
+            "sigma": "2.2797E-5",
+            "units": "deg"
+          },
+          {
+            "name": "w",
+            "value": "12.79824970228189",
+            "sigma": "2.3022E-5",
+            "units": "deg"
+          },
+          {
+            "name": "ma",
+            "value": "8.859927425218402",
+            "sigma": "2.7815E-6",
+            "units": "deg"
+          },
+          {
+            "name": "tp",
+            "value": "2457247.588657812098",
+            "sigma": "1.7765E-5",
+            "units": "TDB"
+          },
+          {
+            "name": "per",
+            "value": "2353.076067903661",
+            "sigma": ".00015793",
+            "units": "d"
+          },
+          {
+            "name": "n",
+            "value": ".1529912291873851",
+            "sigma": "1.0268E-8",
+            "units": "deg/d"
+          },
+          {
+            "name": "ad",
+            "value": "5.681233339556694",
+            "sigma": "2.542E-7",
+            "units": "au"
+          }
+        ]
+      },
+      "processing": "Selected numerical facts and bibliography identifiers; source explanatory notes and raw response bodies removed."
+    },
+    {
+      "name": "sbdb-81P.json",
+      "upstreamResponseSha256": "401dbbd6d93baef25783060d758a86f2364dbb92659f662e9fa819224658621b",
+      "rawResponseDistributed": false,
+      "sourceUrl": "https://ssd-api.jpl.nasa.gov/sbdb.api?sstr=81P&phys-par=true",
+      "object": {
+        "des": "81P",
+        "fullname": "81P/Wild 2",
+        "spkid": "1000107",
+        "kind": "cn"
+      },
+      "parameters": [
+        {
+          "name": "M1",
+          "value": "9.8",
+          "sigma": "0.8",
+          "units": null,
+          "ref": "K222/37"
+        },
+        {
+          "name": "K1",
+          "value": "12.5",
+          "sigma": null,
+          "units": null,
+          "ref": "K222/37"
+        },
+        {
+          "name": "M2",
+          "value": "12.9",
+          "sigma": "0.8",
+          "units": null,
+          "ref": "K222/37"
+        },
+        {
+          "name": "K2",
+          "value": "5.",
+          "sigma": null,
+          "units": null,
+          "ref": "K222/37"
+        },
+        {
+          "name": "PC",
+          "value": "0.03",
+          "sigma": null,
+          "units": null,
+          "ref": "K222/37"
+        },
+        {
+          "name": "diameter",
+          "value": "4.0",
+          "sigma": null,
+          "units": "km",
+          "ref": "Lamy,P.L.,Toth,I.,Fernandez,Y.R.,Weaver,H.A. (2004) Comets II, pp. 223-264"
+        }
+      ],
+      "orbit": {
+        "epoch": "2458808.5",
+        "equinox": "J2000",
+        "cov_epoch": "2458808.5",
+        "elements": [
+          {
+            "name": "e",
+            "value": ".5373989073846863",
+            "sigma": "7.8397E-8",
+            "units": null
+          },
+          {
+            "name": "a",
+            "value": "3.449745576963111",
+            "sigma": "7.5915E-8",
+            "units": "au"
+          },
+          {
+            "name": "q",
+            "value": "1.595856073147981",
+            "sigma": "2.743E-7",
+            "units": "au"
+          },
+          {
+            "name": "i",
+            "value": "3.237004173608168",
+            "sigma": "8.4654E-6",
+            "units": "deg"
+          },
+          {
+            "name": "om",
+            "value": "136.1102208500619",
+            "sigma": ".00017571",
+            "units": "deg"
+          },
+          {
+            "name": "w",
+            "value": "41.72523085114398",
+            "sigma": ".00017561",
+            "units": "deg"
+          },
+          {
+            "name": "ma",
+            "value": "187.5966814232084",
+            "sigma": "1.2954E-5",
+            "units": "deg"
+          },
+          {
+            "name": "tp",
+            "value": "2459929.284579774298",
+            "sigma": "9.7616E-5",
+            "units": "TDB"
+          },
+          {
+            "name": "per",
+            "value": "2340.340383523585",
+            "sigma": "7.7252E-5",
+            "units": "d"
+          },
+          {
+            "name": "n",
+            "value": ".1538237781711004",
+            "sigma": "5.0776E-9",
+            "units": "deg/d"
+          },
+          {
+            "name": "ad",
+            "value": "5.303635080778242",
+            "sigma": "1.1671E-7",
+            "units": "au"
+          }
+        ]
+      },
+      "processing": "Selected numerical facts and bibliography identifiers; source explanatory notes and raw response bodies removed."
+    },
+    {
+      "name": "sbdb-951.json",
+      "upstreamResponseSha256": "8d609de6b4c62d3d89aa141373768f40838cc30ead4b3ef7968162c8ae631f8f",
+      "rawResponseDistributed": false,
+      "sourceUrl": "https://ssd-api.jpl.nasa.gov/sbdb.api?sstr=951&phys-par=true",
+      "object": {
+        "des": "951",
+        "fullname": "951 Gaspra (A916 OJ)",
+        "spkid": "20000951",
+        "kind": "an"
+      },
+      "parameters": [
+        {
+          "name": "H",
+          "value": "11.49",
+          "sigma": null,
+          "units": null,
+          "ref": "MPO980536"
+        },
+        {
+          "name": "diameter",
+          "value": "12.2",
+          "sigma": null,
+          "units": "km",
+          "ref": null
+        },
+        {
+          "name": "extent",
+          "value": "18.2x10.5x8.9",
+          "sigma": null,
+          "units": "km",
+          "ref": "Thomas, P.C. et al. (1994) Icarus v.107, pp.23-36"
+        },
+        {
+          "name": "rot_per",
+          "value": "7.042",
+          "sigma": null,
+          "units": "h",
+          "ref": "LCDB (Rev. 2023-October); Warner et al., 2009"
+        },
+        {
+          "name": "albedo",
+          "value": "0.246",
+          "sigma": "0.032",
+          "units": null,
+          "ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2014ApJ...791..121M)"
+        },
+        {
+          "name": "BV",
+          "value": "0.870",
+          "sigma": "0.030",
+          "units": null,
+          "ref": "EAR-A-5-DDR-UBV-MEAN-VALUES-V1.2"
+        },
+        {
+          "name": "UB",
+          "value": "0.554",
+          "sigma": "0.049",
+          "units": null,
+          "ref": "EAR-A-5-DDR-UBV-MEAN-VALUES-V1.2"
+        },
+        {
+          "name": "spec_T",
+          "value": "S",
+          "sigma": null,
+          "units": null,
+          "ref": "EAR-A-5-DDR-TAXONOMY-V4.0"
+        },
+        {
+          "name": "spec_B",
+          "value": "S",
+          "sigma": null,
+          "units": null,
+          "ref": "EAR-A-5-DDR-TAXONOMY-V4.0"
+        }
+      ],
+      "orbit": {
+        "epoch": "2461200.5",
+        "equinox": "J2000",
+        "cov_epoch": "2457494.5",
+        "elements": [
+          {
+            "name": "e",
+            "value": ".1737374595425464",
+            "sigma": "1.0832E-9",
+            "units": null
+          },
+          {
+            "name": "a",
+            "value": "2.209978353670737",
+            "sigma": "5.3617E-10",
+            "units": "au"
+          },
+          {
+            "name": "q",
+            "value": "1.826022328859964",
+            "sigma": "2.4852E-9",
+            "units": "au"
+          },
+          {
+            "name": "i",
+            "value": "4.10465496946464",
+            "sigma": "5.3222E-8",
+            "units": "deg"
+          },
+          {
+            "name": "om",
+            "value": "252.9672913251979",
+            "sigma": "8.4325E-7",
+            "units": "deg"
+          },
+          {
+            "name": "w",
+            "value": "130.0037637381037",
+            "sigma": "8.7084E-7",
+            "units": "deg"
+          },
+          {
+            "name": "ma",
+            "value": "112.9508716440696",
+            "sigma": "4.1682E-7",
+            "units": "deg"
+          },
+          {
+            "name": "tp",
+            "value": "2460823.997778846732",
+            "sigma": "1.2727E-6",
+            "units": "TDB"
+          },
+          {
+            "name": "per",
+            "value": "1199.997818895033",
+            "sigma": "4.367E-7",
+            "units": "d"
+          },
+          {
+            "name": "n",
+            "value": ".3000005452772328",
+            "sigma": "1.0918E-10",
+            "units": "deg/d"
+          },
+          {
+            "name": "ad",
+            "value": "2.593934378481511",
+            "sigma": "6.2932E-10",
+            "units": "au"
+          }
+        ]
+      },
+      "processing": "Selected numerical facts and bibliography identifiers; source explanatory notes and raw response bodies removed."
+    },
+    {
+      "name": "sbdb-9969.json",
+      "upstreamResponseSha256": "ba6eacf61a315e148650fcf1a175dbf04a80c07c7006452958d1fc412aebe823",
+      "rawResponseDistributed": false,
+      "sourceUrl": "https://ssd-api.jpl.nasa.gov/sbdb.api?sstr=9969&phys-par=true",
+      "object": {
+        "des": "9969",
+        "fullname": "9969 Braille (1992 KD)",
+        "spkid": "20009969",
+        "kind": "an"
+      },
+      "parameters": [
+        {
+          "name": "H",
+          "value": "16.02",
+          "sigma": null,
+          "units": null,
+          "ref": "MPO951070"
+        },
+        {
+          "name": "extent",
+          "value": "2.1x1.0x1.0",
+          "sigma": null,
+          "units": "km",
+          "ref": "Oberst et al., 2001, Icarus, 153:16-23"
+        },
+        {
+          "name": "rot_per",
+          "value": "226.4",
+          "sigma": null,
+          "units": "h",
+          "ref": "LCDB (Rev. 2023-October); Warner et al., 2009"
+        },
+        {
+          "name": "spec_B",
+          "value": "Q",
+          "sigma": null,
+          "units": null,
+          "ref": "Binzel et al. (2001) Icarus 151, 139-149"
+        }
+      ],
+      "orbit": {
+        "epoch": "2461200.5",
+        "equinox": "J2000",
+        "cov_epoch": "2458184.5",
+        "elements": [
+          {
+            "name": "e",
+            "value": ".4340700166133246",
+            "sigma": "2.3089E-9",
+            "units": null
+          },
+          {
+            "name": "a",
+            "value": "2.339484343556827",
+            "sigma": "3.1811E-9",
+            "units": "au"
+          },
+          {
+            "name": "q",
+            "value": "1.323984335682502",
+            "sigma": "5.2029E-9",
+            "units": "au"
+          },
+          {
+            "name": "i",
+            "value": "29.02096189309999",
+            "sigma": "2.1676E-7",
+            "units": "deg"
+          },
+          {
+            "name": "om",
+            "value": "241.8990690138807",
+            "sigma": "7.8199E-7",
+            "units": "deg"
+          },
+          {
+            "name": "w",
+            "value": "356.1093437035709",
+            "sigma": "8.2518E-7",
+            "units": "deg"
+          },
+          {
+            "name": "ma",
+            "value": "177.6926985712546",
+            "sigma": "2.1762E-6",
+            "units": "deg"
+          },
+          {
+            "name": "tp",
+            "value": "2460555.372249469025",
+            "sigma": "6.6422E-6",
+            "units": "TDB"
+          },
+          {
+            "name": "per",
+            "value": "1307.009190915183",
+            "sigma": "2.6658E-6",
+            "units": "d"
+          },
+          {
+            "name": "n",
+            "value": ".2754380018918795",
+            "sigma": "5.6178E-10",
+            "units": "deg/d"
+          },
+          {
+            "name": "ad",
+            "value": "3.354984351431151",
+            "sigma": "4.5619E-9",
+            "units": "au"
+          }
+        ]
+      },
+      "processing": "Selected numerical facts and bibliography identifiers; source explanatory notes and raw response bodies removed."
+    },
+    {
+      "name": "sbdb-9P.json",
+      "upstreamResponseSha256": "3d81343883244092298c1a3f77c9375958740ee2f5a830e32b58f9289bdb5b73",
+      "rawResponseDistributed": false,
+      "sourceUrl": "https://ssd-api.jpl.nasa.gov/sbdb.api?sstr=9P&phys-par=true",
+      "object": {
+        "des": "9P",
+        "fullname": "9P/Tempel 1",
+        "spkid": "1000093",
+        "kind": "cn"
+      },
+      "parameters": [
+        {
+          "name": "M1",
+          "value": "12.9",
+          "sigma": "0.7",
+          "units": null,
+          "ref": "K284/2"
+        },
+        {
+          "name": "K1",
+          "value": "9.",
+          "sigma": null,
+          "units": null,
+          "ref": "K284/2"
+        },
+        {
+          "name": "diameter",
+          "value": "6.0",
+          "sigma": "0.2",
+          "units": "km",
+          "ref": "A'Hearn, M.F. et al. (2005) Science 310:258-264"
+        },
+        {
+          "name": "extent",
+          "value": "7.6x4.9",
+          "sigma": null,
+          "units": "km",
+          "ref": "A'Hearn, M.F. et al. (2005) Science 310:258-264"
+        },
+        {
+          "name": "rot_per",
+          "value": "40.7",
+          "sigma": null,
+          "units": "h",
+          "ref": "A'Hearn, M.F. et al. (2005) Science 310:258-264"
+        },
+        {
+          "name": "albedo",
+          "value": "0.05",
+          "sigma": "0.02",
+          "units": null,
+          "ref": "Earth, Moon, and Planets, v. 89, Issue 1, p. 117-134 (2002)"
+        }
+      ],
+      "orbit": {
+        "epoch": "2457470.5",
+        "equinox": "J2000",
+        "cov_epoch": "2457470.5",
+        "elements": [
+          {
+            "name": "e",
+            "value": ".5097028326964878",
+            "sigma": "4.623E-8",
+            "units": null
+          },
+          {
+            "name": "a",
+            "value": "3.146133758958915",
+            "sigma": "8.9632E-8",
+            "units": "au"
+          },
+          {
+            "name": "q",
+            "value": "1.542540469975507",
+            "sigma": "1.722E-7",
+            "units": "au"
+          },
+          {
+            "name": "i",
+            "value": "10.4734281543904",
+            "sigma": "4.1756E-6",
+            "units": "deg"
+          },
+          {
+            "name": "om",
+            "value": "68.75357468050096",
+            "sigma": "3.6987E-5",
+            "units": "deg"
+          },
+          {
+            "name": "w",
+            "value": "179.1972753698572",
+            "sigma": "3.8173E-5",
+            "units": "deg"
+          },
+          {
+            "name": "ma",
+            "value": "336.5854438553629",
+            "sigma": "5.8245E-6",
+            "units": "deg"
+          },
+          {
+            "name": "tp",
+            "value": "2457603.070724568248",
+            "sigma": "3.3292E-5",
+            "units": "TDB"
+          },
+          {
+            "name": "per",
+            "value": "2038.281680411032",
+            "sigma": "8.7105E-5",
+            "units": "d"
+          },
+          {
+            "name": "n",
+            "value": ".1766193571083874",
+            "sigma": "7.5477E-9",
+            "units": "deg/d"
+          },
+          {
+            "name": "ad",
+            "value": "4.749727047942323",
+            "sigma": "1.3532E-7",
+            "units": "au"
+          }
+        ]
+      },
+      "processing": "Selected numerical facts and bibliography identifiers; source explanatory notes and raw response bodies removed."
+    }
+  ]
+}

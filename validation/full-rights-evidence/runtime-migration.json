@@ -1,0 +1,1320 @@
+{
+  "scope": "Only data, newly composed prose, attribution, direct license URLs and renamed font bytes change; platform scene/UI logic and styles remain unchanged. Three uncertain imported meshes are replaced by labelled mathematical approximations preserving known dimensions.",
+  "platforms": {
+    "desktop": {
+      "from": "desktop-v294-noncommercial",
+      "to": "desktop-v295-delivery",
+      "baselineSha256": "90135d2c339f8f306807ac4b79fef6408b28cc03d239288b1cde4016536e4115",
+      "resultSha256": "68c91e07df2be282870957098608a5cd3950e1e207fe607c35b7cdd596719ed0",
+      "operations": [
+        {
+          "kind": "landmark-data-and-original-text",
+          "count": 1,
+          "oldSha256": "fec4d967be7aadc6226f7f7445e64854bceb7207ed3ffb04a201648cac19930c",
+          "newSha256": "ef0e721cc60196c86830081467d28b27a39eada2fcda94894bde1c4564cc785c"
+        },
+        {
+          "kind": "licensed-observation-components",
+          "count": 1,
+          "oldSha256": "c217b6348d5ba1c3deb64c082c1c86c12161e82bbb40d3867cc5692ee69e5c19",
+          "newSha256": "8a2f003f5027d0080a008468e7d85cbe60b70b1cd37c0be922951fd3b08ee312"
+        },
+        {
+          "kind": "current-complete-credits",
+          "count": 1,
+          "oldSha256": "d62acd39bf8c43c61b23f1fff46d7e02707f865963cd67c3b42247508a5de035",
+          "newSha256": "d25afdc9bd7b4d413158969569580176b3f8091e2592d27e27516481a596c5d1"
+        },
+        {
+          "kind": "current-direct-licence-links",
+          "count": 1,
+          "oldSha256": "f70399deedcfa3d4ffe95484dd365ffe15dbfcbce83504aa72ee6e561e93fa1b",
+          "newSha256": "81e9ebc357faad6ae635cc8ced2c672ad2a5ca8e01d136174700a99fb1c65465"
+        },
+        {
+          "kind": "renamed-OFL-font",
+          "count": 1,
+          "oldSha256": "5b66d819fcb7c90baade3a025ad2e48b004ffb46f3b9fa7836be8dd5bbd1b306",
+          "newSha256": "7c83d429910b9fc1e51c6182488369ef4cfd3a3860d3ebdd19ada9a35aefcaac"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "ec852e363b4c2cbb68c6b876c5caebbd3bdd1042fcfa8c86fb43e2b713409900",
+          "newSha256": "f1f78d0a71e3e5525974958c9a6e4e0452cdc3071293b21582a75430b2713b2e"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "19ca6ada2c840561de6b823b0e3617820a6b8f07a0cce5e6c2b27e62233ed915",
+          "newSha256": "0a364da367cdef134e02ad0e72622f8581d4dadc52ea5f09efff8000365da864"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "d9cd68baf8f7f01c1c0eae9ce7206a8b776e71e69bea51a981b2dae11e96f72c",
+          "newSha256": "6e4c36ac1559f9d155079454dc4ffd2101d3c1ad896ea827f6e83a9a52c9e89d"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "e8f3c6adc55338081390e5787fe1113c078c9c8fec14592f83efdcf80c9a56c1",
+          "newSha256": "0f3b164744277bc9c8db99ff0a5033c8c63ab2510516a16503020ac9e8e70d5c"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "f41b9a3107249b35a9dae05866ea31e4c16548e18c69bde5d23bcaf84514f760",
+          "newSha256": "7c5ec4d84ff7db1ab47c4d4ab9325fc889e04df59a366d1c7225073ce74c676e"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "ecd63c363aabf7b3432c94f3c22531785438db8eac350d5405cbcf73cfce2ae7",
+          "newSha256": "d6342609d5c2a4d68db11c69271c7a63901dcbf65b8b52ca0ad72c1fe5a9ce1a"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "776ad4d556d028a7c2539a0baf58a8f36ad9a2f1351f2a35e8f7b66849e85994",
+          "newSha256": "49be6303c27a159b819b016cf5fe28c8e6bd3a5810740c7daf1ba403be6b65b3"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "a06e0b2f855659c8045502cc5ed1d24625239ac4133a0fea875ecb5bfded5bb7",
+          "newSha256": "bd3b206c097eb8ae6437d8bb1b36855b24d04e0a224c7523495e210aaf6240b9"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "4ea5e87eb6f257edd7999b6bd9dfd82f8b711bf0daee9575cd30adbdba8b1ba3",
+          "newSha256": "45b292b875a2462ddbd29782132699586787395180a00d5252b10e66bea38c6d"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "02e4e1f92aec5b8dd706df96c781ba5cda6bd338c8776e9a6305ddbf3f46a111",
+          "newSha256": "a242b34bcf55acebebbb38f8eb5d0ef7f292200b76c4c2abf07eceaa39ddb21c"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "0fe32f3aec480100c7fcdd2bd9a63dded3ffa57d0102e0990ae8f4a51ab8ec6c",
+          "newSha256": "b824993cfbae15cb3a717fd6785bc5549bb8a7fb5ad6de45a9d4befdc6956cbe"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "4574df6048ab940a691d6a59908be684175bceb18526ffbeb92e4da88b1d27fd",
+          "newSha256": "009fe541a8c8361648a978fc061615321f18333a9d6079f85e0c96826b869eea"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "4a9e1f0c479beaeef7b692fcff0328179a15e6016b4c5c8caa2bb02ce50e16e7",
+          "newSha256": "468f4f0613fba57d2418a8ae4b7bc2782796940be541255ca4cee4b8f280a41b"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "39cd8b1f3ce4a90757ae8fc6c4f6907dc7cf726ccfa5f96165712d3900e05bb3",
+          "newSha256": "ff7990af3c8ec301fbfdaf628e73cc1bc670956416825c1e71cfc9e65dd9f89a"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "2f75e5825c6b740b897d30e9207816b6e815a3fb5ebc4430bf7dc31d6d7af1e8",
+          "newSha256": "7d1cefdcbde68ab23f2667e8fa535f7a2d1273c1ecc8e80556827c432eb07dcf"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "3832ba652c6fcd981c693c6157b5cca22a869ea6856afe98ca11945f88c82e69",
+          "newSha256": "0d878aad3d2ea9f19fd48482ca68934d13ab8d3c064a071ed33a21a46528a32d"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "6d75d09be5670ce393210e21072655375bd5ce66092aabc72286403f249cef96",
+          "newSha256": "05bb7dce0b7dca0b75ebd26a907d977eb9edaf808ea13ea77212e07519dfdf44"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "6a503fd08562a0948090345f18b2500b360925c2f105fb7fe9a3389f59c4fd91",
+          "newSha256": "8d085c5b0f9ae2f87a0d2f9b4feef91eab547ae4ea524191ec2f4718d95924b2"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "9151e23c5fb29e7888f580e5df733857506f12f926de2c836e942ed8bdbf5906",
+          "newSha256": "73de70480cdeeca5ad05a141550a5c1d29fb8ae38eb73fdd1c6e20833768f633"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "c80b9e6ef5378ecbf484ca6ebae193746e1e719d0dbb8db6476935836c4dd210",
+          "newSha256": "470612c683a78ee3a47f472ea0efa475129b93cac1f9101f515a184cfdc22be0"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "a31da8df94e3a0c3fc4932b373a8bacb6caf191aefa2a2cb832b8a3b4db1a979",
+          "newSha256": "e685ae4e34b06bc730ec8fcc4c75a78a6ada172d163ff3dfa665c287cf7be8ef"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "991e7a4aa6877261271c173017da1d2ac0cc8dcd8a32a18f0588070d52455390",
+          "newSha256": "d2614ceaffbfa45e7af58a9b4775e3c2a567b46aa419cb45ea7a918d15958232"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "a3d2bf71e576bd395112dc932f2f13a8aac009ebd67c8c2b75d349fe311c5c03",
+          "newSha256": "5b740733e8949eb170ccb533681420c063dec86f3bf37a1fe1230c2b0afcbc8b"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "605a6deb458f89b9e7b698c4b10bb320a852c229660cd0d952d15f0d49dd1af1",
+          "newSha256": "c05bdc389571e4d2b3ac008493e173497c46c4f7435ac67c78a39a6448b33538"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "edbb8b1ecf31ecc7cf50a025bea9ecfcc189259375ca8f55296e12ab81d6af88",
+          "newSha256": "6e2222109549f173405ea4495392983c1454eefc8ad274afa5a0ced51824065a"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "221e3b25d6b315c5668e27b092e9502910b337e66f5dc129bf601f5ad2f7b9cc",
+          "newSha256": "9b6d23bc536898509ee78709803c6ce91d405446dcf32323023b9889189a045e"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "58f39a260ea15824b4c1d4db51a41126008bf84a1c847f99bf588a2bd23e4bad",
+          "newSha256": "0be9b94448c2bfdbe34fc3a24fb775c4b9419c7f978ad2286e5c99319454eb73"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "cca91a39d105280cbf7783bf43fc4e32090bf0b61aa9720fcdc9192db695346d",
+          "newSha256": "13757d6e7f4c00278f6fe1465257aea8e089573d5d4e5b548c3ef15453977009"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "4aec1583c512a7e064ad9d7cc1dd48022d01b2aafdd6439eb018ba4dfea89ccf",
+          "newSha256": "bf578b003ae0c83e5d4e77ee6b48f3a0e6828eb2da832db3a6e7450108c5f6ab"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "a7120b72dd9f1f765495fc049e383c969353101775a7b912a8a5bf593634913b",
+          "newSha256": "af3eee4324d0fc73b5def37ecd765b7b0a828d0d3d51da9875adf18fd155e7ba"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "301f58d0e0eb347de3ada8d854daf4b91afab0c16119020d9caf6d8339b37994",
+          "newSha256": "d5c9534e4e706d756f9cb2c38d2bd209cec81b65ad515d180d0f0f7539331529"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "8618057a5a650a0d9651c454f97971d8c21046b130bf37401ba1a2220f715b51",
+          "newSha256": "5bfc3ab15d5b3a9d48d5191c40c3a825f010ae6a742c3af3863cf45ea9e6c52b"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "958cf51683865ae25bce980a0c7e3591977bd4b672c92793e42fb30abfb9a8af",
+          "newSha256": "af55cd1c92c36979323cbab3ec90a4b36dad9fa0aded910c6438e16ebd60a50b"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "d602fb61820f0f81d23b4f79e134b7c0f33226edea0b8366bded615be7a041a9",
+          "newSha256": "45bd4f9557e9b59a9b1569f09fa6b6c53f7ebde786b9da3a4100040688ae9b27"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "18f6549224293b9656caf8f4fc62586ab160f059981527a9fae52a3007c2b310",
+          "newSha256": "a643e36ac7b33b4f6522287e0dff4e1225f25cd9e7f08b049e0d46867e63d7db"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "b6d1abd1182ebc73a119b60b6575d9f843f731de1d3582ac2b21991206fc66e1",
+          "newSha256": "76e4fad0701bc97af77f0519bcf46fcab7ad8575e6fda1b062fe447942c90f27"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "d2894b2c9c861765fcf71a360128e0d008af4a091384395bbaa3b7e58fb54951",
+          "newSha256": "768c88ce149c099c7cdb0b1e56e8ead616290f37d601e19cfedb2f472dc19696"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "b9cba0270c7c9be3fa5d21fa7cf8e8182cbc3f82a0288b1375ee37b9f23e95eb",
+          "newSha256": "08e3d4b6f5c4cfa16cf34147ca4a7090cb98c21cc8cdc6bb033a49e00b3b116f"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "f4d73323472fcc5b640a6228c43b9b5c7a549a5faa5346c9c050f23c2c1e102c",
+          "newSha256": "ac8cd017c7e980edd1dac4d5aa9a5ec99dda394ce3553f57069ed131acbeb05c"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "651bae23b89c8dbb1e38eba4176b5bc9f2f9d4efc53b4da39e0c4f5c0441852f",
+          "newSha256": "b6b3323d86fe176457aa21821c62680c46b6c96d19e53cfbb83c7458c11f108e"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "34e356c01dacc277a07cae995973bf3d81e431c4f0cf034fa00c891b4a3ef918",
+          "newSha256": "41cca17a881d1874d47138857339422a3fe9dd5c624c3a39d45e9b76affe6975"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "ddeab2d38175cc2d5147eab2ce597104ad23227dada3534bbba4e0985050b689",
+          "newSha256": "5b03ea8e45fd177d21a1a522bfed3f15b4668bf810dd1ba779d293acb1bdbccf"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "6fbee895bddd7adba761e4059d784897d28a1df189c08400fd269560ce354216",
+          "newSha256": "916292400281e94e24fb94606819e95a0254567fef7e996ca3a8b285f7180481"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "d323870c3f2bcdc76ca0626dc86e0812da8aa82d4ae6002ea3d7e794b041083e",
+          "newSha256": "4073d13c7eaccc5d495b3ed7b999fd4146dd99118f3159f43d6aa5290fa98526"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "17f3d4988e5d007e55da60cf291945dcdd0711ddb29e4774dbbfd77161762b48",
+          "newSha256": "a4544646f43a92507bd129ea1669e7c14bd400d2b10ac8f70f7aed880bd9b107"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "29dfbb06f22ba49b4eb7742892807264e0bff2cc2b599590e61159b9b6b6a637",
+          "newSha256": "187a2b07010623ff0679d3643cc2b2bb592eebb5c85334983dc3cff0453f7a0b"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "86082cb097b5cdd566fc6ecadfecf3adab3fec755ae9b397146e2f7faa3aac9a",
+          "newSha256": "e893fd0e2e99c8ea219a6a9aca39432684c4787160c2fce4980b0cede07491dc"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "d6461c7df1d90be87bc3ba32b3070bcaf5902259ae5b1e64b8a221b4a65668a1",
+          "newSha256": "a2367471a4511d4de80f89653c31aa97f99c81510edfc99ec26705340c99223d"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "ff68e13d8f2fd7a86b87c96e8a7072a46e34aa53a43d1d334f9907c9ade385a2",
+          "newSha256": "bd093977917b68f642e97f0b79b1f62ebf1c197dfcc2fc28552ff733ced6f77d"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "601100eb9ef0cd47fd8738200ebe8e85d57e6be0d4ce190aca973498544ddc4c",
+          "newSha256": "e810ef52333ae59335a28d1c0b7b41919dfaa26c91d43652e0d0c9f30a90f546"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "0aa5bfddd4fdb9f64edd583d675fcb1218652006fba993b708b79d56331f11eb",
+          "newSha256": "e9799a4c2929c2e4e063a7b2b426e8dc443e00a20c16e21f9f49f078c4071ab2"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "c8e5bca99fef024f354091ccf246fe9e34f1e233576b2a5a92cd5439aad685fa",
+          "newSha256": "d8e308f17c7e881ed1a34e8add79f369c5e9732308bf1abebe29552378468ab8"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "ab712810119af37d2072474a873c0c11b968813787afc1b83da71d5b4042768d",
+          "newSha256": "94fb732349b60cd4ddafbd3bb591ccd8022c3fede6d3c9ee30a95ccc9c2aeb12"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "cc4a196a0f924cefad03cb9159f9ea056864733f9a9b3fbadf8772e8de860357",
+          "newSha256": "b6ee9886c2517a33dd48a2e368734ae0e059644e8500c528a092574f7267313d"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "f4731b974162ba49dc2aea11c309eb61ebf46e5ea610248ab584e18cd90cf110",
+          "newSha256": "9c5561ee9bcd42395c871555b2c2b5479ad78c957f69022da5cde3d5fd5cf2f3"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "19c96c532f63a00f8d0a488f6fcd2b18ea44b384174cc037609b9a1368af6bae",
+          "newSha256": "12cac164c370f9aabd4d7754a33fc6e2650c08e08cb020ff157ba2d842c53947"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "26dd3265bf4c9a018dfb9ec4af41f990187dcc9c00ae510941ad95e34f87fd79",
+          "newSha256": "d2c6f8121d92e63c10cefaf19e7fca3a0397d4e27e497a4338547927b13a5c1c"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "c44d5fa3bf505cfbe0c2287e55438ff4198a685e5a605d73d9b071a6937fa738",
+          "newSha256": "805d231aca6cfffb3dbf50406ec8270f73e0515b89f04f06f91811b92415373e"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "64025ce9aa196427986ece5ca13e9d5a63ab820d0ddfa4a22981a3c125b187af",
+          "newSha256": "3ec83d23f4b176bfc8cea855edab90e5f45778eec3f2101005a2411e959b07c5"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "629fbb9346e6d40d5789b343ff89d7970456c122dbd2c629e96ac233808ec4e0",
+          "newSha256": "9d760266752833f52f0d66cba6850ec6cfbb97a4484f4a5a1aa1038d4d48a7c3"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "1cd6217aee1e0464fc784c2c31f93501322a3fe3d405e8fc31a64de1ca7499e0",
+          "newSha256": "75bb887eda9df82bee4d786a4c35bb47a4e0e38daf95f107cf1798a887446edf"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "69ba056b98c30e3261aec07d6d5aa980e6a0974a171030b7af4720d53ce86700",
+          "newSha256": "1dc38cf8748dc4afdffde24d6ec3f7d4ad89f15a44a3473672ce6060760a015d"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "26befed2d6b93e2571c8e59698481d1ad63d0ee5a8f352778c88abb17ba06a56",
+          "newSha256": "2a51cd4e323be6c829a1e97f43e72dcca7d72a6d13d5000320ecde323a267ca5"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "922f8998962f6598af0d9a3f9529e8f5f496692f5ee8b7e283ce78ff65588d35",
+          "newSha256": "003ba8e9f0716ccd95ac2b7cee425203b64956e7858fbf857da078244827e657"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "392e91faaa3270c57ec3caa47cd03dbbb4722b356f6d74863fa55bfe180e6d6f",
+          "newSha256": "972e60708666fc4a292a3b9f1ea02a06d0c2ac59f3ede9e361722b41fa8b3960"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "be810a049124aa00c4171f5330b5e3ba4b7ff9a1da0a9b7cae18864d2d381f6c",
+          "newSha256": "c95622eae00ffa5f144309cb79195786330eb74e78335fd3e64f52d53f35490c"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "0b582d3aad0320f1924d201238ac29c2ec81f851043a309866140bd5e5a7bb54",
+          "newSha256": "8a5c6c3c4c78b0a6b1f356467bb8b04cec74bf15fb795ad23414e2be92b4dbfb"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "7089a686088efce8e71242d5f386c3c6e82b8f0c2c5a745e7d60f7f838f12606",
+          "newSha256": "00b504acaecd37cefb07e59d3b2231e61c6c044d079ecec110468c2bfaa2d121"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "61906eee2c4025f9484379fe4ff94cb8401e28882ca89eb5ff7c4dcb4d3cb8ff",
+          "newSha256": "e137efc7c1c8939d29dd5863364e38fbd1cd282ac2d5e8730d6168846784bd7e"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "ca18118a478151eee09275c8e4f6ba51dc7789a0ab36a2c8aa3848fd7713cbe6",
+          "newSha256": "ff8398d36d4d3f381e725712a2b1d03af49e0069f195e3d0ad7ee1083572671d"
+        },
+        {
+          "kind": "continent-prose",
+          "count": 1,
+          "oldSha256": "09f6b143a8de5564ecded65fcea6913ee6ef10bbe7ec3e5d76cea2d63f11e868",
+          "newSha256": "eaae5a04f76a5b6142a581ff3b6d4b9ea7d1d5a5a9df47bcb850eb502bfa2fe0"
+        },
+        {
+          "kind": "continent-prose",
+          "count": 1,
+          "oldSha256": "bf9b2d7271dba1903c06c77b20988d508cd9f5223e2c7aa3895d98ca586f2838",
+          "newSha256": "cfd9b591314ed6155b19282aa8375c436bc3f23218798901d5fdc0730e9cfc56"
+        },
+        {
+          "kind": "continent-prose",
+          "count": 1,
+          "oldSha256": "fedf4c7a2a0df944697dece61feb674f8b36f92a8f4db4af5cf0df819f2696e6",
+          "newSha256": "6f8dcc4d3f3cdc496bd9015c41c27701bd15ffb58692269f6de84c6388d2e63d"
+        },
+        {
+          "kind": "continent-prose",
+          "count": 1,
+          "oldSha256": "c234d775060081adb935e9715fb8c52687765d593a6da042668a1ac094969efb",
+          "newSha256": "165ed20b961af108931d897795fe812f2338acaf1bd7587e881cca1a2fd7fbfe"
+        },
+        {
+          "kind": "continent-prose",
+          "count": 1,
+          "oldSha256": "0870dc0b95fdea5cfe38630a4d897fc17b6d2d4aae8884d62d8f41bf5e623321",
+          "newSha256": "1a0b52be3c470dbff805ecf1fb2218d3c9ee8639be9496ec595a0985d0488321"
+        },
+        {
+          "kind": "continent-prose",
+          "count": 1,
+          "oldSha256": "abb1d1bb1cb1a164d57b1b25342860bf42b2a81c2aa905bd3e45be5781579e67",
+          "newSha256": "50a83bce9ec1cab54f952f3d2a94e33cc4136f85fffe92068d075445570089f9"
+        },
+        {
+          "kind": "continent-prose",
+          "count": 1,
+          "oldSha256": "afa891592d2f86875e5a4a6e2d20dc516484c381374cd05a822e98ee95993ec5",
+          "newSha256": "fda936e6fb2e1bd5d2402350c3f2c41883dc3415126f35c1a8e091045b77f9a9"
+        },
+        {
+          "kind": "regional-prose",
+          "count": 1,
+          "oldSha256": "dd708620654c59e7c7d9acc55dacb88e4323765c08047c6a8fe3c4933512858a",
+          "newSha256": "90f920ccf9dd619fb3e2bfe43d0a50d7ae238f84d647c08fd5c07498da775d1a"
+        },
+        {
+          "kind": "regional-prose",
+          "count": 1,
+          "oldSha256": "2c1d011708af418ded33e812d5265f3154a6958064f17b1713b09e6b4ed3c5f1",
+          "newSha256": "2de763b103238df3dbf67942f9514b060c5746fca926ef109cd47ece5b9f0318"
+        },
+        {
+          "kind": "regional-prose",
+          "count": 1,
+          "oldSha256": "372808226a99cb805b357d2bb087db68ff9ebb2d7bf511ac890fb7dc38fc76cf",
+          "newSha256": "2efd21a1e69dbc8f22bb1c12bd51f932b71d68f0a405fc89003f9d5a3ca0ce60"
+        },
+        {
+          "kind": "regional-prose",
+          "count": 1,
+          "oldSha256": "22efba42668d2716603cb176c2f3fec0d14d4c8219bf3aadba918f0284549f5a",
+          "newSha256": "50883ecde25cddfd66167a4549175f7628cac1c4902081b812932077fd64f0c1"
+        },
+        {
+          "kind": "licensed-photograph-address",
+          "count": 1,
+          "oldSha256": "1b7f4e2d3ffc71eb4fe882b655450ee90e303955a16ce511eacd238e9c704849",
+          "newSha256": "b8e02f498a23f94b928740f051aeba726e85f0561c6241e79a7aec54ad6cd32e"
+        },
+        {
+          "kind": "licensed-photograph-address",
+          "count": 1,
+          "oldSha256": "1b05cb04f514a7b39531d4304669263e4c8002a62a96a8ce44ddd611e59c48b5",
+          "newSha256": "8c76da3108ad1411f9e2fde27aa58c25fdc170d56ed4c73f6a076ca6132d8587"
+        },
+        {
+          "kind": "licensed-photograph-address",
+          "count": 1,
+          "oldSha256": "d6a91da40b66277ba7724f10a84a58668b757a0ac144322d2c8e6511da7e2b2e",
+          "newSha256": "1f2f1b689dcc3dd5eb3b033269fc24c75cff1d079188fc80da11189ebcd8a84b"
+        },
+        {
+          "kind": "clear-uncertain-geometry-and-obsolete-credits",
+          "count": 1,
+          "oldSha256": "8a2f003f5027d0080a008468e7d85cbe60b70b1cd37c0be922951fd3b08ee312",
+          "newSha256": "8667542259d4b322a02594d142e147b6be538d32796d4ce0ae5dd5b49725702c"
+        },
+        {
+          "kind": "current-shape-limitations",
+          "count": 1,
+          "oldSha256": "d25afdc9bd7b4d413158969569580176b3f8091e2592d27e27516481a596c5d1",
+          "newSha256": "53e5eb71afdc9be30fad7baeb3873a3b814334d9a47f33dace72d77ef1d659d2"
+        },
+        {
+          "kind": "remove-obsolete-license-links",
+          "count": 1,
+          "oldSha256": "81e9ebc357faad6ae635cc8ced2c672ad2a5ca8e01d136174700a99fb1c65465",
+          "newSha256": "786e17cbeae10d14ea7edc9016c4619fef79e84ff50843925fdeb7503935891f"
+        },
+        {
+          "kind": "replace-uncertain-mesh-with-original-mathematics",
+          "count": 1,
+          "oldSha256": "2b54448e594c8e9eae209b76154256aec67f1f746c8cf76391e3105033b72f78",
+          "newSha256": "a8c628bc47d57964dac69fd1da055cf22e5f1f286ab901c9edb2e8e993010191"
+        },
+        {
+          "kind": "replace-uncertain-mesh-with-original-mathematics",
+          "count": 1,
+          "oldSha256": "7f6e709cd4ad6864cc588e549fe0d2af8aa881c8c2827673c16bd693f891bbb8",
+          "newSha256": "4f3852650a5487351e3f59a403d588f15ce563adee8a8bca757c558d340fc92b"
+        },
+        {
+          "kind": "replace-uncertain-mesh-with-original-mathematics",
+          "count": 1,
+          "oldSha256": "5f57ec2baecb8eb9da2b6049ee95ff962508481ac786424606489eed0e287b25",
+          "newSha256": "e959395f89879323ca5e267b24aee781a156fd2640b0ec2059ff53285f322022"
+        },
+        {
+          "kind": "final-full-notices-and-source-review",
+          "count": 1,
+          "oldSha256": "53e5eb71afdc9be30fad7baeb3873a3b814334d9a47f33dace72d77ef1d659d2",
+          "newSha256": "196c29653748a341ff97a83df18c124d7b9ae2cc8691076db62ef71125020384"
+        },
+        {
+          "kind": "current-schematic-dimension-metadata",
+          "count": 1,
+          "oldSha256": "8667542259d4b322a02594d142e147b6be538d32796d4ce0ae5dd5b49725702c",
+          "newSha256": "c9bcf1f47156ee09c940d1099bff2eace3304a904c0f214359751120c0e508f8"
+        },
+        {
+          "kind": "complete-final-notices",
+          "count": 1,
+          "oldSha256": "196c29653748a341ff97a83df18c124d7b9ae2cc8691076db62ef71125020384",
+          "newSha256": "813bda597cc189c2eb708083d473e242d195b9ab32a53baf66db936c90048aad"
+        },
+        {
+          "kind": "outward-faces-and-measured-dimensions",
+          "count": 1,
+          "oldSha256": "a8c628bc47d57964dac69fd1da055cf22e5f1f286ab901c9edb2e8e993010191",
+          "newSha256": "23dddc5ea55d8c42b39649fa0c1b6693da18d4726025894331843915f6cb6cde"
+        },
+        {
+          "kind": "outward-faces-and-measured-dimensions",
+          "count": 1,
+          "oldSha256": "4f3852650a5487351e3f59a403d588f15ce563adee8a8bca757c558d340fc92b",
+          "newSha256": "a2a439bcc189e4860224786af792e3cbcdb8cc2c29989350701501b34e713d69"
+        },
+        {
+          "kind": "outward-faces-and-measured-dimensions",
+          "count": 1,
+          "oldSha256": "e959395f89879323ca5e267b24aee781a156fd2640b0ec2059ff53285f322022",
+          "newSha256": "63692afc63c90440295f8aee6a9fcd293090f7a4c0b673312f39b867f336dc2b"
+        },
+        {
+          "kind": "clear-obsolete-catalog-citations-and-shape-evidence",
+          "count": 1,
+          "oldSha256": "c9bcf1f47156ee09c940d1099bff2eace3304a904c0f214359751120c0e508f8",
+          "newSha256": "5e96d6534b5194ac547a150029983628923d06a30d5573ef3bfe40ac8e0f0040"
+        },
+        {
+          "kind": "final-archive-data-grant",
+          "count": 1,
+          "oldSha256": "813bda597cc189c2eb708083d473e242d195b9ab32a53baf66db936c90048aad",
+          "newSha256": "7ace6652976d0d71dc062a102111caa23f69f4dbea56dcba741bc1989e2db98e"
+        },
+        {
+          "kind": "direct-current-data-licence-links",
+          "count": 1,
+          "oldSha256": "786e17cbeae10d14ea7edc9016c4619fef79e84ff50843925fdeb7503935891f",
+          "newSha256": "eb40f021cd3065231a57b8687f859d7085a82256ce22c800d0ad75e08a982b49"
+        }
+      ]
+    },
+    "mobile": {
+      "from": "mobile-v294-noncommercial",
+      "to": "mobile-v295-delivery",
+      "baselineSha256": "67f1437de42d9fca97fa4ed4f2b35320d5cc677b0baef8f50fae4664da20cd80",
+      "resultSha256": "79229f16320464b5bb86a9b88f33a71af670a028b9e5a51ec1be704b6f012ebf",
+      "operations": [
+        {
+          "kind": "landmark-data-and-original-text",
+          "count": 1,
+          "oldSha256": "fec4d967be7aadc6226f7f7445e64854bceb7207ed3ffb04a201648cac19930c",
+          "newSha256": "ef0e721cc60196c86830081467d28b27a39eada2fcda94894bde1c4564cc785c"
+        },
+        {
+          "kind": "licensed-observation-components",
+          "count": 1,
+          "oldSha256": "c217b6348d5ba1c3deb64c082c1c86c12161e82bbb40d3867cc5692ee69e5c19",
+          "newSha256": "8a2f003f5027d0080a008468e7d85cbe60b70b1cd37c0be922951fd3b08ee312"
+        },
+        {
+          "kind": "current-complete-credits",
+          "count": 1,
+          "oldSha256": "d62acd39bf8c43c61b23f1fff46d7e02707f865963cd67c3b42247508a5de035",
+          "newSha256": "d25afdc9bd7b4d413158969569580176b3f8091e2592d27e27516481a596c5d1"
+        },
+        {
+          "kind": "current-direct-licence-links",
+          "count": 1,
+          "oldSha256": "f70399deedcfa3d4ffe95484dd365ffe15dbfcbce83504aa72ee6e561e93fa1b",
+          "newSha256": "81e9ebc357faad6ae635cc8ced2c672ad2a5ca8e01d136174700a99fb1c65465"
+        },
+        {
+          "kind": "renamed-OFL-font",
+          "count": 1,
+          "oldSha256": "5b66d819fcb7c90baade3a025ad2e48b004ffb46f3b9fa7836be8dd5bbd1b306",
+          "newSha256": "7c83d429910b9fc1e51c6182488369ef4cfd3a3860d3ebdd19ada9a35aefcaac"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "ec852e363b4c2cbb68c6b876c5caebbd3bdd1042fcfa8c86fb43e2b713409900",
+          "newSha256": "f1f78d0a71e3e5525974958c9a6e4e0452cdc3071293b21582a75430b2713b2e"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "19ca6ada2c840561de6b823b0e3617820a6b8f07a0cce5e6c2b27e62233ed915",
+          "newSha256": "0a364da367cdef134e02ad0e72622f8581d4dadc52ea5f09efff8000365da864"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "d9cd68baf8f7f01c1c0eae9ce7206a8b776e71e69bea51a981b2dae11e96f72c",
+          "newSha256": "6e4c36ac1559f9d155079454dc4ffd2101d3c1ad896ea827f6e83a9a52c9e89d"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "e8f3c6adc55338081390e5787fe1113c078c9c8fec14592f83efdcf80c9a56c1",
+          "newSha256": "0f3b164744277bc9c8db99ff0a5033c8c63ab2510516a16503020ac9e8e70d5c"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "f41b9a3107249b35a9dae05866ea31e4c16548e18c69bde5d23bcaf84514f760",
+          "newSha256": "7c5ec4d84ff7db1ab47c4d4ab9325fc889e04df59a366d1c7225073ce74c676e"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "ecd63c363aabf7b3432c94f3c22531785438db8eac350d5405cbcf73cfce2ae7",
+          "newSha256": "d6342609d5c2a4d68db11c69271c7a63901dcbf65b8b52ca0ad72c1fe5a9ce1a"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "776ad4d556d028a7c2539a0baf58a8f36ad9a2f1351f2a35e8f7b66849e85994",
+          "newSha256": "49be6303c27a159b819b016cf5fe28c8e6bd3a5810740c7daf1ba403be6b65b3"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "a06e0b2f855659c8045502cc5ed1d24625239ac4133a0fea875ecb5bfded5bb7",
+          "newSha256": "bd3b206c097eb8ae6437d8bb1b36855b24d04e0a224c7523495e210aaf6240b9"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "4ea5e87eb6f257edd7999b6bd9dfd82f8b711bf0daee9575cd30adbdba8b1ba3",
+          "newSha256": "45b292b875a2462ddbd29782132699586787395180a00d5252b10e66bea38c6d"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "02e4e1f92aec5b8dd706df96c781ba5cda6bd338c8776e9a6305ddbf3f46a111",
+          "newSha256": "a242b34bcf55acebebbb38f8eb5d0ef7f292200b76c4c2abf07eceaa39ddb21c"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "0fe32f3aec480100c7fcdd2bd9a63dded3ffa57d0102e0990ae8f4a51ab8ec6c",
+          "newSha256": "b824993cfbae15cb3a717fd6785bc5549bb8a7fb5ad6de45a9d4befdc6956cbe"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "4574df6048ab940a691d6a59908be684175bceb18526ffbeb92e4da88b1d27fd",
+          "newSha256": "009fe541a8c8361648a978fc061615321f18333a9d6079f85e0c96826b869eea"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "4a9e1f0c479beaeef7b692fcff0328179a15e6016b4c5c8caa2bb02ce50e16e7",
+          "newSha256": "468f4f0613fba57d2418a8ae4b7bc2782796940be541255ca4cee4b8f280a41b"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "39cd8b1f3ce4a90757ae8fc6c4f6907dc7cf726ccfa5f96165712d3900e05bb3",
+          "newSha256": "ff7990af3c8ec301fbfdaf628e73cc1bc670956416825c1e71cfc9e65dd9f89a"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "2f75e5825c6b740b897d30e9207816b6e815a3fb5ebc4430bf7dc31d6d7af1e8",
+          "newSha256": "7d1cefdcbde68ab23f2667e8fa535f7a2d1273c1ecc8e80556827c432eb07dcf"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "3832ba652c6fcd981c693c6157b5cca22a869ea6856afe98ca11945f88c82e69",
+          "newSha256": "0d878aad3d2ea9f19fd48482ca68934d13ab8d3c064a071ed33a21a46528a32d"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "6d75d09be5670ce393210e21072655375bd5ce66092aabc72286403f249cef96",
+          "newSha256": "05bb7dce0b7dca0b75ebd26a907d977eb9edaf808ea13ea77212e07519dfdf44"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "6a503fd08562a0948090345f18b2500b360925c2f105fb7fe9a3389f59c4fd91",
+          "newSha256": "8d085c5b0f9ae2f87a0d2f9b4feef91eab547ae4ea524191ec2f4718d95924b2"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "9151e23c5fb29e7888f580e5df733857506f12f926de2c836e942ed8bdbf5906",
+          "newSha256": "73de70480cdeeca5ad05a141550a5c1d29fb8ae38eb73fdd1c6e20833768f633"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "c80b9e6ef5378ecbf484ca6ebae193746e1e719d0dbb8db6476935836c4dd210",
+          "newSha256": "470612c683a78ee3a47f472ea0efa475129b93cac1f9101f515a184cfdc22be0"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "a31da8df94e3a0c3fc4932b373a8bacb6caf191aefa2a2cb832b8a3b4db1a979",
+          "newSha256": "e685ae4e34b06bc730ec8fcc4c75a78a6ada172d163ff3dfa665c287cf7be8ef"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "991e7a4aa6877261271c173017da1d2ac0cc8dcd8a32a18f0588070d52455390",
+          "newSha256": "d2614ceaffbfa45e7af58a9b4775e3c2a567b46aa419cb45ea7a918d15958232"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "a3d2bf71e576bd395112dc932f2f13a8aac009ebd67c8c2b75d349fe311c5c03",
+          "newSha256": "5b740733e8949eb170ccb533681420c063dec86f3bf37a1fe1230c2b0afcbc8b"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "605a6deb458f89b9e7b698c4b10bb320a852c229660cd0d952d15f0d49dd1af1",
+          "newSha256": "c05bdc389571e4d2b3ac008493e173497c46c4f7435ac67c78a39a6448b33538"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "edbb8b1ecf31ecc7cf50a025bea9ecfcc189259375ca8f55296e12ab81d6af88",
+          "newSha256": "6e2222109549f173405ea4495392983c1454eefc8ad274afa5a0ced51824065a"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "221e3b25d6b315c5668e27b092e9502910b337e66f5dc129bf601f5ad2f7b9cc",
+          "newSha256": "9b6d23bc536898509ee78709803c6ce91d405446dcf32323023b9889189a045e"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "58f39a260ea15824b4c1d4db51a41126008bf84a1c847f99bf588a2bd23e4bad",
+          "newSha256": "0be9b94448c2bfdbe34fc3a24fb775c4b9419c7f978ad2286e5c99319454eb73"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "cca91a39d105280cbf7783bf43fc4e32090bf0b61aa9720fcdc9192db695346d",
+          "newSha256": "13757d6e7f4c00278f6fe1465257aea8e089573d5d4e5b548c3ef15453977009"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "4aec1583c512a7e064ad9d7cc1dd48022d01b2aafdd6439eb018ba4dfea89ccf",
+          "newSha256": "bf578b003ae0c83e5d4e77ee6b48f3a0e6828eb2da832db3a6e7450108c5f6ab"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "a7120b72dd9f1f765495fc049e383c969353101775a7b912a8a5bf593634913b",
+          "newSha256": "af3eee4324d0fc73b5def37ecd765b7b0a828d0d3d51da9875adf18fd155e7ba"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "301f58d0e0eb347de3ada8d854daf4b91afab0c16119020d9caf6d8339b37994",
+          "newSha256": "d5c9534e4e706d756f9cb2c38d2bd209cec81b65ad515d180d0f0f7539331529"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "8618057a5a650a0d9651c454f97971d8c21046b130bf37401ba1a2220f715b51",
+          "newSha256": "5bfc3ab15d5b3a9d48d5191c40c3a825f010ae6a742c3af3863cf45ea9e6c52b"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "958cf51683865ae25bce980a0c7e3591977bd4b672c92793e42fb30abfb9a8af",
+          "newSha256": "af55cd1c92c36979323cbab3ec90a4b36dad9fa0aded910c6438e16ebd60a50b"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "d602fb61820f0f81d23b4f79e134b7c0f33226edea0b8366bded615be7a041a9",
+          "newSha256": "45bd4f9557e9b59a9b1569f09fa6b6c53f7ebde786b9da3a4100040688ae9b27"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "18f6549224293b9656caf8f4fc62586ab160f059981527a9fae52a3007c2b310",
+          "newSha256": "a643e36ac7b33b4f6522287e0dff4e1225f25cd9e7f08b049e0d46867e63d7db"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "b6d1abd1182ebc73a119b60b6575d9f843f731de1d3582ac2b21991206fc66e1",
+          "newSha256": "76e4fad0701bc97af77f0519bcf46fcab7ad8575e6fda1b062fe447942c90f27"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "d2894b2c9c861765fcf71a360128e0d008af4a091384395bbaa3b7e58fb54951",
+          "newSha256": "768c88ce149c099c7cdb0b1e56e8ead616290f37d601e19cfedb2f472dc19696"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "b9cba0270c7c9be3fa5d21fa7cf8e8182cbc3f82a0288b1375ee37b9f23e95eb",
+          "newSha256": "08e3d4b6f5c4cfa16cf34147ca4a7090cb98c21cc8cdc6bb033a49e00b3b116f"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "f4d73323472fcc5b640a6228c43b9b5c7a549a5faa5346c9c050f23c2c1e102c",
+          "newSha256": "ac8cd017c7e980edd1dac4d5aa9a5ec99dda394ce3553f57069ed131acbeb05c"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "651bae23b89c8dbb1e38eba4176b5bc9f2f9d4efc53b4da39e0c4f5c0441852f",
+          "newSha256": "b6b3323d86fe176457aa21821c62680c46b6c96d19e53cfbb83c7458c11f108e"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "34e356c01dacc277a07cae995973bf3d81e431c4f0cf034fa00c891b4a3ef918",
+          "newSha256": "41cca17a881d1874d47138857339422a3fe9dd5c624c3a39d45e9b76affe6975"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "ddeab2d38175cc2d5147eab2ce597104ad23227dada3534bbba4e0985050b689",
+          "newSha256": "5b03ea8e45fd177d21a1a522bfed3f15b4668bf810dd1ba779d293acb1bdbccf"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "6fbee895bddd7adba761e4059d784897d28a1df189c08400fd269560ce354216",
+          "newSha256": "916292400281e94e24fb94606819e95a0254567fef7e996ca3a8b285f7180481"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "d323870c3f2bcdc76ca0626dc86e0812da8aa82d4ae6002ea3d7e794b041083e",
+          "newSha256": "4073d13c7eaccc5d495b3ed7b999fd4146dd99118f3159f43d6aa5290fa98526"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "17f3d4988e5d007e55da60cf291945dcdd0711ddb29e4774dbbfd77161762b48",
+          "newSha256": "a4544646f43a92507bd129ea1669e7c14bd400d2b10ac8f70f7aed880bd9b107"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "29dfbb06f22ba49b4eb7742892807264e0bff2cc2b599590e61159b9b6b6a637",
+          "newSha256": "187a2b07010623ff0679d3643cc2b2bb592eebb5c85334983dc3cff0453f7a0b"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "86082cb097b5cdd566fc6ecadfecf3adab3fec755ae9b397146e2f7faa3aac9a",
+          "newSha256": "e893fd0e2e99c8ea219a6a9aca39432684c4787160c2fce4980b0cede07491dc"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "d6461c7df1d90be87bc3ba32b3070bcaf5902259ae5b1e64b8a221b4a65668a1",
+          "newSha256": "a2367471a4511d4de80f89653c31aa97f99c81510edfc99ec26705340c99223d"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "ff68e13d8f2fd7a86b87c96e8a7072a46e34aa53a43d1d334f9907c9ade385a2",
+          "newSha256": "bd093977917b68f642e97f0b79b1f62ebf1c197dfcc2fc28552ff733ced6f77d"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "601100eb9ef0cd47fd8738200ebe8e85d57e6be0d4ce190aca973498544ddc4c",
+          "newSha256": "e810ef52333ae59335a28d1c0b7b41919dfaa26c91d43652e0d0c9f30a90f546"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "0aa5bfddd4fdb9f64edd583d675fcb1218652006fba993b708b79d56331f11eb",
+          "newSha256": "e9799a4c2929c2e4e063a7b2b426e8dc443e00a20c16e21f9f49f078c4071ab2"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "c8e5bca99fef024f354091ccf246fe9e34f1e233576b2a5a92cd5439aad685fa",
+          "newSha256": "d8e308f17c7e881ed1a34e8add79f369c5e9732308bf1abebe29552378468ab8"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "ab712810119af37d2072474a873c0c11b968813787afc1b83da71d5b4042768d",
+          "newSha256": "94fb732349b60cd4ddafbd3bb591ccd8022c3fede6d3c9ee30a95ccc9c2aeb12"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "cc4a196a0f924cefad03cb9159f9ea056864733f9a9b3fbadf8772e8de860357",
+          "newSha256": "b6ee9886c2517a33dd48a2e368734ae0e059644e8500c528a092574f7267313d"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "f4731b974162ba49dc2aea11c309eb61ebf46e5ea610248ab584e18cd90cf110",
+          "newSha256": "9c5561ee9bcd42395c871555b2c2b5479ad78c957f69022da5cde3d5fd5cf2f3"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "19c96c532f63a00f8d0a488f6fcd2b18ea44b384174cc037609b9a1368af6bae",
+          "newSha256": "12cac164c370f9aabd4d7754a33fc6e2650c08e08cb020ff157ba2d842c53947"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "26dd3265bf4c9a018dfb9ec4af41f990187dcc9c00ae510941ad95e34f87fd79",
+          "newSha256": "d2c6f8121d92e63c10cefaf19e7fca3a0397d4e27e497a4338547927b13a5c1c"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "c44d5fa3bf505cfbe0c2287e55438ff4198a685e5a605d73d9b071a6937fa738",
+          "newSha256": "805d231aca6cfffb3dbf50406ec8270f73e0515b89f04f06f91811b92415373e"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "64025ce9aa196427986ece5ca13e9d5a63ab820d0ddfa4a22981a3c125b187af",
+          "newSha256": "3ec83d23f4b176bfc8cea855edab90e5f45778eec3f2101005a2411e959b07c5"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "629fbb9346e6d40d5789b343ff89d7970456c122dbd2c629e96ac233808ec4e0",
+          "newSha256": "9d760266752833f52f0d66cba6850ec6cfbb97a4484f4a5a1aa1038d4d48a7c3"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "1cd6217aee1e0464fc784c2c31f93501322a3fe3d405e8fc31a64de1ca7499e0",
+          "newSha256": "75bb887eda9df82bee4d786a4c35bb47a4e0e38daf95f107cf1798a887446edf"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "69ba056b98c30e3261aec07d6d5aa980e6a0974a171030b7af4720d53ce86700",
+          "newSha256": "1dc38cf8748dc4afdffde24d6ec3f7d4ad89f15a44a3473672ce6060760a015d"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "26befed2d6b93e2571c8e59698481d1ad63d0ee5a8f352778c88abb17ba06a56",
+          "newSha256": "2a51cd4e323be6c829a1e97f43e72dcca7d72a6d13d5000320ecde323a267ca5"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "922f8998962f6598af0d9a3f9529e8f5f496692f5ee8b7e283ce78ff65588d35",
+          "newSha256": "003ba8e9f0716ccd95ac2b7cee425203b64956e7858fbf857da078244827e657"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "392e91faaa3270c57ec3caa47cd03dbbb4722b356f6d74863fa55bfe180e6d6f",
+          "newSha256": "972e60708666fc4a292a3b9f1ea02a06d0c2ac59f3ede9e361722b41fa8b3960"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "be810a049124aa00c4171f5330b5e3ba4b7ff9a1da0a9b7cae18864d2d381f6c",
+          "newSha256": "c95622eae00ffa5f144309cb79195786330eb74e78335fd3e64f52d53f35490c"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "0b582d3aad0320f1924d201238ac29c2ec81f851043a309866140bd5e5a7bb54",
+          "newSha256": "8a5c6c3c4c78b0a6b1f356467bb8b04cec74bf15fb795ad23414e2be92b4dbfb"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "7089a686088efce8e71242d5f386c3c6e82b8f0c2c5a745e7d60f7f838f12606",
+          "newSha256": "00b504acaecd37cefb07e59d3b2231e61c6c044d079ecec110468c2bfaa2d121"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "61906eee2c4025f9484379fe4ff94cb8401e28882ca89eb5ff7c4dcb4d3cb8ff",
+          "newSha256": "e137efc7c1c8939d29dd5863364e38fbd1cd282ac2d5e8730d6168846784bd7e"
+        },
+        {
+          "kind": "rewritten-astronomy-description",
+          "count": 1,
+          "oldSha256": "ca18118a478151eee09275c8e4f6ba51dc7789a0ab36a2c8aa3848fd7713cbe6",
+          "newSha256": "ff8398d36d4d3f381e725712a2b1d03af49e0069f195e3d0ad7ee1083572671d"
+        },
+        {
+          "kind": "continent-prose",
+          "count": 1,
+          "oldSha256": "09f6b143a8de5564ecded65fcea6913ee6ef10bbe7ec3e5d76cea2d63f11e868",
+          "newSha256": "eaae5a04f76a5b6142a581ff3b6d4b9ea7d1d5a5a9df47bcb850eb502bfa2fe0"
+        },
+        {
+          "kind": "continent-prose",
+          "count": 1,
+          "oldSha256": "bf9b2d7271dba1903c06c77b20988d508cd9f5223e2c7aa3895d98ca586f2838",
+          "newSha256": "cfd9b591314ed6155b19282aa8375c436bc3f23218798901d5fdc0730e9cfc56"
+        },
+        {
+          "kind": "continent-prose",
+          "count": 1,
+          "oldSha256": "fedf4c7a2a0df944697dece61feb674f8b36f92a8f4db4af5cf0df819f2696e6",
+          "newSha256": "6f8dcc4d3f3cdc496bd9015c41c27701bd15ffb58692269f6de84c6388d2e63d"
+        },
+        {
+          "kind": "continent-prose",
+          "count": 1,
+          "oldSha256": "c234d775060081adb935e9715fb8c52687765d593a6da042668a1ac094969efb",
+          "newSha256": "165ed20b961af108931d897795fe812f2338acaf1bd7587e881cca1a2fd7fbfe"
+        },
+        {
+          "kind": "continent-prose",
+          "count": 1,
+          "oldSha256": "0870dc0b95fdea5cfe38630a4d897fc17b6d2d4aae8884d62d8f41bf5e623321",
+          "newSha256": "1a0b52be3c470dbff805ecf1fb2218d3c9ee8639be9496ec595a0985d0488321"
+        },
+        {
+          "kind": "continent-prose",
+          "count": 1,
+          "oldSha256": "abb1d1bb1cb1a164d57b1b25342860bf42b2a81c2aa905bd3e45be5781579e67",
+          "newSha256": "50a83bce9ec1cab54f952f3d2a94e33cc4136f85fffe92068d075445570089f9"
+        },
+        {
+          "kind": "continent-prose",
+          "count": 1,
+          "oldSha256": "afa891592d2f86875e5a4a6e2d20dc516484c381374cd05a822e98ee95993ec5",
+          "newSha256": "fda936e6fb2e1bd5d2402350c3f2c41883dc3415126f35c1a8e091045b77f9a9"
+        },
+        {
+          "kind": "regional-prose",
+          "count": 1,
+          "oldSha256": "dd708620654c59e7c7d9acc55dacb88e4323765c08047c6a8fe3c4933512858a",
+          "newSha256": "90f920ccf9dd619fb3e2bfe43d0a50d7ae238f84d647c08fd5c07498da775d1a"
+        },
+        {
+          "kind": "regional-prose",
+          "count": 1,
+          "oldSha256": "2c1d011708af418ded33e812d5265f3154a6958064f17b1713b09e6b4ed3c5f1",
+          "newSha256": "2de763b103238df3dbf67942f9514b060c5746fca926ef109cd47ece5b9f0318"
+        },
+        {
+          "kind": "regional-prose",
+          "count": 1,
+          "oldSha256": "372808226a99cb805b357d2bb087db68ff9ebb2d7bf511ac890fb7dc38fc76cf",
+          "newSha256": "2efd21a1e69dbc8f22bb1c12bd51f932b71d68f0a405fc89003f9d5a3ca0ce60"
+        },
+        {
+          "kind": "regional-prose",
+          "count": 1,
+          "oldSha256": "22efba42668d2716603cb176c2f3fec0d14d4c8219bf3aadba918f0284549f5a",
+          "newSha256": "50883ecde25cddfd66167a4549175f7628cac1c4902081b812932077fd64f0c1"
+        },
+        {
+          "kind": "licensed-photograph-address",
+          "count": 1,
+          "oldSha256": "1b7f4e2d3ffc71eb4fe882b655450ee90e303955a16ce511eacd238e9c704849",
+          "newSha256": "b8e02f498a23f94b928740f051aeba726e85f0561c6241e79a7aec54ad6cd32e"
+        },
+        {
+          "kind": "licensed-photograph-address",
+          "count": 1,
+          "oldSha256": "1b05cb04f514a7b39531d4304669263e4c8002a62a96a8ce44ddd611e59c48b5",
+          "newSha256": "8c76da3108ad1411f9e2fde27aa58c25fdc170d56ed4c73f6a076ca6132d8587"
+        },
+        {
+          "kind": "licensed-photograph-address",
+          "count": 1,
+          "oldSha256": "d6a91da40b66277ba7724f10a84a58668b757a0ac144322d2c8e6511da7e2b2e",
+          "newSha256": "1f2f1b689dcc3dd5eb3b033269fc24c75cff1d079188fc80da11189ebcd8a84b"
+        },
+        {
+          "kind": "clear-uncertain-geometry-and-obsolete-credits",
+          "count": 1,
+          "oldSha256": "8a2f003f5027d0080a008468e7d85cbe60b70b1cd37c0be922951fd3b08ee312",
+          "newSha256": "8667542259d4b322a02594d142e147b6be538d32796d4ce0ae5dd5b49725702c"
+        },
+        {
+          "kind": "current-shape-limitations",
+          "count": 1,
+          "oldSha256": "d25afdc9bd7b4d413158969569580176b3f8091e2592d27e27516481a596c5d1",
+          "newSha256": "53e5eb71afdc9be30fad7baeb3873a3b814334d9a47f33dace72d77ef1d659d2"
+        },
+        {
+          "kind": "remove-obsolete-license-links",
+          "count": 1,
+          "oldSha256": "81e9ebc357faad6ae635cc8ced2c672ad2a5ca8e01d136174700a99fb1c65465",
+          "newSha256": "786e17cbeae10d14ea7edc9016c4619fef79e84ff50843925fdeb7503935891f"
+        },
+        {
+          "kind": "replace-uncertain-mesh-with-original-mathematics",
+          "count": 1,
+          "oldSha256": "2b54448e594c8e9eae209b76154256aec67f1f746c8cf76391e3105033b72f78",
+          "newSha256": "a8c628bc47d57964dac69fd1da055cf22e5f1f286ab901c9edb2e8e993010191"
+        },
+        {
+          "kind": "replace-uncertain-mesh-with-original-mathematics",
+          "count": 1,
+          "oldSha256": "7f6e709cd4ad6864cc588e549fe0d2af8aa881c8c2827673c16bd693f891bbb8",
+          "newSha256": "4f3852650a5487351e3f59a403d588f15ce563adee8a8bca757c558d340fc92b"
+        },
+        {
+          "kind": "replace-uncertain-mesh-with-original-mathematics",
+          "count": 1,
+          "oldSha256": "5f57ec2baecb8eb9da2b6049ee95ff962508481ac786424606489eed0e287b25",
+          "newSha256": "e959395f89879323ca5e267b24aee781a156fd2640b0ec2059ff53285f322022"
+        },
+        {
+          "kind": "final-full-notices-and-source-review",
+          "count": 1,
+          "oldSha256": "53e5eb71afdc9be30fad7baeb3873a3b814334d9a47f33dace72d77ef1d659d2",
+          "newSha256": "196c29653748a341ff97a83df18c124d7b9ae2cc8691076db62ef71125020384"
+        },
+        {
+          "kind": "current-schematic-dimension-metadata",
+          "count": 1,
+          "oldSha256": "8667542259d4b322a02594d142e147b6be538d32796d4ce0ae5dd5b49725702c",
+          "newSha256": "c9bcf1f47156ee09c940d1099bff2eace3304a904c0f214359751120c0e508f8"
+        },
+        {
+          "kind": "complete-final-notices",
+          "count": 1,
+          "oldSha256": "196c29653748a341ff97a83df18c124d7b9ae2cc8691076db62ef71125020384",
+          "newSha256": "813bda597cc189c2eb708083d473e242d195b9ab32a53baf66db936c90048aad"
+        },
+        {
+          "kind": "outward-faces-and-measured-dimensions",
+          "count": 1,
+          "oldSha256": "a8c628bc47d57964dac69fd1da055cf22e5f1f286ab901c9edb2e8e993010191",
+          "newSha256": "23dddc5ea55d8c42b39649fa0c1b6693da18d4726025894331843915f6cb6cde"
+        },
+        {
+          "kind": "outward-faces-and-measured-dimensions",
+          "count": 1,
+          "oldSha256": "4f3852650a5487351e3f59a403d588f15ce563adee8a8bca757c558d340fc92b",
+          "newSha256": "a2a439bcc189e4860224786af792e3cbcdb8cc2c29989350701501b34e713d69"
+        },
+        {
+          "kind": "outward-faces-and-measured-dimensions",
+          "count": 1,
+          "oldSha256": "e959395f89879323ca5e267b24aee781a156fd2640b0ec2059ff53285f322022",
+          "newSha256": "63692afc63c90440295f8aee6a9fcd293090f7a4c0b673312f39b867f336dc2b"
+        },
+        {
+          "kind": "clear-obsolete-catalog-citations-and-shape-evidence",
+          "count": 1,
+          "oldSha256": "c9bcf1f47156ee09c940d1099bff2eace3304a904c0f214359751120c0e508f8",
+          "newSha256": "5e96d6534b5194ac547a150029983628923d06a30d5573ef3bfe40ac8e0f0040"
+        },
+        {
+          "kind": "final-archive-data-grant",
+          "count": 1,
+          "oldSha256": "813bda597cc189c2eb708083d473e242d195b9ab32a53baf66db936c90048aad",
+          "newSha256": "7ace6652976d0d71dc062a102111caa23f69f4dbea56dcba741bc1989e2db98e"
+        },
+        {
+          "kind": "direct-current-data-licence-links",
+          "count": 1,
+          "oldSha256": "786e17cbeae10d14ea7edc9016c4619fef79e84ff50843925fdeb7503935891f",
+          "newSha256": "eb40f021cd3065231a57b8687f859d7085a82256ce22c800d0ad75e08a982b49"
+        }
+      ]
+    }
+  },
+  "licensingPreparation": {
+    "scope": "Only licence disclosure HTML changes; no JS, CSS, catalog or resource edits. Existing observation/data audit is retained.",
+    "platforms": {
+      "desktop": {
+        "previousRuntimeSha256": "bc8474c812b44a5902b490715b0fe5e115c1c24337dd3e4c5ca5395e30a7fb1a",
+        "resultSha256": "ec822d121897848aa970e9bef6fa5f7068cb893c27a992f73a30667a83fc92c9",
+        "documents": [
+          "NONCOMMERCIAL_SHARING.md",
+          "FULL_RIGHTS_REVIEW.md",
+          "THIRD_PARTY_LICENSES.md",
+          "LICENSE",
+          "LICENSING.md",
+          "NOTICE"
+        ],
+        "preservedScriptBlocks": true,
+        "preservedStyleBlocks": true
+      },
+      "mobile": {
+        "previousRuntimeSha256": "090fd57c2d4ee4b2ea12f437d7770837973fa4cbdb900ada66f55c47cac5afa6",
+        "resultSha256": "08419e5baeea243016020381da9c7a1e51eedc750708042088ad5e185f2c81ce",
+        "documents": [
+          "NONCOMMERCIAL_SHARING.md",
+          "FULL_RIGHTS_REVIEW.md",
+          "THIRD_PARTY_LICENSES.md",
+          "LICENSE",
+          "LICENSING.md",
+          "NOTICE"
+        ],
+        "preservedScriptBlocks": true,
+        "preservedStyleBlocks": true
+      }
+    }
+  },
+  "finalSourceReview": {
+    "date": "2026-10-13",
+    "scope": "Licence/source notices and standalone metadata cleanup only; no program, scene, geometry, photo, map, sound or font changes.",
+    "platforms": {
+      "desktop": {
+        "previousRuntimeSha256": "ec822d121897848aa970e9bef6fa5f7068cb893c27a992f73a30667a83fc92c9",
+        "resultSha256": "68c91e07df2be282870957098608a5cd3950e1e207fe607c35b7cdd596719ed0",
+        "programBlocksUnchanged": true,
+        "styleBlocksUnchanged": true
+      },
+      "mobile": {
+        "previousRuntimeSha256": "08419e5baeea243016020381da9c7a1e51eedc750708042088ad5e185f2c81ce",
+        "resultSha256": "79229f16320464b5bb86a9b88f33a71af670a028b9e5a51ec1be704b6f012ebf",
+        "programBlocksUnchanged": true,
+        "styleBlocksUnchanged": true
+      }
+    }
+  }
+}

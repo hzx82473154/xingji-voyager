@@ -1,0 +1,204 @@
+{
+  "date": "2026-10-13",
+  "scope": "Current source, declared upstream dependencies, all credited photo data, resource/source hashes, metadata and release safety. No claim of internet-wide code matching or zero legal dispute.",
+  "knownUnresolvedSourceOrAttributionGaps": [],
+  "sourceFilesReviewed": 47,
+  "imports": [
+    {
+      "path": "src/black-hole-lens.js",
+      "module": "three",
+      "licence": "Three.js MIT"
+    },
+    {
+      "path": "src/boundary-drape.js",
+      "module": "three",
+      "licence": "Three.js MIT"
+    },
+    {
+      "path": "src/catalog.js",
+      "module": "three",
+      "licence": "Three.js MIT"
+    },
+    {
+      "path": "src/celestial-models.js",
+      "module": "three",
+      "licence": "Three.js MIT"
+    },
+    {
+      "path": "src/celestial-physics.js",
+      "module": "three",
+      "licence": "Three.js MIT"
+    },
+    {
+      "path": "src/earth-detail.js",
+      "module": "three",
+      "licence": "Three.js MIT"
+    },
+    {
+      "path": "src/earth-geography.js",
+      "module": "three",
+      "licence": "Three.js MIT"
+    },
+    {
+      "path": "src/earth-geography.js",
+      "module": "three/addons/lines/LineSegments2.js",
+      "licence": "Three.js MIT"
+    },
+    {
+      "path": "src/earth-geography.js",
+      "module": "three/addons/lines/LineSegmentsGeometry.js",
+      "licence": "Three.js MIT"
+    },
+    {
+      "path": "src/earth-geography.js",
+      "module": "three/addons/lines/LineMaterial.js",
+      "licence": "Three.js MIT"
+    },
+    {
+      "path": "src/extended-catalog.js",
+      "module": "three",
+      "licence": "Three.js MIT"
+    },
+    {
+      "path": "src/extended-models.js",
+      "module": "three",
+      "licence": "Three.js MIT"
+    },
+    {
+      "path": "src/free-orbit.js",
+      "module": "three",
+      "licence": "Three.js MIT"
+    },
+    {
+      "path": "src/moons.js",
+      "module": "three",
+      "licence": "Three.js MIT"
+    },
+    {
+      "path": "src/orbit-path.js",
+      "module": "three",
+      "licence": "Three.js MIT"
+    },
+    {
+      "path": "src/particle-material.js",
+      "module": "three",
+      "licence": "Three.js MIT"
+    },
+    {
+      "path": "src/rings.js",
+      "module": "three",
+      "licence": "Three.js MIT"
+    },
+    {
+      "path": "src/sky.js",
+      "module": "three",
+      "licence": "Three.js MIT"
+    },
+    {
+      "path": "src/solar-pivot.js",
+      "module": "three",
+      "licence": "Three.js MIT"
+    },
+    {
+      "path": "src/universe.js",
+      "module": "three",
+      "licence": "Three.js MIT"
+    },
+    {
+      "path": "src/universe.js",
+      "module": "three/addons/postprocessing/EffectComposer.js",
+      "licence": "Three.js MIT"
+    },
+    {
+      "path": "src/universe.js",
+      "module": "three/addons/postprocessing/RenderPass.js",
+      "licence": "Three.js MIT"
+    },
+    {
+      "path": "src/universe.js",
+      "module": "three/addons/postprocessing/UnrealBloomPass.js",
+      "licence": "Three.js MIT"
+    },
+    {
+      "path": "src/universe.js",
+      "module": "three/addons/postprocessing/OutputPass.js",
+      "licence": "Three.js MIT"
+    }
+  ],
+  "thirdPartyPackages": [
+    {
+      "name": "three",
+      "version": "0.180.0",
+      "licence": "MIT",
+      "actualLicenceSha256": "bfe119ea4fd413f5f7ca3fcd63adb0c4a073ed39daa2fe7d3e6b769e21272601",
+      "copyrightPreserved": true
+    },
+    {
+      "name": "esbuild",
+      "version": "0.25.11",
+      "licence": "MIT",
+      "actualLicenceSha256": "b40ec5baec7bb34fa5b1c09521fa3cd52d5fad7adafed74932a2010d3612a681",
+      "copyrightPreserved": true
+    }
+  ],
+  "registeredResources": 1277,
+  "lazyResources": 1265,
+  "allPhotosCreditsMatched": 220,
+  "sourceCompilesDesktopAndMobile": true,
+  "sourceCacheWholeHtmlRemoved": 2,
+  "sourceCacheDigestsRetained": 27,
+  "meshSizesAndFacesCorrected": 3,
+  "originalModelCoordinatesReproduce": true,
+  "assetCatalogMetadataFilesClassified": true,
+  "noExternalTemplateDependencyDetected": true,
+  "existingSourceFilesChanged": [
+    "FULL_RIGHTS_REVIEW.md",
+    "GITHUB_PREPARE.md",
+    "LICENSING.md",
+    "NONCOMMERCIAL_SHARING.md",
+    "NOTICE",
+    "README.md",
+    "RELEASE_CHECK.md",
+    "assets/surfaces/sources.json",
+    "catalogs/LICENSES.md",
+    "catalogs/surface-source-snapshot.json",
+    "desktop-v295-delivery/manifest.json",
+    "desktop-v295-delivery/runtime.html.gz",
+    "mobile-v295-delivery/manifest.json",
+    "mobile-v295-delivery/runtime.html.gz",
+    "src/exploration.js",
+    "src/license-credits.html",
+    "src/shell.html",
+    "validation/full-rights-evidence/rights-inventory.json",
+    "validation/full-rights-evidence/runtime-migration.json",
+    "validation/full-rights-evidence/source-ui-review.json"
+  ],
+  "allPhotographsMapsAudioFontAndGeometryBytesPreserved": true,
+  "websiteChanged": false,
+  "githubUploaded": false,
+  "thirdPartyLicenceNoticesRemoved": false,
+  "existingNoncommercialMaterialsRetained": true,
+  "realDeviceTests": "not performed; unrelated to copyright provenance review",
+  "openSourceScope": "Original program MIT; assembled data/media distribution uses separate applicable terms.",
+  "codeSimilarityScope": "Reference/import/notice scan and source compilation; no remote corpus similarity test.",
+  "validationResults": {
+    "v2.9.5-static-results.json": {
+      "passed": true,
+      "checks": 8,
+      "date": "2026-10-13T07:47:18.118Z",
+      "engine": "Node source/build and asset-integrity checks; no browser"
+    },
+    "v2.9-protected-results.json": {
+      "passed": true,
+      "checks": 12,
+      "date": "2026-10-13T07:47:28.055Z",
+      "engine": "Full desktop/mobile core decryption, current shared content identity, offline resource bytes, password and ciphertext audit; no browser rendering"
+    },
+    "v2.9-production-startup-results.json": {
+      "passed": true,
+      "checks": 4,
+      "date": "2026-10-13T07:47:37.397Z",
+      "engine": "Production desktop/mobile password gate + resource module + Web Crypto; hosted stale-response repair and complete offline resource access after document replacement; no browser/GPU rendering"
+    }
+  }
+}

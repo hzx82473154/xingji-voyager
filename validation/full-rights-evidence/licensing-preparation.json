@@ -1,0 +1,33 @@
+{
+  "scope": "Only licence disclosure HTML changes; no JS, CSS, catalog or resource edits. Existing observation/data audit is retained.",
+  "platforms": {
+    "desktop": {
+      "previousRuntimeSha256": "bc8474c812b44a5902b490715b0fe5e115c1c24337dd3e4c5ca5395e30a7fb1a",
+      "resultSha256": "ec822d121897848aa970e9bef6fa5f7068cb893c27a992f73a30667a83fc92c9",
+      "documents": [
+        "NONCOMMERCIAL_SHARING.md",
+        "FULL_RIGHTS_REVIEW.md",
+        "THIRD_PARTY_LICENSES.md",
+        "LICENSE",
+        "LICENSING.md",
+        "NOTICE"
+      ],
+      "preservedScriptBlocks": true,
+      "preservedStyleBlocks": true
+    },
+    "mobile": {
+      "previousRuntimeSha256": "090fd57c2d4ee4b2ea12f437d7770837973fa4cbdb900ada66f55c47cac5afa6",
+      "resultSha256": "08419e5baeea243016020381da9c7a1e51eedc750708042088ad5e185f2c81ce",
+      "documents": [
+        "NONCOMMERCIAL_SHARING.md",
+        "FULL_RIGHTS_REVIEW.md",
+        "THIRD_PARTY_LICENSES.md",
+        "LICENSE",
+        "LICENSING.md",
+        "NOTICE"
+      ],
+      "preservedScriptBlocks": true,
+      "preservedStyleBlocks": true
+    }
+  }
+}

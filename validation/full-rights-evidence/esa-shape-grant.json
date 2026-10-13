@@ -1,0 +1,11 @@
+{
+  "asset": "assets/surfaces/67p-shape.json",
+  "grantSource": "https://www.cosmos.esa.int/web/esdc/terms-and-conditions",
+  "primaryData": "https://archives.esac.esa.int/psa/ftp/INTERNATIONAL-ROSETTA-MISSION/SHAPE/RO-C-MULTI-5-67P-SHAPE-V2.0/DATA/TRIPLATE/SPC_ESA/MTP019/CSHP_DV_130_01_LORES_OBJ.OBJ",
+  "primarySourceBytes": 5157570,
+  "sha256": "e90fd0b7d86bc826cf967e2e0234a945c55be7dfd2f710c00e11ed953b14f801",
+  "identicalProcessedSource": true,
+  "policyResponseSha256": "0be2837488115566f9d00506c229ba1a56db4a4eadea69c56982a31ff892474b",
+  "licence": "CC BY-NC 3.0 IGO",
+  "photoLicenceDistinct": true
+}

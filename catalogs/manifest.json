@@ -1,0 +1,74 @@
+{
+  "retrievedAt": "2026-10-09T15:59:36.369314+00:00",
+  "hygVersion": "4.1",
+  "stellarEpoch": "J2000.0",
+  "nasaTable": "ps, default_flag=1",
+  "counts": {
+    "stars": 119625,
+    "planets": 6445,
+    "galaxies": 10750,
+    "systemCoordinates": 4814
+  },
+  "positionedStars": 109400,
+  "sources": {
+    "hyg": {
+      "url": "https://raw.githubusercontent.com/astronexus/HYG-Database/main/hyg/CURRENT/hygdata_v41.csv",
+      "sha256": "d9f69fd86bbf90a4e4d52b4c5c53eacfa6dfc0bfdef85bfd94f095e0bebe4ebd"
+    },
+    "nasa": {
+      "url": "https://exoplanetarchive.ipac.caltech.edu/TAP/sync?query=select+pl_name%2Chostname%2Cra%2Cdec%2Csy_dist%2Cpl_orbper%2Cpl_rade%2Cpl_orbsmax%2Cpl_orbeccen%2Cpl_orbincl%2Cpl_orblper%2Cpl_orbtper%2Cst_rad%2Cst_teff%2Cst_rotp%2Cgaia_dr3_id+from+ps+where+default_flag%3D1&format=json",
+      "sha256": "2bcf70385672df1715c56b846f4c0ac026c92017d2c7cfbff517da57a25d27e6"
+    },
+    "coordinates": {
+      "url": "https://exoplanetarchive.ipac.caltech.edu/TAP/sync?query=select+pl_name%2Chostname%2Cra%2Cdec%2Csy_dist%2Cpl_orbper%2Cpl_rade%2Cpl_orbsmax%2Cst_rad%2Cst_teff+from+pscomppars&format=json",
+      "sha256": "156c71998a1a89c35985155513afd75c868648734141350c1b63a394087ddcfd"
+    },
+    "ngc": {
+      "url": "https://raw.githubusercontent.com/mattiaverga/OpenNGC/master/database_files/NGC.csv",
+      "sha256": "d3cd7f1ab83122e81b3453d765d93b6dbbb15c910716c9e4ff99c7e916cb2218"
+    }
+  },
+  "columns": {
+    "stars": [
+      "id",
+      "name",
+      "raDeg",
+      "decDeg",
+      "distanceLy",
+      "Vmag",
+      "spectralType",
+      "BminusV",
+      "aliases"
+    ],
+    "planets": [
+      "name",
+      "host",
+      "raDeg",
+      "decDeg",
+      "distancePc",
+      "orbitalPeriodDays",
+      "radiusEarth",
+      "semimajorAU",
+      "eccentricity",
+      "inclinationDeg",
+      "argPeriastronDeg",
+      "periastronJD",
+      "stellarRadiusSolar",
+      "stellarTeffK",
+      "stellarRotationDays",
+      "gaiaDR3Id"
+    ],
+    "galaxies": [
+      "NGCIC",
+      "messierAlias",
+      "commonNames",
+      "raDeg",
+      "decDeg",
+      "redshift",
+      "majorArcmin",
+      "minorArcmin",
+      "hubbleType",
+      "positionAngleDeg"
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-11",
+  "applicationVersion": "2.9.5",
+  "websiteModified": false,
+  "githubUploaded": false,
+  "resourceAuditRepeated": false,
+  "originalSourcePayloadFiles": 1394,
+  "changedExistingFiles": [
+    ".gitignore",
+    "FULL_RIGHTS_REVIEW.md",
+    "LICENSE",
+    "NONCOMMERCIAL_SHARING.md",
+    "README.md",
+    "REAL_SCALE.md",
+    "THIRD_PARTY_LICENSES.md",
+    "desktop-v295-delivery/manifest.json",
+    "desktop-v295-delivery/runtime.html.gz",
+    "mobile-v295-delivery/manifest.json",
+    "mobile-v295-delivery/runtime.html.gz",
+    "package-lock.json",
+    "package.json",
+    "src/license-credits.html",
+    "src/shell.html",
+    "validation/full-rights-evidence/rights-inventory.json",
+    "validation/full-rights-evidence/runtime-migration.json"
+  ],
+  "resourceBytesPreserved": true,
+  "allProgramLogicAndCssPreserved": true,
+  "licence": "MIT for original program portions; media/data exclusions in LICENSING.md",
+  "runtimeDisclosures": {
+    "scope": "Only licence disclosure HTML changes; no JS, CSS, catalog or resource edits. Existing observation/data audit is retained.",
+    "platforms": {
+      "desktop": {
+        "previousRuntimeSha256": "bc8474c812b44a5902b490715b0fe5e115c1c24337dd3e4c5ca5395e30a7fb1a",
+        "resultSha256": "ec822d121897848aa970e9bef6fa5f7068cb893c27a992f73a30667a83fc92c9",
+        "documents": [
+          "NONCOMMERCIAL_SHARING.md",
+          "FULL_RIGHTS_REVIEW.md",
+          "THIRD_PARTY_LICENSES.md",
+          "LICENSE",
+          "LICENSING.md",
+          "NOTICE"
+        ],
+        "preservedScriptBlocks": true,
+        "preservedStyleBlocks": true
+      },
+      "mobile": {
+        "previousRuntimeSha256": "090fd57c2d4ee4b2ea12f437d7770837973fa4cbdb900ada66f55c47cac5afa6",
+        "resultSha256": "08419e5baeea243016020381da9c7a1e51eedc750708042088ad5e185f2c81ce",
+        "documents": [
+          "NONCOMMERCIAL_SHARING.md",
+          "FULL_RIGHTS_REVIEW.md",
+          "THIRD_PARTY_LICENSES.md",
+          "LICENSE",
+          "LICENSING.md",
+          "NOTICE"
+        ],
+        "preservedScriptBlocks": true,
+        "preservedStyleBlocks": true
+      }
+    }
+  },
+  "cleanBuild": true,
+  "temporaryBuildPasswordPersisted": false,
+  "automatedChecks": {
+    "v2.9.5-static-results.json": {
+      "passed": true,
+      "checks": 8,
+      "engine": "Node source/build and asset-integrity checks; no browser",
+      "resources": null
+    },
+    "v2.9-protected-results.json": {
+      "passed": true,
+      "checks": 12,
+      "engine": "Full desktop/mobile core decryption, current shared content identity, offline resource bytes, password and ciphertext audit; no browser rendering",
+      "resources": null
+    },
+    "v2.9-production-startup-results.json": {
+      "passed": true,
+      "checks": 4,
+      "engine": "Production desktop/mobile password gate + resource module + Web Crypto; hosted stale-response repair and complete offline resource access after document replacement; no browser/GPU rendering",
+      "resources": null
+    },
+    "v2.9.5-rights-results.json": {
+      "passed": true,
+      "checks": null,
+      "engine": null,
+      "resources": 1265
+    }
+  },
+  "realDeviceTests": {
+    "desktop": "not performed",
+    "mobile": "not performed",
+    "fps80or120": "not measured"
+  },
+  "ORBITComparison": "not required by this task"
+}

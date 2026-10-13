@@ -1,0 +1,1885 @@
+{
+  "retrieved": "2026-10-09",
+  "assets": [
+    {
+      "body": "venus",
+      "file": "surfaces/venus-map.jpg",
+      "source": "https://github.com/nasa/NASA-3D-Resources/blob/master/Images%20and%20Textures/Venus/Venus.jpg",
+      "sha256": "0785ce422de92be9982a750eb8612fa6955a30cf6a872d8b0a1851eb1cd3d60a",
+      "bytes": 486768,
+      "dimensions": [
+        1440,
+        720
+      ],
+      "sourceSha256": "e395bced59e95339efbdd002d4a0bbbf81fe323a6694f3a4039120560c80e789",
+      "processing": "JPEG recompression at original resolution, no recoloring or inpainting",
+      "attribution": {
+        "url": "https://github.com/nasa/NASA-3D-Resources/blob/master/Images%20and%20Textures/Venus/Venus.jpg",
+        "credit": "NASA 3D Resources / JPL Solar System Simulator",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "Original mission-based texture (Voyager/Galileo/Cassini/Magellan; Mars moons Viking). Unmapped gaps remain as supplied; no enlargement or generative fill."
+      }
+    },
+    {
+      "body": "phobos",
+      "file": "surfaces/phobos-uv.jpg",
+      "source": "https://science.nasa.gov/resource/phobos-mars-moon-3d-model/",
+      "sha256": "b0ce9de2eaa9bd409a4a184e162b9e2a0688e04258abe7ce3dd726695d96379a",
+      "bytes": 503259,
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "processing": "Original embedded texture converted to JPEG; original geometry UV coordinates preserved",
+      "attribution": {
+        "url": "https://science.nasa.gov/resource/phobos-mars-moon-3d-model/",
+        "credit": "NASA/JPL-Caltech",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "NASA GLB geometry, original UV coordinates and exact associated texture; no procedural replacement."
+      }
+    },
+    {
+      "body": "phobos",
+      "file": "surfaces/phobos-shape.json",
+      "source": "https://science.nasa.gov/resource/phobos-mars-moon-3d-model/",
+      "sha256": "150f10d96cd94d30c22ee052f311e493d65e464a3ecf75399aa6ad61ec5295b6",
+      "bytes": 1299089,
+      "vertices": 16449,
+      "faces": 32040,
+      "processing": "Original geometry and UVs preserved; bounds-centered and normalized",
+      "attribution": {
+        "url": "https://science.nasa.gov/resource/phobos-mars-moon-3d-model/",
+        "credit": "NASA/JPL-Caltech",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "NASA GLB geometry, original UV coordinates and exact associated texture; no procedural replacement."
+      },
+      "sourceSha256": "757712101e4fbcf9527942ee664a3bc6dfe3ab460466b760f4bf51ee85dbd8d3"
+    },
+    {
+      "body": "deimos",
+      "file": "surfaces/deimos-uv.jpg",
+      "source": "https://science.nasa.gov/resource/deimos-mars-moon-3d-model/",
+      "sha256": "129a5bede0102fdd34df66f5c339b621762878865d9eaeab5174a13c3c4a4a5c",
+      "bytes": 136197,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "processing": "Original embedded texture converted to JPEG; original geometry UV coordinates preserved",
+      "attribution": {
+        "url": "https://science.nasa.gov/resource/deimos-mars-moon-3d-model/",
+        "credit": "NASA/JPL-Caltech",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "NASA GLB geometry, original UV coordinates and exact associated texture; no procedural replacement."
+      }
+    },
+    {
+      "body": "deimos",
+      "file": "surfaces/deimos-shape.json",
+      "source": "https://science.nasa.gov/resource/deimos-mars-moon-3d-model/",
+      "sha256": "00188b8fe13473190331d5e46c90e57ddeec6f2a6dce51c319b61fe205a6b2f0",
+      "bytes": 1318901,
+      "vertices": 16649,
+      "faces": 32512,
+      "processing": "Original geometry and UVs preserved; bounds-centered and normalized",
+      "attribution": {
+        "url": "https://science.nasa.gov/resource/deimos-mars-moon-3d-model/",
+        "credit": "NASA/JPL-Caltech",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "NASA GLB geometry, original UV coordinates and exact associated texture; no procedural replacement."
+      },
+      "sourceSha256": "5d5da763970acffe88aac26d3c3bd0fa66c5bef251d1bb4bfe2ae5fd723507e4"
+    },
+    {
+      "body": "io",
+      "file": "surfaces/io-map.jpg",
+      "source": "https://github.com/nasa/NASA-3D-Resources/blob/master/Images%20and%20Textures/Jupiter%20-%20Io%20%28A%29/Jupiter%20-%20Io%20%28A%29.jpg",
+      "sha256": "03cb1bde77b85197bc03e555e6e82764ca94e80a639f75392d48d16f59ee0836",
+      "bytes": 285475,
+      "dimensions": [
+        1440,
+        720
+      ],
+      "sourceSha256": "fdd79a58331864ec1f93035b3ebb92767b01715d2ce75d5b73cf8537b6af3382",
+      "processing": "JPEG recompression at original resolution, no recoloring or inpainting",
+      "attribution": {
+        "url": "https://github.com/nasa/NASA-3D-Resources/blob/master/Images%20and%20Textures/Jupiter%20-%20Io%20%28A%29/Jupiter%20-%20Io%20%28A%29.jpg",
+        "credit": "NASA 3D Resources / JPL Solar System Simulator",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "Original mission-based texture (Voyager/Galileo/Cassini/Magellan; Mars moons Viking). Unmapped gaps remain as supplied; no enlargement or generative fill."
+      }
+    },
+    {
+      "body": "europa",
+      "file": "surfaces/europa-map.jpg",
+      "source": "https://github.com/nasa/NASA-3D-Resources/blob/master/Images%20and%20Textures/Jupiter%20-%20Europa/Jupiter%20-%20Europa.jpg",
+      "sha256": "286a68314015dca95afaad4a547c81b58126d65ece8ff07bb659b83210a6d28d",
+      "bytes": 277529,
+      "dimensions": [
+        1440,
+        720
+      ],
+      "sourceSha256": "50d01ca5c01352d1c507bb17fefd1c46ba11260305656250062c6cdac89c8ebf",
+      "processing": "JPEG recompression at original resolution, no recoloring or inpainting",
+      "attribution": {
+        "url": "https://github.com/nasa/NASA-3D-Resources/blob/master/Images%20and%20Textures/Jupiter%20-%20Europa/Jupiter%20-%20Europa.jpg",
+        "credit": "NASA 3D Resources / JPL Solar System Simulator",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "Original mission-based texture (Voyager/Galileo/Cassini/Magellan; Mars moons Viking). Unmapped gaps remain as supplied; no enlargement or generative fill."
+      }
+    },
+    {
+      "body": "ganymede",
+      "file": "surfaces/ganymede-map.jpg",
+      "source": "https://github.com/nasa/NASA-3D-Resources/blob/master/Images%20and%20Textures/Jupiter%20-%20Ganymede/Jupiter%20-%20Ganymede.jpg",
+      "sha256": "5ee6fed2c6054a47cb181aa38c967eaac223df7cf50c17f018a72cabe41ecafe",
+      "bytes": 362166,
+      "dimensions": [
+        1440,
+        720
+      ],
+      "sourceSha256": "1aa9d5a6f20e72230c13ce3d78592fc056e22f1e1ee39ea7acfa7e08d09fe173",
+      "processing": "JPEG recompression at original resolution, no recoloring or inpainting",
+      "attribution": {
+        "url": "https://github.com/nasa/NASA-3D-Resources/blob/master/Images%20and%20Textures/Jupiter%20-%20Ganymede/Jupiter%20-%20Ganymede.jpg",
+        "credit": "NASA 3D Resources / JPL Solar System Simulator",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "Original mission-based texture (Voyager/Galileo/Cassini/Magellan; Mars moons Viking). Unmapped gaps remain as supplied; no enlargement or generative fill."
+      }
+    },
+    {
+      "body": "callisto",
+      "file": "surfaces/callisto-map.jpg",
+      "source": "https://github.com/nasa/NASA-3D-Resources/blob/master/Images%20and%20Textures/Jupiter%20-%20Callisto/Jupiter%20-%20Callisto.jpg",
+      "sha256": "e69539943c4cd19de0c13f91606f1c15842d575be565a24e40af7c1a00199c24",
+      "bytes": 429991,
+      "dimensions": [
+        1440,
+        720
+      ],
+      "sourceSha256": "b9f4fa5db94debabd12814853fd132db3449889646a490b6f95a897b2c47b121",
+      "processing": "JPEG recompression at original resolution, no recoloring or inpainting",
+      "attribution": {
+        "url": "https://github.com/nasa/NASA-3D-Resources/blob/master/Images%20and%20Textures/Jupiter%20-%20Callisto/Jupiter%20-%20Callisto.jpg",
+        "credit": "NASA 3D Resources / JPL Solar System Simulator",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "Original mission-based texture (Voyager/Galileo/Cassini/Magellan; Mars moons Viking). Unmapped gaps remain as supplied; no enlargement or generative fill."
+      }
+    },
+    {
+      "body": "mimas",
+      "file": "surfaces/mimas-map.jpg",
+      "source": "https://github.com/nasa/NASA-3D-Resources/blob/master/Images%20and%20Textures/Saturn%20-%20Mimas/Saturn%20-%20Mimas.jpg",
+      "sha256": "14031c643e2fe546e95431e7a25d3d2f13bf2c93cf2ae71eebdf4edfca2cb88c",
+      "bytes": 218333,
+      "dimensions": [
+        1440,
+        720
+      ],
+      "sourceSha256": "0836f8f98719dc1cb1ccc58b23d5f3e50cc3ba01d1a7f0535b4f7d11695a378b",
+      "processing": "JPEG recompression at original resolution, no recoloring or inpainting",
+      "attribution": {
+        "url": "https://github.com/nasa/NASA-3D-Resources/blob/master/Images%20and%20Textures/Saturn%20-%20Mimas/Saturn%20-%20Mimas.jpg",
+        "credit": "NASA 3D Resources / JPL Solar System Simulator",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "Original mission-based texture (Voyager/Galileo/Cassini/Magellan; Mars moons Viking). Unmapped gaps remain as supplied; no enlargement or generative fill."
+      }
+    },
+    {
+      "body": "enceladus",
+      "file": "surfaces/enceladus-map.jpg",
+      "source": "https://github.com/nasa/NASA-3D-Resources/blob/master/Images%20and%20Textures/Saturn%20-%20Enceladus/Saturn%20-%20Enceladus.jpg",
+      "sha256": "44eadf1ccf3e8a43bfdf60b52c812e489fc155d7fd8185f332ad9274de37d508",
+      "bytes": 197301,
+      "dimensions": [
+        1440,
+        720
+      ],
+      "sourceSha256": "4e16d38b98b788468e4f005b56d04282ccfe2f086eebfb1c0e5d20d8fd65ebef",
+      "processing": "JPEG recompression at original resolution, no recoloring or inpainting",
+      "attribution": {
+        "url": "https://github.com/nasa/NASA-3D-Resources/blob/master/Images%20and%20Textures/Saturn%20-%20Enceladus/Saturn%20-%20Enceladus.jpg",
+        "credit": "NASA 3D Resources / JPL Solar System Simulator",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "Original mission-based texture (Voyager/Galileo/Cassini/Magellan; Mars moons Viking). Unmapped gaps remain as supplied; no enlargement or generative fill."
+      }
+    },
+    {
+      "body": "tethys",
+      "file": "surfaces/tethys-map.jpg",
+      "source": "https://github.com/nasa/NASA-3D-Resources/blob/master/Images%20and%20Textures/Saturn%20-%20Tethys/Saturn%20-%20Tethys.jpg",
+      "sha256": "f2b8458369624842e8f29f4dea5c582775473ff5ef3f3055ebc39b2a30c42a3f",
+      "bytes": 277338,
+      "dimensions": [
+        1440,
+        720
+      ],
+      "sourceSha256": "84f70e3fe6fa48661df4d973f78a540771e629ebbc68e032539d2e28e1d8eea1",
+      "processing": "JPEG recompression at original resolution, no recoloring or inpainting",
+      "attribution": {
+        "url": "https://github.com/nasa/NASA-3D-Resources/blob/master/Images%20and%20Textures/Saturn%20-%20Tethys/Saturn%20-%20Tethys.jpg",
+        "credit": "NASA 3D Resources / JPL Solar System Simulator",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "Original mission-based texture (Voyager/Galileo/Cassini/Magellan; Mars moons Viking). Unmapped gaps remain as supplied; no enlargement or generative fill."
+      }
+    },
+    {
+      "body": "dione",
+      "file": "surfaces/dione-map.jpg",
+      "source": "https://github.com/nasa/NASA-3D-Resources/blob/master/Images%20and%20Textures/Saturn%20-%20Dione/Saturn%20-%20Dione.jpg",
+      "sha256": "00eba9e4529f4d933e4e0fa4a4244f5c52dc6476e1ff1e647db67584fd670fda",
+      "bytes": 248714,
+      "dimensions": [
+        1440,
+        720
+      ],
+      "sourceSha256": "c55d228900524557b6aff323f4b9391fc9816433e213a24ccf348c9b4291f89e",
+      "processing": "JPEG recompression at original resolution, no recoloring or inpainting",
+      "attribution": {
+        "url": "https://github.com/nasa/NASA-3D-Resources/blob/master/Images%20and%20Textures/Saturn%20-%20Dione/Saturn%20-%20Dione.jpg",
+        "credit": "NASA 3D Resources / JPL Solar System Simulator",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "Original mission-based texture (Voyager/Galileo/Cassini/Magellan; Mars moons Viking). Unmapped gaps remain as supplied; no enlargement or generative fill."
+      }
+    },
+    {
+      "body": "rhea",
+      "file": "surfaces/rhea-map.jpg",
+      "source": "https://github.com/nasa/NASA-3D-Resources/blob/master/Images%20and%20Textures/Saturn%20-%20Rhea/Saturn%20-%20Rhea.jpg",
+      "sha256": "f5232d0eae87d71a422b066bb7f94ba759a359fbbea589a1986e9b2f823746e6",
+      "bytes": 199323,
+      "dimensions": [
+        1440,
+        720
+      ],
+      "sourceSha256": "487f642639a3a4b2e8e21c2aaf9dc5cd010e5e4a91d2e6b6ff61aff97bc157ac",
+      "processing": "JPEG recompression at original resolution, no recoloring or inpainting",
+      "attribution": {
+        "url": "https://github.com/nasa/NASA-3D-Resources/blob/master/Images%20and%20Textures/Saturn%20-%20Rhea/Saturn%20-%20Rhea.jpg",
+        "credit": "NASA 3D Resources / JPL Solar System Simulator",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "Original mission-based texture (Voyager/Galileo/Cassini/Magellan; Mars moons Viking). Unmapped gaps remain as supplied; no enlargement or generative fill."
+      }
+    },
+    {
+      "body": "titan",
+      "file": "surfaces/titan-photo.webp",
+      "source": "https://images-assets.nasa.gov/image/PIA07961/PIA07961~orig.jpg",
+      "sourceSha256": "77ae3060c7153f19be3fdd114f7aba1e4c08539aad3e26727e19a42d977d7313",
+      "sha256": "ee8e131e63653605ddffd268ac26bcaea79a7f99dc40f9cbe5aa8e6b35e0f1d7",
+      "bytes": 56314,
+      "dimensions": [
+        800,
+        454
+      ],
+      "sourceDimensions": [
+        800,
+        454
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://images.nasa.gov/details/PIA07961",
+        "credit": "NASA/JPL/University of Arizona",
+        "license": "NASA/JPL Image Use Policy",
+        "licenseUrl": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+        "note": "Real mission imagery; source title: Map of Titan in Infrared"
+      },
+      "title": "Map of Titan in Infrared",
+      "observationDate": "2005-06-08T16:45:00Z"
+    },
+    {
+      "body": "hyperion",
+      "file": "surfaces/hyperion-photo.webp",
+      "source": "https://images-assets.nasa.gov/image/PIA07740/PIA07740~orig.jpg",
+      "sourceSha256": "ae7ce0ebd7b4d32af76e9b2143e5755c6dd7dbecae643dd5ef141d4a9c4da172",
+      "sha256": "3e0e913674b4c2a272a9a7e42e0b10e00b751e08530bfa3af7bbc98e66f7f0e1",
+      "bytes": 104774,
+      "dimensions": [
+        900,
+        900
+      ],
+      "sourceDimensions": [
+        1024,
+        1024
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://images.nasa.gov/details/PIA07740",
+        "credit": "NASA/JPL/Space Science Institute",
+        "license": "NASA/JPL Image Use Policy",
+        "licenseUrl": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+        "note": "Real mission imagery; source title: Odd World"
+      },
+      "title": "Odd World",
+      "observationDate": "2005-09-29T22:15:07Z"
+    },
+    {
+      "body": "iapetus",
+      "file": "surfaces/iapetus-map.jpg",
+      "source": "https://github.com/nasa/NASA-3D-Resources/blob/master/Images%20and%20Textures/Saturn%20-%20Iapetus/Saturn%20-%20Iapetus.jpg",
+      "sha256": "069388e58f99a417d68a3d491c17b12045e2239e8afa78dca9750261a3efef72",
+      "bytes": 147301,
+      "dimensions": [
+        1440,
+        720
+      ],
+      "sourceSha256": "9acb66830defdeffcf7938976c737d772600d9bc808e8cf45829690e8d1c7405",
+      "processing": "JPEG recompression at original resolution, no recoloring or inpainting",
+      "attribution": {
+        "url": "https://github.com/nasa/NASA-3D-Resources/blob/master/Images%20and%20Textures/Saturn%20-%20Iapetus/Saturn%20-%20Iapetus.jpg",
+        "credit": "NASA 3D Resources / JPL Solar System Simulator",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "Original mission-based texture (Voyager/Galileo/Cassini/Magellan; Mars moons Viking). Unmapped gaps remain as supplied; no enlargement or generative fill."
+      }
+    },
+    {
+      "body": "phoebe",
+      "file": "surfaces/phoebe-map.jpg",
+      "source": "https://images-assets.nasa.gov/image/PIA07775/PIA07775~orig.jpg",
+      "sha256": "225a2af87a423f17e952f3f96c734377ae6ab75fe5b4dcef1a513d8a285ae27c",
+      "sourceSha256": "f9ba2bfa28d4d9ac54efe91407bc0ed4feee612d3005c83694922c56ba31d080",
+      "bytes": 299349,
+      "dimensions": [
+        2048,
+        1024
+      ],
+      "crop": [
+        169,
+        164,
+        3089,
+        1644
+      ],
+      "processing": "Lanczos reduction to 2048×1024; no gap fill",
+      "attribution": {
+        "url": "https://images-assets.nasa.gov/image/PIA07775/PIA07775~orig.jpg",
+        "credit": "NASA/JPL/Space Science Institute",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "Cassini/Voyager 2005 cylindrical map; crop removes map axes only."
+      }
+    },
+    {
+      "body": "miranda",
+      "file": "surfaces/miranda-map.jpg",
+      "source": "https://github.com/nasa/NASA-3D-Resources/blob/master/Images%20and%20Textures/Uranus%20-%20Miranda/Uranus%20-%20Miranda.jpg",
+      "sha256": "aeb67d492015170aa2503ebdbd564e3e1137176d5135b1af11021a411253682e",
+      "bytes": 147186,
+      "dimensions": [
+        1440,
+        720
+      ],
+      "sourceSha256": "844b2deb88b8dbc93142bf5b85036ce7dd45db131e6251b4e6a95e179ae44c81",
+      "processing": "JPEG recompression at original resolution, no recoloring or inpainting",
+      "attribution": {
+        "url": "https://github.com/nasa/NASA-3D-Resources/blob/master/Images%20and%20Textures/Uranus%20-%20Miranda/Uranus%20-%20Miranda.jpg",
+        "credit": "NASA 3D Resources / JPL Solar System Simulator",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "Original mission-based texture (Voyager/Galileo/Cassini/Magellan; Mars moons Viking). Unmapped gaps remain as supplied; no enlargement or generative fill."
+      }
+    },
+    {
+      "body": "ariel",
+      "file": "surfaces/ariel-map.jpg",
+      "source": "https://github.com/nasa/NASA-3D-Resources/blob/master/Images%20and%20Textures/Uranus%20-%20Ariel/Uranus%20-%20Ariel.jpg",
+      "sha256": "12f123194da059d02be936ca5f48c72a4b81ab1288434f545b037d4d37b39e3e",
+      "bytes": 105926,
+      "dimensions": [
+        1440,
+        720
+      ],
+      "sourceSha256": "fc0f8a59b5c29e44e4a3409e452f0427f5b53b8c9b41c89dc35d28babaae5cee",
+      "processing": "JPEG recompression at original resolution, no recoloring or inpainting",
+      "attribution": {
+        "url": "https://github.com/nasa/NASA-3D-Resources/blob/master/Images%20and%20Textures/Uranus%20-%20Ariel/Uranus%20-%20Ariel.jpg",
+        "credit": "NASA 3D Resources / JPL Solar System Simulator",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "Original mission-based texture (Voyager/Galileo/Cassini/Magellan; Mars moons Viking). Unmapped gaps remain as supplied; no enlargement or generative fill."
+      }
+    },
+    {
+      "body": "umbriel",
+      "file": "surfaces/umbriel-map.jpg",
+      "source": "https://github.com/nasa/NASA-3D-Resources/blob/master/Images%20and%20Textures/Uranus%20-%20Umbriel/Uranus%20-%20Umbriel.jpg",
+      "sha256": "fee2d1379ab65a171d3e084d3f87e81eedd326ca32cf1a2eaadca1277ca2b733",
+      "bytes": 82702,
+      "dimensions": [
+        1440,
+        720
+      ],
+      "sourceSha256": "f1378bc2880bb0d4ddad50815083987aab38c9aae630cbd65465c6773495e511",
+      "processing": "JPEG recompression at original resolution, no recoloring or inpainting",
+      "attribution": {
+        "url": "https://github.com/nasa/NASA-3D-Resources/blob/master/Images%20and%20Textures/Uranus%20-%20Umbriel/Uranus%20-%20Umbriel.jpg",
+        "credit": "NASA 3D Resources / JPL Solar System Simulator",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "Original mission-based texture (Voyager/Galileo/Cassini/Magellan; Mars moons Viking). Unmapped gaps remain as supplied; no enlargement or generative fill."
+      }
+    },
+    {
+      "body": "titania",
+      "file": "surfaces/titania-map.jpg",
+      "source": "https://github.com/nasa/NASA-3D-Resources/blob/master/Images%20and%20Textures/Uranus%20-%20Titania/Uranus%20-%20Titania.jpg",
+      "sha256": "12b91b175b0c3a3c96dc98deba7126b2bfea83943678182b571a68595a5db2f7",
+      "bytes": 127987,
+      "dimensions": [
+        1440,
+        720
+      ],
+      "sourceSha256": "087425752c8f5090965f5a4fac7d50a4c450563edd50b807bbc1d45ebeedd312",
+      "processing": "JPEG recompression at original resolution, no recoloring or inpainting",
+      "attribution": {
+        "url": "https://github.com/nasa/NASA-3D-Resources/blob/master/Images%20and%20Textures/Uranus%20-%20Titania/Uranus%20-%20Titania.jpg",
+        "credit": "NASA 3D Resources / JPL Solar System Simulator",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "Original mission-based texture (Voyager/Galileo/Cassini/Magellan; Mars moons Viking). Unmapped gaps remain as supplied; no enlargement or generative fill."
+      }
+    },
+    {
+      "body": "oberon",
+      "file": "surfaces/oberon-map.jpg",
+      "source": "https://github.com/nasa/NASA-3D-Resources/blob/master/Images%20and%20Textures/Uranus%20-%20Oberon/Uranus%20-%20Oberon.jpg",
+      "sha256": "f7d09d2187de6e73c901e710f75d2bf5e7a1525f0978baaad274cadeaf13aa4b",
+      "bytes": 89292,
+      "dimensions": [
+        1440,
+        720
+      ],
+      "sourceSha256": "ed29842e1b1fb96ee9626a62d4ee7bbf53756997ef33b1edda2dbead43383460",
+      "processing": "JPEG recompression at original resolution, no recoloring or inpainting",
+      "attribution": {
+        "url": "https://github.com/nasa/NASA-3D-Resources/blob/master/Images%20and%20Textures/Uranus%20-%20Oberon/Uranus%20-%20Oberon.jpg",
+        "credit": "NASA 3D Resources / JPL Solar System Simulator",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "Original mission-based texture (Voyager/Galileo/Cassini/Magellan; Mars moons Viking). Unmapped gaps remain as supplied; no enlargement or generative fill."
+      }
+    },
+    {
+      "body": "triton",
+      "file": "surfaces/triton-map.jpg",
+      "source": "https://github.com/nasa/NASA-3D-Resources/blob/master/Images%20and%20Textures/Neptune%20-%20Triton/Neptune%20-%20Triton.jpg",
+      "sha256": "5198d360102bbc9b1be08ce3a77d0a3569b6687f4632b27cc7e983d8ea95f826",
+      "bytes": 108092,
+      "dimensions": [
+        1440,
+        720
+      ],
+      "sourceSha256": "6a5015beaf860426d9505f054565c9ad28ba3822054d5b750c74b4d8e61eb4f3",
+      "processing": "JPEG recompression at original resolution, no recoloring or inpainting",
+      "attribution": {
+        "url": "https://github.com/nasa/NASA-3D-Resources/blob/master/Images%20and%20Textures/Neptune%20-%20Triton/Neptune%20-%20Triton.jpg",
+        "credit": "NASA 3D Resources / JPL Solar System Simulator",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "Original mission-based texture (Voyager/Galileo/Cassini/Magellan; Mars moons Viking). Unmapped gaps remain as supplied; no enlargement or generative fill."
+      }
+    },
+    {
+      "body": "nereid",
+      "file": "surfaces/nereid-photo.webp",
+      "source": "https://science.nasa.gov/neptune/moons/nereid/",
+      "sourceSha256": "8a3713d21387a6aed8a767b81c7b2109eef41c7cb786f61a3d7577285f24b095",
+      "sha256": "9573ec49add1d5328f0744e2821fe6bf1e9b14dc9509d19215e459c4e6dc9c2a",
+      "bytes": 1064,
+      "dimensions": [
+        732,
+        520
+      ],
+      "sourceDimensions": [
+        732,
+        520
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://science.nasa.gov/neptune/moons/nereid/",
+        "credit": "NASA/JPL",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "Real published observation; source resolution limits retained, not a global map"
+      }
+    },
+    {
+      "body": "charon",
+      "file": "surfaces/charon-map.jpg",
+      "source": "https://images-assets.nasa.gov/image/PIA19866/PIA19866~orig.jpg",
+      "sha256": "e499c649a64a9460b9f0e443000eb39b9cd9de0ca0960fa6c76704c92ef69fbc",
+      "sourceSha256": "c8d0d094b6784ea4829cd7d229ee1fc977e46538b560d9131276202d13f351d3",
+      "bytes": 220607,
+      "dimensions": [
+        2048,
+        1024
+      ],
+      "crop": null,
+      "processing": "Lanczos reduction to 2048×1024; no gap fill",
+      "attribution": {
+        "url": "https://images-assets.nasa.gov/image/PIA19866/PIA19866~orig.jpg",
+        "credit": "NASA/JHUAPL/SwRI",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "New Horizons 2015 global mosaic"
+      }
+    },
+    {
+      "body": "ceres",
+      "file": "surfaces/ceres-map.jpg",
+      "source": "https://science.nasa.gov/resource/ceres-3d-model/",
+      "sha256": "33d21fbd048f9e580a910b68ef778f098e5757821e0a13c91155b84d32f9b165",
+      "bytes": 520704,
+      "dimensions": [
+        2048,
+        1024
+      ],
+      "processing": "Extract original GLB map; Lanczos reduction only",
+      "attribution": {
+        "url": "https://science.nasa.gov/resource/ceres-3d-model/",
+        "credit": "NASA VTAD / Dawn",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "Original 4096×2048 embedded map extracted from NASA Ceres GLB, reduced to 2048×1024."
+      }
+    },
+    {
+      "body": "pluto",
+      "file": "surfaces/pluto-map.jpg",
+      "source": "https://images-assets.nasa.gov/image/PIA19858/PIA19858~orig.jpg",
+      "sha256": "174d75c4dee208daf83bab77566baadaf738e8a9fd3bb529d969fcbef62b03a3",
+      "sourceSha256": "a0a090471987d09200ee3f47e0b98467e5fed566b73474061cd81aae66726c2f",
+      "bytes": 336320,
+      "dimensions": [
+        2048,
+        1024
+      ],
+      "crop": null,
+      "processing": "Lanczos reduction to 2048×1024; no gap fill",
+      "attribution": {
+        "url": "https://images-assets.nasa.gov/image/PIA19858/PIA19858~orig.jpg",
+        "credit": "NASA/JHUAPL/SwRI",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "New Horizons 2015 global mosaic"
+      }
+    },
+    {
+      "body": "eros",
+      "file": "surfaces/eros-shape.json",
+      "source": "https://github.com/nasa/NASA-3D-Resources/blob/master/3D%20Printing/Asteroid%20433%20Eros/Asteroid%20433%20Eros.stl",
+      "sha256": "3761260c6c7e130cde93f4ee7c5979ed3dd5eb69ca1d39568e4bdfd2b3540a78",
+      "bytes": 168595,
+      "vertices": 3004,
+      "faces": 6000,
+      "processing": "Quadrics mesh simplification where needed; bounds-centered, normalized to unit maximum radius; original source shape retained",
+      "attribution": {
+        "url": "https://github.com/nasa/NASA-3D-Resources/blob/master/3D%20Printing/Asteroid%20433%20Eros/Asteroid%20433%20Eros.stl",
+        "credit": "NASA 3D Resources / mission-derived released model",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "公开任务观测形状模型经网格简化；未观测侧可能为原模型推断部分，灯光和材质为展示。"
+      },
+      "sourceSha256": "deeff6a7a82b920ed907483339c4ee32bc8f18e5854dbf71d194039640336be9"
+    },
+    {
+      "body": "eros",
+      "file": "surfaces/eros-photo.webp",
+      "source": "https://images-assets.nasa.gov/image/PIA02474/PIA02474~orig.jpg",
+      "sourceSha256": "0b957d8f549507c4fcba0e476c0dc1abae1d06971ebe3b4a987f120b5700a36e",
+      "sha256": "0c028a7c6acb32dc1e9ba9a06f86389ccdc8e5f67385150f6c9c9cf63fd919f1",
+      "bytes": 41456,
+      "dimensions": [
+        742,
+        812
+      ],
+      "sourceDimensions": [
+        742,
+        812
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://images.nasa.gov/details/PIA02474",
+        "credit": "NASA/JPL/JHUAPL",
+        "license": "NASA/JPL Image Use Policy",
+        "licenseUrl": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+        "note": "Real mission imagery; source title: Eros Eastern and Western Hemispheres"
+      },
+      "title": "Eros Eastern and Western Hemispheres",
+      "observationDate": "2000-05-07T23:30:48Z"
+    },
+    {
+      "body": "itokawa",
+      "file": "surfaces/itokawa-shape.json",
+      "source": "https://github.com/nasa/NASA-3D-Resources/blob/master/3D%20Printing/Asteroid%2025143%20Itokawa/Asteroid%2025143%20Itokawa.stl",
+      "sha256": "08020b49c7ac5d085765a66a0b8ba97f5ab16827f907acb51ca54be0850f34be",
+      "bytes": 168918,
+      "vertices": 3004,
+      "faces": 6000,
+      "processing": "Quadrics mesh simplification where needed; bounds-centered, normalized to unit maximum radius; original source shape retained",
+      "attribution": {
+        "url": "https://github.com/nasa/NASA-3D-Resources/blob/master/3D%20Printing/Asteroid%2025143%20Itokawa/Asteroid%2025143%20Itokawa.stl",
+        "credit": "NASA 3D Resources / mission-derived released model",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "公开任务观测形状模型经网格简化；未观测侧可能为原模型推断部分，灯光和材质为展示。"
+      },
+      "sourceSha256": "8232546de5a68a08e8a54cbe6382317db1416860c695e0235ceb8726f99263c3"
+    },
+    {
+      "body": "itokawa",
+      "file": "surfaces/itokawa-photo.webp",
+      "source": "https://www.eso.org/public/images/eso1405b/",
+      "sourceSha256": "20ebe43699f7ae8330b497217dfb80d2c0ff3069684b993c1a0ae5d8ef361f5c",
+      "sha256": "9bf4ec73020ee96058a634f1e28f1f36e65c95937403745e5696e21a96de8492",
+      "bytes": 67554,
+      "dimensions": [
+        938,
+        900
+      ],
+      "sourceDimensions": [
+        1280,
+        1228
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://www.eso.org/public/images/eso1405b/",
+        "credit": "JAXA",
+        "license": "CC BY 4.0 via ESO public image release",
+        "licenseUrl": "https://www.eso.org/public/outreach/copyright/",
+        "note": "Real published observation; source resolution limits retained, not a global map"
+      }
+    },
+    {
+      "body": "bennu",
+      "file": "surfaces/bennu-map.jpg",
+      "source": "https://www.nasa.gov/image-article/bennu-unprecedented-detail/",
+      "sha256": "154ad4824af778f2aab393526951ce89a02403ca5ef66747db6b8a72d2e6e2bc",
+      "bytes": 356948,
+      "dimensions": [
+        1041,
+        521
+      ],
+      "processing": "Original mission-derived texture reduction only, no recoloring/inpainting",
+      "attribution": {
+        "url": "https://www.nasa.gov/image-article/bennu-unprecedented-detail/",
+        "credit": "NASA/Goddard/University of Arizona",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "Actual OSIRIS-REx global mosaic"
+      }
+    },
+    {
+      "body": "bennu",
+      "file": "surfaces/bennu-shape.json",
+      "source": "https://github.com/nasa/NASA-3D-Resources/blob/master/3D%20Printing/Asteroid%20101955%20Bennu/Asteroid%20101955%20Bennu.stl",
+      "sha256": "56047a29e34ff488782e5fae234b3be64066b11104ac51006d46b2699875e30f",
+      "bytes": 168398,
+      "vertices": 3002,
+      "faces": 6000,
+      "processing": "Quadrics mesh simplification where needed; bounds-centered, normalized to unit maximum radius; original source shape retained",
+      "attribution": {
+        "url": "https://github.com/nasa/NASA-3D-Resources/blob/master/3D%20Printing/Asteroid%20101955%20Bennu/Asteroid%20101955%20Bennu.stl",
+        "credit": "NASA 3D Resources / mission-derived released model",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "公开任务观测形状模型经网格简化；未观测侧可能为原模型推断部分，灯光和材质为展示。"
+      },
+      "sourceSha256": "b73419a201cc41cf855197c4b1ffd263b961fa2535b0bf138705c6ec22acc187"
+    },
+    {
+      "body": "ryugu",
+      "file": "surfaces/ryugu-data-licensed.webp",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/de/Ryugu_colored.jpg",
+      "sourceSha256": "3c394c9c5db730be184042507091565aedf8b2f765667ca151e15f6c4ade7376",
+      "sha256": "46a1cf88107cb904e85ae0216bf5ff4b9bab233481c8dbe1b22814a595aa556b",
+      "bytes": 38924,
+      "dimensions": [
+        554,
+        553
+      ],
+      "sourceDimensions": [
+        554,
+        553
+      ],
+      "processing": "WebP compression only. Source already colour-processed by Meli thev and cropped by Yarnalgo. No enlargement or generated detail.",
+      "attribution": {
+        "url": "https://commons.wikimedia.org/wiki/File:Ryugu_colored.jpg",
+        "credit": "ISAS/JAXA (Hayabusa2 ONC-T data); Meli thev / Melina Thévenot (colour processing); Yarnalgo (crop)",
+        "license": "CC BY-SA 4.0 derivative; ISAS/JAXA source data CC BY 4.0 compatible",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "note": "2018-07-12 ONC-T calibrated v/w/x data; colour processing by Meli thev; cropped by Yarnalgo; Voyager WebP compression only. A real mission photograph, not a global surface map."
+      },
+      "rightsReviewedAt": "2026-10-11"
+    },
+    {
+      "body": "vesta",
+      "file": "surfaces/vesta-map.jpg",
+      "source": "https://science.nasa.gov/resource/vesta-3d-model/",
+      "sha256": "ac04ffc1377ec1ef3f9556b5dde5f0a57e672ec8e33805842df687900b1bf47a",
+      "bytes": 782223,
+      "dimensions": [
+        2048,
+        1024
+      ],
+      "processing": "Original mission-derived texture reduction only, no recoloring/inpainting",
+      "attribution": {
+        "url": "https://science.nasa.gov/resource/vesta-3d-model/",
+        "credit": "NASA VTAD / Dawn",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "Original Dawn-based surface map embedded in NASA Vesta GLB."
+      }
+    },
+    {
+      "body": "vesta",
+      "file": "surfaces/vesta-shape.json",
+      "source": "https://github.com/nasa/NASA-3D-Resources/blob/master/3D%20Printing/Asteroid%204%20Vesta%20%28A%29/Asteroid%204%20Vesta%20%28A%29.stl",
+      "sha256": "3161684aa5f4f8cd244e200669f1884f38f098ad9b8b81a4691f793f5d388461",
+      "bytes": 168293,
+      "vertices": 3002,
+      "faces": 6000,
+      "processing": "Quadrics mesh simplification where needed; bounds-centered, normalized to unit maximum radius; original source shape retained",
+      "attribution": {
+        "url": "https://github.com/nasa/NASA-3D-Resources/blob/master/3D%20Printing/Asteroid%204%20Vesta%20%28A%29/Asteroid%204%20Vesta%20%28A%29.stl",
+        "credit": "NASA 3D Resources / mission-derived released model",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "公开任务观测形状模型经网格简化；未观测侧可能为原模型推断部分，灯光和材质为展示。"
+      },
+      "sourceSha256": "a20fbfc9378398fd157ad0421ceead4dff277f5d545aa7c86d7e14eaa160fe46"
+    },
+    {
+      "body": "gaspra",
+      "file": "surfaces/gaspra-photo.webp",
+      "source": "https://images-assets.nasa.gov/image/PIA00119/PIA00119~orig.jpg",
+      "sourceSha256": "abdfaf57a02d37acb096eea429c9c71fea4af2e5c369fe879429356a130c2a16",
+      "sha256": "da312a5a11673b00c64da107950eefe3ddd813711fa47a4ab0886c242032fb54",
+      "bytes": 25062,
+      "dimensions": [
+        900,
+        900
+      ],
+      "sourceDimensions": [
+        1350,
+        1350
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://images.nasa.gov/details/PIA00119",
+        "credit": "NASA/JPL/USGS",
+        "license": "NASA/JPL Image Use Policy",
+        "licenseUrl": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+        "note": "Real mission imagery; source title: Highest Resolution Gaspra Mosaic"
+      },
+      "title": "Highest Resolution Gaspra Mosaic",
+      "observationDate": "1996-08-13T15:19:11Z"
+    },
+    {
+      "body": "ida",
+      "file": "surfaces/ida-photo.webp",
+      "source": "https://images-assets.nasa.gov/image/PIA00135/PIA00135~orig.jpg",
+      "sourceSha256": "3d72c454aadbd22f05946114ed645f88227adbbf2fa5ee34f441e037dab77212",
+      "sha256": "c9588ddd983353d8b4e032fd22097d9e4b91bf6ee69f6a24853feb12c36d904d",
+      "bytes": 44564,
+      "dimensions": [
+        887,
+        900
+      ],
+      "sourceDimensions": [
+        2100,
+        2130
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://images.nasa.gov/details/PIA00135",
+        "credit": "NASA/JPL",
+        "license": "NASA/JPL Image Use Policy",
+        "licenseUrl": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+        "note": "Real mission imagery; source title: Asteroid Ida - Five Frame Mosaic"
+      },
+      "title": "Asteroid Ida - Five Frame Mosaic",
+      "observationDate": "1996-09-12T17:35:16Z"
+    },
+    {
+      "body": "lutetia",
+      "file": "surfaces/lutetia-schematic-shape-v2.json",
+      "source": "FULL_RIGHTS_REVIEW.md",
+      "sha256": "1e70c5f52a8425b8c2d36373e8d326df958d6fd7e1d4f62f0b1852a3b301688f",
+      "bytes": 117884,
+      "vertices": 2914,
+      "faces": 2304,
+      "processing": "按已列尺寸121×101×75 km生成的数学椭球；不是实测轮廓，不含真实地形。",
+      "attribution": {
+        "url": "FULL_RIGHTS_REVIEW.md",
+        "credit": "Voyager — original mathematical mesh; dimensional facts credited separately to JPL/mission references",
+        "license": "Original Voyager project component — rights reserved",
+        "licenseUrl": "FULL_RIGHTS_REVIEW.md",
+        "note": "按已列尺寸121×101×75 km生成的数学椭球；不是实测轮廓，不含真实地形。"
+      },
+      "sourceSha256": "75c6a12ed3a0f9222dd47b738756081f0fa69f713b23873661013a4cde31a9fb",
+      "rightsReviewedAt": "2026-10-11",
+      "generator": "validation/full-rights-evidence/schematic-generator.py"
+    },
+    {
+      "body": "lutetia",
+      "file": "surfaces/lutetia-eso-licensed.webp",
+      "source": "https://cdn.eso.org/images/large/eso1144a.jpg",
+      "sourceSha256": "649881730f32a3d37bdbc1545d6f36aa273d8ec081b250bf593fff250e1caeb5",
+      "sha256": "18d0db4dc14185e66c8eda719390fbdacac603150c3f4be6b0af1a1020d22e48",
+      "bytes": 72110,
+      "dimensions": [
+        850,
+        900
+      ],
+      "sourceDimensions": [
+        1846,
+        1954
+      ],
+      "processing": "ESO public-image licence explicitly covers credited partner images unless a specific exception is stated; this page has no exception. Proportional reduction and WebP compression only.",
+      "rightsReviewedAt": "2026-10-11",
+      "attribution": {
+        "url": "https://www.eso.org/public/images/eso1144a/",
+        "credit": "ESA 2010 MPS for OSIRIS Team MPS/UPD/LAM/IAA/RSSD/INTA/UPM/DASP/IDA",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "note": "ESO public-image licence explicitly covers credited partner images unless a specific exception is stated; this page has no exception. Proportional reduction and WebP compression only."
+      },
+      "grantSource": "https://www.eso.org/public/outreach/copyright/"
+    },
+    {
+      "body": "steins",
+      "file": "surfaces/steins-schematic-shape-v2.json",
+      "source": "FULL_RIGHTS_REVIEW.md",
+      "sha256": "500c7987536ebf7f2dad593c668df86ff08972d0c8447d6286db1ecaf8825112",
+      "bytes": 116298,
+      "vertices": 3002,
+      "faces": 2304,
+      "processing": "按目录直径5.16 km生成的数学球体；不代表真实不规则外形，不含真实地形。",
+      "attribution": {
+        "url": "FULL_RIGHTS_REVIEW.md",
+        "credit": "Voyager — original mathematical mesh; dimensional facts credited separately to JPL/mission references",
+        "license": "Original Voyager project component — rights reserved",
+        "licenseUrl": "FULL_RIGHTS_REVIEW.md",
+        "note": "按目录直径5.16 km生成的数学球体；不代表真实不规则外形，不含真实地形。"
+      },
+      "sourceSha256": "b9e96ac50c4d7a772312162a19b929d93325a7f38b0783bdb2ef3a44993af94d",
+      "rightsReviewedAt": "2026-10-11",
+      "generator": "validation/full-rights-evidence/schematic-generator.py"
+    },
+    {
+      "body": "steins",
+      "file": "surfaces/steins-osiris-licensed.webp",
+      "source": "https://archives.esac.esa.int/psa/ftp/INTERNATIONAL-ROSETTA-MISSION/OSIWAC/RO-A-OSIWAC-3-AST1-STEINSFLYBY-V1.4/DATA/2008_09/W20080905T183802520ID30F17.IMG",
+      "sourceSha256": "f449b7d0c88d2916d2fb868870ff37a74b7a464d2aaedcebad56ede153144440",
+      "sha256": "e5db53f2cb22009c6832d761757223d23fc2535bd4ff73b720e8f9665b6c2233",
+      "bytes": 964,
+      "dimensions": [
+        256,
+        256
+      ],
+      "sourceDimensions": [
+        256,
+        256
+      ],
+      "processing": "Actual OSIRIS WAC calibrated observation W20080905T183802520ID30F17. PC_REAL little-endian pixels, 256x256. Linear display stretch from 0 to 0.02338384836912155 W/m²/sr/nm; negative values clipped to black; no enlargement or invented detail. ESA 2018 release includes asteroid flybys and all OSIRIS images.",
+      "rightsReviewedAt": "2026-10-11",
+      "attribution": {
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Rosetta_image_archive_complete",
+        "credit": "ESA/Rosetta/MPS for OSIRIS Team MPS/UPD/LAM/IAA/SSO/INTA/UPM/DASP/IDA",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "note": "Actual OSIRIS WAC calibrated observation W20080905T183802520ID30F17. PC_REAL little-endian pixels, 256x256. Linear display stretch from 0 to 0.02338384836912155 W/m²/sr/nm; negative values clipped to black; no enlargement or invented detail. ESA 2018 release includes asteroid flybys and all OSIRIS images."
+      },
+      "observationDate": "2008-09-05T18:38:18.068Z",
+      "sourceDataFile": "surfaces/steins-observation.IMG",
+      "grantSource": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Rosetta_image_archive_complete"
+    },
+    {
+      "body": "dinkinesh",
+      "file": "surfaces/dinkinesh-photo.webp",
+      "source": "https://science.nasa.gov/solar-system/asteroids/dinkinesh/",
+      "sourceSha256": "611bcd215dbf6f39cf6041a3a0e396b1289df214d587ce06d0fe6a6d9fd32a53",
+      "sha256": "c881d1db7b9f199aa300b99d852281ccf2246fa02ce40631b3ab8316304518ff",
+      "bytes": 1156,
+      "dimensions": [
+        185,
+        205
+      ],
+      "sourceDimensions": [
+        588,
+        365
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://science.nasa.gov/solar-system/asteroids/dinkinesh/",
+        "credit": "NASA/Goddard/SwRI/Johns Hopkins APL",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "Real published observation; source resolution limits retained, not a global map"
+      },
+      "crop": [
+        60,
+        80,
+        245,
+        285
+      ]
+    },
+    {
+      "body": "donaldjohanson",
+      "file": "surfaces/donaldjohanson-photo.webp",
+      "source": "https://science.nasa.gov/blogs/lucy/2025/07/02/nasas-lucy-mission-provides-full-view-of-asteroid-donaldjohanson/",
+      "sourceSha256": "f8a85523107d87530dba1ee99ab6df24b4c1029be3a15cd4b60bfa944e4c6eaf",
+      "sha256": "12a8c330b365d8ad50b647364a55f1e3a65f1265f0f078d11ad480d26c2cd463",
+      "bytes": 7674,
+      "dimensions": [
+        780,
+        360
+      ],
+      "sourceDimensions": [
+        780,
+        360
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://science.nasa.gov/blogs/lucy/2025/07/02/nasas-lucy-mission-provides-full-view-of-asteroid-donaldjohanson/",
+        "credit": "NASA/Goddard/SwRI/Johns Hopkins APL",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "Real published observation; source resolution limits retained, not a global map"
+      }
+    },
+    {
+      "body": "halley",
+      "file": "surfaces/halley-nasa-observed.webp",
+      "source": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/1997/october/halleymw_kao_big.jpg",
+      "sourceSha256": "4791b33a24c8f512ab7e0cc66913c6df79553def3f86f9b7655de20bffe65b76",
+      "sha256": "840da4a847be90907df24597f9596bb936a9488ecda6c6d1cb8cf04d5134ec3c",
+      "bytes": 129186,
+      "dimensions": [
+        768,
+        512
+      ],
+      "sourceDimensions": [
+        768,
+        512
+      ],
+      "processing": "Real 1986 airborne photograph showing coma/tail against the Milky Way, NOT a resolved nucleus photograph. No cropping, enlargement, generated details or NASA endorsement; WebP compression only.",
+      "rightsReviewedAt": "2026-10-11",
+      "attribution": {
+        "url": "https://science.nasa.gov/image-article/apod-1997-october-03-comet-halley-and-the-milky-way/",
+        "credit": "Kuiper Airborne Observatory, NASA",
+        "license": "NASA Media Usage Guidelines — NASA credited observation",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "Real 1986 airborne photograph showing coma/tail against the Milky Way, NOT a resolved nucleus photograph. No cropping, enlargement, generated details or NASA endorsement; WebP compression only."
+      }
+    },
+    {
+      "body": "borrelly",
+      "file": "surfaces/borrelly-photo.webp",
+      "source": "https://images-assets.nasa.gov/image/PIA03500/PIA03500~orig.jpg",
+      "sourceSha256": "197c69b9034c84a07ef9c5f21482de92c90f499b4d5543e8a9432b67741bc7e2",
+      "sha256": "c065567800b9f0e9e2d399db662ceff6c20ab07cb20314516f3c0f6d1b73e84d",
+      "bytes": 4856,
+      "dimensions": [
+        500,
+        500
+      ],
+      "sourceDimensions": [
+        500,
+        500
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://images.nasa.gov/details/PIA03500",
+        "credit": "NASA/JPL",
+        "license": "NASA/JPL Image Use Policy",
+        "licenseUrl": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+        "note": "Real mission imagery; source title: Highest Resolution Comet Picture Ever Reveals Rugged Terrain - Deep Space 1"
+      },
+      "title": "Highest Resolution Comet Picture Ever Reveals Rugged Terrain - Deep Space 1",
+      "observationDate": "2001-11-04T00:02:44Z"
+    },
+    {
+      "body": "wild2",
+      "file": "surfaces/wild2-photo.webp",
+      "source": "https://images-assets.nasa.gov/image/PIA05004/PIA05004~orig.jpg",
+      "sourceSha256": "8bcb93eb4b064d04bc5267a70739d180b3d1bcb372181385ebd898ad72dc136b",
+      "sha256": "ef88f3fdfc62658fef4b070905695ec1dbfaccd395a1d049edb1907d2316a059",
+      "bytes": 14354,
+      "dimensions": [
+        825,
+        900
+      ],
+      "sourceDimensions": [
+        2400,
+        2618
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://images.nasa.gov/details/PIA05004",
+        "credit": "NASA/JPL-Caltech",
+        "license": "NASA/JPL Image Use Policy",
+        "licenseUrl": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+        "note": "Real mission imagery; source title: Comet Wild 2 - Stardust Approach Image"
+      },
+      "title": "Comet Wild 2 - Stardust Approach Image",
+      "observationDate": "2004-01-06T22:25:13Z"
+    },
+    {
+      "body": "tempel1",
+      "file": "surfaces/tempel1-photo.webp",
+      "source": "https://images-assets.nasa.gov/image/PIA02119/PIA02119~orig.jpg",
+      "sourceSha256": "c2ca3a6c2196b4f180ba554c4be05f935aa048781d978aeb97946adcca80da69",
+      "sha256": "f216b5bb0c33cd449ce8ce547caac2c07c40f9ea51697771b2d77bb492bba87b",
+      "bytes": 7884,
+      "dimensions": [
+        516,
+        402
+      ],
+      "sourceDimensions": [
+        516,
+        402
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://images.nasa.gov/details/PIA02119",
+        "credit": "NASA/JPL-Caltech/UMD",
+        "license": "NASA/JPL Image Use Policy",
+        "licenseUrl": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+        "note": "Real mission imagery; source title: Tempel 1 Nucleus"
+      },
+      "title": "Tempel 1 Nucleus",
+      "observationDate": "2005-07-04T07:02:49Z"
+    },
+    {
+      "body": "hartley2",
+      "file": "surfaces/hartley2-photo.webp",
+      "source": "https://images-assets.nasa.gov/image/PIA13622/PIA13622~orig.jpg",
+      "sourceSha256": "eaa3ddc08e6d1f848e2b2992063934388adb3722e2f5aa06e1557c34f4ab21f0",
+      "sha256": "c72eeec0453a390e69d574be09737a477a8201296e7846e2c48f76d253787bd0",
+      "bytes": 34230,
+      "dimensions": [
+        928,
+        496
+      ],
+      "sourceDimensions": [
+        928,
+        496
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://images.nasa.gov/details/PIA13622",
+        "credit": "NASA/JPL-Caltech/UMD",
+        "license": "NASA/JPL Image Use Policy",
+        "licenseUrl": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+        "note": "Real mission imagery; source title: Hartley 2, Close Up"
+      },
+      "title": "Hartley 2, Close Up",
+      "observationDate": "2010-11-18T18:00:01Z"
+    },
+    {
+      "body": "67p",
+      "file": "surfaces/67p-shape.json",
+      "source": "https://archives.esac.esa.int/psa/ftp/INTERNATIONAL-ROSETTA-MISSION/SHAPE/RO-C-MULTI-5-67P-SHAPE-V2.0/DATA/TRIPLATE/SPC_ESA/MTP019/CSHP_DV_130_01_LORES_OBJ.OBJ",
+      "sha256": "17f60b4d63f808ebef455bc1daa58d404af031be1fdbcb1ee5bb7e6cec79a748",
+      "bytes": 167829,
+      "vertices": 3002,
+      "faces": 6000,
+      "processing": "Quadrics mesh simplification where needed; bounds-centered, normalized to unit maximum radius; original source shape retained",
+      "attribution": {
+        "url": "https://archives.esac.esa.int/psa/ftp/INTERNATIONAL-ROSETTA-MISSION/SHAPE/RO-C-MULTI-5-67P-SHAPE-V2.0/DATA/TRIPLATE/SPC_ESA/MTP019/CSHP_DV_130_01_LORES_OBJ.OBJ",
+        "credit": "ESA/Rosetta/NAVCAM",
+        "license": "CC BY-NC 3.0 IGO",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc/3.0/igo/",
+        "note": "ESA science archive data terms govern this shape dataset; original ESA archive bytes match the processed source SHA-256 exactly. Separate NAVCAM photograph retains its image licence. Simplified derived geometry; unseen surface may be inferred."
+      },
+      "sourceSha256": "e90fd0b7d86bc826cf967e2e0234a945c55be7dfd2f710c00e11ed953b14f801",
+      "grantSource": "https://www.cosmos.esa.int/web/esdc/terms-and-conditions"
+    },
+    {
+      "body": "67p",
+      "file": "surfaces/67p-photo.webp",
+      "source": "https://images-assets.nasa.gov/image/PIA19093/PIA19093~orig.jpg",
+      "sourceSha256": "0c6417c8cfd4fb69f7b82c5a0f2a4dabee7b7f82391da3d11e2d02c52819407a",
+      "sha256": "6231aed797f6dd9cfb34113847cf14d651d05ba69c9497b1cd8e50daa69b509c",
+      "bytes": 73514,
+      "dimensions": [
+        686,
+        720
+      ],
+      "sourceDimensions": [
+        686,
+        720
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://images.nasa.gov/details/PIA19093",
+        "credit": "ESA/Rosetta/NAVCAM",
+        "license": "CC BY-SA 3.0 IGO",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/",
+        "note": "Real mission imagery; source title: December 2014 View of Comet 67P/Churyumov-Gerasimenko"
+      },
+      "title": "December 2014 View of Comet 67P/Churyumov-Gerasimenko",
+      "observationDate": "2014-12-17T21:00:02Z"
+    },
+    {
+      "body": "arrokoth",
+      "file": "surfaces/arrokoth-schematic-shape-v2.json",
+      "source": "FULL_RIGHTS_REVIEW.md",
+      "sha256": "8b37331d33cc15b1d7a2a7513e40500c009f95a74f9ba105da5a93d3ae905fe2",
+      "bytes": 241770,
+      "vertices": 3004,
+      "faces": 4608,
+      "processing": "按已列整体尺寸35×20×10 km生成的双椭球接触体示意；两瓣比例与接触形状是近似，不是实测网格，不含真实地形。",
+      "attribution": {
+        "url": "FULL_RIGHTS_REVIEW.md",
+        "credit": "Voyager — original mathematical mesh; dimensional facts credited separately to JPL/mission references",
+        "license": "Original Voyager project component — rights reserved",
+        "licenseUrl": "FULL_RIGHTS_REVIEW.md",
+        "note": "按已列整体尺寸35×20×10 km生成的双椭球接触体示意；两瓣比例与接触形状是近似，不是实测网格，不含真实地形。"
+      },
+      "sourceSha256": "45a83082f8ea3bf15b8b898f3f012b0ce61ace223c79c87d89f0b152472eb449",
+      "rightsReviewedAt": "2026-10-11",
+      "generator": "validation/full-rights-evidence/schematic-generator.py"
+    },
+    {
+      "body": "arrokoth",
+      "file": "surfaces/arrokoth-photo.webp",
+      "source": "https://science.nasa.gov/resource/kuiper-belt-object-arrokoth-2014-mu69/",
+      "sourceSha256": "5b28f212bee745871513a8683cbf94fc10f6dd7f667f7dfd3743c470f6b0e17a",
+      "sha256": "22cd192051a9fd9d88204cb642877f4ba9abcc3fc753ed5dc31617c407bf4f61",
+      "bytes": 15754,
+      "dimensions": [
+        900,
+        900
+      ],
+      "sourceDimensions": [
+        1000,
+        1000
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://science.nasa.gov/resource/kuiper-belt-object-arrokoth-2014-mu69/",
+        "credit": "NASA/Johns Hopkins University Applied Physics Laboratory/Southwest Research Institute",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "Real published observation; source resolution limits retained, not a global map"
+      }
+    },
+    {
+      "body": "mathilde",
+      "file": "surfaces/mathilde-photo.webp",
+      "source": "https://images-assets.nasa.gov/image/PIA02477/PIA02477~orig.jpg",
+      "sourceSha256": "02a9a42541d35d9ad55424bf43615a4bd05454570f98576bd1389d991118f7a4",
+      "sha256": "ebed35686cd0bcc34ce936a8a84cf9dc3dca2a9be6ff6f3ae2288b9c33316518",
+      "bytes": 4266,
+      "dimensions": [
+        640,
+        397
+      ],
+      "sourceDimensions": [
+        640,
+        397
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://images.nasa.gov/details/PIA02477",
+        "credit": "NASA/JPL/JHUAPL",
+        "license": "NASA/JPL Image Use Policy",
+        "licenseUrl": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+        "note": "Real mission imagery; source title: Mosaic of Mathilde"
+      },
+      "title": "Mosaic of Mathilde",
+      "observationDate": "2000-05-07T23:30:57Z"
+    },
+    {
+      "body": "didymos",
+      "file": "surfaces/didymos-photo.webp",
+      "source": "https://www.nasa.gov/solar-system/darts-final-images-prior-to-impact/",
+      "sourceSha256": "2e02a0bb640872878c1ac093a06a231a241aae48cc233f7eb89c77d16474ec11",
+      "sha256": "bf2a3fb12b3ad26ca351dcf2e93824b90fc1a41625b48d5ba139769714de869a",
+      "bytes": 5990,
+      "dimensions": [
+        900,
+        900
+      ],
+      "sourceDimensions": [
+        1041,
+        1041
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://www.nasa.gov/solar-system/darts-final-images-prior-to-impact/",
+        "credit": "NASA/Johns Hopkins APL",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "Real published observation; source resolution limits retained, not a global map"
+      }
+    },
+    {
+      "body": "dimorphos",
+      "file": "surfaces/dimorphos-photo.webp",
+      "source": "https://www.nasa.gov/solar-system/darts-final-images-prior-to-impact/",
+      "sourceSha256": "4d0695a6d485de59714ca3b7e83ad9c3d5f3c1ba3f21102964c256391a5deccf",
+      "sha256": "aff620922f4030c69e9e9ca23de9e523cc3782bcc55ed24a3fd043d7f0f0e58a",
+      "bytes": 60634,
+      "dimensions": [
+        900,
+        900
+      ],
+      "sourceDimensions": [
+        1041,
+        1041
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://www.nasa.gov/solar-system/darts-final-images-prior-to-impact/",
+        "credit": "NASA/Johns Hopkins APL",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "Real published observation; source resolution limits retained, not a global map"
+      }
+    },
+    {
+      "body": "dactyl",
+      "file": "surfaces/dactyl-photo.webp",
+      "source": "https://images-assets.nasa.gov/image/PIA00297/PIA00297~orig.jpg",
+      "sourceSha256": "609f8b7f00e019222b0e267c1fe9ddad966a84ee76c9a61d127fe3d777031215",
+      "sha256": "f812f5f17d9769c11787571f73d213f5e502a65b07dd2e179acd107ce8b556d0",
+      "bytes": 2196,
+      "dimensions": [
+        700,
+        700
+      ],
+      "sourceDimensions": [
+        700,
+        700
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://images.nasa.gov/details/PIA00297",
+        "credit": "NASA/JPL",
+        "license": "NASA/JPL Image Use Policy",
+        "licenseUrl": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+        "note": "Real mission imagery; source title: High Resolution View of Dactyl"
+      },
+      "title": "High Resolution View of Dactyl",
+      "observationDate": "1996-09-12T17:35:22Z"
+    },
+    {
+      "body": "selam",
+      "file": "surfaces/selam-photo.webp",
+      "source": "https://science.nasa.gov/solar-system/asteroids/dinkinesh/",
+      "sourceSha256": "611bcd215dbf6f39cf6041a3a0e396b1289df214d587ce06d0fe6a6d9fd32a53",
+      "sha256": "3a82b06e63cffc137a94adb5618882e7508aac53420e9a57387539e91544d173",
+      "bytes": 458,
+      "dimensions": [
+        125,
+        115
+      ],
+      "sourceDimensions": [
+        588,
+        365
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://science.nasa.gov/solar-system/asteroids/dinkinesh/",
+        "credit": "NASA/Goddard/SwRI/Johns Hopkins APL",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "Real published observation; source resolution limits retained, not a global map"
+      },
+      "crop": [
+        460,
+        150,
+        585,
+        265
+      ]
+    },
+    {
+      "body": "pan",
+      "file": "surfaces/pan-photo.webp",
+      "source": "https://images-assets.nasa.gov/image/PIA21436/PIA21436~orig.jpg",
+      "sourceSha256": "29666f8dedb843a107b6f9b9f4632eda445d319b228025ff0bd63ce8323a3bcc",
+      "sha256": "2ce3e8457ca91f78c53ad6ff03f0a1bf420ed06bb131826a41e598c13af7073e",
+      "bytes": 6088,
+      "dimensions": [
+        535,
+        357
+      ],
+      "sourceDimensions": [
+        535,
+        357
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://images.nasa.gov/details/PIA21436",
+        "credit": "NASA/JPL-Caltech/Space Science Institute",
+        "license": "NASA/JPL Image Use Policy",
+        "licenseUrl": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+        "note": "Real mission imagery; source title: Pan Revealed"
+      },
+      "title": "Pan Revealed",
+      "observationDate": "2017-03-16T18:12:52Z"
+    },
+    {
+      "body": "atlas",
+      "file": "surfaces/atlas-photo.webp",
+      "source": "https://science.nasa.gov/resource/atlas-up-close/",
+      "sourceSha256": "5f4ddfc0b9fac23a76c4d9712947adc757831aec9edffab997a9f5114dd0737e",
+      "sha256": "1274508e03ea4ffaa199a626238b849bd95ebc58cd41658ef478f459a8a03c7f",
+      "bytes": 26112,
+      "dimensions": [
+        900,
+        900
+      ],
+      "sourceDimensions": [
+        1024,
+        1024
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://science.nasa.gov/resource/atlas-up-close/",
+        "credit": "NASA/JPL-Caltech/Space Science Institute",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "Real published observation; source resolution limits retained, not a global map"
+      }
+    },
+    {
+      "body": "daphnis",
+      "file": "surfaces/daphnis-photo.webp",
+      "source": "https://images-assets.nasa.gov/image/PIA21056/PIA21056~orig.jpg",
+      "sourceSha256": "110527b269d02ce7740d8e52b351e42561aadac9a41c91e0eab50cbffbfba4a5",
+      "sha256": "b3040eb068c55b868ab6e6e1dd19fa8d9081c3164dbb8db019e376e4cd933a8a",
+      "bytes": 41606,
+      "dimensions": [
+        900,
+        900
+      ],
+      "sourceDimensions": [
+        1020,
+        1020
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://images.nasa.gov/details/PIA21056",
+        "credit": "NASA/JPL-Caltech/Space Science Institute",
+        "license": "NASA/JPL Image Use Policy",
+        "licenseUrl": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+        "note": "Real mission imagery; source title: Daphnis Up Close"
+      },
+      "title": "Daphnis Up Close",
+      "observationDate": "2017-01-18T21:36:54Z"
+    },
+    {
+      "body": "prometheus",
+      "file": "surfaces/prometheus-photo.webp",
+      "source": "https://images-assets.nasa.gov/image/PIA17207/PIA17207~orig.jpg",
+      "sourceSha256": "526713033cb9e4ffd805bf66887371613e56abeae7a177f39be83537ef5ff235",
+      "sha256": "06666663ae73de7691b878c451d9461e3e861b37d1d33724b048a91c5a1b19f1",
+      "bytes": 11944,
+      "dimensions": [
+        900,
+        900
+      ],
+      "sourceDimensions": [
+        1020,
+        1020
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://images.nasa.gov/details/PIA17207",
+        "credit": "NASA/JPL-Caltech/Space Science Institute",
+        "license": "NASA/JPL Image Use Policy",
+        "licenseUrl": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+        "note": "Real mission imagery; source title: Prometheus Up Close"
+      },
+      "title": "Prometheus Up Close",
+      "observationDate": "2015-12-08T18:00:02Z"
+    },
+    {
+      "body": "pandora",
+      "file": "surfaces/pandora-photo.webp",
+      "source": "https://images-assets.nasa.gov/image/PIA21055/PIA21055~orig.jpg",
+      "sourceSha256": "efa1428ab3ac00e40241fb0a3ef00ed17929d88b413c4377851614e38f969375",
+      "sha256": "b665351bdfec6626100a19b6e68da4a841ad3727ce906ab155b5ca73777d8502",
+      "bytes": 7244,
+      "dimensions": [
+        501,
+        442
+      ],
+      "sourceDimensions": [
+        501,
+        442
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://images.nasa.gov/details/PIA21055",
+        "credit": "NASA/JPL-Caltech/Space Science Institute",
+        "license": "NASA/JPL Image Use Policy",
+        "licenseUrl": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+        "note": "Real mission imagery; source title: Pandora Up Close"
+      },
+      "title": "Pandora Up Close",
+      "observationDate": "2016-12-21T21:45:51Z"
+    },
+    {
+      "body": "janus",
+      "file": "surfaces/janus-photo.webp",
+      "source": "https://images-assets.nasa.gov/image/PIA14607/PIA14607~orig.jpg",
+      "sourceSha256": "da4e65dabf4b5a51208c7cb362d6d6bf679e774edf7e6d5913a800bc3bc3fa22",
+      "sha256": "6f703f983414ee8733bea206d02797daf14b6bc6e0153c104e68662adc0ab41e",
+      "bytes": 15264,
+      "dimensions": [
+        955,
+        895
+      ],
+      "sourceDimensions": [
+        955,
+        895
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://images.nasa.gov/details/PIA14607",
+        "credit": "NASA/JPL-Caltech/Space Science Institute",
+        "license": "NASA/JPL Image Use Policy",
+        "licenseUrl": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+        "note": "Real mission imagery; source title: Janus Craters"
+      },
+      "title": "Janus Craters",
+      "observationDate": "2012-05-07T12:58:33Z"
+    },
+    {
+      "body": "epimetheus",
+      "file": "surfaces/epimetheus-photo.webp",
+      "source": "https://images-assets.nasa.gov/image/PIA09813/PIA09813~orig.jpg",
+      "sourceSha256": "0a5b675e1f6238d0af2d0342c8673e06cc2bff8d3032c5ba691b9b534fd9ff27",
+      "sha256": "aa1a05fbc571846531f47e2192011325201368de08132bbdb72df72207217b69",
+      "bytes": 25402,
+      "dimensions": [
+        900,
+        900
+      ],
+      "sourceDimensions": [
+        1024,
+        1024
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://images.nasa.gov/details/PIA09813",
+        "credit": "NASA/JPL/Space Science Institute",
+        "license": "NASA/JPL Image Use Policy",
+        "licenseUrl": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+        "note": "Real mission imagery; source title: Epimetheus Revealed"
+      },
+      "title": "Epimetheus Revealed",
+      "observationDate": "2008-01-11T13:50:00Z"
+    },
+    {
+      "body": "helene",
+      "file": "surfaces/helene-photo.webp",
+      "source": "https://images-assets.nasa.gov/image/PIA12773/PIA12773~orig.jpg",
+      "sourceSha256": "fddd581cbdcf8ff8f726a6116d529e14cd9c277dc1633d1ec0396c8d88d94a9d",
+      "sha256": "742bdb5b1a12dcd6aa88d5cf703b9d2faa7e17b07fa915c84a113216e803760e",
+      "bytes": 36022,
+      "dimensions": [
+        900,
+        900
+      ],
+      "sourceDimensions": [
+        1040,
+        1040
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://images.nasa.gov/details/PIA12773",
+        "credit": "NASA/JPL-Caltech/Space Science Institute",
+        "license": "NASA/JPL Image Use Policy",
+        "licenseUrl": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+        "note": "Real mission imagery; source title: High-Res Helene"
+      },
+      "title": "High-Res Helene",
+      "observationDate": "2011-07-04T13:00:25Z"
+    },
+    {
+      "body": "telesto",
+      "file": "surfaces/telesto-photo.webp",
+      "source": "https://images-assets.nasa.gov/image/PIA07696/PIA07696~orig.jpg",
+      "sourceSha256": "c9d6968f55791c65f545c60a3577c129a69c21a9ab50ea0d71c5e819bb478227",
+      "sha256": "5c4b6c3390667eed5051018a79265fd25970f737e15a2a0683c8e01a4cabc171",
+      "bytes": 2884,
+      "dimensions": [
+        400,
+        330
+      ],
+      "sourceDimensions": [
+        400,
+        330
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://images.nasa.gov/details/PIA07696",
+        "credit": "NASA/JPL/Space Science Institute",
+        "license": "NASA/JPL Image Use Policy",
+        "licenseUrl": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+        "note": "Real mission imagery; source title: A Closer Look at Telesto Monochrome"
+      },
+      "title": "A Closer Look at Telesto Monochrome",
+      "observationDate": "2006-02-08T13:50:01Z"
+    },
+    {
+      "body": "calypso",
+      "file": "surfaces/calypso-photo.webp",
+      "source": "https://images-assets.nasa.gov/image/PIA12598/PIA12598~orig.jpg",
+      "sourceSha256": "bfb95aa95e08ec305301cdc9ebf8c72595ae0ce67b8ab140c395bf9bfef771da",
+      "sha256": "b6d8a564acbe82275dab65e4e762821254cc394543cd4bf91cce5eba2286a1d1",
+      "bytes": 5284,
+      "dimensions": [
+        1000,
+        853
+      ],
+      "sourceDimensions": [
+        1172,
+        1000
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://images.nasa.gov/details/PIA12598",
+        "credit": "NASA/JPL/Space Science Institute",
+        "license": "NASA/JPL Image Use Policy",
+        "licenseUrl": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+        "note": "Real mission imagery; source title: Calypso Close Up"
+      },
+      "title": "Calypso Close Up",
+      "observationDate": "2010-03-26T12:58:03Z"
+    },
+    {
+      "body": "methone",
+      "file": "surfaces/methone-photo.webp",
+      "source": "https://images-assets.nasa.gov/image/PIA14633/PIA14633~orig.jpg",
+      "sourceSha256": "7cfb19f923ccddc03d037c5dd734d783ea9aa2bdf939737871a6b51fbdafc11b",
+      "sha256": "f69fc96aa7eb2858c4ddec67b36ac5600d9e8cda3ce2f64189354322513a0009",
+      "bytes": 2496,
+      "dimensions": [
+        765,
+        765
+      ],
+      "sourceDimensions": [
+        765,
+        765
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://images.nasa.gov/details/PIA14633",
+        "credit": "NASA/JPL-Caltech/Space Science Institute",
+        "license": "NASA/JPL Image Use Policy",
+        "licenseUrl": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+        "note": "Real mission imagery; source title: Gray Egg"
+      },
+      "title": "Gray Egg",
+      "observationDate": "2012-11-05T13:59:15Z"
+    },
+    {
+      "body": "nix",
+      "file": "surfaces/nix-photo.webp",
+      "source": "https://images-assets.nasa.gov/image/PIA20033/PIA20033~orig.jpg",
+      "sourceSha256": "903e13e2c325c742aa20b958f6d8a20f1c919832b68d53214c8888f1a23cc628",
+      "sha256": "a9d11c5dd62d0c6d71c795d5350b1362bf1dd7520c3ca1eb48d62d5014e46912",
+      "bytes": 5444,
+      "dimensions": [
+        375,
+        420
+      ],
+      "sourceDimensions": [
+        1920,
+        1080
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://images.nasa.gov/details/PIA20033",
+        "credit": "NASA/Johns Hopkins University Applied Physics Laboratory/Southwest Research Institute",
+        "license": "NASA/JPL Image Use Policy",
+        "licenseUrl": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+        "note": "Real mission imagery; source title: Family Portrait of Pluto Moons"
+      },
+      "crop": [
+        480,
+        245,
+        855,
+        665
+      ],
+      "title": "Family Portrait of Pluto Moons",
+      "observationDate": "2015-10-23T19:32:02Z"
+    },
+    {
+      "body": "hydra",
+      "file": "surfaces/hydra-photo.webp",
+      "source": "https://images-assets.nasa.gov/image/PIA20033/PIA20033~orig.jpg",
+      "sourceSha256": "903e13e2c325c742aa20b958f6d8a20f1c919832b68d53214c8888f1a23cc628",
+      "sha256": "7e1f2acf8e157d2d0592dc1b779448dbeaa5fa04e751d24422ffe1816ab442b5",
+      "bytes": 4628,
+      "dimensions": [
+        390,
+        455
+      ],
+      "sourceDimensions": [
+        1920,
+        1080
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://images.nasa.gov/details/PIA20033",
+        "credit": "NASA/Johns Hopkins University Applied Physics Laboratory/Southwest Research Institute",
+        "license": "NASA/JPL Image Use Policy",
+        "licenseUrl": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+        "note": "Real mission imagery; source title: Family Portrait of Pluto Moons"
+      },
+      "crop": [
+        1380,
+        220,
+        1770,
+        675
+      ],
+      "title": "Family Portrait of Pluto Moons",
+      "observationDate": "2015-10-23T19:32:02Z"
+    },
+    {
+      "body": "kerberos",
+      "file": "surfaces/kerberos-photo.webp",
+      "source": "https://images-assets.nasa.gov/image/PIA20033/PIA20033~orig.jpg",
+      "sourceSha256": "903e13e2c325c742aa20b958f6d8a20f1c919832b68d53214c8888f1a23cc628",
+      "sha256": "6bc79f27e4005e31b3e768bac32d3870efb11650ff8a04c72ca50ae9cc84b013",
+      "bytes": 906,
+      "dimensions": [
+        260,
+        315
+      ],
+      "sourceDimensions": [
+        1920,
+        1080
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://images.nasa.gov/details/PIA20033",
+        "credit": "NASA/Johns Hopkins University Applied Physics Laboratory/Southwest Research Institute",
+        "license": "NASA/JPL Image Use Policy",
+        "licenseUrl": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+        "note": "Real mission imagery; source title: Family Portrait of Pluto Moons"
+      },
+      "crop": [
+        1000,
+        305,
+        1260,
+        620
+      ],
+      "title": "Family Portrait of Pluto Moons",
+      "observationDate": "2015-10-23T19:32:02Z"
+    },
+    {
+      "body": "styx",
+      "file": "surfaces/styx-photo.webp",
+      "source": "https://images-assets.nasa.gov/image/PIA20033/PIA20033~orig.jpg",
+      "sourceSha256": "903e13e2c325c742aa20b958f6d8a20f1c919832b68d53214c8888f1a23cc628",
+      "sha256": "d317d50fa7239c3cca99a1ed357b60916cc0614812d010157ffbb179d626e9c3",
+      "bytes": 1326,
+      "dimensions": [
+        245,
+        320
+      ],
+      "sourceDimensions": [
+        1920,
+        1080
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://images.nasa.gov/details/PIA20033",
+        "credit": "NASA/Johns Hopkins University Applied Physics Laboratory/Southwest Research Institute",
+        "license": "NASA/JPL Image Use Policy",
+        "licenseUrl": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+        "note": "Real mission imagery; source title: Family Portrait of Pluto Moons"
+      },
+      "crop": [
+        140,
+        300,
+        385,
+        620
+      ],
+      "title": "Family Portrait of Pluto Moons",
+      "observationDate": "2015-10-23T19:32:02Z"
+    },
+    {
+      "body": "amalthea",
+      "file": "surfaces/amalthea-photo.webp",
+      "source": "https://images-assets.nasa.gov/image/PIA01074/PIA01074~orig.jpg",
+      "sourceSha256": "97512c48ec1efe6ac739c4ede60219ddbc6eab909b319f92c8d70ab7f03f4bb7",
+      "sha256": "3b13f0292f18b9227409ba51340c84b30d4d7260f427d1e7be68e89a4a9de973",
+      "bytes": 11408,
+      "dimensions": [
+        798,
+        573
+      ],
+      "sourceDimensions": [
+        798,
+        573
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://images.nasa.gov/details/PIA01074",
+        "credit": "NASA/JPL/Cornell University",
+        "license": "NASA/JPL Image Use Policy",
+        "licenseUrl": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+        "note": "Real mission imagery; source title: Four Galileo Views of Amalthea"
+      },
+      "title": "Four Galileo Views of Amalthea",
+      "observationDate": "1998-03-26T03:14:33Z"
+    },
+    {
+      "body": "thebe",
+      "file": "surfaces/thebe-photo.webp",
+      "source": "https://images-assets.nasa.gov/image/PIA02531/PIA02531~orig.jpg",
+      "sourceSha256": "89c5b64ab654f72885854eba6bd3e56f87104ddc4b62db6072905d4b32a3d8a1",
+      "sha256": "541bde3f0436b32215906b86942a1cb95f18e75449f63017e2cfdaa85210867b",
+      "bytes": 2278,
+      "dimensions": [
+        235,
+        245
+      ],
+      "sourceDimensions": [
+        748,
+        381
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://images.nasa.gov/details/PIA02531",
+        "credit": "NASA/JPL/Cornell University",
+        "license": "NASA/JPL Image Use Policy",
+        "licenseUrl": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+        "note": "Real mission imagery; source title: Best images yet of Thebe, Amalthea and Metis"
+      },
+      "crop": [
+        10,
+        85,
+        245,
+        330
+      ],
+      "title": "Best images yet of Thebe, Amalthea and Metis",
+      "observationDate": "2000-04-24T14:10:31Z"
+    },
+    {
+      "body": "larissa",
+      "file": "surfaces/larissa-photo.webp",
+      "source": "https://science.nasa.gov/neptune/moons/larissa/",
+      "sourceSha256": "3e7126c54302c7d4c9d1d22085028424366ece918a8e12b5ff097c9889a22349",
+      "sha256": "4aacf88ff9a5ca84064d832d5eb164c546100e812fdfa4a4edbdde122c63fda5",
+      "bytes": 3674,
+      "dimensions": [
+        732,
+        520
+      ],
+      "sourceDimensions": [
+        732,
+        520
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://science.nasa.gov/neptune/moons/larissa/",
+        "credit": "NASA/JPL",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "Real published observation; source resolution limits retained, not a global map"
+      }
+    },
+    {
+      "body": "proteus",
+      "file": "surfaces/proteus-photo.webp",
+      "source": "https://science.nasa.gov/neptune/moons/proteus/",
+      "sourceSha256": "797af139c9ca17b3281dd330c177a06477416b47aae24c68c47ede00ee0be7be",
+      "sha256": "15d2e934ce8bacd7caddddddc1d11e776afb4a6130373f779288ed410d9b4ea7",
+      "bytes": 9970,
+      "dimensions": [
+        732,
+        520
+      ],
+      "sourceDimensions": [
+        732,
+        520
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://science.nasa.gov/neptune/moons/proteus/",
+        "credit": "NASA/JPL",
+        "license": "NASA Media Usage Guidelines",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "note": "Real published observation; source resolution limits retained, not a global map"
+      }
+    },
+    {
+      "body": "braille",
+      "file": "surfaces/braille-photo.webp",
+      "source": "https://images-assets.nasa.gov/image/PIA01345/PIA01345~orig.jpg",
+      "sourceSha256": "f554a4456d5963b5976e33393bbd3c25214ecf666e224ca9dbc784ecde0de26f",
+      "sha256": "3b8092a67774568e1da595623de41edd0f4549d9217773f77e2e6d835caf5f2e",
+      "bytes": 1456,
+      "dimensions": [
+        606,
+        621
+      ],
+      "sourceDimensions": [
+        606,
+        621
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://images.nasa.gov/details/PIA01345",
+        "credit": "NASA/JPL/USGS",
+        "license": "NASA/JPL Image Use Policy",
+        "licenseUrl": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+        "note": "Real mission imagery; source title: Enhanced Image of Asteroid Braille from Deep Space 1"
+      },
+      "title": "Enhanced Image of Asteroid Braille from Deep Space 1",
+      "observationDate": "1999-08-03T19:56:29Z"
+    },
+    {
+      "body": "annefrank",
+      "file": "surfaces/annefrank-photo.webp",
+      "source": "https://images-assets.nasa.gov/image/PIA02885/PIA02885~orig.jpg",
+      "sourceSha256": "4ce37d23e46a40eed5a41cd2cd519284d1b7e0d160adab3f7dcded7b006b38c3",
+      "sha256": "2b24c2e58a2bcae2b1ba8a20e6f1a82bf6a4dc1d328e6cd442d2d6ea4521c673",
+      "bytes": 2002,
+      "dimensions": [
+        400,
+        400
+      ],
+      "sourceDimensions": [
+        400,
+        400
+      ],
+      "processing": "Target crop where listed; proportional Lanczos reduction and WebP compression only; no enlargement or generated details",
+      "attribution": {
+        "url": "https://images.nasa.gov/details/PIA02885",
+        "credit": "NASA/JPL-Caltech",
+        "license": "NASA/JPL Image Use Policy",
+        "licenseUrl": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+        "note": "Real mission imagery; source title: Stardust Image of Asteroid Annefrank"
+      },
+      "title": "Stardust Image of Asteroid Annefrank",
+      "observationDate": "2002-11-05T01:16:33Z"
+    }
+  ]
+}

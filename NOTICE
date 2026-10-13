@@ -1,0 +1,59 @@
+星际 Voyager — source distribution notices
+Application baseline: desktop 2.9.5 / mobile 2.9.5.
+Release preparation: 2026-10-11 (UTC).
+
+Original program portions and original development documentation:
+Copyright (c) 2026 星际 Voyager project author and contributors.
+MIT License; see LICENSE and the explicit exclusions in LICENSING.md.
+This is a mixed-license distribution, not a blanket MIT or commercial-use grant.
+
+Third-party software:
+Three.js 0.180.0 — Copyright © 2010-2025 three.js authors, MIT.
+esbuild 0.25.11 — Copyright (c) 2020 Evan Wallace, MIT (build tool).
+Full notices: THIRD_PARTY_LICENSES.md.
+
+Catalog/data components:
+HYG Database v4.1 — David Nash / Astronomy Nexus, CC BY-SA 4.0.
+OpenNGC — Mattia Verga, CC BY-SA 4.0.
+Six simplified constellation patterns — adapted from Stellarium Modern
+skyculture by Voyager, CC BY-SA 4.0, including their CONSTELLATIONS data in src/exploration.js.
+NASA Exoplanet Archive — operated by Caltech under NASA contract under the
+Exoplanet Exploration Program; full acknowledgement in catalogs/LICENSES.md.
+Gaia — ESA / DPAC, CC BY-NC 3.0 IGO; full institutional acknowledgement and
+funding statement in catalogs/LICENSES.md and gaia-rotation-manifest.json.
+SIMBAD — CDS, Strasbourg, ODbL 1.0 for extracted database components.
+van den Bosch compilation — MIT; full notice in catalogs/SMBH_LICENSE.txt.
+Natural Earth — public-domain geographic data; display transformations recorded.
+NASA / JPL / ESA / ESO / ISAS / JAXA observation resources — individual source
+credits and conditions; do not substitute this short notice for their records.
+67P scientific shape mesh — CC BY-NC 3.0 IGO; its photograph is separately licensed.
+
+Music:
+'Meanwhile' by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au
+Source: https://www.scottbuckley.com.au/library/meanwhile/
+License: https://creativecommons.org/licenses/by/4.0/
+Transcoded to 160kbps stereo MP3; composition and duration unchanged.
+Include the music credit with recordings containing this track.
+
+Font:
+Voyager UI Review / VoyagerUIReview-Regular, derived Noto Sans SC subset.
+Copyright 2014-2021 Adobe, Reserved Font Name "Source", OFL 1.1.
+Complete upstream notice: assets/FONT_LICENSE.txt.
+
+Images and geographic assets:
+220 landmark photographs have individual author, source, licence and processing
+records in catalogs/landmarks.json and assets/landmarks/LICENSES.md.
+All surface photos/meshes, map textures, tiles and source files retain their
+per-item records in assets/ASSET_LICENSES.md, assets/surfaces/LICENSES.md,
+catalogs/LICENSES.md and validation/full-rights-evidence/rights-inventory.json.
+Location-specific cultural-heritage/trademark flags remain applicable.
+
+Original content/data outside the MIT program scope:
+Newly composed descriptive data and three mathematical schematic mesh files
+retain their existing project rights notices; see LICENSING.md.
+The schematic meshes are not measured topography or observed surface geometry.
+
+Keep this NOTICE, LICENSE, LICENSING.md, complete third-party notices and all
+per-item credits with redistribution. Password access does not remove permissions
+granted by third-party licences. No institutional, author or film endorsement is
+claimed. Full assembled application remains intended for noncommercial use.

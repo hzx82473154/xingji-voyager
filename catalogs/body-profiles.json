@@ -1,0 +1,1060 @@
+{
+  "hyperion": {
+    "description": "土卫七的形状不规则，表面分布着许多深坑。与常见的稳定自转卫星不同，它的姿态会随运动发生复杂变化，这种混沌自转是其重要特征。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/saturn/moons/hyperion/",
+        "title": "Hyperion — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "phoebe": {
+    "description": "土卫九位于土星较外侧，公转方向与土星自转相反。它暗淡的表面和轨道特征支持被捕获天体的解释，但形成历史仍需结合观测研究。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/saturn/moons/phoebe/",
+        "title": "Phoebe — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "charon": {
+    "description": "冥王星与冥卫一组成一个相互潮汐锁定的系统。冥卫一约有冥王星一半的直径，其北极附近的红色区域是新视野号影像中的鲜明特征。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/dwarf-planets/pluto/moons/charon/",
+        "title": "Charon — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "ceres": {
+    "description": "谷神星是主小行星带内的矮行星。黎明号发现奥卡托陨坑中的亮区含有盐类沉积，这让研究者能够追踪内部含水物质与表面的联系。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/dwarf-planets/ceres/facts/",
+        "title": "Ceres Facts — NASA Science"
+      },
+      {
+        "url": "https://www.nasa.gov/centers-and-facilities/jpl/mystery-solved-bright-areas-on-ceres-come-from-salty-water-below/",
+        "title": "Mystery Solved: Bright Areas on Ceres Come From Salty Water Below — NASA"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "pluto": {
+    "description": "新视野号2015年的飞掠显示，冥王星并非单调的冰球：冰原、山地和活动地形并存。它处在柯伊伯带，并与冥卫一形成相互锁定的双体系统。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/dwarf-planets/pluto/facts/",
+        "title": "Pluto Facts — NASA Science"
+      },
+      {
+        "url": "https://science.nasa.gov/dwarf-planets/pluto/moons/charon/",
+        "title": "Charon — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "eros": {
+    "description": "NEAR Shoemaker先在2000年环绕爱神星，次年降落到表面。这颗近地小行星因此成为早期研究小天体地形和结构的重要现场。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/solar-system/asteroids/433-eros/",
+        "title": "433 Eros — NASA Science"
+      },
+      {
+        "url": "https://cneos.jpl.nasa.gov/missions/",
+        "title": "NEO Missions — NASA/JPL CNEOS"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "itokawa": {
+    "description": "隼鸟号在丝川小行星上看到巨石与较细颗粒共存的地表。它是一颗碎块聚集的近地小行星，2010年返回地球的样本让实验室可以直接检验其物质。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/solar-system/asteroids/25143-itokawa/",
+        "title": "25143 Itokawa — NASA Science"
+      },
+      {
+        "url": "https://cneos.jpl.nasa.gov/missions/",
+        "title": "NEO Missions — NASA/JPL CNEOS"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "bennu": {
+    "description": "OSIRIS-REx在贝努采集样本，并于2023年送回地球。影像中遍布岩块的外观与其松散、富碳的结构，为早期太阳系研究提供了观测和实物依据。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/solar-system/asteroids/101955-bennu/facts/",
+        "title": "Bennu Facts — NASA Science"
+      },
+      {
+        "url": "https://science.nasa.gov/mission/osiris-rex/",
+        "title": "OSIRIS-REx — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "ryugu": {
+    "description": "隼鸟2号对龙宫实施采样，样本在2020年返回地球。它是一颗富碳的碎块聚集体，样本中发现的含水矿物与有机物可用来研究物质演化。",
+    "sources": [
+      {
+        "url": "https://cosmos.isas.jaxa.jp/the-sample-from-asteroid-ryugu-summary-early-2023/",
+        "title": "The sample from asteroid Ryugu: summary early 2023 — ISAS/JAXA"
+      },
+      {
+        "url": "https://darts.isas.jaxa.jp/doi/curation/hayabusa2/desc/cur-ryugu-description_landing.html",
+        "title": "Hayabusa2 Ryugu Sample Curatorial Dataset — ISAS/JAXA"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "vesta": {
+    "description": "灶神星经历过内部熔融和分层，不能简单视为均匀石块。黎明号观测到的南部巨大撞击盆地，以及可能来自这里的陨石，共同记录了其历史。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/solar-system/asteroids/4-vesta/",
+        "title": "4 Vesta — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "gaspra": {
+    "description": "1991年伽利略号飞掠加斯普拉，取得小行星近距离影像。它的轮廓不规则，地表的撞击坑反映出小天体长期经历的碰撞。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/mission/galileo/",
+        "title": "Galileo: Asteroid Flybys — NASA Science"
+      },
+      {
+        "url": "https://science.nasa.gov/photojournal/gaspra-first-image/",
+        "title": "Gaspra — First Image — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "ida": {
+    "description": "伽利略号在1993年观察艾达时还发现了小卫星达克蒂尔。这一系统证明，小行星周围也可以存在天然卫星；艾达本身属于主带科罗尼斯族。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/solar-system/asteroids/243-ida/",
+        "title": "243 Ida — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "lutetia": {
+    "description": "罗塞塔号2010年飞掠卢泰西亚。影像展示了一颗较大的不规则主带小行星，表面大量撞击坑与凹陷保留了长期碰撞的痕迹。",
+    "sources": [
+      {
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Rosetta_triumphs_at_asteroid_Lutetia",
+        "title": "Rosetta triumphs at asteroid Lutetia — ESA"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "steins": {
+    "description": "罗塞塔号在2008年观察到斯坦斯的近景。这个小型E型主带天体轮廓近似钻石，大坑与坑链是认识其碰撞历史的重要特征。",
+    "sources": [
+      {
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Steins_A_diamond_in_the_sky",
+        "title": "Steins: A diamond in the sky — ESA"
+      },
+      {
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Rosetta_Cool_science_at_a_rare_target",
+        "title": "Rosetta: Cool science at a rare target — ESA"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "dinkinesh": {
+    "description": "露西号2023年的飞掠发现，丁基内什不仅有沟槽和赤道脊，还拥有卫星塞拉姆。塞拉姆由相接的两部分构成，使这一小型系统更为复杂。",
+    "sources": [
+      {
+        "url": "https://www.nasa.gov/solar-system/asteroids/nasa-lucy-images-reveal-asteroid-dinkinesh-to-be-surprisingly-complex/",
+        "title": "NASA Lucy Images Reveal Asteroid Dinkinesh to be Surprisingly Complex — NASA"
+      },
+      {
+        "url": "https://www.nature.com/articles/s41586-024-07378-0",
+        "title": "A contact binary satellite of the asteroid (152830) Dinkinesh — Nature"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "donaldjohanson": {
+    "description": "露西号在2025年飞掠唐纳德约翰逊小行星。观测显示其轮廓细长、两部分之间有窄颈；这里展示的是任务所得形态信息。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/solar-system/asteroids/donaldjohanson/",
+        "title": "Asteroid Donaldjohanson — NASA Science"
+      },
+      {
+        "url": "https://science.nasa.gov/missions/lucy/nasas-lucy-reveals-wobbling-peanut-shaped-asteroid/",
+        "title": "NASA’s Lucy Reveals Wobbling, Peanut-Shaped Asteroid — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "halley": {
+    "description": "哈雷彗星以约76年的周期回到太阳附近。它沿轨道散落的颗粒与宝瓶座η、猎户座流星雨有关；本卡片配图为1986年的彗发与彗尾观测，并非彗核近景。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/solar-system/comets/1p-halley/",
+        "title": "1P/Halley — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "borrelly": {
+    "description": "深空1号在2001年飞掠波瑞利彗星。观测到的彗核狭长而暗，中央与两端的地形不同，外部气体和尘埃形成彗发。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/solar-system/comets/19p-borrelly/",
+        "title": "19P/Borrelly — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "wild2": {
+    "description": "维尔特二号的轨道曾在1974年近木星时受到扰动。星尘号采集了它附近的彗发颗粒，并在2006年将这些颗粒送回地球。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/solar-system/comets/81p-wild/",
+        "title": "81P/Wild (Wild 2) — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "tempel1": {
+    "description": "深度撞击任务在2005年撞击坦普尔一号的彗核，以探查内部物质。2011年星尘号又飞掠该目标，提供了前后对照的机会。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/solar-system/comets/9p-tempel-1/",
+        "title": "9P/Tempel 1 — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "hartley2": {
+    "description": "哈特利二号彗核较小，两端与中部的活动方式有所不同。观测把二氧化碳驱动的喷流和水蒸气释放联系到不同部位，揭示了物质分布的差异。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/solar-system/comets/103p-hartley-hartley-2/",
+        "title": "103P/Hartley 2 — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "67p": {
+    "description": "罗塞塔号长期伴飞67P彗星，记录其接近太阳时的变化。双叶瓣与连接颈部构成其醒目轮廓，菲莱着陆器在2014年抵达表面。",
+    "sources": [
+      {
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Rosetta_factsheet",
+        "title": "Rosetta factsheet — ESA"
+      },
+      {
+        "url": "https://blogs.esa.int/rosetta/2015/09/28/how-rosettas-comet-got-its-shape/",
+        "title": "How Rosetta’s comet got its shape — ESA"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "arrokoth": {
+    "description": "阿罗科斯是柯伊伯带内的接触双体，新视野号在2019年飞掠它。两个相接叶瓣和寒冷环境，让它成为研究小天体早期聚集的重要对象。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/solar-system/kuiper-belt/arrokoth-2014-mu69/",
+        "title": "Arrokoth (2014 MU69) — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "mathilde": {
+    "description": "NEAR Shoemaker拍摄的马蒂尔德影像中，大型撞击坑十分突出。这颗暗色、富碳的主带小行星自转缓慢，碰撞痕迹占据了相当大的表面范围。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/solar-system/asteroids/253-mathilde/",
+        "title": "253 Mathilde — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "didymos": {
+    "description": "迪迪莫斯与其卫星迪莫弗斯组成近地双小行星系统。DART选择撞击较小成员，检验利用动量传递改变小天体轨道的可行性。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/solar-system/asteroids/didymos/",
+        "title": "Didymos & Dimorphos — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "dimorphos": {
+    "description": "DART在2022年撞击迪莫弗斯后，它绕迪迪莫斯的公转发生变化。近景影像中的岩块，以及后续测得的轨道改变，是这次试验的重要证据。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/solar-system/asteroids/didymos/",
+        "title": "Didymos & Dimorphos — NASA Science"
+      },
+      {
+        "url": "https://www.nasa.gov/missions/dart/nasa-study-asteroids-orbit-shape-changed-after-dart-impact/",
+        "title": "NASA Study: Asteroid’s Orbit, Shape Changed After DART Impact — NASA"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "dactyl": {
+    "description": "达克蒂尔在伽利略号的艾达影像中被确认，是首个得到确认的小行星卫星。它很小，但对理解小行星如何形成伴随天体十分重要。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/solar-system/asteroids/243-ida/",
+        "title": "243 Ida — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "selam": {
+    "description": "塞拉姆绕丁基内什运行，两个近似大小的部分彼此相接。露西号影像使研究者辨认出这种罕见的小行星卫星形态。",
+    "sources": [
+      {
+        "url": "https://www.nature.com/articles/s41586-024-07378-0",
+        "title": "A contact binary satellite of the asteroid (152830) Dinkinesh — Nature"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "pan": {
+    "description": "土卫十八在土星A环的恩克环缝中运行，引力影响附近环物质。赤道附近的隆起与主体结合，形成与普通球形卫星不同的轮廓。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/saturn/moons/pan/",
+        "title": "Pan — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "atlas": {
+    "description": "土卫十五靠近土星A环外缘，主体周围有显著的赤道隆起。环区环境与这颗小卫星的外形，是卡西尼号观测中的特色。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/saturn/moons/atlas/",
+        "title": "Atlas — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "daphnis": {
+    "description": "土卫三十五位于土星A环的基勒环缝。虽然天体很小，它的引力仍能在附近环边缘造成可辨认的波动。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/saturn/moons/daphnis/",
+        "title": "Daphnis — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "prometheus": {
+    "description": "土卫十六在F环内侧运动，是环区的牧羊卫星之一。它的引力会牵动环物质，细长外形则体现了小天体的不规则结构。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/saturn/moons/prometheus/",
+        "title": "Prometheus — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "pandora": {
+    "description": "土卫十七邻近土星F环，公转时会影响环区物质。影像显示其表面受到细小冰质物质覆盖，一些坑缘因而较为柔和。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/saturn/moons/pandora/",
+        "title": "Pandora — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "janus": {
+    "description": "土卫十与土卫十一的共轨道关系十分特殊：二者约每四年交换内外位置。土卫十自身呈不规则形状，表面可见许多撞击坑。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/saturn/moons/janus/",
+        "title": "Janus — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "epimetheus": {
+    "description": "土卫十一和土卫十共享近似轨道，并周期性交换较内、较外的位置。这种相互作用与它不规则的形态，是认识该系统的两个方面。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/saturn/moons/epimetheus/",
+        "title": "Epimetheus — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "helene": {
+    "description": "土卫十二与土卫四共享绕土星的轨道，处在前方的特洛伊区域。它是一颗形状不规则的小卫星，并非独立绕土卫四公转。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/saturn/moons/helene/",
+        "title": "Helene — NASA Science"
+      },
+      {
+        "url": "https://science.nasa.gov/resource/telesto-companion-of-tethys/",
+        "title": "Telesto: Companion of Tethys — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "telesto": {
+    "description": "土卫十三与土卫三共同绕土星运行，位置约领先60度。它属于特洛伊卫星，表面和轮廓可从卡西尼号资料中观察。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/saturn/moons/telesto/",
+        "title": "Telesto — NASA Science"
+      },
+      {
+        "url": "https://science.nasa.gov/photojournal/calypso-close-up/",
+        "title": "Calypso Close Up — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "calypso": {
+    "description": "土卫十四位于土卫三后方约60度的特洛伊区域。它与土卫三绕同一主天体运行，表面的松散物质影响了坑洼的外观。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/saturn/moons/calypso/",
+        "title": "Calypso — NASA Science"
+      },
+      {
+        "url": "https://science.nasa.gov/photojournal/calypso-close-up/",
+        "title": "Calypso Close Up — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "methone": {
+    "description": "卡西尼号拍到的土卫三十二呈平滑的椭圆状。它很小，轨道处于土卫一与土卫二之间，不宜把示意光点大小当作实体直径。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/saturn/moons/methone/",
+        "title": "Methone — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "nix": {
+    "description": "冥卫二是一颗不规则的冥王星卫星，表面含水冰。新视野号影像中的局部红色区域，与较浅的周围地表形成对比。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/dwarf-planets/pluto/moons/nix/",
+        "title": "Nix — NASA Science"
+      },
+      {
+        "url": "https://www.nasa.gov/missions/new-data-compare-contrast-plutos-icy-moons/",
+        "title": "New Data Compare, Contrast Pluto’s Icy Moons — NASA"
+      },
+      {
+        "url": "https://science.nasa.gov/blogs/new-horizons/2015/10/05/plutos-small-moons-nix-and-hydra/",
+        "title": "Pluto’s Small Moons Nix and Hydra — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "hydra": {
+    "description": "冥卫三位于冥王星卫星系统的外侧，形状不规则。其较亮表面与水冰有关，实拍资料的分辨率由新视野号飞掠条件决定。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/dwarf-planets/pluto/moons/hydra/",
+        "title": "Hydra — NASA Science"
+      },
+      {
+        "url": "https://science.nasa.gov/photojournal/icy-hydra/",
+        "title": "Icy Hydra — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "kerberos": {
+    "description": "新视野号发现冥卫四具有双叶瓣轮廓和较明亮表面。合并形成是可能的解释之一，地图展示不会把这种解释写成已完全确定的历史。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/dwarf-planets/pluto/moons/kerberos/",
+        "title": "Kerberos — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "styx": {
+    "description": "哈勃望远镜在为新视野号排查飞掠危险时发现冥卫五。它是一颗很小且狭长的卫星，观测近景能够分辨的细节有限。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/dwarf-planets/pluto/moons/styx/",
+        "title": "Styx — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "amalthea": {
+    "description": "木卫五是木星内侧的小卫星，外形不规则且偏红。它与木卫十四释放的尘埃，参与形成木星较弱的薄纱环。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/jupiter/jupiter-moons/amalthea/",
+        "title": "Amalthea — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "thebe": {
+    "description": "木卫十四位于木卫一轨道以内，约16小时绕木星一周。它是木星内侧不规则卫星，也为薄纱环提供尘埃。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/jupiter/jupiter-moons/thebe/",
+        "title": "Thebe — NASA Science"
+      },
+      {
+        "url": "https://science.nasa.gov/jupiter/jupiter-moons/amalthea/",
+        "title": "Amalthea — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "larissa": {
+    "description": "海卫七在海王星内侧运行，约13小时完成一周公转。它的暗色、不规则外形与坑洼表面，由旅行者号资料提供线索。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/neptune/moons/larissa/",
+        "title": "Larissa — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "proteus": {
+    "description": "海卫八绕海王星顺行，外形接近不规则块体而非圆球。暗色表面上的撞击坑，是旅行者号近景中的主要地形特征。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/neptune/moons/proteus/",
+        "title": "Proteus — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "braille": {
+    "description": "深空1号在1999年飞掠布莱叶，取得有限的影像和光谱信息。它是一颗细长的小行星，低分辨率观测不支持虚构更多地表纹理。",
+    "sources": [
+      {
+        "url": "https://www.jpl.nasa.gov/images/pia01344-composite-view-of-asteroid-braille-from-deep-space-1/",
+        "title": "Composite View of Asteroid Braille from Deep Space 1 — NASA/JPL"
+      },
+      {
+        "url": "https://www.jpl.nasa.gov/missions/deep-space-1-ds1/",
+        "title": "Deep Space 1 — NASA/JPL"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "annefrank": {
+    "description": "星尘号2002年飞掠安妮弗兰克小行星。观测揭示了暗色、不规则的主体，也修正了此前对其大小和亮度的认识。",
+    "sources": [
+      {
+        "url": "https://www.jpl.nasa.gov/news/nasas-stardust-comet-chaser-passes-asteroid-test/",
+        "title": "NASA’s Stardust Comet-Chaser Passes Asteroid Test — NASA/JPL"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "Proxima Centauri": {
+    "description": "比邻星是太阳附近最近的恒星，距离约4.2光年。它属于半人马座α系统，是一颗低亮度红矮星，周围已有行星发现。",
+    "sources": [
+      {
+        "url": "https://www.eso.org/public/news/eso1629/",
+        "title": "Planet Found in Habitable Zone Around Nearest Star — ESO"
+      },
+      {
+        "url": "https://www.eso.org/public/images/potw1604a/",
+        "title": "Our nearest star system observed live — ESO"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "Sirius": {
+    "description": "肉眼看到的天狼星亮光主要来自天狼星A，系统中另有白矮星天狼星B。二者相互绕行；该系统在大犬座方向，是夜空最醒目的恒星之一。",
+    "sources": [
+      {
+        "url": "https://chandra.harvard.edu/photo/2000/0065/",
+        "title": "Sirius A & B — Chandra X-ray Observatory"
+      },
+      {
+        "url": "https://solarsystem.nasa.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaUJoIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e2656a2331f6fd7e164c29507db8599dce197c1c/JPL-20190201-WHATSUf-0001-Transcript.pdf?disposition=inline",
+        "title": "What’s Up: February 2019 transcript — NASA/JPL"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "Vega": {
+    "description": "织女星自转很快，从地球观察时接近沿其轴向观看。周围的碎屑盘为研究恒星周边尘埃和行星形成环境提供了线索。",
+    "sources": [
+      {
+        "url": "https://ntrs.nasa.gov/citations/19950028610",
+        "title": "Vega: A rapidly rotating pole-on star — NASA NTRS"
+      },
+      {
+        "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-webb-probe-surprisingly-smooth-disk-around-vega/",
+        "title": "NASA’s Hubble, Webb Probe Surprisingly Smooth Disk Around Vega — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "Arcturus": {
+    "description": "大角星处于红巨星阶段，已离开主序。膨胀的外层较冷，使这颗牧夫座亮星呈现橙红色外观。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/universe/stars/types/",
+        "title": "Star Types — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "Capella": {
+    "description": "五车二的主要光源来自一对巨星，并不是单独一颗恒星。御夫座方向的这个系统具有活跃日冕，可用于研究恒星高温大气。",
+    "sources": [
+      {
+        "url": "https://cxc.harvard.edu/newsletters/news_35/article7.html",
+        "title": "Coronae and Capella — Chandra X-ray Center"
+      },
+      {
+        "url": "https://eco.mtk.nao.ac.jp/koyomi/faq/stars.html.en",
+        "title": "Glossary on Major Stars — National Astronomical Observatory of Japan"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "Rigel": {
+    "description": "参宿七是猎户座的蓝色超巨星，温度高于同星座的参宿四。它的蓝白光与参宿四的红色，为辨认猎户座提供了鲜明对照。",
+    "sources": [
+      {
+        "url": "https://apod.nasa.gov/apod/ap961202.html",
+        "title": "Orion’s Star Colors — NASA APOD"
+      },
+      {
+        "url": "https://apod.nasa.gov/rjn/apod/ap230407.html",
+        "title": "Rigel Wide — NASA APOD"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "Betelgeuse": {
+    "description": "参宿四是猎户座的红超巨星，亮度会变化。物质抛出与周围尘埃会影响观测亮度，它是研究大质量恒星晚期活动的对象。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/universe/what-is-betelgeuse-inside-the-strange-volatile-star/",
+        "title": "What is Betelgeuse? Inside the Strange, Volatile Star — NASA Science"
+      },
+      {
+        "url": "https://science.nasa.gov/missions/hubble/hubble-finds-that-betelgeuses-mysterious-dimming-is-due-to-a-traumatic-outburst/",
+        "title": "Hubble Finds that Betelgeuse’s Mysterious Dimming Is Due to a Traumatic Outburst — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "Altair": {
+    "description": "牛郎星与织女星、天津四组成夏季大三角。高速自转使其赤道鼓起，也让不同纬度的表面亮度有所差异。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/summer-triangle-corner-altair/",
+        "title": "Summer Triangle Corner: Altair — NASA Science"
+      },
+      {
+        "url": "https://www.jpl.nasa.gov/news/star-with-midriff-bulge-eyed-by-astronomers/",
+        "title": "Star with Midriff Bulge Eyed by Astronomers — NASA/JPL"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "Deneb": {
+    "description": "天津四位于天鹅座尾部，是一颗蓝白色超巨星。它与牛郎星和织女星组成夏季大三角，帮助观察者辨认银河附近的天空。",
+    "sources": [
+      {
+        "url": "https://simbad.cds.unistra.fr/simbad/sim-basic?Ident=Deneb",
+        "title": "Deneb / Alpha Cygni — CDS SIMBAD"
+      },
+      {
+        "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/summer-triangle-corner-deneb/",
+        "title": "Summer Triangle Corner: Deneb — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "Polaris": {
+    "description": "北极星接近北天极，因此可用于判断北方。它实际属于多星系统，明亮主星是一颗周期性脉动的造父变星。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/missions/hubble/theres-more-to-the-north-star-than-meets-the-eye/",
+        "title": "There’s More to the North Star Than Meets the Eye — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "Sgr A*": {
+    "description": "银河系中心的人马座A*具有约400万太阳质量。周围恒星的运动揭示其引力，2022年公布的EHT结果展示了附近发光物质形成的环状结构。",
+    "sources": [
+      {
+        "url": "https://www.eso.org/public/australia/news/eso2208-eht-mw/",
+        "title": "Astronomers reveal first image of the black hole at the heart of our galaxy — ESO"
+      },
+      {
+        "url": "https://arxiv.org/abs/2311.08680",
+        "title": "First Sagittarius A* Event Horizon Telescope Results. I — EHT Collaboration"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "M87*": {
+    "description": "M87中心的超大质量黑洞在2019年成为首幅黑洞阴影影像的主角。EHT观察的是周围发光物质及其暗影，而不是黑洞内部。",
+    "sources": [
+      {
+        "url": "https://www.eso.org/public/australia/blog/spot-the-difference-sagittarius-a-m87/",
+        "title": "Spot the difference: Imaging Sagittarius A* and M87* — ESO"
+      },
+      {
+        "url": "https://arxiv.org/abs/1906.11241",
+        "title": "First M87 Event Horizon Telescope Results. IV — EHT Collaboration"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "Cygnus X-1": {
+    "description": "天鹅座X-1是含黑洞和大质量伴星的X射线双星。伴星物质落向黑洞时产生高温辐射，吸积与喷流使它成为经典研究对象。",
+    "sources": [
+      {
+        "url": "https://www.ncl.ac.uk/press/articles/archive/2022/11/cygnusx-1/",
+        "title": "Research reveals details of extremely hot matter around black hole — Newcastle University"
+      },
+      {
+        "url": "https://arxiv.org/abs/2102.09091",
+        "title": "Cygnus X-1 contains a 21-solar mass black hole — Miller-Jones et al."
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "Gaia BH1": {
+    "description": "Gaia BH1的黑洞主要通过伴星轨道被发现，而非明亮吸积辐射。它位于蛇夫座方向，约距地球1560光年，伴星性质接近太阳。",
+    "sources": [
+      {
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_discovers_a_new_family_of_black_holes",
+        "title": "Gaia discovers a new family of black holes — ESA"
+      },
+      {
+        "url": "https://noirlab.edu/public/news/noirlab2227/",
+        "title": "Astronomers Discover Closest Black Hole to Earth — NSF NOIRLab"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "Gaia BH2": {
+    "description": "Gaia BH2与红巨星组成双星，位于半人马座方向。伴星运动提供了黑洞存在的证据，这类休眠系统没有强烈的吸积光辉。",
+    "sources": [
+      {
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_discovers_a_new_family_of_black_holes",
+        "title": "Gaia discovers a new family of black holes — ESA"
+      },
+      {
+        "url": "https://arxiv.org/abs/2302.07880",
+        "title": "A red giant orbiting a black hole — El-Badry et al."
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "Gaia BH3": {
+    "description": "Gaia BH3的伴星运动揭示了约33太阳质量的黑洞。它位于天鹰座方向，伴星低金属丰度为研究该系统的形成环境提供了线索。",
+    "sources": [
+      {
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Gaia/Sleeping_giant_surprises_Gaia_scientists",
+        "title": "Sleeping giant surprises Gaia scientists — ESA"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "TON 618": {
+    "description": "TON 618是遥远的明亮类星体，吸积物质产生强烈辐射。其中心黑洞质量估计在数百亿太阳质量量级，具体数值依赖测量方法和假设。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/universe/black-holes/",
+        "title": "Black Hole Basics — NASA Science"
+      },
+      {
+        "url": "https://science.nasa.gov/universe/black-holes/types/",
+        "title": "Black Hole Types — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "M31": {
+    "description": "仙女座星系M31距离约250万光年，是银河系附近的大型螺旋星系。中央亮区和广阔恒星盘构成其主要形态，良好暗夜条件下可肉眼看到。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-31/",
+        "title": "Messier 31 (The Andromeda Galaxy) — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "M33": {
+    "description": "三角座星系M33属于本星系群，大小位于银河系与M31之后。螺旋臂中的年轻恒星和星云，体现了仍在进行的恒星形成。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-33/",
+        "title": "Messier 33 (The Triangulum Galaxy) — NASA Science"
+      },
+      {
+        "url": "https://science.nasa.gov/missions/hubble/hubble-peers-into-the-center-of-a-star-forming-powerhouse/",
+        "title": "Hubble Peers Into the Center of a Star-forming Powerhouse — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "M45": {
+    "description": "昴星团也称七姐妹，但成员远不止七颗。它是一座金牛座疏散星团，少数亮星决定了肉眼最容易辨认的形状。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-45/",
+        "title": "Messier 45 (The Pleiades) — NASA Science"
+      },
+      {
+        "url": "https://science.nasa.gov/missions/tess/nasas-tess-spacecraft-triples-size-of-pleiades-star-cluster/",
+        "title": "NASA’s TESS Spacecraft Triples Size of Pleiades Star Cluster — NASA Science"
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  },
+  "Omega Centauri": {
+    "description": "半人马座ω是一座庞大的球状星团。不同恒星族群的年龄与成分差异，使其可能曾是矮星系核心的解释受到研究关注。",
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/asset/hubble/omega-centauri-2/",
+        "title": "Omega Centauri — NASA Science"
+      },
+      {
+        "url": "https://arxiv.org/abs/astro-ph/9911137",
+        "title": "Multiple Stellar Populations in the Globular Cluster omega Centauri as Tracers of a Merger Event — Lee et al."
+      }
+    ],
+    "textProvenance": {
+      "method": "New Voyager Chinese explanation, factual references listed separately; no upstream article passage reproduced",
+      "reviewed": "2026-10-11"
+    }
+  }
+}

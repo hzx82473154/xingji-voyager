@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-09T16:11:16.624208+00:00",
+  "columns": [
+    "id",
+    "name",
+    "designation",
+    "kind",
+    "parent",
+    "aAU",
+    "e",
+    "iDeg",
+    "nodeDeg",
+    "periDeg",
+    "meanAnomalyDeg",
+    "epochJD",
+    "diameterKm",
+    "rotationPeriodHours",
+    "orbitalPeriodDays",
+    "diameterUncertaintyKm",
+    "extentKm",
+    "albedo",
+    "orbitClass"
+  ],
+  "units": {
+    "aAU": "AU",
+    "iDeg": "deg",
+    "nodeDeg": "deg",
+    "periDeg": "deg",
+    "meanAnomalyDeg": "deg",
+    "epochJD": "TDB Julian day",
+    "diameterKm": "km equivalent sphere",
+    "rotationPeriodHours": "h",
+    "orbitalPeriodDays": "d"
+  },
+  "sources": [
+    {
+      "id": "JPL-SBDB-MBA",
+      "url": "https://ssd-api.jpl.nasa.gov/sbdb_query.api?fields=spkid%2Cfull_name%2Cpdes%2Ca%2Ce%2Ci%2Com%2Cw%2Cma%2Cepoch%2Cdiameter%2Crot_per%2Cclass%2Cper%2Cdiameter_sigma%2Cextent%2Calbedo&sb-class=MBA&sort=spkid&sb-cdata=%7B%22OR%22%3A%5B%22diameter%7CGT%7C0%22%2C%22rot_per%7CGT%7C0%22%5D%7D",
+      "queryClass": "MBA",
+      "queryPhysicalFilter": "diameter >0 OR rotation period >0",
+      "retrievedAt": "2026-10-09T16:11:16.624208+00:00",
+      "rowCount": 139205,
+      "imported": 139205,
+      "sha256": "73a59107ecc2e1e6e0a70662799c4ce352cd55c1b29116dc194a895f6af8fe3a",
+      "signature": {
+        "source": "NASA/JPL SBDB (Small-Body DataBase) Query API",
+        "version": "1.0"
+      }
+    },
+    {
+      "id": "JPL-SBDB-TNO",
+      "url": "https://ssd-api.jpl.nasa.gov/sbdb_query.api?fields=spkid%2Cfull_name%2Cpdes%2Ca%2Ce%2Ci%2Com%2Cw%2Cma%2Cepoch%2Cdiameter%2Crot_per%2Cclass%2Cper%2Cdiameter_sigma%2Cextent%2Calbedo&sb-class=TNO&sort=spkid",
+      "queryClass": "TNO",
+      "queryPhysicalFilter": null,
+      "retrievedAt": "2026-10-09T16:11:16.624208+00:00",
+      "rowCount": 7300,
+      "imported": 7300,
+      "sha256": "dfdf1e0fceff081323f5c658d0fb8c1ab9d759cd03e305d4076d20dd63e10767",
+      "signature": {
+        "source": "NASA/JPL SBDB (Small-Body DataBase) Query API",
+        "version": "1.0"
+      }
+    }
+  ],
+  "counts": {
+    "mainBelt": 139205,
+    "kuiperBelt": 7300,
+    "total": 146505,
+    "withDiameter": 127501,
+    "withRotationPeriod": 29675,
+    "duplicatesRemoved": 0,
+    "failed": 0
+  },
+  "scope": "Full NASA/JPL MBA subset with catalogued diameter or spin; full JPL TNO orbital class. TNO includes resonant/classical/scattered trans-Neptunian objects; not all are confined to the classical Kuiper belt. MBA does not encompass all small-body orbit classes.",
+  "parameterMethods": {
+    "orbit": "NASA/JPL osculating heliocentric elements at per-row epoch; two-body Kepler propagation is an approximation, not spacecraft navigation ephemeris",
+    "diameter": "catalogued measured/model-estimated equivalent sphere diameter; null when unavailable; upstream diameter uncertainty retained",
+    "rotation": "catalogued physical parameter; null when not supplied; spin-axis orientation unknown",
+    "shape": "schematic unless an independent mission shape model is linked; diameter alone does not determine shape"
+  },
+  "file": "belt-members.json.gz",
+  "uncompressedBytes": 23180565,
+  "compressedBytes": 6206661,
+  "sha256": "f5dfd195dba7af0b133ccf16eac42607a8c4af5daaf767fa8077e548464492b3"
+}

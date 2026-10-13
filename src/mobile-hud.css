@@ -1,0 +1,100 @@
+/* Phone-only stylesheet; desktop is served from its unchanged frozen runtime. */
+#app.mobile-runtime{--mobile-header-bottom:58px;--mobile-nav-bottom:104px;--mobile-controls-height:48px;--phone-bottom:calc(env(safe-area-inset-bottom) + 8px)}
+#app.mobile-runtime .topbar{top:calc(env(safe-area-inset-top) + 6px);left:calc(env(safe-area-inset-left) + 10px);right:calc(env(safe-area-inset-right) + 10px);height:44px;min-height:0;gap:4px;align-items:center}
+#app.mobile-runtime .brand{margin:0 auto 0 0;padding:0;gap:6px;max-width:calc(100% - 92px)}
+#app.mobile-runtime .brand svg{width:20px;height:20px;flex:none}
+#app.mobile-runtime .brand span,#app.mobile-runtime .brand b{font-size:12px;letter-spacing:0}
+#app.mobile-runtime .brand small{display:none}
+#app.mobile-runtime .icon-button,#app.mobile-runtime .mobile-menu-toggle{display:flex;align-items:center;justify-content:center;width:44px;height:44px;min-height:44px;padding:10px;border-radius:10px;background:#04101ae8;border:1px solid var(--line);font-size:20px;cursor:pointer;list-style:none}
+#app.mobile-runtime summary::-webkit-details-marker{display:none}
+#app.mobile-runtime .icon-button svg{width:17px;height:17px}
+#app.mobile-runtime .mobile-menu{position:relative;flex:none}
+#app.mobile-runtime .top-actions{position:absolute;right:0;top:50px;width:202px;padding:8px;gap:6px;z-index:12;background:#04101af5;backdrop-filter:none;border-radius:12px;max-height:calc(100dvh - var(--mobile-header-bottom) - 80px);overflow:auto}
+#app.mobile-runtime .tool-row{gap:4px;min-height:44px;justify-content:flex-start}
+#app.mobile-runtime .map-quality{gap:0;font-size:11px}
+#app.mobile-runtime .map-quality>svg{display:none}
+#app.mobile-runtime #mapQuality{font-size:16px;width:134px;min-height:44px;padding:5px}
+#app.mobile-runtime .tool-popover,#app.mobile-runtime .music-popover{position:fixed;top:calc(var(--mobile-header-bottom) + 8px);left:calc(env(safe-area-inset-left) + 10px);right:calc(env(safe-area-inset-right) + 10px);width:auto;max-height:calc(100dvh - var(--mobile-header-bottom) - var(--mobile-controls-height) - 40px);padding:14px;font-size:12px;line-height:1.7;z-index:20;background:#04101afa;backdrop-filter:none;overflow:auto}
+#app.mobile-runtime .music-popover button,#app.mobile-runtime .music-popover input{min-height:44px;font-size:12px}
+#app.mobile-runtime .top-navigation{top:calc(var(--mobile-header-bottom) + 4px);left:calc(env(safe-area-inset-left) + 10px);right:calc(env(safe-area-inset-right) + 10px);width:auto;transform:none;padding:0 8px;background:#04101aeb;backdrop-filter:none;border-radius:10px}
+#app.mobile-runtime .destination-heading{min-height:44px;padding:0;gap:0}
+#app.mobile-runtime .destination-heading>span{display:block;font-size:12px;line-height:44px;letter-spacing:0}
+#app.mobile-runtime .hud-directory-toggle{display:block;position:absolute;right:4px;left:auto;top:0;bottom:auto;width:76px;min-height:44px;padding:4px;font-size:12px;border:0;background:transparent}
+#app.mobile-runtime .top-navigation:not(.hud-directory-open) :is(.destination-actions,.destination-carousel,.destination-page){display:none!important}
+#app.mobile-runtime .top-navigation.hud-directory-open .destination-heading{flex-direction:column;align-items:stretch}
+#app.mobile-runtime .destination-actions{width:100%;display:flex;flex-wrap:nowrap;gap:2px;overflow-x:auto;scrollbar-width:none;touch-action:pan-x}
+#app.mobile-runtime .destination-actions button{flex:none;min-height:44px;padding:5px 7px;font-size:11px}
+#app.mobile-runtime .destination-carousel{gap:2px}
+#app.mobile-runtime .carousel-arrow{width:44px;flex-basis:44px;height:44px;font-size:24px}
+#app.mobile-runtime .top-navigation .destinations,#app.mobile-runtime.geography-detail .top-navigation .destinations{display:grid;height:82px;padding:2px;gap:4px}
+#app.mobile-runtime .destinations .destination:nth-child(n){width:100%;min-width:0;height:78px;padding:3px;gap:2px}
+#app.mobile-runtime .destination-art,#app.mobile-runtime .destination img,#app.mobile-runtime .destination .nav-orb{width:26px;height:26px;min-height:26px}
+#app.mobile-runtime .destination .cn{font-size:11px;line-height:14px;white-space:normal;overflow-wrap:anywhere}
+#app.mobile-runtime .destination .en{font-size:9px;line-height:11px;letter-spacing:0}
+#app.mobile-runtime .destination-page{display:block;font-size:9px;line-height:14px;margin:0}
+#app.mobile-runtime .bottom-dock{left:calc(env(safe-area-inset-left) + 10px);right:calc(env(safe-area-inset-right) + 10px);bottom:var(--phone-bottom);width:auto;transform:none;gap:0}
+#app.mobile-runtime .controlbar{display:flex;flex-direction:row;align-items:center;justify-content:space-between;min-height:48px;height:48px;padding:2px 6px;gap:4px;background:#04101af0;backdrop-filter:none}
+#app.mobile-runtime .layer-controls{height:44px;gap:0;flex:1}
+#app.mobile-runtime .toggle{min-height:44px;min-width:60px;font-size:11px;gap:7px;padding:5px 7px}
+#app.mobile-runtime .switch{position:static;flex:0 0 5px;min-width:5px;margin:0}
+#app.mobile-runtime .pause-button{width:44px;height:44px;flex:none;padding:12px}
+#app.mobile-runtime #mobileTime>.mobile-menu-toggle{width:66px;font-size:11px;padding:5px;background:transparent;border:0}
+#app.mobile-runtime .time-controls{position:absolute;bottom:54px;right:-6px;width:min(300px,calc(100vw - 32px));padding:10px;gap:6px;display:flex;flex-wrap:wrap;background:#04101afa;border:1px solid var(--line);border-radius:12px}
+#app.mobile-runtime .speeds{display:flex;width:100%;justify-content:space-between;gap:2px}
+#app.mobile-runtime .speeds button{font-size:11px;min-height:44px;min-width:40px;padding:4px}
+#app.mobile-runtime #fastSpeed{font-size:16px;min-height:44px;max-width:100%;width:100%}
+#app.mobile-runtime .time-caption,#app.mobile-runtime .simulation-note,#app.mobile-runtime .gesture-hint{display:none}
+#app.mobile-runtime .info-panel,#app.mobile-runtime .info-panel.geography-active,#app.mobile-runtime .info-panel.geography-detail{left:calc(env(safe-area-inset-left) + 10px);top:auto;bottom:calc(var(--phone-bottom) + var(--mobile-controls-height) + 8px);width:calc(100% - env(safe-area-inset-left) - env(safe-area-inset-right) - 82px);max-width:260px;padding:10px 12px;background:#04101aef;border:1px solid var(--line);border-radius:12px;backdrop-filter:none;max-height:calc(100dvh - var(--mobile-nav-bottom) - var(--mobile-controls-height) - 40px)}
+#app.mobile-runtime .info-panel h1,#app.mobile-runtime .info-panel h1.long-name{font-size:18px;line-height:1.25;letter-spacing:.5px;margin:2px 0;padding-right:32px;overflow-wrap:anywhere}
+#app.mobile-runtime .english-name{font-size:9px;line-height:1.4;letter-spacing:.6px}
+#app.mobile-runtime .info-panel .eyebrow{display:none}
+#app.mobile-runtime .info-panel:not(.hud-expanded) :is(#targetDescription,#targetFacts,.info-summary,.tracking,#surfacePhotoToggle,#surfaceEvidence,.hud-explore,.coordinate){display:none!important}
+#app.mobile-runtime .hud-card-toggle{width:44px;height:44px;right:3px;top:4px;font-size:18px;background:transparent;border:0}
+#app.mobile-runtime .info-panel.hud-expanded{width:calc(100% - env(safe-area-inset-left) - env(safe-area-inset-right) - 20px);max-width:420px;max-height:min(44dvh,calc(100dvh - var(--mobile-nav-bottom) - var(--mobile-controls-height) - 40px));padding:14px;overflow:auto;z-index:8}
+#app.mobile-runtime .info-panel.hud-expanded #targetDescription{font-size:12px;line-height:1.7}
+#app.mobile-runtime #targetFacts,#app.mobile-runtime #targetFacts dt,#app.mobile-runtime #targetFacts dd{font-size:11px;line-height:1.6}
+#app.mobile-runtime .info-panel :is(button,select){min-height:44px;font-size:12px}
+#app.mobile-runtime .info-panel select{font-size:16px;max-width:100%}
+#app.mobile-runtime .hud-explore{font-size:12px;min-height:44px;margin-top:6px;padding:5px 0}
+#app.mobile-runtime .hud-explore small{font-size:9px}
+#app.mobile-runtime .coordinate{position:static;font-size:10px;line-height:1.5;transform:none;margin:6px 0}
+#app.mobile-runtime .coordinate small{font-size:10px}
+#app.mobile-runtime .mobile-region-back{position:absolute;left:calc(env(safe-area-inset-left) + 10px);top:calc(var(--mobile-nav-bottom) + 6px);min-height:44px;padding:5px 9px;font-size:11px;margin:0;background:#04101af0;z-index:5}
+#app.mobile-runtime .mobile-region-back small{display:none}
+#app.mobile-runtime .scale-meter{position:absolute;right:calc(env(safe-area-inset-right) + 8px);top:50%;transform:translateY(-50%);width:44px;height:94px;display:block;opacity:1}
+#app.mobile-runtime .meter-title,#app.mobile-runtime .meter-track{display:none}
+#app.mobile-runtime .zoom-buttons{display:flex;flex-direction:column;height:94px;gap:6px}
+#app.mobile-runtime .zoom-buttons button{width:44px;height:44px;min-height:44px;flex:none;font-size:19px;background:#04101aef;border-radius:10px}
+#app.mobile-runtime .top-actions .meter-labels{position:static;display:flex;flex-direction:row;width:100%;height:auto;gap:4px}
+#app.mobile-runtime .meter-labels button{font-size:11px;min-height:44px;flex:1;padding:4px}
+#app.mobile-runtime .top-actions .hud-immersive{position:static;display:block;width:100%;min-height:44px;font-size:11px;padding:4px;background:transparent;transform:none}
+#app.mobile-runtime .hud-immersive small{display:none}
+#app.mobile-runtime #restoreUI{top:auto;right:calc(env(safe-area-inset-right) + 10px);bottom:var(--phone-bottom);min-height:44px;font-size:12px}
+#app.mobile-runtime dialog{max-width:calc(100vw - 20px);max-height:calc(100dvh - env(safe-area-inset-top) - env(safe-area-inset-bottom) - 20px);overscroll-behavior:contain;backdrop-filter:none;font-size:12px}
+#app.mobile-runtime dialog h2{font-size:18px}
+#app.mobile-runtime dialog :is(button,input,select){min-height:44px}
+#app.mobile-runtime dialog :is(input,select){font-size:16px}
+#app.mobile-runtime .dialog-close{width:44px;height:44px}
+#app.mobile-runtime .catalog-search{grid-template-columns:1fr}
+#app.mobile-runtime .landmark-pin{min-height:32px;font-size:10px;padding:4px 7px}
+@media (orientation:landscape) and (max-height:560px){
+ #app.mobile-runtime .top-navigation{left:calc(env(safe-area-inset-left) + 190px);top:calc(env(safe-area-inset-top) + 6px);right:calc(env(safe-area-inset-right) + 108px)}
+ #app.mobile-runtime .brand{max-width:175px}
+ #app.mobile-runtime .info-panel{max-width:230px}
+ #app.mobile-runtime .info-panel.hud-expanded{max-height:55dvh;max-width:340px}
+ #app.mobile-runtime .tool-popover,#app.mobile-runtime .music-popover{top:calc(env(safe-area-inset-top) + 56px)}
+}
+/* Match the legacy nested selectors explicitly so mobile sizing wins. */
+#app.mobile-runtime .top-actions{height:auto;margin-left:0}
+#app.mobile-runtime .top-actions :is(.icon-button,summary.icon-button){width:44px;height:44px;flex:0 0 44px;padding:10px}
+#app.mobile-runtime .top-navigation .destination-heading,#app.mobile-runtime .top-navigation.hud-directory-open .destination-heading{padding:0;gap:0;flex-direction:column;align-items:stretch;flex-wrap:nowrap}
+#app.mobile-runtime .top-navigation .destination-actions button{min-height:44px;font-size:11px;padding:5px 7px}
+#app.mobile-runtime .top-navigation .destinations,#app.mobile-runtime .top-navigation.hud-directory-open .destinations{height:82px;padding:2px;gap:4px}
+#app.mobile-runtime .top-navigation .destinations .destination:nth-child(n){height:78px;padding:3px;gap:2px}
+#app.mobile-runtime .top-navigation .destination-art,#app.mobile-runtime .top-navigation .destination img,#app.mobile-runtime .top-navigation .destination .nav-orb{width:26px;height:26px;min-height:26px}
+#app.mobile-runtime .top-navigation .destination .cn{font-size:11px;line-height:14px;min-height:14px;max-height:28px}
+#app.mobile-runtime .top-navigation .destination .en{font-size:9px;line-height:11px}
+#app.mobile-runtime .top-navigation .carousel-arrow{width:44px;flex-basis:44px;height:44px;font-size:24px}
+#app.mobile-runtime .top-navigation .destination-page{font-size:9px;line-height:14px;margin:0}
+#app.mobile-runtime .landmark-pin-dot{width:17px;height:17px;font-size:13px}
+#app.mobile-runtime .landmark-pin{max-width:130px}

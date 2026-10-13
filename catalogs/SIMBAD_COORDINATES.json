@@ -1,0 +1,579 @@
+{
+  "license": "ODbL 1.0",
+  "licenseUrl": "https://opendatacommons.org/licenses/odbl/1-0/",
+  "credit": "CDS, Strasbourg",
+  "source": "https://simbad.astro.unistra.fr/simbad/",
+  "changes": "Exact SIMBAD-related crossmatch fields extracted from the current Black Hole catalog; no new queries or invented values. Rounded Omega Centauri position was transcribed from SIMBAD by the project.",
+  "records": [
+    {
+      "id": "smbh-mw",
+      "name": "Sagittarius A*",
+      "evidence": {
+        "parameterMethods": {
+          "position": "CDS/SIMBAD ICRS host/source position; published catalog identifier crossmatch",
+          "mass": "stellar-dynamics; published estimate",
+          "distance": "published host distance in 2016 compilation",
+          "rotation": "not supplied; disk animation does not imply measured spin"
+        },
+        "positionSource": "https://simbad.cds.unistra.fr/simbad/sim-tap"
+      },
+      "raDeg": 266.41681662499997,
+      "decDeg": -29.00782497222222,
+      "aliases": [
+        "Sgr A*",
+        "MW",
+        "Milky Way central black hole"
+      ]
+    },
+    {
+      "id": "smbh-ngc6264",
+      "name": "NGC6264",
+      "evidence": {
+        "parameterMethods": {
+          "position": "CDS/SIMBAD ICRS host/source position; published catalog identifier crossmatch",
+          "mass": "water-megamaser-dynamics; published estimate",
+          "distance": "published host distance in 2016 compilation",
+          "rotation": "not supplied; disk animation does not imply measured spin"
+        },
+        "positionSource": "https://simbad.cds.unistra.fr/simbad/sim-tap"
+      },
+      "raDeg": 254.31719706930997,
+      "decDeg": 27.84960398059,
+      "aliases": [
+        "NGC6264"
+      ]
+    },
+    {
+      "id": "smbh-m60ucd1",
+      "name": "M60UCD1",
+      "evidence": {
+        "parameterMethods": {
+          "position": "CDS/SIMBAD ICRS host/source position; published catalog identifier crossmatch",
+          "mass": "stellar-dynamics; published estimate",
+          "distance": "published host distance in 2016 compilation",
+          "rotation": "not supplied; disk animation does not imply measured spin"
+        },
+        "positionSource": "https://simbad.cds.unistra.fr/simbad/sim-tap"
+      },
+      "raDeg": 190.8998699,
+      "decDeg": 11.534638900000001,
+      "aliases": [
+        "M60UCD1"
+      ]
+    },
+    {
+      "id": "smbh-ngc0300",
+      "name": "NGC0300",
+      "evidence": {
+        "parameterMethods": {
+          "position": "CDS/SIMBAD ICRS host/source position; published catalog identifier crossmatch",
+          "mass": "stellar-dynamics; upper limit, no measured central mass",
+          "distance": "published host distance in 2016 compilation",
+          "rotation": "not supplied; disk animation does not imply measured spin"
+        },
+        "positionSource": "https://simbad.cds.unistra.fr/simbad/sim-tap"
+      },
+      "raDeg": 13.722694015959998,
+      "decDeg": -37.68421344511,
+      "aliases": [
+        "NGC0300"
+      ]
+    },
+    {
+      "id": "smbh-ngc7793",
+      "name": "NGC7793",
+      "evidence": {
+        "parameterMethods": {
+          "position": "CDS/SIMBAD ICRS host/source position; published catalog identifier crossmatch",
+          "mass": "stellar-dynamics; upper limit, no measured central mass",
+          "distance": "published host distance in 2016 compilation",
+          "rotation": "not supplied; disk animation does not imply measured spin"
+        },
+        "positionSource": "https://simbad.cds.unistra.fr/simbad/sim-tap"
+      },
+      "raDeg": 359.45730835243995,
+      "decDeg": -32.59102820854,
+      "aliases": [
+        "NGC7793"
+      ]
+    },
+    {
+      "id": "smbh-ngc4395",
+      "name": "NGC4395",
+      "evidence": {
+        "parameterMethods": {
+          "position": "CDS/SIMBAD ICRS host/source position; published catalog identifier crossmatch",
+          "mass": "gas-dynamics; published estimate",
+          "distance": "published host distance in 2016 compilation",
+          "rotation": "not supplied; disk animation does not imply measured spin"
+        },
+        "positionSource": "https://simbad.cds.unistra.fr/simbad/sim-tap"
+      },
+      "raDeg": 186.45359712911997,
+      "decDeg": 33.54686115781999,
+      "aliases": [
+        "NGC4395",
+        "NGC4400"
+      ]
+    },
+    {
+      "id": "smbh-g1",
+      "name": "G1",
+      "evidence": {
+        "parameterMethods": {
+          "position": "CDS/SIMBAD ICRS host/source position; published catalog identifier crossmatch",
+          "mass": "globular-cluster-dynamics; published estimate",
+          "distance": "published host distance in 2016 compilation",
+          "rotation": "not supplied; disk animation does not imply measured spin"
+        },
+        "positionSource": "https://simbad.cds.unistra.fr/simbad/sim-tap"
+      },
+      "raDeg": 8.19388491738,
+      "decDeg": 39.57791800085,
+      "aliases": [
+        "G1"
+      ]
+    },
+    {
+      "id": "smbh-ngc5272",
+      "name": "NGC5272",
+      "evidence": {
+        "parameterMethods": {
+          "position": "CDS/SIMBAD ICRS host/source position; published catalog identifier crossmatch",
+          "mass": "globular-cluster-dynamics; upper limit, no measured central mass",
+          "distance": "published host distance in 2016 compilation",
+          "rotation": "not supplied; disk animation does not imply measured spin"
+        },
+        "positionSource": "https://simbad.cds.unistra.fr/simbad/sim-tap"
+      },
+      "raDeg": 205.5484166666666,
+      "decDeg": 28.37727777777778,
+      "aliases": [
+        "NGC5272"
+      ]
+    },
+    {
+      "id": "smbh-ngc4244",
+      "name": "NGC4244",
+      "evidence": {
+        "parameterMethods": {
+          "position": "CDS/SIMBAD ICRS host/source position; published catalog identifier crossmatch",
+          "mass": "stellar-dynamics; upper limit, no measured central mass",
+          "distance": "published host distance in 2016 compilation",
+          "rotation": "not supplied; disk animation does not imply measured spin"
+        },
+        "positionSource": "https://simbad.cds.unistra.fr/simbad/sim-tap"
+      },
+      "raDeg": 184.37357916666664,
+      "decDeg": 37.807111111111105,
+      "aliases": [
+        "NGC4244"
+      ]
+    },
+    {
+      "id": "smbh-mrk1029",
+      "name": "Mrk1029",
+      "evidence": {
+        "parameterMethods": {
+          "position": "CDS/SIMBAD ICRS host/source position; published catalog identifier crossmatch",
+          "mass": "water-megamaser-dynamics; published estimate",
+          "distance": "published host distance in 2016 compilation",
+          "rotation": "not supplied; disk animation does not imply measured spin"
+        },
+        "positionSource": "https://simbad.cds.unistra.fr/simbad/sim-tap"
+      },
+      "raDeg": 34.26490845129,
+      "decDeg": 5.292078234600001,
+      "aliases": [
+        "Mrk1029"
+      ]
+    },
+    {
+      "id": "smbh-1rxsj1858+4850",
+      "name": "1RXSJ1858+4850",
+      "evidence": {
+        "parameterMethods": {
+          "position": "CDS/SIMBAD ICRS host/source position; published catalog identifier crossmatch",
+          "mass": "reverberation-mapping; published estimate",
+          "distance": "published host distance in 2016 compilation",
+          "rotation": "not supplied; disk animation does not imply measured spin"
+        },
+        "positionSource": "https://simbad.cds.unistra.fr/simbad/sim-tap"
+      },
+      "raDeg": 284.50463147718,
+      "decDeg": 48.839828847659994,
+      "aliases": [
+        "1RXSJ1858+4850"
+      ]
+    },
+    {
+      "id": "smbh-h0507+164",
+      "name": "H0507+164",
+      "evidence": {
+        "parameterMethods": {
+          "position": "CDS/SIMBAD ICRS host/source position; published catalog identifier crossmatch",
+          "mass": "reverberation-mapping; published estimate",
+          "distance": "published host distance in 2016 compilation",
+          "rotation": "not supplied; disk animation does not imply measured spin"
+        },
+        "positionSource": "https://simbad.cds.unistra.fr/simbad/sim-tap"
+      },
+      "raDeg": 77.68974851048,
+      "decDeg": 16.49949456571,
+      "aliases": [
+        "H0507+164"
+      ]
+    },
+    {
+      "id": "smbh-mrk0142",
+      "name": "Mrk0142",
+      "evidence": {
+        "parameterMethods": {
+          "position": "CDS/SIMBAD ICRS host/source position; published catalog identifier crossmatch",
+          "mass": "reverberation-mapping; published estimate",
+          "distance": "published host distance in 2016 compilation",
+          "rotation": "not supplied; disk animation does not imply measured spin"
+        },
+        "positionSource": "https://simbad.cds.unistra.fr/simbad/sim-tap"
+      },
+      "raDeg": 156.38032787431,
+      "decDeg": 51.67635219139,
+      "aliases": [
+        "Mrk142",
+        "Mrk0142"
+      ]
+    },
+    {
+      "id": "smbh-mrk1501",
+      "name": "Mrk1501",
+      "evidence": {
+        "parameterMethods": {
+          "position": "CDS/SIMBAD ICRS host/source position; published catalog identifier crossmatch",
+          "mass": "reverberation-mapping; published estimate",
+          "distance": "published host distance in 2016 compilation",
+          "rotation": "not supplied; disk animation does not imply measured spin"
+        },
+        "positionSource": "https://simbad.cds.unistra.fr/simbad/sim-tap"
+      },
+      "raDeg": 2.629191267208333,
+      "decDeg": 10.974862305027779,
+      "aliases": [
+        "Mrk1501"
+      ]
+    },
+    {
+      "id": "smbh-mrk0290",
+      "name": "Mrk0290",
+      "evidence": {
+        "parameterMethods": {
+          "position": "CDS/SIMBAD ICRS host/source position; published catalog identifier crossmatch",
+          "mass": "reverberation-mapping; published estimate",
+          "distance": "published host distance in 2016 compilation",
+          "rotation": "not supplied; disk animation does not imply measured spin"
+        },
+        "positionSource": "https://simbad.cds.unistra.fr/simbad/sim-tap"
+      },
+      "raDeg": 233.96834625898003,
+      "decDeg": 57.90264323903,
+      "aliases": [
+        "Mrk290",
+        "Mrk0290"
+      ]
+    },
+    {
+      "id": "smbh-mrk0335",
+      "name": "Mrk0335",
+      "evidence": {
+        "parameterMethods": {
+          "position": "CDS/SIMBAD ICRS host/source position; published catalog identifier crossmatch",
+          "mass": "reverberation-mapping; published estimate",
+          "distance": "published host distance in 2016 compilation",
+          "rotation": "not supplied; disk animation does not imply measured spin"
+        },
+        "positionSource": "https://simbad.cds.unistra.fr/simbad/sim-tap"
+      },
+      "raDeg": 1.5814051412599996,
+      "decDeg": 20.20294927891,
+      "aliases": [
+        "Mrk335",
+        "Mrk0335"
+      ]
+    },
+    {
+      "id": "smbh-pg0026+129",
+      "name": "PG0026+129",
+      "evidence": {
+        "parameterMethods": {
+          "position": "CDS/SIMBAD ICRS host/source position; published catalog identifier crossmatch",
+          "mass": "reverberation-mapping; published estimate",
+          "distance": "published host distance in 2016 compilation",
+          "rotation": "not supplied; disk animation does not imply measured spin"
+        },
+        "positionSource": "https://simbad.cds.unistra.fr/simbad/sim-tap"
+      },
+      "raDeg": 7.307088520669999,
+      "decDeg": 13.26776327174,
+      "aliases": [
+        "PG0026+129"
+      ]
+    },
+    {
+      "id": "smbh-pg0052+251",
+      "name": "PG0052+251",
+      "evidence": {
+        "parameterMethods": {
+          "position": "CDS/SIMBAD ICRS host/source position; published catalog identifier crossmatch",
+          "mass": "reverberation-mapping; published estimate",
+          "distance": "published host distance in 2016 compilation",
+          "rotation": "not supplied; disk animation does not imply measured spin"
+        },
+        "positionSource": "https://simbad.cds.unistra.fr/simbad/sim-tap"
+      },
+      "raDeg": 13.717159859449996,
+      "decDeg": 25.42749534487,
+      "aliases": [
+        "PG0052+251"
+      ]
+    },
+    {
+      "id": "smbh-pg0804+761",
+      "name": "PG0804+761",
+      "evidence": {
+        "parameterMethods": {
+          "position": "CDS/SIMBAD ICRS host/source position; published catalog identifier crossmatch",
+          "mass": "reverberation-mapping; published estimate",
+          "distance": "published host distance in 2016 compilation",
+          "rotation": "not supplied; disk animation does not imply measured spin"
+        },
+        "positionSource": "https://simbad.cds.unistra.fr/simbad/sim-tap"
+      },
+      "raDeg": 122.74443397661,
+      "decDeg": 76.04512512535,
+      "aliases": [
+        "PG0804+761"
+      ]
+    },
+    {
+      "id": "smbh-pg0953+414",
+      "name": "PG0953+414",
+      "evidence": {
+        "parameterMethods": {
+          "position": "CDS/SIMBAD ICRS host/source position; published catalog identifier crossmatch",
+          "mass": "reverberation-mapping; published estimate",
+          "distance": "published host distance in 2016 compilation",
+          "rotation": "not supplied; disk animation does not imply measured spin"
+        },
+        "positionSource": "https://simbad.cds.unistra.fr/simbad/sim-tap"
+      },
+      "raDeg": 149.21830481458,
+      "decDeg": 41.25616979101,
+      "aliases": [
+        "PG0953+414"
+      ]
+    },
+    {
+      "id": "smbh-pg1226+023",
+      "name": "PG1226+023",
+      "evidence": {
+        "parameterMethods": {
+          "position": "CDS/SIMBAD ICRS host/source position; published catalog identifier crossmatch",
+          "mass": "reverberation-mapping; published estimate",
+          "distance": "published host distance in 2016 compilation",
+          "rotation": "not supplied; disk animation does not imply measured spin"
+        },
+        "positionSource": "https://simbad.cds.unistra.fr/simbad/sim-tap"
+      },
+      "raDeg": 187.27791594049,
+      "decDeg": 2.05238823055,
+      "aliases": [
+        "PG1226+023"
+      ]
+    },
+    {
+      "id": "smbh-pg1229+204",
+      "name": "PG1229+204",
+      "evidence": {
+        "parameterMethods": {
+          "position": "CDS/SIMBAD ICRS host/source position; published catalog identifier crossmatch",
+          "mass": "reverberation-mapping; published estimate",
+          "distance": "published host distance in 2016 compilation",
+          "rotation": "not supplied; disk animation does not imply measured spin"
+        },
+        "positionSource": "https://simbad.cds.unistra.fr/simbad/sim-tap"
+      },
+      "raDeg": 188.01509321249998,
+      "decDeg": 20.15819328726,
+      "aliases": [
+        "PG1229+204"
+      ]
+    },
+    {
+      "id": "smbh-pg1307+085",
+      "name": "PG1307+085",
+      "evidence": {
+        "parameterMethods": {
+          "position": "CDS/SIMBAD ICRS host/source position; published catalog identifier crossmatch",
+          "mass": "reverberation-mapping; published estimate",
+          "distance": "published host distance in 2016 compilation",
+          "rotation": "not supplied; disk animation does not imply measured spin"
+        },
+        "positionSource": "https://simbad.cds.unistra.fr/simbad/sim-tap"
+      },
+      "raDeg": 197.44584650791998,
+      "decDeg": 8.330058989590002,
+      "aliases": [
+        "PG1307+085"
+      ]
+    },
+    {
+      "id": "smbh-pg1411+442",
+      "name": "PG1411+442",
+      "evidence": {
+        "parameterMethods": {
+          "position": "CDS/SIMBAD ICRS host/source position; published catalog identifier crossmatch",
+          "mass": "reverberation-mapping; published estimate",
+          "distance": "published host distance in 2016 compilation",
+          "rotation": "not supplied; disk animation does not imply measured spin"
+        },
+        "positionSource": "https://simbad.cds.unistra.fr/simbad/sim-tap"
+      },
+      "raDeg": 213.45137761432,
+      "decDeg": 44.00388982536,
+      "aliases": [
+        "PG1411+442"
+      ]
+    },
+    {
+      "id": "smbh-pg1426+015",
+      "name": "PG1426+015",
+      "evidence": {
+        "parameterMethods": {
+          "position": "CDS/SIMBAD ICRS host/source position; published catalog identifier crossmatch",
+          "mass": "reverberation-mapping; published estimate",
+          "distance": "published host distance in 2016 compilation",
+          "rotation": "not supplied; disk animation does not imply measured spin"
+        },
+        "positionSource": "https://simbad.cds.unistra.fr/simbad/sim-tap"
+      },
+      "raDeg": 217.27738334943,
+      "decDeg": 1.28504305757,
+      "aliases": [
+        "PG1426+015"
+      ]
+    },
+    {
+      "id": "smbh-pg1613+658",
+      "name": "PG1613+658",
+      "evidence": {
+        "parameterMethods": {
+          "position": "CDS/SIMBAD ICRS host/source position; published catalog identifier crossmatch",
+          "mass": "reverberation-mapping; published estimate",
+          "distance": "published host distance in 2016 compilation",
+          "rotation": "not supplied; disk animation does not imply measured spin"
+        },
+        "positionSource": "https://simbad.cds.unistra.fr/simbad/sim-tap"
+      },
+      "raDeg": 243.48824792551,
+      "decDeg": 65.71943130148,
+      "aliases": [
+        "PG1613+658"
+      ]
+    },
+    {
+      "id": "smbh-pg1617+175",
+      "name": "PG1617+175",
+      "evidence": {
+        "parameterMethods": {
+          "position": "CDS/SIMBAD ICRS host/source position; published catalog identifier crossmatch",
+          "mass": "reverberation-mapping; published estimate",
+          "distance": "published host distance in 2016 compilation",
+          "rotation": "not supplied; disk animation does not imply measured spin"
+        },
+        "positionSource": "https://simbad.cds.unistra.fr/simbad/sim-tap"
+      },
+      "raDeg": 245.04699991225,
+      "decDeg": 17.40764312282,
+      "aliases": [
+        "PG1617+175"
+      ]
+    },
+    {
+      "id": "smbh-pg1700+518",
+      "name": "PG1700+518",
+      "evidence": {
+        "parameterMethods": {
+          "position": "CDS/SIMBAD ICRS host/source position; published catalog identifier crossmatch",
+          "mass": "reverberation-mapping; published estimate",
+          "distance": "published host distance in 2016 compilation",
+          "rotation": "not supplied; disk animation does not imply measured spin"
+        },
+        "positionSource": "https://simbad.cds.unistra.fr/simbad/sim-tap"
+      },
+      "raDeg": 255.35344394545996,
+      "decDeg": 51.82234663301,
+      "aliases": [
+        "PG1700+518"
+      ]
+    },
+    {
+      "id": "smbh-pg2130+099",
+      "name": "PG2130+099",
+      "evidence": {
+        "parameterMethods": {
+          "position": "CDS/SIMBAD ICRS host/source position; published catalog identifier crossmatch",
+          "mass": "reverberation-mapping; published estimate",
+          "distance": "published host distance in 2016 compilation",
+          "rotation": "not supplied; disk animation does not imply measured spin"
+        },
+        "positionSource": "https://simbad.cds.unistra.fr/simbad/sim-tap"
+      },
+      "raDeg": 323.11590106528,
+      "decDeg": 10.138681212609999,
+      "aliases": [
+        "PG2130+099"
+      ]
+    },
+    {
+      "id": "smbh-zw229-015",
+      "name": "Zw229-015",
+      "evidence": {
+        "parameterMethods": {
+          "position": "CDS/SIMBAD ICRS host/source position; published catalog identifier crossmatch",
+          "mass": "reverberation-mapping; published estimate",
+          "distance": "published host distance in 2016 compilation",
+          "rotation": "not supplied; disk animation does not imply measured spin"
+        },
+        "positionSource": "https://simbad.cds.unistra.fr/simbad/sim-tap"
+      },
+      "raDeg": 286.35807747152,
+      "decDeg": 42.46104429319999,
+      "aliases": [
+        "Zw229-015"
+      ]
+    },
+    {
+      "id": "cygnus-x1",
+      "name": "Cygnus X-1",
+      "evidence": {
+        "parameterMethods": {
+          "mass": "Miller-Jones et al.2021, dynamical estimate",
+          "distance": "VLBA radio parallax 2.22 +0.18/-0.17 kpc",
+          "orbit": "binary orbital period; not black-hole spin",
+          "position": "CDS/SIMBAD ICRS host/source position; published catalog identifier crossmatch"
+        },
+        "positionSource": "https://simbad.cds.unistra.fr/simbad/sim-tap"
+      },
+      "raDeg": 299.59031556498,
+      "decDeg": 35.20160680908,
+      "aliases": [
+        "Cyg X-1",
+        "HD 226868"
+      ]
+    }
+  ],
+  "omegaCentauri": {
+    "raJ2000": "13:26:47.28",
+    "decJ2000": "-47:28:46.1",
+    "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=NGC5139"
+  }
+}

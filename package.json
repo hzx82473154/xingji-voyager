@@ -1,0 +1,23 @@
+{
+  "name": "xingji-voyager",
+  "version": "2.9.5",
+  "private": true,
+  "type": "module",
+  "description": "Offline Three.js universe explorer",
+  "scripts": {
+    "build": "node build.mjs",
+    "check": "node --check src/universe.js && node --check src/catalog.js && node --check src/astronomy.js && node --check src/free-orbit.js && node --check src/solar-pivot.js && node --check src/exploration.js && node --check src/sky.js && node --check src/moons.js && node --check src/celestial-models.js && node --check build.mjs && node --check src/earth-geography.js && node --check src/earth-gestures.js && node --check src/earth-regions.js && node --check src/earth-detail.js && node --check src/background-music.js && node --check src/earth-continents.js && node --check src/explorer-guards.js && node --check src/extended-catalog.js && node --check src/extended-models.js && node --check src/resources.js && node --check src/rings.js && node --check src/password-gate.js && node --check scripts/protect-site.mjs && node --check src/navigation.js && node --check src/body-descriptions.js && node --check src/destination-carousel.js && node --check src/black-hole-lens.js && node --check src/display-photometry.js && node --check src/celestial-physics.js && node --check src/physical-scale.js && node --check src/view-safety.js && node --check src/frame-budget.js && node --check src/spatial-index.js && node --check src/render-policy.js && node --check src/particle-material.js && node --check src/orbit-path.js && node --check src/frame-meter.js && node --check src/boundary-drape.js && node --check src/scene-back.js && node --check src/mobile-hud.js && node --check scripts/runtime-snapshot.mjs",
+    "test:protected": "node validation/protected-v23.test.mjs",
+    "test:rights": "node validation/full-rights.test.mjs",
+    "test:startup": "node validation/production-startup.test.mjs",
+    "test:data": "python scripts/validate-blackholes-belts.py",
+    "test:release": "python3 scripts/check-release.py"
+  },
+  "dependencies": {
+    "three": "0.180.0"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.11"
+  },
+  "license": "SEE LICENSE IN LICENSE"
+}

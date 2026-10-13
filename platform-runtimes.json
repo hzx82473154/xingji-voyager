@@ -1,0 +1,12 @@
+{
+  "desktop": {
+    "mode": "frozen",
+    "version": "2.9.5",
+    "directory": "desktop-v295-delivery"
+  },
+  "mobile": {
+    "mode": "frozen",
+    "version": "2.9.5",
+    "directory": "mobile-v295-delivery"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-13",
+  "codeLocation": "src/exploration.js / CONSTELLATIONS",
+  "licence": "CC BY-SA 4.0",
+  "credit": "Stellarium Modern skyculture contributors; Voyager simplified adaptations",
+  "sourceRepository": "https://github.com/Stellarium/stellarium",
+  "pinnedCommit": "d4a1322b6a81bf15dc4ef65c267b2fc846c5f3ca",
+  "sourceIndex": "https://github.com/Stellarium/stellarium/blob/d4a1322b6a81bf15dc4ef65c267b2fc846c5f3ca/skycultures/modern/index.json",
+  "sourceLicence": "https://github.com/Stellarium/stellarium/blob/d4a1322b6a81bf15dc4ef65c267b2fc846c5f3ca/skycultures/modern/description.md",
+  "licenceExcerpt": "Text and data: CC BY-SA 4.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "currentDescriptionSha256": "4b58344f63168d7c816fdfef405103b5770fda2e1f4a4bf5c8871041ce042586",
+  "currentIndexSha256": "1f2f5ffd6c9e25a7d0dcfdbf1f756e2db03dd3b8ed4ec016a2839b09f6b0fe1e",
+  "patterns": [
+    {
+      "id": "Ori",
+      "selectedEdges": 8,
+      "sourceMatchingEdges": 7,
+      "VoyagerVariations": [
+        [
+          25336,
+          27989
+        ]
+      ],
+      "scope": "Only six simplified line patterns and member identifiers; no Stellarium code, artwork or boundary geometry imported."
+    },
+    {
+      "id": "UMa",
+      "selectedEdges": 7,
+      "sourceMatchingEdges": 7,
+      "VoyagerVariations": [],
+      "scope": "Only six simplified line patterns and member identifiers; no Stellarium code, artwork or boundary geometry imported."
+    },
+    {
+      "id": "Cas",
+      "selectedEdges": 4,
+      "sourceMatchingEdges": 4,
+      "VoyagerVariations": [],
+      "scope": "Only six simplified line patterns and member identifiers; no Stellarium code, artwork or boundary geometry imported."
+    },
+    {
+      "id": "Cyg",
+      "selectedEdges": 5,
+      "sourceMatchingEdges": 5,
+      "VoyagerVariations": [],
+      "scope": "Only six simplified line patterns and member identifiers; no Stellarium code, artwork or boundary geometry imported."
+    },
+    {
+      "id": "Cru",
+      "selectedEdges": 2,
+      "sourceMatchingEdges": 2,
+      "VoyagerVariations": [],
+      "scope": "Only six simplified line patterns and member identifiers; no Stellarium code, artwork or boundary geometry imported."
+    },
+    {
+      "id": "Lyr",
+      "selectedEdges": 5,
+      "sourceMatchingEdges": 5,
+      "VoyagerVariations": [],
+      "scope": "Only six simplified line patterns and member identifiers; no Stellarium code, artwork or boundary geometry imported."
+    }
+  ],
+  "repositoryCorrection": "Old links pointed to the separate stellarium-skycultures repository, where modern is absent. Actual current Modern data and explicit licence were retrieved from Stellarium/stellarium/skycultures/modern.",
+  "codeLicence": "Original Voyager logic MIT; this data stays CC BY-SA4.0.",
+  "pinnedSourceBytesVerified": true
+}

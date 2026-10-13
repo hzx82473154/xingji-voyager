@@ -1,0 +1,4006 @@
+{
+  "date": "2026-10-11",
+  "landmarks": [
+    {
+      "id": "cn-great-wall",
+      "sourceUrl": "https://whc.unesco.org/en/list/438/",
+      "oldSha256": "c7f10ab3c30863d252cb567e45427634d9e57cc34e2d043a7a9642bc8e97b5a8",
+      "newSha256": "58c15f8d7bde483b890fc4f4092b252c688992ed2ab0b6d86a8cd3681c915d7c",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-forbidden-city",
+      "sourceUrl": "https://whc.unesco.org/en/list/439/",
+      "oldSha256": "4b9c9c44bc910198df23043544220456d15fb66b355515a968514cdfb5e3647a",
+      "newSha256": "8aa0172c69b73a46bd3457806f4ee386cf4153ea8d5f743faf3b18d04aee1a6e",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-temple-heaven",
+      "sourceUrl": "https://whc.unesco.org/en/list/881/",
+      "oldSha256": "ce46a9c7a233d1ef03832bec1354219d4593f02b8b55e26a854af88335ae9454",
+      "newSha256": "4f52f2ba6032366f0ee7946924dfb6a523fc4385af569c4a05e8a3897027d6af",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-summer-palace",
+      "sourceUrl": "https://whc.unesco.org/en/list/880/",
+      "oldSha256": "78ff8624d17e35a68f5019f9db4e494211206ac2388e3ee91e1ae31e8e0aa788",
+      "newSha256": "373a301322d4b3a380518e97a46d00cd0780bd7878f135af25be473fca1125f9",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-terracotta",
+      "sourceUrl": "https://whc.unesco.org/en/list/441/",
+      "oldSha256": "6a56735138a214899e7ed90188e4207f62be9fd73adc065f8a5bc06183081a4a",
+      "newSha256": "98ae9b4da590f59b47f67d06c34f2b22aba01dce3c4e9c20c8d52b4f64a6e402",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-huangshan",
+      "sourceUrl": "https://whc.unesco.org/en/list/547/",
+      "oldSha256": "2876d777c34689d65d4e461441fbd9de9b01d2b2fda57ce7934a54e62909bf27",
+      "newSha256": "2f4e7aea31257a170cac6c76ed056e8823b21b74e09761e262d4ab268faa1aab",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-guilin",
+      "sourceUrl": "https://whc.unesco.org/en/list/1248/",
+      "oldSha256": "b6a259b8f562a074cae6a4ea5865418fb24ea230a472dc0525ac1e2d54f037d4",
+      "newSha256": "dee6cc985e49750822f1e160ec5b2d6ef430720735a37bd29016ae3ccb3303eb",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-wulingyuan",
+      "sourceUrl": "https://whc.unesco.org/en/list/640/",
+      "oldSha256": "6251178c8a353f59a410cb8b1dc6aeed9e03b13ee8a855ff92a064d0f535e217",
+      "newSha256": "deb7c5393b8984272f44934b323af0481127f054f907d7b144a2d7cc9914458f",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-jiuzhaigou",
+      "sourceUrl": "https://whc.unesco.org/en/list/637/",
+      "oldSha256": "52faa6557ee24056f17501a087e371241ce8b82d8b43bdb39177ba7d50936249",
+      "newSha256": "53f8732ad17bc218cbdee290b08951a5860f84f5205d2a0df55ee80ec5a117d9",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-potala",
+      "sourceUrl": "https://whc.unesco.org/en/list/707/",
+      "oldSha256": "6708053bf2bd67dd984733c72d9c709e2817768bdb19e78b65e8faed6dfe937d",
+      "newSha256": "4a76e8aa0b3a52b75ab3212bb74e036de124840e2af59e4617444dbc9332ef8f",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-leshan",
+      "sourceUrl": "https://whc.unesco.org/en/list/779/",
+      "oldSha256": "19d1920c36ee964183cf78edbf1f7761ae24df1e17a8e1c0e3f77a86f2642dad",
+      "newSha256": "6c65ce4b5161fb9b5d8da428d7dc7059f118da28c6b838959f7434fc3cc26b5f",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-mogao",
+      "sourceUrl": "https://whc.unesco.org/en/list/440/",
+      "oldSha256": "63d58c06fb9aeade5cfb1e9ed30bdbb007af5709d4ca195da1cbf6759f8cfef8",
+      "newSha256": "ca15de272fc9f70b85450041c0a2e01c2e4761b1e9228b3c3b22e22b74318fd2",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-lijiang",
+      "sourceUrl": "https://whc.unesco.org/en/list/811/",
+      "oldSha256": "833debb381be4ac69679557e9e588d9a3aab17ed22904bbb3a8b8197972f0640",
+      "newSha256": "79816de6a9a584424c2dedd07af87f3db379ced321453d38fff96ae750ccd39f",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-west-lake",
+      "sourceUrl": "https://whc.unesco.org/en/list/1334/",
+      "oldSha256": "80be1f735e3d77f1f729d0b5f5722b089b6c11ea5817cd616ea386f686175646",
+      "newSha256": "d705044c94c55f6d2291fb21b0df918df4777f977916c4845c19159475d79362",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-tulou",
+      "sourceUrl": "https://whc.unesco.org/en/list/1113/",
+      "oldSha256": "f0a3199ee43fc4dc5594a51e8e15a1d99f4e3746c83ef1380b9f54d387227f56",
+      "newSha256": "861aa804ef70561534a59671d4073b7e6b9881da0ad130cc0cce61eff2b0ced7",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-emei",
+      "sourceUrl": "https://whc.unesco.org/en/list/779/",
+      "oldSha256": "bee5933b5a20791838e9634acb19aa596876fbed0e768ab50345b2548ce628ef",
+      "newSha256": "2db6c18033a1b8d52c8b00bd7db5d2dbb0280bb3fdb8ed5f44ada65058632c19",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-taishan",
+      "sourceUrl": "https://whc.unesco.org/en/list/437/",
+      "oldSha256": "e30630d607a841e8aebbc31d53bd9cb3eee7cebb89dc4d737b33abc142256ce3",
+      "newSha256": "fc32d17c0ba4663bfea5aededd42b2a1d8b05ed503d55c3c2cf6ac6f7935917c",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-longmen",
+      "sourceUrl": "https://whc.unesco.org/en/list/1003/",
+      "oldSha256": "6b94714d36441fc280455f152f16ed2bf5be5c195a6382ea9a75a7a6c2191273",
+      "newSha256": "6c2a0e0fafd3433930e16087f145a8d684c353fc1027ba100d4783c2eca794a5",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-yungang",
+      "sourceUrl": "https://whc.unesco.org/en/list/1039/",
+      "oldSha256": "a57515b3700735e6da9021edc6311f923376a637051f1ee92715eed4484255a9",
+      "newSha256": "588a96033d6db3c920034a0e45370092b01d54d7daaf2eaba7f6cd5e52d6615c",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-pingyao",
+      "sourceUrl": "https://whc.unesco.org/en/list/812/",
+      "oldSha256": "834c2b0bbf1acff3bb3e70fc2de28ee5f7ed081783f529685f2ae5d118417a5b",
+      "newSha256": "a1a2f965f711659927ecc6c4bf8bfad366b52b330fb94a052b0965c2ad612b00",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-wuyi",
+      "sourceUrl": "https://whc.unesco.org/en/list/911/",
+      "oldSha256": "69f7e67d3c39efbf20c9859d3c8ec67f8ae04e405b8feed1c703b5e8545496a5",
+      "newSha256": "13cee3a7608a33d269cdd6ceb61730338ee237e6cd1aca1cb5b8e828269ab750",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-dujiangyan",
+      "sourceUrl": "https://whc.unesco.org/en/list/1001/",
+      "oldSha256": "98e3db3f635f3a731c0f48db99c9fad05e38d7bc9a2f405ab40187a38be7cff3",
+      "newSha256": "a1af929cfda6d8b9e14fe39a8fedc8df15d8e4f7d92cbd07d5b13e17cb972e38",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-suzhou",
+      "sourceUrl": "https://whc.unesco.org/en/list/813/",
+      "oldSha256": "59e7e7a3c1ebf6f3346823be0265ad897eb0df2923abf6b489ab506f16868062",
+      "newSha256": "3bf5132152f6498990ceb99b7f6ff50b2d38d3d46fb6d7c32510d4c7e1a30fb4",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-hani-terraces",
+      "sourceUrl": "https://whc.unesco.org/en/list/1111/",
+      "oldSha256": "2c34f85de172f12f0336e59ef4259fc1d442356d8f9f97a6ed6cba108664eea6",
+      "newSha256": "514103ef5d5e45cbcaa64e31ace90494e41c845e2519820d9d73558401d541c2",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-sun-moon",
+      "sourceUrl": "https://www.sunmoonlake.gov.tw/en/guides/ArticlesFull?a=32",
+      "oldSha256": "927132fdfee98cc71db77c415abbb0a6b5a097838448135d950198f7c34537ee",
+      "newSha256": "85331f3b5193d0a9fe3649bc644f5fc0368fc2c0e63e9591d74d845a32355557",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-taipei-palace",
+      "sourceUrl": "https://www.npm.gov.tw/articles.aspx?l=2&sno=03012533",
+      "oldSha256": "2a48b0a481db4dac07a831c18b6c2f689a98a1b0ff936d8096164ad9682efb71",
+      "newSha256": "743ae41e2382e6a6e9a28152f557269bf8abef6ef725e643b80ce3a1f7e404f6",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "eg-giza",
+      "sourceUrl": "https://whc.unesco.org/en/list/86/",
+      "oldSha256": "e499e0bcb48d395c267a1786ef2aeae0b175e767fade401150fe37dbb9cdbede",
+      "newSha256": "8c22fb4033d8c864db4ba16924a46046df10a5de9f1e3f8f075e024f74a54828",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "fr-eiffel",
+      "sourceUrl": "https://www.toureiffel.paris/en/the-monument/history",
+      "oldSha256": "3243377e4abf8e154a86ceeaa924ec250d5a01c9f8c6dc82d331931ffd42040c",
+      "newSha256": "1ee8163837b9085855cf30f23b55409565d778787fe1d627eaa3f37d6ca978f3",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "fr-louvre",
+      "sourceUrl": "https://www.louvre.fr/en/explore/the-palace",
+      "oldSha256": "82862905dec8e7989eefc0abf4e0a9cacaf9919de0f1f5d7adadda4bbf81bfdf",
+      "newSha256": "b236949de4fdac50930e87e739d8ef584bb481e3da054b946ff4f117f6d9c5c4",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "it-colosseum",
+      "sourceUrl": "https://whc.unesco.org/en/list/91/",
+      "oldSha256": "b23afafac4aa2be38952f033ddf1cd7176b881ed76bcf2cdcb51770a1901d0bd",
+      "newSha256": "748b5b3e80518f9c107acf0d700382b3d5fe257b309290613f241524dd7b7527",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "gb-stonehenge",
+      "sourceUrl": "https://whc.unesco.org/en/list/373/",
+      "oldSha256": "296ae44320b41bc24bb534278957899f7f38dfa1d789f5f04c1e989139144362",
+      "newSha256": "a077a3ebc91f659e4a381716883f2a9fc3bd263be07c4d57991f4f046dee7d00",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "gb-tower-london",
+      "sourceUrl": "https://whc.unesco.org/en/list/488/",
+      "oldSha256": "174d290ec21796f0ea2c12e5a23aebe76dd0d3ce6668ed693f63fbb4bddca0da",
+      "newSha256": "6d7fb500f367e6b9448b4d18a3e9c2fe96446e091776d95b5f3b39b0b4183bd8",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "in-taj-mahal",
+      "sourceUrl": "https://whc.unesco.org/en/list/252/",
+      "oldSha256": "c58fa5f8f9b6e328e7288dc0b8d3618359b86c3185f74d7b75f4c5528baacf49",
+      "newSha256": "8cba13b748632c8bd09c31efa056f82334dc3004cec8deeaeeebc1e158792a98",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "jp-fuji",
+      "sourceUrl": "https://whc.unesco.org/en/list/1418/",
+      "oldSha256": "2eef5496a71925327d88fa6f06cb2a11a6cd9871b3f03718d06a3b3a27369266",
+      "newSha256": "46435bc1897a3f7a96c2402f647a36c830c2d410e3a5671189b105f73e388c31",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "us-liberty",
+      "sourceUrl": "https://whc.unesco.org/en/list/307/",
+      "oldSha256": "d6488ae707811ebb297c80f931a8d7ef68ad4deb03a548b8e3fe61cef5ead276",
+      "newSha256": "85838d46a16d3d8c4b4d211bbe077b58461fc6c8a42a37c59e891465f03685f7",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "us-grand-canyon",
+      "sourceUrl": "https://whc.unesco.org/en/list/75/",
+      "oldSha256": "4786053e4e2cb06d545ba067fd9bf0a7790763f023f36ea34ff1acbf4724ab51",
+      "newSha256": "5e9a92c715fe6c3d1d8bd4208ad7dd004c310f52da31cad22edfb930565f3902",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "au-sydney-opera",
+      "sourceUrl": "https://whc.unesco.org/en/list/166/",
+      "oldSha256": "c8c9d04f90062db7d9e3af50cd2303ff6c36226f2be839ded0bb1834189c6229",
+      "newSha256": "572290153452ab8537d3b6060d720afd0e6b07e01747b3caf74fb25352b270d5",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "au-uluru",
+      "sourceUrl": "https://whc.unesco.org/en/list/447/",
+      "oldSha256": "60cdedf7f3117c63ab43d396efea4da5ba00aa07326df84f44e1d3a9eb4cbcd2",
+      "newSha256": "81e16bdd799694d8f9ce9b2220681d36c472489ff866d48282ce927d13280538",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "br-christ",
+      "sourceUrl": "https://whc.unesco.org/en/list/1100/",
+      "oldSha256": "5745ad3f582e8118d90c4a67531a41cdb0d37627e0caa815e69d30f58034cdd6",
+      "newSha256": "34c2368ee9d44e930b6ffe832254b93e98348b419b2ed19de1b9191cf49849a6",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "pe-machu",
+      "sourceUrl": "https://whc.unesco.org/en/list/274/",
+      "oldSha256": "4bd29199a32af0b476593e0b75584a75eac273d569cf131f61a8de5966040b40",
+      "newSha256": "661f8fc72b082335e852a96a0946a0dba27af56fea9dc3fea16fe62afecbb481",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "kh-angkor",
+      "sourceUrl": "https://whc.unesco.org/en/list/668/",
+      "oldSha256": "9b1ce7b141023ac3ac2777ec67a4c5d121fca61737dbd44f89ad9f21fc311db4",
+      "newSha256": "c804d4eb1a0145f97db752cb228287e05181c29a955d400decf9a5c7e98f274b",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "id-borobudur",
+      "sourceUrl": "https://whc.unesco.org/en/list/592/",
+      "oldSha256": "1240f73c85e756a99f486cc03f794e00a5bc8c6e5ec1821db41fad37dd36b884",
+      "newSha256": "5e1e33e29607d68fa52789d089bed993d5f9915276e085faf0f4dedf5bd76e8a",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "es-sagrada",
+      "sourceUrl": "https://whc.unesco.org/en/list/320/",
+      "oldSha256": "911a05dad916ffb9550166a5770095ccbc6a89ca77aab53b5e7a44017b033eba",
+      "newSha256": "e8009a34f3b60c17a6d1bea55c7c9fd3dfc2a3a2051b78048b7a07106b5cc37c",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "gr-acropolis",
+      "sourceUrl": "https://whc.unesco.org/en/list/404/",
+      "oldSha256": "033ced916a8378d668873a31302344c35f39dc0d0208534cdc046543edca3555",
+      "newSha256": "298285f7e00d715b9332d809bd72831d84604d7d07720e519698e5d0e7d71557",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "jo-petra",
+      "sourceUrl": "https://whc.unesco.org/en/list/326/",
+      "oldSha256": "b3c4fdc2c61f18ecadee342fe0db5499265f55c3cc41d9b2f521846b23eb4c9b",
+      "newSha256": "af4b65e75df74264cc86e9173f85a2bec451d25eb36012bfc19af540ce516eed",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "tr-cappadocia",
+      "sourceUrl": "https://whc.unesco.org/en/list/357/",
+      "oldSha256": "147bbab1520c527ce7cae9666ada2765a2080110136e94b7808741c7ed0c80f2",
+      "newSha256": "d64b6565c39694d02715e034919097811a6fa79cd46318cb506242ecbc38463e",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "ca-niagara",
+      "sourceUrl": "https://www.niagaraparks.com/visit/attractions/journey-behind-the-falls/",
+      "oldSha256": "5ae952eb72869c0e6536d4b181e96e517ee9ee473797980e904dbc02cb225726",
+      "newSha256": "51ab0790f380819a5e1103452432b7d6d42100d6e8fdca52877824391f6381a3",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "is-thingvellir",
+      "sourceUrl": "https://whc.unesco.org/en/list/1152/",
+      "oldSha256": "abed7d42193f476b8d060b48e41cb230880ab86bd8d59a287c34dda6b4109225",
+      "newSha256": "ec0c2eda57cb38a93319f8e4d9656a40e6b57beb9de0f4785a4bd8613abe150e",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-qingcheng",
+      "sourceUrl": "https://whc.unesco.org/en/list/1001/",
+      "oldSha256": "cd61d5ee3b6d660550db94c7f649900ed027e51200cfb5a7c3b84b4d9030717f",
+      "newSha256": "1c5b54ce00f75a7b009b612db0112190096868e69edf53b2673638e4dda3b116",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-huanglong",
+      "sourceUrl": "https://whc.unesco.org/en/list/638/",
+      "oldSha256": "6ae0e16c574adb74d00db955a982b328ae890197992420032dda16bf7a4514aa",
+      "newSha256": "7eb12c6106beb30343d1ff4dbf388725eb033544d5cb133f012d0cee31cd8561",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-chengde",
+      "sourceUrl": "https://whc.unesco.org/en/list/703/",
+      "oldSha256": "9899c8dd7f53a891a970c78259165788a009f7965e401fe35f1da74bfd759a78",
+      "newSha256": "c926fff8337371acd04f296bf8e64ec2b2e6a9b4f38b00514ff4a79ea2a1a7e3",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-qufu",
+      "sourceUrl": "https://whc.unesco.org/en/list/704/",
+      "oldSha256": "360403fb1da3a61fb037116a949f063fe9bd9cb1a484d7f48f49d842f69fd1d2",
+      "newSha256": "092c0a62d3d006e19b784929b2a0be6fe76c33cf46d6d8039fab6c7c65913aba",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-wudang",
+      "sourceUrl": "https://whc.unesco.org/en/list/705/",
+      "oldSha256": "4f6c16acc5018cb63d1e801186938e42adbfe6af5509324eb849257cd1a128a2",
+      "newSha256": "fdc9fb9448f08602ad9bbdec43365ae8adb168b38f5fa1b512ec46722504de95",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-dazu",
+      "sourceUrl": "https://whc.unesco.org/en/list/912/",
+      "oldSha256": "9af8d08c0e2c4cff034429bb5d8ffe6f11c4029a1a329e6d3ca27e9350e9616f",
+      "newSha256": "a082899e34666f47711fe4c603aec5bc6f1c7d78bb4bea00e8f151d225fb9f3b",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-sanqingshan",
+      "sourceUrl": "https://whc.unesco.org/en/list/1292/",
+      "oldSha256": "8d9c5b815a4c9800c8bd178825df9d94e5dec943fb4996d34f1401b05e26b8ee",
+      "newSha256": "1ffffb09c51a8c5ae88a1c6c7953c28a1938c6c0706ddbd051e8b0530e0e8ee8",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-kaiping-zili",
+      "sourceUrl": "https://whc.unesco.org/en/list/1112/",
+      "oldSha256": "5362712a9b57aea0f7d85c93c46fae48835cd4fd08bfb62330f0dea785baf84e",
+      "newSha256": "6666067f6b23dcf043d0d6f28ba9fbd6276321c04248874896fe990eaa36a5be",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-yinxu",
+      "sourceUrl": "https://whc.unesco.org/en/list/1114/",
+      "oldSha256": "6b15ea078a8449787e3556866faae93b9656dd59be09a08e5b50a5a519421499",
+      "newSha256": "94fa5ef18aee8e4c4e543338709b87a453815b24bfcee88f082214ae55146857",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-fanjingshan",
+      "sourceUrl": "https://whc.unesco.org/en/list/1559/",
+      "oldSha256": "a4ec7fb3a4843f90fb716921faccbf921dcd158309eab6798e947c671c4ea3d5",
+      "newSha256": "f487062593b8ff734a0671f9e684c39a95c3b10669cebc8006f71ecfde39c1ac",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-tianchi",
+      "sourceUrl": "https://whc.unesco.org/en/list/1414/",
+      "oldSha256": "dcb70a9890b101d3fd2e386cc871c8796de1fdbd9dfc5394e1bf9f3856330ec1",
+      "newSha256": "8e2d09c55af6dddcdbf235551f956ab4ebd144d33f2adde6bdb70fc769b17066",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-shilin",
+      "sourceUrl": "https://whc.unesco.org/en/list/1248/",
+      "oldSha256": "e5a41f28513655b6d38bfdb5cd74443cc7d5cefcceb112fec62ea3120828eac0",
+      "newSha256": "b794012cf85f02577c8b391e07932d2b56c39a0dbccb86c03d2eebafcba1b605",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-lushan",
+      "sourceUrl": "https://whc.unesco.org/en/list/778/",
+      "oldSha256": "806516a4eaa024b5371a34384598cd2155adf68a08d793449047a65531a7bfc6",
+      "newSha256": "9564fe6a66424261b47fbaa05015e6334e5d0631e8f05212f69cd036956f231f",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-shaolin",
+      "sourceUrl": "https://whc.unesco.org/en/list/1305/",
+      "oldSha256": "52101396d22ddf51bf5c5849f5c7d8ff84bef8b827cae99164d75efb8be3f904",
+      "newSha256": "4b5b3228c0e153ffb5da6d27800c4134a3fb3608fb7ea0df2a9b137b682c4c3a",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-hoh-xil",
+      "sourceUrl": "https://whc.unesco.org/en/list/1540/",
+      "oldSha256": "e732fe3052aab9c6cf332f248f6299bc2a3ab110d0c7dab42dfaca32f8a7cb3c",
+      "newSha256": "8f06fcfa7d512cac93c1a98d9c8f07f8675f7f99d53ff1dec87903623ee5db78",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-hongcun",
+      "sourceUrl": "https://whc.unesco.org/en/list/1002/",
+      "oldSha256": "f923c12d1937496aab8805ef82332d1336b9ccf2d080d75284ed3703687b6a09",
+      "newSha256": "f7ee1b65c998c6a379a171d858dbc16d6f528c33beae10d9c19f948009b1d5b6",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-gongchen",
+      "sourceUrl": "https://whc.unesco.org/en/list/1443/",
+      "oldSha256": "fe984a4b25491f34bf9b316b790a93b9f6357d43019ca231d64c35dc94d3a320",
+      "newSha256": "aebeafe25105967ee7168687a027821b8fa8b3bd20de54bda46a64216c0ac8fe",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-foguang",
+      "sourceUrl": "https://whc.unesco.org/en/list/1279/",
+      "oldSha256": "8f1cedbae6eb084a5e3f3a96e3514a0c86d2e982df2349f649eba9c81fdd56ab",
+      "newSha256": "b04367a2db900849da4ce2e0a572863b811c1a9aa13e3a247bb453eec7b7b59d",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-liangzhu",
+      "sourceUrl": "https://whc.unesco.org/en/list/1592/",
+      "oldSha256": "79780c685a420da6086147206f0953c833ed6e1f3f549e9035ca0fcec3f8d608",
+      "newSha256": "5d074f8216cef285c4bb90f9faef014af5a875eb83554d66147ebcb9a26b2270",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-quanzhou",
+      "sourceUrl": "https://whc.unesco.org/en/list/1561/",
+      "oldSha256": "e8d3bb884d7dd8ccdb2a7384e811ea9cf73bab30501effeb10985ab4d8219b0d",
+      "newSha256": "38601e6d8df7275169d1ae64ca8c12aa9d529a9076b76bed4ac93d87a29090dd",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-danxia",
+      "sourceUrl": "https://whc.unesco.org/en/list/1335/",
+      "oldSha256": "d0a9c2fc4f041373fc727c7531ca87dcbf831701fa17bf6d74b3b4e0c0c9df98",
+      "newSha256": "f3001ace9cb4841438f763525bd8fc25780874c49f43c484ca244b8ecad1a20d",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-shennongjia",
+      "sourceUrl": "https://whc.unesco.org/en/list/1509/",
+      "oldSha256": "880d1b7a89e6f6185e4164d4599eb901e6292b519435b544561d038827f2dc54",
+      "newSha256": "467896f8def8c41db41663e723f67d02ded14028bcb206108597f1b74be2223c",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-hk-tian-tan",
+      "sourceUrl": "https://www.discoverhongkong.com/eng/place-to-go/travel.guide-the-big-buddha.html",
+      "oldSha256": "e24a92f4d702c1d879de3afdeccd10a318f86ad11973106d6fe39cabb5afb72f",
+      "newSha256": "94c8287e099bec83508f9b10dac09da6b2aebfe21d319ffc9a52453febda9c20",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-macau-st-paul",
+      "sourceUrl": "https://whc.unesco.org/en/list/1110/",
+      "oldSha256": "87bdd9d0953f2cafaf036584d1d2862d9aef3e4d1f029a4586237cc9891c2c40",
+      "newSha256": "9718f9fe391a04585eef9fed9962c79860965aae2e7f54f70ed5129badc961cf",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "fr-versailles",
+      "sourceUrl": "https://whc.unesco.org/en/list/83/",
+      "oldSha256": "9bba8f0ae4fed89617816b1252fb9e1322a7bad3f8bc620b0e409558f7f9123a",
+      "newSha256": "fd3e653845a695ff2200817cbadcbe3a07eb27ad09c5d21d2a543fce7aefadea",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "fr-mont-saint-michel",
+      "sourceUrl": "https://whc.unesco.org/en/list/80/",
+      "oldSha256": "96e1e611a7ac4e7ae63396d4c74c7b9f4325ed3da0a98cba9cd22ce772688043",
+      "newSha256": "c1ff8774d867a488e15f533738f49cca887a51daf7ebd82ce6825ba430559907",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "fr-pont-du-gard",
+      "sourceUrl": "https://whc.unesco.org/en/list/344/",
+      "oldSha256": "7d5218a163a49f092985bcd672dd69cadfd301c521bcaafc2c1795b42559dc3e",
+      "newSha256": "e1c10a7cb4ab337823b46fa69cb69360882ce7064d50db06bfa2368cc606021d",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "fr-notre-dame",
+      "sourceUrl": "https://whc.unesco.org/en/list/600/",
+      "oldSha256": "33b1525e042a8776a26532601ec36e58fa046d1060c35861674e956a116f55b5",
+      "newSha256": "963fae7a43aa81a677f297f5a79b16952c129f6222bf027c384f5a11a1b4a9d4",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "it-pisa",
+      "sourceUrl": "https://whc.unesco.org/en/list/395/",
+      "oldSha256": "9822f18ca9c90fed96e31c6c25bc3616b6af5b00bfd60d5049df6085d088bf27",
+      "newSha256": "537c0efb511c687d1b13457870393bad74b6831b2e29abc5c41f8f81224e1361",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "it-st-marks-square",
+      "sourceUrl": "https://whc.unesco.org/en/list/394/",
+      "oldSha256": "2a44451a23b86dcccf0de70c56362ad8f54746ec8cf05c0ce637d64d8c973e41",
+      "newSha256": "4980a69879c18be0e98ad3afcc2dd40eb09a4f874c86d80115b133fbda9284ff",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "it-pompeii",
+      "sourceUrl": "https://whc.unesco.org/en/list/829/",
+      "oldSha256": "2b7369a4b60de6f2849c305e5664e4c78397dc9c0f47ac15226fa3edc3af695c",
+      "newSha256": "f4ad71e9e999632cab2396743b0f0236e7bdabc8de429f7c11e78d04a866f37e",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "it-florence-duomo",
+      "sourceUrl": "https://whc.unesco.org/en/list/174/",
+      "oldSha256": "86478ea0e44dbfac490a4be29003c1ef3ef7eb8fcb1ce683efd93015b1da2d99",
+      "newSha256": "a20b21af0cf82a143ec21ca033a3dccc3fc2882d063eac6d63291fe81a8dc9e7",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "es-alhambra",
+      "sourceUrl": "https://whc.unesco.org/en/list/314/",
+      "oldSha256": "4af6903943d4381dc1964ee09a71f9996e7211ffea13a1c5a64692ec9b24f2f5",
+      "newSha256": "5df819d378a29b1993e3897540847b84e466a270f6db1fc701fe9a70cbea1ef6",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "es-park-guell",
+      "sourceUrl": "https://whc.unesco.org/en/list/320/",
+      "oldSha256": "06cadaf0517ff9cf81804cdbd1245219338c005f7d6585dfc690582bd7cb70a0",
+      "newSha256": "d3373947608f6e65c69d6aa1692da76de909e8dfff6d3f8c04e6881d48937c69",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "es-prado",
+      "sourceUrl": "https://whc.unesco.org/en/list/1618/",
+      "oldSha256": "656f93cab8d8d5f5a841e559af8bd26be023602c198d664f1d9c50273f52b776",
+      "newSha256": "ae4cf14e258f627b6b3e13f95fa508117d6464417b9a9c158347476e2471fcd5",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "gb-tower-bridge",
+      "sourceUrl": "https://www.towerbridge.org.uk/",
+      "oldSha256": "e0f1c2c9e13be7493cca111b91724180492671aca2df5fbb3a9512a22c10a202",
+      "newSha256": "f006f89327f0b00d1c0f92348ce03beaaf135ee50ae14f415a7e68e12ab2df71",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "gb-big-ben",
+      "sourceUrl": "https://whc.unesco.org/en/list/426/",
+      "oldSha256": "7fd6177a4aba928cd4c2fc763d072acd87b23bef0b27892528049683614987c7",
+      "newSha256": "6f64ed39116438c85b3d906fcadb82301284ca4b33cce71a8e9b0be70f3d7a18",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "gb-edinburgh-castle",
+      "sourceUrl": "https://whc.unesco.org/en/list/728/",
+      "oldSha256": "36b600d6a465b3226d8b71861e400b94d4c88c1ca2c96f2d28561c3ed9a5cf57",
+      "newSha256": "b61e65e8e9031f6527a526b6fefa7fc42993512afb65245591a09a4558d04637",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "de-neuschwanstein",
+      "sourceUrl": "https://www.neuschwanstein.de/englisch/palace/",
+      "oldSha256": "d8985734252433fe232d78b76298b424afe287c9ba3e04acf4aae522862bda78",
+      "newSha256": "1ee617997e749ae34adab19f7309fdb38b4143711a49ca2a1003284eec6aac9f",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "de-cologne-cathedral",
+      "sourceUrl": "https://whc.unesco.org/en/list/292/",
+      "oldSha256": "4ffac2bf931e719f98597f2c513c3e5b373c5f1e3aa41987c7279e0c52e9326e",
+      "newSha256": "27b11ead3089a6c249209f9c6993b182bc3f8b17743850f0f76cd6dd3cbfb80f",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "de-brandenburg-gate",
+      "sourceUrl": "https://www.berlin.de/en/attractions-and-sights/3560266-3104052-brandenburg-gate.en.html",
+      "oldSha256": "695d629a2e70d65c518e7d39c9b02a426243be5fdf164e428e269a14e07a5bf9",
+      "newSha256": "efb08edde5f265f2d54d665667a65fa49560f5b0c8b85588f4d60c32d8bfd6b5",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "ch-jungfraujoch",
+      "sourceUrl": "https://whc.unesco.org/en/list/1037/",
+      "oldSha256": "2eaec8361c5a628fd4fe46c4f2999c080c146e174ce2c249030fad021591eda1",
+      "newSha256": "3e8bbcba5645d9d83db16d509b2ed4bb5a056b9fa012c494740bea4f367ed88f",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "ch-matterhorn",
+      "sourceUrl": "https://www.zermatt.ch/en/Media/Attractions/Matterhorn",
+      "oldSha256": "ce641089b8b0b21daf4b77895fc112d6a3d3206cb261c1da30c506d7775914a0",
+      "newSha256": "f832ba66fe06e7f9f95e8afe0a89e6dfc7e30174926c5df3fc1953979588326a",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "gr-santorini",
+      "sourceUrl": "https://www.visitgreece.gr/islands/cyclades/santorini/",
+      "oldSha256": "23b8e8ed01832ac6c5b5793305c00740949ccd47ea0362d5646d2558f4bcd21e",
+      "newSha256": "8812e61ca566de116367665284d32bfa5574e76489f4fb453fe41413261b161c",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "be-bruges",
+      "sourceUrl": "https://whc.unesco.org/en/list/996/",
+      "oldSha256": "43f07625b1c46922ac646acd3f82354cf92273d5ecd40e3527a3667fd622dab3",
+      "newSha256": "8d6b730c760925a4121353261c09eba75f234c08a878e8797f9643aaac6bf40a",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "nl-amsterdam-canals",
+      "sourceUrl": "https://whc.unesco.org/en/list/1349/",
+      "oldSha256": "14c98214b37607d78ddaece0c44ca500fd208830350fccc99e01ec71f394b0ff",
+      "newSha256": "56a0a272f578d15825e1e2c985ce3058cd560753c5b186345e64d67f000828aa",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cz-prague-castle",
+      "sourceUrl": "https://whc.unesco.org/en/list/616/",
+      "oldSha256": "bf3aa1305ebfb08876069620ad0c323d857411868fb6e5b5e4d6d2becfa9a94b",
+      "newSha256": "41cde6d0612fc7059df212ab5d82938e43cec581471503a76a2b83b2e555c061",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "at-schonbrunn",
+      "sourceUrl": "https://whc.unesco.org/en/list/786/",
+      "oldSha256": "8f2a677acb9ca71373cfc0d65c0fbf7c73c107a406ae29fc3601b7acba80ec4c",
+      "newSha256": "4a46da4db9232c8e06cae24ab2360ec78295465332f6c9b673782daef7901fa3",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "us-golden-gate",
+      "sourceUrl": "https://www.goldengate.org/bridge/",
+      "oldSha256": "7244c9b21848634176720a4bbeb805f275e04f50a01813768a2b90f9c2b5d7b8",
+      "newSha256": "7fe0d68ff1efe15daf0ccacaaa23a788155a09da85d22f41b4be45e0591ee923",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "us-yellowstone",
+      "sourceUrl": "https://whc.unesco.org/en/list/28/",
+      "oldSha256": "be6c9a0a08b7c89ec1ab2e506380ca72ebcab27e0ec0b64a164dbd9ad0bf72a5",
+      "newSha256": "2423d31bda65738ac179bb97d8b64c4393411a7e49dbffe31efd232e986b10ef",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "us-yosemite",
+      "sourceUrl": "https://whc.unesco.org/en/list/308/",
+      "oldSha256": "5272ce89df3881fd2247d161c07078845b16afcfee002a89066153c965294a31",
+      "newSha256": "6486e38c3527ee0b33713b561fbb01e61db2afba5e7c2a3ec70ef6b922572957",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "us-mount-rushmore",
+      "sourceUrl": "https://www.nps.gov/moru/index.htm",
+      "oldSha256": "bc3886aa4429fa17ea0f448cab68d8a9f06aad73d8dd52e067da4313bb9e8383",
+      "newSha256": "b43bc96ee019e9de6af9d91eabf58a9f0b4ddaf7c0c92bc0c825021948bfa1b0",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "mx-chichen-itza",
+      "sourceUrl": "https://whc.unesco.org/en/list/483/",
+      "oldSha256": "a07ca17620774ab8acfb3c9e25dac87b8792a06969b2bdb236f0625d4ac3286b",
+      "newSha256": "b66c9cb128f605a522e31cd371ca3ed4af4341105ece3caa8897d885423279fb",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "mx-teotihuacan",
+      "sourceUrl": "https://whc.unesco.org/en/list/414/",
+      "oldSha256": "f85ce38698cf1687a98cda963c946f273140481692384e800001bc795c5c6558",
+      "newSha256": "c5a7898e7f17c6cb866a473e0db8ecd11ccca58020c5643af759594e8fec40ce",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "ca-banff",
+      "sourceUrl": "https://whc.unesco.org/en/list/304/",
+      "oldSha256": "ec0736539d9cb76b65b97c5900954408771760380f075d21679ef014d702df99",
+      "newSha256": "2733f0eca6095dd996b9bc912df9fbec363111b9eb5afd7b61c018d9600e6ad8",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "ca-old-quebec",
+      "sourceUrl": "https://whc.unesco.org/en/list/300/",
+      "oldSha256": "329118834ce5db9046c044322d1c9d59a9676e31cb8dd8647270b8ddea6cd5d5",
+      "newSha256": "cab810ffcdcf9046cf5f9e0059d7b0bd91102cafb00accbbad44e5f73e806386",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "ar-iguazu",
+      "sourceUrl": "https://whc.unesco.org/en/list/303/",
+      "oldSha256": "76b2ab1b14ea921881a73eaa82d33b49c5c596bf1a41bdc438b481d15791e418",
+      "newSha256": "9c17831a41a5ca92744bd5edb73cdfb7af09cdd4b2d2fd77f5d04bbc36f8f9f5",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cl-torres-del-paine",
+      "sourceUrl": "https://parquetorresdelpaine.cl/",
+      "oldSha256": "1791beff3b61467f681851b40d3cc775f69b3dcb1f9fc67b8cfb4e038274669f",
+      "newSha256": "7c7c0cf984ad568912e237cb0d22dd25f26d070cd5330e0b1b2c6d5f3a5d56be",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cl-easter-island",
+      "sourceUrl": "https://whc.unesco.org/en/list/715/",
+      "oldSha256": "38108e09b33ccc9748633a20c83e628c0a69b81e6303957638bc6d6ee1fffd86",
+      "newSha256": "762ca774995fc2779da70b569da94bd8b1847b4370e6b2164c9ce58bc6755f11",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "bo-uyuni",
+      "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/salar-de-uyuni-bolivia-6096/",
+      "oldSha256": "d92e73c504fb3a3e24e69721cd3b78ecc623577dea90812c0ea495b663354247",
+      "newSha256": "74f8afcbda87e3d196583884f6bee683a7a763efcd808a805d4f115ca296441e",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "ec-galapagos",
+      "sourceUrl": "https://whc.unesco.org/en/list/1/",
+      "oldSha256": "0eaf39fd8146ddf71e2933692ae898288fa693f14eb309bf6bfab6546b1dda45",
+      "newSha256": "ff46dc80face6bb1d79e24cffb6fc4b59f437c8c117ad5dda2bfe386f782d050",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cu-havana",
+      "sourceUrl": "https://whc.unesco.org/en/list/204/",
+      "oldSha256": "9f69b7f1d88ec5f62da5458b22a91dfa613f48a95fc0bde567cc8d3a54ed5582",
+      "newSha256": "fe908d4cf1312a51dd24acd390da7713d3304b84cdbaa68c9513a6d47abc76a2",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "co-cartagena",
+      "sourceUrl": "https://whc.unesco.org/en/list/285/",
+      "oldSha256": "c702dd6bb7aa4a131132aca1d1428a182707d5ced23f2628289cdb19abef43f4",
+      "newSha256": "5814d4082d1edf8b38f155ec3fb66afeab72f421a4e5b0e71fb710effe537ca8",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "jp-himeji",
+      "sourceUrl": "https://whc.unesco.org/en/list/661/",
+      "oldSha256": "6d29f8c5c43be72f76ecbcd61dba463bc61338966fb4c5fb8d0b8a2170013538",
+      "newSha256": "09c0bc6979a78fc83394b812789619b3b6149877358cc216607c71a81f937aa6",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "jp-kiyomizu",
+      "sourceUrl": "https://whc.unesco.org/en/list/688/",
+      "oldSha256": "d655a345741e46102d10c3b1e8eb03065a4e06f1221a118a195abed51bcfdc5d",
+      "newSha256": "32ef5030bbe4f0c9f332f0fd2a16acd04de54a91c1e24779e089694e11f1681a",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "jp-hiroshima",
+      "sourceUrl": "https://whc.unesco.org/en/list/775/",
+      "oldSha256": "d15505836347ad228e909995aa7f89c253a5fdbdc6d6a1c63b6ef4071c4b82ef",
+      "newSha256": "aa4610e0fc52ef00c5e0b01225e516adeb868dce0164d982252b6389452d2eb7",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "kr-gyeongbokgung",
+      "sourceUrl": "https://royal.khs.go.kr/ENG/contents/E101000000.do",
+      "oldSha256": "d5421c69efc906cf61b0a74d7834801ed8a7bfde08c376ae6ab2dcbae6baf8a0",
+      "newSha256": "9e9396910c1ea9e42997b1757593ac26b937b66571055ab880e1f90b8b4f93a5",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "th-grand-palace",
+      "sourceUrl": "https://www.royalgrandpalace.th/en/home",
+      "oldSha256": "4e0623036490be0a8223cdcab94af9890ae78b29a5b24f098f08d4b92b645201",
+      "newSha256": "9c334a7a7d567ad52fe92ed75db78be54231e5cf0faf5431c0fc327588475d4a",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "th-ayutthaya",
+      "sourceUrl": "https://whc.unesco.org/en/list/576/",
+      "oldSha256": "e083859d165e034dc16a067e90427e07b2cf7d82746f3726a2acee570b7e84f1",
+      "newSha256": "76b596e199afd736d2b4f53f3682ddbcadad0de1284f18134fd38cb30325ceab",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "sg-gardens-bay",
+      "sourceUrl": "https://www.gardensbythebay.com.sg/en.html",
+      "oldSha256": "a45642a5dbccf0337f8531ffad528c95b197f827ed3c3ff72a2271a9ec1e6347",
+      "newSha256": "878cfd4aec1ed8678a44392f537169fe7d0e21d87eca2336223266d727e71b0b",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "my-petronas",
+      "sourceUrl": "https://www.petronastwintowers.com.my/plan-your-visit/admission-ticketing/",
+      "oldSha256": "ed5692b09d4ce65f13364984b6a2f3b5bb4baf933f518b77c628ace5a0466a38",
+      "newSha256": "535d7b7e3c575115631248931ab39abd052e7bdf9e6fbcb0f20fb8dfd4cfc6f5",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "vn-halong",
+      "sourceUrl": "https://whc.unesco.org/en/list/672/",
+      "oldSha256": "6b7a5b2c82baf7ede589264cb0ad20e71d4f5d3f1a2795b8e3328a9b8bd0255e",
+      "newSha256": "73817870412802788470e1e2fb3a57cb59cf205c97675e77b0772215fbf09527",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "vn-hue",
+      "sourceUrl": "https://whc.unesco.org/en/list/678/",
+      "oldSha256": "41af698e91dc389eddd99cd9e0013d4b3a0ee7745b36ab3feee4d46f9957db43",
+      "newSha256": "7667d3e363c0f1f65af71e5312a24b42861a4a3c687eda1191aecb0fb71ba89e",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "in-red-fort",
+      "sourceUrl": "https://whc.unesco.org/en/list/231/",
+      "oldSha256": "7da98c9a1fd6877c4a82ad10ddd7eb2466132328d5a55e4168c08b21949de3c6",
+      "newSha256": "05007fd2b53f299d5802ff6674d876eb88fb191e05ddae472ab4a5eafc131cd4",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "in-amber",
+      "sourceUrl": "https://whc.unesco.org/en/list/247/",
+      "oldSha256": "de2e7163bbae2511bad82d199a642372fdcfe0c3258681f363311a65e0b32645",
+      "newSha256": "cd16659fc59b806fdabfb4a682c5971a8c739929ecacb83d555904f1e39cce60",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "np-swayambhu",
+      "sourceUrl": "https://whc.unesco.org/en/list/121/",
+      "oldSha256": "b52f029fcc11b129f5613e720170ac452490b61d31422eaf4309f20b6496e3f0",
+      "newSha256": "5a29fb990541e1957372c29829350b7e44cd524f696b8d2e119502cb9427c31c",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "lk-sigiriya",
+      "sourceUrl": "https://whc.unesco.org/en/list/202/",
+      "oldSha256": "c305d169379287f96900475474eb6743c483474620810f1a46020c5fca241c6f",
+      "newSha256": "01f34bec00297ab90e3e4f054916f2e55d8e3aa4c6ad17f4f9cd9af21d578326",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "ae-burj-khalifa",
+      "sourceUrl": "https://www.burjkhalifa.ae/en/",
+      "oldSha256": "9ccc2b2ea1bd2bc83ece028a41c509202035aa674a15b7f51370157545c91e97",
+      "newSha256": "249f8d3a528fc6264b1406364bf94a478e7f3b6f4f374eef3984feb9ab5eed86",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "id-komodo",
+      "sourceUrl": "https://whc.unesco.org/en/list/609/",
+      "oldSha256": "ca9638ecb768872ac3f947cd42a49662932326dc4f39cde2f73481061144cbb9",
+      "newSha256": "e06d32f18433ed4fb112a8bc84528bde4061e221b9fadef32a0823bbeab7cd65",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "mm-shwedagon",
+      "sourceUrl": "https://www.shwedagonpagoda.org.mm/en/about-shwedagon/",
+      "oldSha256": "28284b51b282e2724b408d609508dd816f6c7fd3c7b840d1d1f6a5d688fe20f3",
+      "newSha256": "2299864452595bb48d03e47d35026a8fd2a5b1df8b53c9841aa634f1cd561eeb",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "mm-bagan",
+      "sourceUrl": "https://whc.unesco.org/en/list/1588/",
+      "oldSha256": "9cf4098d363b0b4fd51832cf6dc26b409634fd2ec6abfd54118bc94a73c05dc5",
+      "newSha256": "a00b929465f3caafdc99654217a501a09c1b6a961faebf7de5ac7ed8e0e7ef4b",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "uz-registan",
+      "sourceUrl": "https://whc.unesco.org/en/list/603/",
+      "oldSha256": "ba0677a64dc3150bb0a14a20281a4b47a5dbfccb6ef032c823ea813bde3efeb2",
+      "newSha256": "885ceaee3f830a182b6bd31213b215c8da28c497dd10be34c7a5f9f65631a774",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "ir-persepolis",
+      "sourceUrl": "https://whc.unesco.org/en/list/114/",
+      "oldSha256": "7341cf31f4167c8ec7a30394fc522af5adc3891bdec427f79790f9e8ea9fe21a",
+      "newSha256": "1dd98265c3af8a00e9897ee360fe38e366f4bade80bd9f2195542134b6a8a6e9",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "eg-karnak",
+      "sourceUrl": "https://whc.unesco.org/en/list/87/",
+      "oldSha256": "af0942dda429cd8df449314cfd87fa87a400b9b655f17263374876de2e8eb4d8",
+      "newSha256": "f6d59cc1788f65ef930ca091bdfe41ec61f5260f999be29d2ca504288093ba3a",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "eg-abu-simbel",
+      "sourceUrl": "https://whc.unesco.org/en/list/88/",
+      "oldSha256": "2eaa03de555269a0dbcb84748e03ecd25c7fa2a3f388e532359fb7380e863422",
+      "newSha256": "4af0799c932143388b0dd5309a944e8f816382b102eeee4282b84c294612685d",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "ma-marrakech",
+      "sourceUrl": "https://whc.unesco.org/en/list/331/",
+      "oldSha256": "a65bb09cfa196bfe3773c456769470e5471411cec54a88936240ef6676a648ad",
+      "newSha256": "c379fedbe1e2b70857d0c8040312bc3794eae978ea3642975545f0c4d02c67ba",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "za-table-mountain",
+      "sourceUrl": "https://whc.unesco.org/en/list/1007/",
+      "oldSha256": "7c36eb56e715d33bf5acf5bfdda121c12640b2be590fb93e84eab530b97ef9ca",
+      "newSha256": "73f6dfb3ffdcf3b75fd95fb0c6aa4d730de94abdb9a7dc6111caff93e009a41b",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "na-sossusvlei",
+      "sourceUrl": "https://whc.unesco.org/en/list/1430/",
+      "oldSha256": "39c02302f623b2ea52896de87e562b5cc5a09f529a048d5a90767565668a0a3b",
+      "newSha256": "5d4795e0de0ba1fd664a9b4b3eb40ceb42c3bdfe0870595513cfcf760a68c3a7",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "tz-serengeti",
+      "sourceUrl": "https://whc.unesco.org/en/list/156/",
+      "oldSha256": "60073a2989c2f0c7d341d34b33d136664a64791bd51e71d42d848d20b5db110b",
+      "newSha256": "7cd658373fece8353b75cffbd9eaeb5d6e2f1177d25289b4cb61bf8268d4f639",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "ke-maasai-mara",
+      "sourceUrl": "https://magicalkenya.com/download/14326/?tmstv=1748249615",
+      "oldSha256": "96b975609c8fcf612a52a96a0810a47f4a68da35960d0c57b963578b27016b88",
+      "newSha256": "650a38b5e7dfb4aaa3bcd81c2e52fc1b4be980993acec71283d19fb21f1216d0",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "et-lalibela",
+      "sourceUrl": "https://whc.unesco.org/en/list/18/",
+      "oldSha256": "868d812453138757ff8a7c5542b035e64ed43f8ac8048ddd4fb5d94ae010eb68",
+      "newSha256": "567fcb2d0f25efa16b79f6704855f8484e4a3b460d90203bac5add75e1d3304c",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "tn-carthage",
+      "sourceUrl": "https://whc.unesco.org/en/list/37/",
+      "oldSha256": "fcfb7eb1b35ede26a25ed254f94168047804558ffe3526712aae331064ff8864",
+      "newSha256": "a0bb0cd5e719ee2841120c183391618be309a9c62721386f858cac9daf5081ed",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "zm-victoria-falls",
+      "sourceUrl": "https://whc.unesco.org/en/list/509/",
+      "oldSha256": "ae6de8b47bb8e388036dd57c3603fc347437c665acbc27280feb1b3f0df442ab",
+      "newSha256": "0cc60d7678541f190e34c128f95563dad76a697aed6cabd307ba19d1c6a51815",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "au-great-barrier-reef",
+      "sourceUrl": "https://whc.unesco.org/en/list/154/",
+      "oldSha256": "85f1cc9c852eb3005b091e9d03d2bfe624279aab560b8ad811c54780e60281a1",
+      "newSha256": "bb3923edfd6763cbd3676e6fd763471a2827f6ecd10980fdc167bbeb2635cb86",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "au-blue-mountains",
+      "sourceUrl": "https://whc.unesco.org/en/list/917/",
+      "oldSha256": "9fb11a7bc2d924b9f2672de98ae89be7b0d01003420efa93fc752f40a48f51a9",
+      "newSha256": "053ccf9d9fa148b38da0ea9de470bfa7de5430b75491ae4862f063ed41880285",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "au-twelve-apostles",
+      "sourceUrl": "https://www.parks.vic.gov.au/places-to-see/parks/port-campbell-national-park",
+      "oldSha256": "77cd1a913f5770aa52f801715d433baa61fcc7bb8acfd71208b6f9400e2ccc67",
+      "newSha256": "f582fe622f6d34a3f0667c2e78c8b69edc7eddbb74e1e4ddadab78e20d27e01d",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "au-kakadu",
+      "sourceUrl": "https://whc.unesco.org/en/list/147/",
+      "oldSha256": "1b58b27993b72cf48250ebe3e2855809c7fd6a5d4e7ab575ab9f9dc919150675",
+      "newSha256": "38931a56e66c3e9eee570b32d1243886556b04be04ffa149fd7ab0e1d5e317b9",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "au-cradle-mountain",
+      "sourceUrl": "https://whc.unesco.org/en/list/181/",
+      "oldSha256": "019923aa8e749fa65ff1f952bd11d1ec714979e4b9f11f0bb14471cb6db411d5",
+      "newSha256": "b9e5b5f9aadae60b71d87b3388b6f666ee2d7f3e45150fb2e8c44dbc0b1ddf2d",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "nz-milford-sound",
+      "sourceUrl": "https://whc.unesco.org/en/list/551/",
+      "oldSha256": "0a9421d66887fe61289725d52873b0d74a17f8e0c6ba1914777e2940b48176f0",
+      "newSha256": "8f934ed38ee19f6e18b71d7ffbe5b2ca94a38371a1d044104a40e2bc0e6f8a18",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "nz-rotorua",
+      "sourceUrl": "https://www.tepuia.com/",
+      "oldSha256": "6b464de6b8ee6f0db72277ff730b69816bf050d1b32fcd0ee85c6f4f7ead1fec",
+      "newSha256": "e788c8f5ac90f757a4f866a91fe9eca55bb1b31f9ae7b523d9b4b20282b56534",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "nz-tongariro",
+      "sourceUrl": "https://whc.unesco.org/en/list/421/",
+      "oldSha256": "7873edc72e53df47ab9f7fb8bd1006fbd555e492522f8facb10e9ab4769f5a54",
+      "newSha256": "3a4e1c2422dd86c0d402ead1d22d97e6591d4574cc9094c512128b984f7f2e9f",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "nz-aoraki",
+      "sourceUrl": "https://whc.unesco.org/en/list/551/",
+      "oldSha256": "7e44b0f190600a37e0f06cef19929322fcd082c0c734abc8c8477e8642d4c659",
+      "newSha256": "e6860a1b2de486bbe2970dc66edd49a9a7fd3acdb2f4ded8ebf745a8504e56b2",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-the-bund",
+      "sourceUrl": "https://english.shanghai.gov.cn/en-ScenicSpots/20231205/584672cc6d044eabb5f7f6fc9049a19f.html",
+      "oldSha256": "99355c3b211da0dcb4ace94eb3f7ecbdab70743818503229a6f0426b6f53ae7b",
+      "newSha256": "9a4ae96d50f7a8ea062af5535d1e22caa5f84d039b4d00cd293507f070892b22",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-oriental-pearl",
+      "sourceUrl": "https://english.shanghai.gov.cn/en-ScenicSpots/20231205/19a5f5184eca45728fd57a4d4c8efc61.html",
+      "oldSha256": "63d7870c7ffdd2e683d48897183c9b5354003ed471139677075ed2b925225507",
+      "newSha256": "ad581da5cf14ac3540bb9b42b1acd58acf90366a7a6b01613acd53e2ffa587cd",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-birds-nest",
+      "sourceUrl": "https://www.n-s.cn/visitindex.html",
+      "oldSha256": "17ef62be5f8fff93bc6cac0a54268b7f5011d1dfb86a1999ed799dee9135ff13",
+      "newSha256": "e47204c07a324671a20b5604169cc0bc65d7d942a0b107048d01fe19a0eafeb2",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-tiananmen",
+      "sourceUrl": "https://english.beijing.gov.cn/specials/centralaxis/qaonthecentralaxis/",
+      "oldSha256": "0e945163158efbe178d3f6902475e13824703e6e11ddd57e369d74f0829604cc",
+      "newSha256": "6684c5891371c287b7aab820126254b09e9cf2d2e3e0c5a0b927fda597f3b262",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-xian-city-wall",
+      "sourceUrl": "https://www.chinaxiancitywall.com/",
+      "oldSha256": "98de91c610c934e59834ce31b95f2725f727ba9ab98cd17fae6554514b9cc2a2",
+      "newSha256": "9bba761149c863f8d7add85639e02e2235367ccf8300764d2815f32c92b57d64",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-giant-wild-goose",
+      "sourceUrl": "https://en.xa.gov.cn/CultureTravel/Attractions/1691691504798126082.html",
+      "oldSha256": "907267db94154c93929b08a6325ddeec1a28e04ea03759166661efacdb2be154",
+      "newSha256": "549ae3fbd5a9bd4ad88f66c47f521e1ed30efe13706af9aca20c3dfb09e31c6b",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-huashan",
+      "sourceUrl": "https://sjfw.mct.gov.cn/site/dataservice/culdetails?curId=10&id=35093",
+      "oldSha256": "6572b7ccd851c827eb576b8b9e796be1f467828c67c8aaca510cfd0909bdeeed",
+      "newSha256": "fff071e70db27bd5c2fe1c7cbf96981b75e4b9b791ec0121adf96c442cfe46af",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-yellow-crane",
+      "sourceUrl": "https://english.wuhan.gov.cn/travel/tourist4attractions4an4incomplete4list/202110/t20211026_1819226.shtml",
+      "oldSha256": "cceb6ff70ebdff7d150ea6ba0ff5ba9e83b1db433d9df090b4a4a1feae5cbef4",
+      "newSha256": "7135a9d8347ac29e1678ea6e5c65ab2fe37978a945904d9f83ab7223b3fcbbbb",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-hongya-cave",
+      "sourceUrl": "https://whlyw.cq.gov.cn/zjwl/yzq/jqjd_1/202203/t20220304_10463056.html",
+      "oldSha256": "70621abce96e196476eb5576d762a9993ce51719d0c1c93316122bc0e5cc404f",
+      "newSha256": "fcd3ddef4230f5a5d6bc1f95d81fee3cf386bbdf6c527446b0e02e54bceb3443",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-huangguoshu",
+      "sourceUrl": "https://english.igsnrr.cas.cn/ecg/naturalscenery/waterfalls/202011/t20201119_251631.html",
+      "oldSha256": "b0e1d402d75f0117fbe0f83332ba4554ba7abf07a9788a7dc0d5351e9b19cc03",
+      "newSha256": "95fa993de4dff8ce6df9e5a9c04424ddd564c493f1973a58ccf43f4ffdb87208",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-gulangyu",
+      "sourceUrl": "https://whc.unesco.org/en/list/1541/",
+      "oldSha256": "488ffaba272b4fa359659c769d5eb62b54d5e9efc2d5ba6c948597bd0d695aa7",
+      "newSha256": "def202ec941396a5eabe78e680b11fad2c7869ded13a6f730e586092f342c4e1",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-zhangye-danxia",
+      "sourceUrl": "https://www.unesco.org/en/iggp/zhangye-unesco-global-geopark",
+      "oldSha256": "52c007299d839b197bdd9cb82d8a5bc743fad16bd25e7b116102f2bec2d7ff18",
+      "newSha256": "1ba1b7d760da69427f5a0f37890bbf8c9b8dd2fcec0c57566e076b3e744a38ce",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-chaka-salt-lake",
+      "sourceUrl": "https://www.chakasl.com/en/index",
+      "oldSha256": "3b34bd3b5b6857450c151b30eae7dae69577c5fb40613049831b19e4f1132d67",
+      "newSha256": "dcf2fa8f059f04a09fd08ef2039df1165badfbabfde2772134f9c52e75fed9a5",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-qinghai-lake",
+      "sourceUrl": "https://whc.unesco.org/en/tentativelists/6186/",
+      "oldSha256": "866f3536a35e086351f0d7c08f916ffa1b637c38ea6ed6a0c5d10dc5fee6139f",
+      "newSha256": "e02b30b63014d6a79664957e5f37042c6bd7eae5090376b21d0123d1ef58c6c5",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-kanas-lake",
+      "sourceUrl": "https://zrzyt.xinjiang.gov.cn/xjgtzy/dzyjxq1/202307/5f963ed047e64c56ac30b27e923629e4.shtml",
+      "oldSha256": "0fe217db3f54d4a2a431d7c477803d63109490470c6f4e24299404c78acbd757",
+      "newSha256": "a922c6f03b8146053a3b5a0ddbce2616a9e276ea2e5a1766aa7129c90cfa80ff",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-hukou-waterfall",
+      "sourceUrl": "https://en.hukouwaterfall.com/column/104/",
+      "oldSha256": "74c6128dff12930de83f512d2bf4e4f46d9a7fe678ef906c3ce8efb6373a8c31",
+      "newSha256": "89d115fcff9a5e0cdaf4c7891a6b2232637180b5064819f6983364a2fea588be",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-tianya-haijiao",
+      "sourceUrl": "https://www.visitsanya.com/destination/tianya-haijiao",
+      "oldSha256": "adb130b09f92e26fd8fcc97108a6c90fb50d164a8e07c71a7f88364ca36b3a4f",
+      "newSha256": "d44305369a78eff18ded4beec5f3983b520d3493c6949ea8bcf8f05760b7ada7",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-harbin-sophia",
+      "sourceUrl": "https://www.ciighrb.com/jtweb/web/culturedetail.do?id=5",
+      "oldSha256": "dc7d2e664769fb22d32988a6f0fbc33822c869d489bf3f44ba4704674c118d27",
+      "newSha256": "897dada10a3b5449d22ceb0cf2d87a745929a2434b974253ebc770b516675be0",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-alishan",
+      "sourceUrl": "https://recreation.forest.gov.tw/en/Forest/RA?typ_id=0500001",
+      "oldSha256": "3b792b99dba842e73e11b939b84ff49a0663a0f07bb2c0f110d2dea0c95f766e",
+      "newSha256": "a6c4c31fa5a5ce291a7c64674ae7c7076e6ede5bfeeed29c21933b6a112369b8",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cn-taipei-101",
+      "sourceUrl": "https://www.taipei-101.com.tw/en/observatory/feature/damper",
+      "oldSha256": "a397bd84b1676f23abef9d40607dd6347ee792266bca9c918367a8e0679becb1",
+      "newSha256": "76e3e78cacb0e2f33ea31f254797513e18c17664c42ddbcd7d340a6489efd1fc",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "jp-fushimi-inari",
+      "sourceUrl": "https://inari.jp/en/",
+      "oldSha256": "3e9e7cf30d55158e86c5f241ba2db4e0c727bdb45b39ad74421d16035aeb638d",
+      "newSha256": "48ac97461ad40e5fc3488ec243dc180d12b6d9d4c8dd8c8597f9380087405933",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "jp-tokyo-skytree",
+      "sourceUrl": "https://www.tokyo-skytree.jp/en/",
+      "oldSha256": "8f7b20f92c2855f8f1c90954eb73f94f4fad8cb705dc1bba6a5890a45d984021",
+      "newSha256": "f64b6cfbc90e22808ea293eae31dde2c67fe213fa1839a880612e4e715bd20e0",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "in-hawa-mahal",
+      "sourceUrl": "https://www.tourism.rajasthan.gov.in/hawa-mahal.html",
+      "oldSha256": "c2571c766d188ec20bb15c875c34a9909da232247bb3c6e9a26cb2a529b4d857",
+      "newSha256": "48b2e157b004070114e53109da2cea5d958decbc37e26f1db5713cec46fa3168",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "in-golden-temple",
+      "sourceUrl": "https://sgpc.net/sri-harmandir-sahib-2/",
+      "oldSha256": "9bdcad63e7fce91bcb6099bb5c1b1ae624f35caccae28f394e59c4f0ea01638e",
+      "newSha256": "b6232f5f21437e929bb032113676b637a3a56a9db9421362f77db597962f0e10",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "vn-hoi-an",
+      "sourceUrl": "https://whc.unesco.org/en/list/948/",
+      "oldSha256": "4a289c5cb401f516155da495b11865c35f4b349260c0057d1330da2bbacd4742",
+      "newSha256": "e75e66bdf05935dd073bb2ee38f3fbd5cbfcfbfc92b8522528ee25985efb7450",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "kh-bayon",
+      "sourceUrl": "https://whc.unesco.org/en/list/668/",
+      "oldSha256": "5fbbdfbe14e98c40bea91ad0a9264dcb59107007e3830b72f55a8dba2681f3ff",
+      "newSha256": "b51b4301fd62c25469f74dde1c62f2d209d3b82fee230801a5194fd4fb2bab21",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "lk-temple-tooth",
+      "sourceUrl": "https://whc.unesco.org/en/list/450/",
+      "oldSha256": "8c5ab5235d01018d5d449edc4dc6d2d21a9463beff520f76f167492526a03808",
+      "newSha256": "f45d021df380e37aa858ff6640084342a58c3bfd9eaa534fc82239e7384d47d6",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "id-tanah-lot",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tanah_Lot",
+      "oldSha256": "e4eb5199a7f5e27d98bd620867e9656c2960d0f596ce0c6f66433e3a82da4b09",
+      "newSha256": "df5ef2d436dd634e6f6e60c3cf9093af0f10bdfa9a7c95c706d2a8fa3e2a2737",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "jo-wadi-rum",
+      "sourceUrl": "https://whc.unesco.org/en/list/1377/",
+      "oldSha256": "a112286a4dc3c31222df9192ceddc4e47a3b13ad99a4a683e4f086ee1d396af3",
+      "newSha256": "70e5ef15332f9b216e1c82e4acc09bce88f3e9eb318951386d41dbd3fab9a836",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "tr-hagia-sophia",
+      "sourceUrl": "https://whc.unesco.org/en/list/356/",
+      "oldSha256": "44fbeb5e3af53f1fe987529a85e74f956d5207a72f0c5bb4621bb1359ed65e95",
+      "newSha256": "eb3608b878a87a7c435aa7ded76637b37cf3ff4005e87e05fa66a738fc06efba",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "tr-pamukkale",
+      "sourceUrl": "https://whc.unesco.org/en/list/485/",
+      "oldSha256": "54b48d230ca72abe1cffd06975e694cb670283d1134fdd1aecca15c1564cca06",
+      "newSha256": "70eff119fe26e54f53ded3c17293d30bd295ef9e2abb9199f91b66f4b9f5078f",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "om-sultan-qaboos-mosque",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sultan_Qaboos_Grand_Mosque",
+      "oldSha256": "3441aaa73340034f79d4dcc3e54583c0bfd59c80fa84cab01de44932d1b25bf1",
+      "newSha256": "d6244787891cbbe60135acb94d3457c3cbe78dce357d20c7cab35ab5bbf1d202",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "sa-hegra",
+      "sourceUrl": "https://whc.unesco.org/en/list/1293/",
+      "oldSha256": "78ec26cd96bb04353e2f01418e2e72300867ca028ed56ab83492e2941b9eab77",
+      "newSha256": "28701d66047648308c7bd7f72e4a3e05e22df2d29f4276d6de35e3d13be230df",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "ma-fes",
+      "sourceUrl": "https://whc.unesco.org/en/list/170/",
+      "oldSha256": "9125360935f5064626d1187cd0d4041c88611ca0febb5334ba40ae240e7f2c96",
+      "newSha256": "4458688e44772303bf703258b57c877cdbae4a9547cc7d66af5827ab326d0db6",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "tz-kilimanjaro",
+      "sourceUrl": "https://whc.unesco.org/en/list/403/",
+      "oldSha256": "28e5ee4456da5b1af8516d65237e56e0051058dffa0722a8aae3289decbd2215",
+      "newSha256": "6f9c0b7b915edba3a72463d9368e04d26e3187f716667f61032771b3f95971a3",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "tn-el-jem",
+      "sourceUrl": "https://whc.unesco.org/en/list/38/",
+      "oldSha256": "978537b993f778957d43d909147c76c6e2cd0ef7ab4ad973c12b50c2926da9fe",
+      "newSha256": "497f3c5de64d9a90067fe412d7d9b6758e5bef0137f9d2959c2acabdbaeb1584",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "ml-timbuktu",
+      "sourceUrl": "https://whc.unesco.org/en/list/119/",
+      "oldSha256": "e04384d64235c0cba5d94ba0de2fc4a8ed6f1645bfdeee54e89f8b6ad0557efb",
+      "newSha256": "36beee95e70fcab92844b84aca0ef2f7ee94292fec87f0eace9183e1b3e9c0f7",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "sn-goree",
+      "sourceUrl": "https://whc.unesco.org/en/list/26/",
+      "oldSha256": "cf4ccd718748747cd4c1f765d80297832b8d4253d38c0b25d8a5f87ff1345408",
+      "newSha256": "fa5b4957b3ddcd750ff2083a545d81ef799e9735380f4f279c7a79477b671dcd",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "mg-baobabs",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Avenue_of_the_Baobabs",
+      "oldSha256": "144018d944771a089d4491a66b009043c398bc7d308733b4c0b799b11a6dcf1d",
+      "newSha256": "67174ab5885e87982e1dc3eeb06de9df14b5eda4988a64c8b751d3c49e22d208",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "sc-anse-source-argent",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Anse_Source_d%27Argent",
+      "oldSha256": "a55043fe7c7885a2cb25baad85e79cb0e4bca9c8d90b1b8409f23de3a867b148",
+      "newSha256": "396b30abc4af3231b7299c99236f93e710e167ee9a51336df3b5d9b396814124",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "zw-great-zimbabwe",
+      "sourceUrl": "https://whc.unesco.org/en/list/364/",
+      "oldSha256": "e1b2bead2fe037f39cb747d9a4f8633932cd8a0c38d0266c118130916288a7ff",
+      "newSha256": "772ea5aacd307255a297d4a04edd1aa2a87f330e2483bb880002d9235546ba4d",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "za-kruger",
+      "sourceUrl": "https://www.sanparks.org/parks/kruger",
+      "oldSha256": "5fdd6eff803b2c0928a88805ab650b268b206a961345e33b0b4fbdc88271455b",
+      "newSha256": "3890df5bc5d3b3f574387c4c7e570daac6acac221364ba71f3a0b2efc2747dc9",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "au-bondi",
+      "sourceUrl": "https://www.sydney.com/destinations/sydney/sydney-east/bondi/attractions/bondi-beach",
+      "oldSha256": "9254e47847d1e1383e995d21f009bc58a522675c7845c0e12b91a6ab2de77baa",
+      "newSha256": "01d56c06a1ec36c7c4463dd522e62379e2cb1b31bc29cae04eaa391f6ddaff7a",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "au-pinnacles",
+      "sourceUrl": "https://exploreparks.dbca.wa.gov.au/park/nambung-national-park",
+      "oldSha256": "1e28dc3f76c2e8228af2f88b8e49f23c658124ac8d7b7a18cf06be2a824ad48b",
+      "newSha256": "c1c4b444b1cdc59005602a60103a08f8f1c1c74fef4ba6742837222b26ce79a7",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "nz-lake-tekapo",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lake_Tekapo",
+      "oldSha256": "1ca954d771dc7e9183a9299da8b559b9f2328fe61f159ebc396fba1f3eac8996",
+      "newSha256": "cd9ac96eaa59f201a7d8f59f3a94f59d7e1322550072b6aab41645b90d632c9a",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "fr-arc-triomphe",
+      "sourceUrl": "https://www.paris-arc-de-triomphe.fr/en/",
+      "oldSha256": "a357dc460bf9efa0e28d550b6a364401876be6cbd30ebf3c55042d11ae8c3db6",
+      "newSha256": "2944e3297ced15b407611bee597a32e195ccdc2fb1fb691075ed9d11a14686fe",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "va-st-peters",
+      "sourceUrl": "https://whc.unesco.org/en/list/286/",
+      "oldSha256": "1b49e05b9f935a0a99c571a43170979e820dcb2935e33695390421b1175798ff",
+      "newSha256": "839b446984c57602ae641bc47cd6d8f49328de300429f61dbec37073da703bf0",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "it-trevi",
+      "sourceUrl": "https://www.fontanaditrevi.roma.it/en",
+      "oldSha256": "701339d49c1069f5ce8ffea9f303bb8163d17d87b7de0f5fb921a3153ca0a389",
+      "newSha256": "82e2b82f840d93e96b3f1b88de1bfaa919c34474ed91f5b19a873946f228a1bb",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "hu-parliament",
+      "sourceUrl": "https://whc.unesco.org/en/list/400/",
+      "oldSha256": "f2a383d08e33e8817e43a5c2d2a092e8e10811e10fc66c512dd2f7fef6d30f00",
+      "newSha256": "bf5ee2b100ab53f80e2abe718adee4121d4e0374438dfc0f6018eba23fcb69c7",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "pt-belem-tower",
+      "sourceUrl": "https://whc.unesco.org/en/list/263/",
+      "oldSha256": "5d0fa1be85c31f16f4af405bdc26061d945006c684acec193eb6f8e88bd12d73",
+      "newSha256": "616a053903cbb56325a565f1a031c498bd979136c5ac49aec0d9e4082ba04a44",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "pt-pena-palace",
+      "sourceUrl": "https://whc.unesco.org/en/list/723/",
+      "oldSha256": "5fc29df529ccfd00a3015fc46083d31b9e038dc2003519db0f48412dbe0257be",
+      "newSha256": "79b82c196b23a511bb007712e072e46be6561a9eda0978ce07cc56b47f9b6c3d",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "hr-dubrovnik",
+      "sourceUrl": "https://whc.unesco.org/en/list/95/",
+      "oldSha256": "330750ca018128cf9fa8dbc6d4c13b0cc64a8c0a5a47190ae6728352da4233f4",
+      "newSha256": "21a6f25c58cdb939238f88c05a31399186eb1b92858d47d47698c1e1360f4138",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "gr-meteora",
+      "sourceUrl": "https://whc.unesco.org/en/list/455/",
+      "oldSha256": "a7e53492568fc3a57ccd6c6b6aee888546f6fba1baf94eb03314e2f12410dc00",
+      "newSha256": "2ff92c953fcd1a4cbec360f40bb15030bbfcdad6bc3abdb71a2a981f2e1911be",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "si-lake-bled",
+      "sourceUrl": "https://www.bled.si/en/what-to-see-do/attractions/",
+      "oldSha256": "11778a72bce99bb0c29db670dd07e85e586173f1ac6b18e188cd4e73d0150577",
+      "newSha256": "2f2318e022ea632bb20c6e73713041f423ab9d98b5e15558322cadc1b8ca37cc",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "fi-suomenlinna",
+      "sourceUrl": "https://whc.unesco.org/en/list/583/",
+      "oldSha256": "7d39f3fea32b934f202dacc5f4c7c39dee2a0766b6a98d3a75e5857290347826",
+      "newSha256": "15f0141ebed5b6518f857ce37c40cccd727b21f2fa25b885e7d11cbfbd430910",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "se-gamla-stan",
+      "sourceUrl": "https://www.visitstockholm.com/stockholms-districts/gamla-stan/",
+      "oldSha256": "b46f17fe0a39b38af40565d7772668704cf006386ec515e2c71cb8d5b4a697e6",
+      "newSha256": "2ef6bf03683a9cf2f856f29a759fdf20c00676dce32acb42043a18329d933819",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "no-geirangerfjord",
+      "sourceUrl": "https://whc.unesco.org/en/list/1195/",
+      "oldSha256": "65292f0051691af90f43238e876f2512de12037b8fdc1a42f89421f858fd8340",
+      "newSha256": "048e1dc57826033f6e48e944e15c0e2641058ecd075528f8d69751be2b706e6b",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "is-gullfoss",
+      "sourceUrl": "https://www.south.is/en/place/gullfoss-waterfall",
+      "oldSha256": "2e9b1ed8a62b6d1956fd67e294969520bcba97d4e33e3b459e6af8f2a940ffc0",
+      "newSha256": "a8b76e65763332d3e34fd178f365584765bfda9f4087983a734efbb3ae805534",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "gb-buckingham",
+      "sourceUrl": "https://www.rct.uk/visit/buckingham-palace",
+      "oldSha256": "7e25d06f5b3f9b71e665cda22d356ca16e80532743a3aad6b5ffa4abc3b24867",
+      "newSha256": "fcdcea80348897f4f3295064cf53aa2e89ad16acab13b9ce8f25c2db6eebd1ce",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "cz-charles-bridge",
+      "sourceUrl": "https://whc.unesco.org/en/list/616/",
+      "oldSha256": "5e097dec4c3b6645a21f3bc16e2e96b7c117e17b264e87137286f10b781f2490",
+      "newSha256": "ff5df2dd5f63d069298c5b68befd6940f2bb60fd803435e894919572a31fdf54",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "us-hollywood-sign",
+      "sourceUrl": "https://www.hollywoodsign.org/",
+      "oldSha256": "118be019ade600cbcb400bd3e716298267b94cda73acb33f33c1459f4a9b765d",
+      "newSha256": "fe260bb2479f016e25aab6a0a5088e506983f6298f39f474bbef64f11cd87515",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "us-empire-state",
+      "sourceUrl": "https://www.esbnyc.com/about",
+      "oldSha256": "8422f9cf4590e6ce67d1c7cf9ea0de0ebe1442f3381b1f90f5dc76e1b28925d5",
+      "newSha256": "8e5fca776011e30a0bf6ec41175e65216dc8d1e55ec0063592f4606d70efbd9d",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "us-brooklyn-bridge",
+      "sourceUrl": "https://www.nyc.gov/html/dot/html/infrastructure/brooklyn-bridge.shtml",
+      "oldSha256": "3545c77b0a584c44871fbf45af8522e7c19b7e54996f05061ac8eaf2bda6e7f2",
+      "newSha256": "52f82ac50d6933028b6cbae0c73b42f863df9809adcb6e1395d28e50f7ba73b3",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "us-lincoln-memorial",
+      "sourceUrl": "https://www.nps.gov/linc/index.htm",
+      "oldSha256": "2baf40294b96c366e3b612f799e8fca46d2632c347e9977b1e38d365868d216a",
+      "newSha256": "fd6a55c0314f0199fffc80db51bb13858fbd9c3e32171b7cc65beb679522aa3c",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "us-antelope-canyon",
+      "sourceUrl": "https://navajonationparks.org/navajo-tribal-parks/lake-powell/",
+      "oldSha256": "d4389197c471fe14b1b24e5d32a1cccb246bdb9a5d802c31c8cfe031ab91b1e5",
+      "newSha256": "86c3585611dc1e919348697ba6c57de847d3f95763fe1cd4495920d58034980d",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "us-bryce-canyon",
+      "sourceUrl": "https://www.nps.gov/brca/index.htm",
+      "oldSha256": "b41e0bbd79096fc3f7c36a5c01430e9086d0c897e8bd8d41651a006077b01a03",
+      "newSha256": "24f56794c3f70c2eb6b70110169f431de0b8e8dbded18191154b4fe6a501955d",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "us-kilauea",
+      "sourceUrl": "https://www.nps.gov/havo/learn/nature/kilauea.htm",
+      "oldSha256": "547c10552114097ce132645a14c93fe555ed7a7b01d572f0d06c906de1387e81",
+      "newSha256": "4cee6411b2e6654adedb5b2912b6498b13590b9b21d7e68de89259d9930f905e",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "ca-cn-tower",
+      "sourceUrl": "https://www.cntower.ca/",
+      "oldSha256": "2704c66313b20807c398387b5c4268744afc02ae433bca64215e5da2342b475b",
+      "newSha256": "6da554d170947594ad4d71211387a24ddf338823157773c47a1a512b4790c35b",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "mx-palenque",
+      "sourceUrl": "https://whc.unesco.org/en/list/411/",
+      "oldSha256": "5c2602ad8f22fa3fca3ff3709f3315ccea62160db2a564b2ddd11cffce426007",
+      "newSha256": "d5f025f2431259e07daf5e700c029f8570752088c838fb50e2034a4d00d2d7d2",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    },
+    {
+      "id": "br-sugarloaf",
+      "sourceUrl": "https://whc.unesco.org/en/list/1100/",
+      "oldSha256": "900ce274342df781de1f2ccea61130bba0558fbbc8f56416b7c7b1cfe673f8d8",
+      "newSha256": "c11fbd2aa2e1189a35876d4fc78c3e5f90b7524e91ef616bde47b4ae1be1113d",
+      "action": "replaced-whole-description",
+      "factFields": [
+        "name",
+        "countryName",
+        "region",
+        "category",
+        "highlights"
+      ]
+    }
+  ],
+  "bodyProfiles": [
+    {
+      "key": "hyperion",
+      "oldSha256": "9aa8f90c9f3dfe58aeacb796980d64045529818729fc10177c307842df1e4d6b",
+      "newSha256": "c845629eb367b0c79eb28fa1bc4c3ccd1812e2b32c517c402b3881289fe0f674",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/saturn/moons/hyperion/",
+          "title": "Hyperion — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "phoebe",
+      "oldSha256": "8daa534d782408bbb89d1982e54333c36e6f65ea6a88c9373be96ebf854d614c",
+      "newSha256": "a6626e98960db4b58025b8399f77701ab41433d3dc3d706999ee711404257783",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/saturn/moons/phoebe/",
+          "title": "Phoebe — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "charon",
+      "oldSha256": "34ce2dac40fc9812b49bdcc80682fa7bc4b3a07eb9545e75491c9fd679d5a776",
+      "newSha256": "a0f968e12538993b1109448ed93f8b14a08e4ecf54207e630b2b07d30c717384",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/dwarf-planets/pluto/moons/charon/",
+          "title": "Charon — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "ceres",
+      "oldSha256": "4e670350dd00b69b1fe4b844487b93bc4cabe0b99c47d837838d71579a4d93dc",
+      "newSha256": "9a5566b527d8692f769c63151f1b1d9546c5975f3523c9f5c47e2c5b61927fc8",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/dwarf-planets/ceres/facts/",
+          "title": "Ceres Facts — NASA Science"
+        },
+        {
+          "url": "https://www.nasa.gov/centers-and-facilities/jpl/mystery-solved-bright-areas-on-ceres-come-from-salty-water-below/",
+          "title": "Mystery Solved: Bright Areas on Ceres Come From Salty Water Below — NASA"
+        }
+      ]
+    },
+    {
+      "key": "pluto",
+      "oldSha256": "310a111b44e440352ab7d5ab2af7ce37414d3e05a31725903b9769653bc8972d",
+      "newSha256": "6925e25287c5d570e72b52c8e87999b95214a287eac169762f8f40d8a3a32dc5",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/dwarf-planets/pluto/facts/",
+          "title": "Pluto Facts — NASA Science"
+        },
+        {
+          "url": "https://science.nasa.gov/dwarf-planets/pluto/moons/charon/",
+          "title": "Charon — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "eros",
+      "oldSha256": "2179efa815305622e1154ffbd4c8d109e87e85bb961f60745596b29501b70e1e",
+      "newSha256": "e2846ab8868090be3121d972e1df0fcb823cbaec08ad117c45b993434b066fe2",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/solar-system/asteroids/433-eros/",
+          "title": "433 Eros — NASA Science"
+        },
+        {
+          "url": "https://cneos.jpl.nasa.gov/missions/",
+          "title": "NEO Missions — NASA/JPL CNEOS"
+        }
+      ]
+    },
+    {
+      "key": "itokawa",
+      "oldSha256": "80d604b4f06dfd8ed755d8f5be291fa0b25e5bfd7aaf5cfe093a476bb77bf62c",
+      "newSha256": "ac0b6efb1b8037fc835fb0a7f81ef450857a7db32a6abe3c74a3a300ec3c4470",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/solar-system/asteroids/25143-itokawa/",
+          "title": "25143 Itokawa — NASA Science"
+        },
+        {
+          "url": "https://cneos.jpl.nasa.gov/missions/",
+          "title": "NEO Missions — NASA/JPL CNEOS"
+        }
+      ]
+    },
+    {
+      "key": "bennu",
+      "oldSha256": "c36ee25c9c40f2e6b3a2959ae02c0b406bf141f5eab97bfc983765dd6495d5ca",
+      "newSha256": "42c3c2accd072602561cfe4b3554a5c2748d8da83ad31ceb843a7ca3bf6f296c",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/solar-system/asteroids/101955-bennu/facts/",
+          "title": "Bennu Facts — NASA Science"
+        },
+        {
+          "url": "https://science.nasa.gov/mission/osiris-rex/",
+          "title": "OSIRIS-REx — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "ryugu",
+      "oldSha256": "f07588bb6d0b4489c85b61ed8c99114fa72003d97f6ea7a7c2f67a9a9bdabc48",
+      "newSha256": "bc5dd266cadc08248710db2586a3ee8c0125c9bb1981f15d773d1304fa669648",
+      "sources": [
+        {
+          "url": "https://cosmos.isas.jaxa.jp/the-sample-from-asteroid-ryugu-summary-early-2023/",
+          "title": "The sample from asteroid Ryugu: summary early 2023 — ISAS/JAXA"
+        },
+        {
+          "url": "https://darts.isas.jaxa.jp/doi/curation/hayabusa2/desc/cur-ryugu-description_landing.html",
+          "title": "Hayabusa2 Ryugu Sample Curatorial Dataset — ISAS/JAXA"
+        }
+      ]
+    },
+    {
+      "key": "vesta",
+      "oldSha256": "2f22a167f8c39cb178301aec43c666adc2fe1463a89f621267d23230cda0f7a6",
+      "newSha256": "c5e0d757fff7ad8abf9d7a9a94e547c1919864e05379013617ff2dd2334a2f4d",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/solar-system/asteroids/4-vesta/",
+          "title": "4 Vesta — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "gaspra",
+      "oldSha256": "b1988f3b48bfcbad2cf7d5527ac7a7b9b9d739f3bf153f134c98d44df2d778ca",
+      "newSha256": "a25963f8621dfc5c4ddd0ebd0ecb6dd024c6f251962b2ea7a1db803cc729bd9e",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/mission/galileo/",
+          "title": "Galileo: Asteroid Flybys — NASA Science"
+        },
+        {
+          "url": "https://science.nasa.gov/photojournal/gaspra-first-image/",
+          "title": "Gaspra — First Image — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "ida",
+      "oldSha256": "58712be4fec9ce56120f35bcf8ee62682dd89075c15ce100dc67e920dade8714",
+      "newSha256": "c5ed07c90d58fdb4e10e9e34c14ee148731ff85fd40eae941a979a0565c625d7",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/solar-system/asteroids/243-ida/",
+          "title": "243 Ida — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "lutetia",
+      "oldSha256": "2b0e05ffc483cc452b8f24efd77e8627227d76aafb1651db03650074f9dc6fbd",
+      "newSha256": "563cc80d304d346bc55a21dffe93e61d8a7ec8e7cbbcde6bec32f8cb53be8c35",
+      "sources": [
+        {
+          "url": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Rosetta_triumphs_at_asteroid_Lutetia",
+          "title": "Rosetta triumphs at asteroid Lutetia — ESA"
+        }
+      ]
+    },
+    {
+      "key": "steins",
+      "oldSha256": "632145d9291dd6fa2e5ff882a5542af23451929ede88686e947afc8b3fdd5343",
+      "newSha256": "8ec27a5a4ebd8e388c03eaa98d0ddf29eb02418a00aac6def48ab630af760db2",
+      "sources": [
+        {
+          "url": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Steins_A_diamond_in_the_sky",
+          "title": "Steins: A diamond in the sky — ESA"
+        },
+        {
+          "url": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Rosetta_Cool_science_at_a_rare_target",
+          "title": "Rosetta: Cool science at a rare target — ESA"
+        }
+      ]
+    },
+    {
+      "key": "dinkinesh",
+      "oldSha256": "ca7e7d1a1b1e2c1c6e6479531db99055c38aa0180f6e9761e2898a4d32df130e",
+      "newSha256": "2cfdc4fdb0cdcf6f6eb505ab70ef295bf65f82dc75e00e4f5501cfc713762b47",
+      "sources": [
+        {
+          "url": "https://www.nasa.gov/solar-system/asteroids/nasa-lucy-images-reveal-asteroid-dinkinesh-to-be-surprisingly-complex/",
+          "title": "NASA Lucy Images Reveal Asteroid Dinkinesh to be Surprisingly Complex — NASA"
+        },
+        {
+          "url": "https://www.nature.com/articles/s41586-024-07378-0",
+          "title": "A contact binary satellite of the asteroid (152830) Dinkinesh — Nature"
+        }
+      ]
+    },
+    {
+      "key": "donaldjohanson",
+      "oldSha256": "0fff7600f8b7a169cb302447da73b9edaf3d0a066b595a1606bc494637e3322b",
+      "newSha256": "7ebaa6e9712f9a835e528c45ef05aab7e2bf6606fda05d3402858476a9589b73",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/solar-system/asteroids/donaldjohanson/",
+          "title": "Asteroid Donaldjohanson — NASA Science"
+        },
+        {
+          "url": "https://science.nasa.gov/missions/lucy/nasas-lucy-reveals-wobbling-peanut-shaped-asteroid/",
+          "title": "NASA’s Lucy Reveals Wobbling, Peanut-Shaped Asteroid — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "halley",
+      "oldSha256": "36d586c8f8c71b49b5993f1001682481f8b95ea9fb339a347c4610716cd54425",
+      "newSha256": "53d92165d87d0e35fafa3ffc5088aaddc69f6f4b8560b0fdcae3394e8b01f7e7",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/solar-system/comets/1p-halley/",
+          "title": "1P/Halley — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "borrelly",
+      "oldSha256": "afbc2717d1d2ca510f37c8b718f966003f4a0067051722fca002106684d4d2ac",
+      "newSha256": "086cf8b0391edfc6a8328662e7bb0376171d801115cfa24d07d8005daa9991b6",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/solar-system/comets/19p-borrelly/",
+          "title": "19P/Borrelly — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "wild2",
+      "oldSha256": "584f12568b250ab2685d6d0a35a0c51ccccafb1686b3cb309d1e446339521e11",
+      "newSha256": "8cd0c1cac008db7590a69d78d94f281eb8d64d54acd12be95022a8278fb167fa",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/solar-system/comets/81p-wild/",
+          "title": "81P/Wild (Wild 2) — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "tempel1",
+      "oldSha256": "fd383bc277985737c1c86e89cf41f3c4f2930e69226e0ff1d37de6715a552b65",
+      "newSha256": "9b63894697525099cc6bdd23b231ecc08d4f390c9c50d94cc85a7234901524bc",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/solar-system/comets/9p-tempel-1/",
+          "title": "9P/Tempel 1 — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "hartley2",
+      "oldSha256": "4d2bf78b46f23e631650e36d823409e7e0bbf0641c549a0518705fe703068f88",
+      "newSha256": "ef933e56ffa81237871cdd301ff0d68c1e267be460f896fa2ec6f54c145efa8a",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/solar-system/comets/103p-hartley-hartley-2/",
+          "title": "103P/Hartley 2 — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "67p",
+      "oldSha256": "04202067af956a8e88b3cbc3eee2a69531cba4ccaa9c816ab9533d673e39330c",
+      "newSha256": "04d62f53cf6fb3178d6207b7bbb9cce92c0c0b1186675528b53491acce41dbf3",
+      "sources": [
+        {
+          "url": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Rosetta_factsheet",
+          "title": "Rosetta factsheet — ESA"
+        },
+        {
+          "url": "https://blogs.esa.int/rosetta/2015/09/28/how-rosettas-comet-got-its-shape/",
+          "title": "How Rosetta’s comet got its shape — ESA"
+        }
+      ]
+    },
+    {
+      "key": "arrokoth",
+      "oldSha256": "eb11ffd88dbcd804aea03303679e46616b309ece8c1d6f0431564cf2f87a41eb",
+      "newSha256": "2bea745a605eba02d5c2ca9454404dd47bb7d7f84372f5f93ba8639ee7efcbeb",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/solar-system/kuiper-belt/arrokoth-2014-mu69/",
+          "title": "Arrokoth (2014 MU69) — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "mathilde",
+      "oldSha256": "639dbd9980db597421a88e146a053ae1f451deef6d26d3fa8eb2f30ea84c4356",
+      "newSha256": "caa9236eb29bfa0cf94df2317660bfdd1e410fda6312e76efd56cad6624e5a4b",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/solar-system/asteroids/253-mathilde/",
+          "title": "253 Mathilde — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "didymos",
+      "oldSha256": "6b164feacd766c8a605bfec13e1f642f756844d96a28fbb420148038d74d05ff",
+      "newSha256": "fa65629a5b5892a722bfb33873a0741f36e10d8df46676755f8529b9b8e29779",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/solar-system/asteroids/didymos/",
+          "title": "Didymos & Dimorphos — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "dimorphos",
+      "oldSha256": "1f2aa6119a7a73668cafdbbf08b4ddeefeb2e29283508744b2f7a1d1d0ec6eb4",
+      "newSha256": "f5c453d8b351994fa1c63d4f2da1123041f9cd0dc39416d21439b74740fa0d3a",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/solar-system/asteroids/didymos/",
+          "title": "Didymos & Dimorphos — NASA Science"
+        },
+        {
+          "url": "https://www.nasa.gov/missions/dart/nasa-study-asteroids-orbit-shape-changed-after-dart-impact/",
+          "title": "NASA Study: Asteroid’s Orbit, Shape Changed After DART Impact — NASA"
+        }
+      ]
+    },
+    {
+      "key": "dactyl",
+      "oldSha256": "72de782134286f68b6fff3dc7878caff8902ecd85644c83692e1905ec125ad69",
+      "newSha256": "86910264fc801535c87af46d1df51ba34f9c8dd5d755fb7d958b1526da91ffcb",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/solar-system/asteroids/243-ida/",
+          "title": "243 Ida — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "selam",
+      "oldSha256": "d5aed688a36a13030f68d12cb02b0972fcde2a3dba88cc34fa791d98888d9330",
+      "newSha256": "3e23b9528d06a7ec4d83c7506dd4709d669cf0ddefb97d0542d1aebc42f3d0be",
+      "sources": [
+        {
+          "url": "https://www.nature.com/articles/s41586-024-07378-0",
+          "title": "A contact binary satellite of the asteroid (152830) Dinkinesh — Nature"
+        }
+      ]
+    },
+    {
+      "key": "pan",
+      "oldSha256": "d1f2d45c7fc1074da4aeffc5714f87619f0a4d87861c030ced14d5f8d53d9965",
+      "newSha256": "29588af7bf98c1c2aa86d70f398733093a8ad9e3faaaa9399756657d106c384c",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/saturn/moons/pan/",
+          "title": "Pan — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "atlas",
+      "oldSha256": "9a5e71515f251ba2d1c13da040a251cf650e0dded4887a1a92057cc8454fd9d1",
+      "newSha256": "d3a1f91b697f1a706e56d01c847b923750e3036fb9a75bcdea8328726c664ed0",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/saturn/moons/atlas/",
+          "title": "Atlas — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "daphnis",
+      "oldSha256": "d42f867e9c657e95e180ffb59b1f93d572e311c26ae024c6b7d3a1c40212404c",
+      "newSha256": "dbf6cf3783bde62119f13c1ab93fe1e73382be645d979dd1951deaff4f50d4d6",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/saturn/moons/daphnis/",
+          "title": "Daphnis — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "prometheus",
+      "oldSha256": "aad623864b860ac7e44ce8c1875da6511918af96d8b40116e14dfeeba7bfbd2c",
+      "newSha256": "76386dd802e0685b7f62fb2ead94bc04c56266e2bc089d676b859df7aabcbd3a",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/saturn/moons/prometheus/",
+          "title": "Prometheus — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "pandora",
+      "oldSha256": "ce3a71523715dc697e17ff4ac7b2fc87b93000b15c299dc64beb50acc7deb496",
+      "newSha256": "2bc4fd96d5124ba9607911cf98f92b44a7ec640d63e13f9e5b226e88a4b64999",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/saturn/moons/pandora/",
+          "title": "Pandora — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "janus",
+      "oldSha256": "03176efb74b2ae751b20bb788221e824505a8a52b5070e104a5c74c1c5aa316a",
+      "newSha256": "fd5acebae1961eaa45bbe2ddd37c414512d414c468b4714980a287b629381224",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/saturn/moons/janus/",
+          "title": "Janus — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "epimetheus",
+      "oldSha256": "382ca915f00e1b1dfc6979e34a218f31829dc80fedef1bb38505e541c741713d",
+      "newSha256": "136c8a0798fb88a87cb7562216157a63774b33e4c5c484a4cfaf7a47f4e11d27",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/saturn/moons/epimetheus/",
+          "title": "Epimetheus — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "helene",
+      "oldSha256": "a8414034cf1f9f3fa881439371025d60681fcf2b3166d07397189c580dfcf9dc",
+      "newSha256": "01db3e3571b8a94c921378694a3a751aaae7a1d11d8818f057781bf5bcc19f6f",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/saturn/moons/helene/",
+          "title": "Helene — NASA Science"
+        },
+        {
+          "url": "https://science.nasa.gov/resource/telesto-companion-of-tethys/",
+          "title": "Telesto: Companion of Tethys — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "telesto",
+      "oldSha256": "3ece92b8d1d051eddc42e788b2ac8c5eccf12352153afa62820d087fc68b1aaa",
+      "newSha256": "6ac19ab741201f3ffa5758f3e95891ec04e9693f27003ef6cd6b3ca84ed1475a",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/saturn/moons/telesto/",
+          "title": "Telesto — NASA Science"
+        },
+        {
+          "url": "https://science.nasa.gov/photojournal/calypso-close-up/",
+          "title": "Calypso Close Up — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "calypso",
+      "oldSha256": "e2a65c005dcb1609c857a8f029ca88ffca1ef94b2a68fc033d3ec835111ef56d",
+      "newSha256": "87ef35401e3906409e160fb2fa8dab4b82f8addc3c746277f3cca7d6161cc2a0",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/saturn/moons/calypso/",
+          "title": "Calypso — NASA Science"
+        },
+        {
+          "url": "https://science.nasa.gov/photojournal/calypso-close-up/",
+          "title": "Calypso Close Up — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "methone",
+      "oldSha256": "95838979372d2c87b660674ab27a06c363dd4cd36613641e83b1317d96b36a7e",
+      "newSha256": "554b401081617a43ae3ff75b64ff2ff26cb35df5683660c8b5981d4add22a6a6",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/saturn/moons/methone/",
+          "title": "Methone — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "nix",
+      "oldSha256": "20aeccd4f8b1b85fcfbdfed3c866b8322e4ff944614babf2ac5a0ff3d586e641",
+      "newSha256": "7b45bc61af8eed5f82047785460570739d7ee28ebd599f333f841d8940a76266",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/dwarf-planets/pluto/moons/nix/",
+          "title": "Nix — NASA Science"
+        },
+        {
+          "url": "https://www.nasa.gov/missions/new-data-compare-contrast-plutos-icy-moons/",
+          "title": "New Data Compare, Contrast Pluto’s Icy Moons — NASA"
+        },
+        {
+          "url": "https://science.nasa.gov/blogs/new-horizons/2015/10/05/plutos-small-moons-nix-and-hydra/",
+          "title": "Pluto’s Small Moons Nix and Hydra — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "hydra",
+      "oldSha256": "d681384818ec48128e642726f9c329f63973805256ec28fafdfd1b6507eca2a8",
+      "newSha256": "377bba13eacbc1d48a0376f6497bd88157acd108a9b567065cfbc4f02049687d",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/dwarf-planets/pluto/moons/hydra/",
+          "title": "Hydra — NASA Science"
+        },
+        {
+          "url": "https://science.nasa.gov/photojournal/icy-hydra/",
+          "title": "Icy Hydra — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "kerberos",
+      "oldSha256": "6607856560d43d1a028745a580e4c031aafe674bfc66d1e4e4ace8ac5025caf1",
+      "newSha256": "7691df587623c16406b39f26ebf6fd95fd17105558ae93fcc53b76c179f07d16",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/dwarf-planets/pluto/moons/kerberos/",
+          "title": "Kerberos — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "styx",
+      "oldSha256": "4bf0fd4fe40cbb42438a4e89f01943e2d1f3090b7ed0c9230e6794c04a373756",
+      "newSha256": "2c5159c19a714fc04354d63c1e8e45c70bf07d54d08ba1b072284875adc996d0",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/dwarf-planets/pluto/moons/styx/",
+          "title": "Styx — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "amalthea",
+      "oldSha256": "e53bf531e7213ef31719794079e8000e7a46088aa04426dcd5aa20828864232b",
+      "newSha256": "5b07f3bf8148802424e896e709efc5824f830e2a33ca29f569ed7e1e50594770",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/jupiter/jupiter-moons/amalthea/",
+          "title": "Amalthea — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "thebe",
+      "oldSha256": "04bb4b302cadc77198842938376540a14f17bf8c185edcf85dc6560f2add8c59",
+      "newSha256": "2c175af5d0e0d4a5286e3eef379dba4c58bb5ebdb30e42de30484604e36e5bf8",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/jupiter/jupiter-moons/thebe/",
+          "title": "Thebe — NASA Science"
+        },
+        {
+          "url": "https://science.nasa.gov/jupiter/jupiter-moons/amalthea/",
+          "title": "Amalthea — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "larissa",
+      "oldSha256": "5d8b66d3a69335527713bd74468efb5fd559e2b7a60f3452e1b6901cd526499f",
+      "newSha256": "31de8a215c04a0a599ee0643e07ec53688b8b25b6ba292da1b56efe011e33971",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/neptune/moons/larissa/",
+          "title": "Larissa — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "proteus",
+      "oldSha256": "3e5c12a427f7906af50ef37b62652254d93f395af4669e9a06d1f802648dbd04",
+      "newSha256": "697a58623ed4580b9a2ecbaf38ad4854730ad94bce0618b2b4379f11f08b9a56",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/neptune/moons/proteus/",
+          "title": "Proteus — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "braille",
+      "oldSha256": "958159d139d0c484c2c3146bc81870a231176a220c34b5334cb014301554ac93",
+      "newSha256": "e6c6d940c37bcfc8020b5ef4cc4cf0c492515d16025ece8bbcc6febc160d9590",
+      "sources": [
+        {
+          "url": "https://www.jpl.nasa.gov/images/pia01344-composite-view-of-asteroid-braille-from-deep-space-1/",
+          "title": "Composite View of Asteroid Braille from Deep Space 1 — NASA/JPL"
+        },
+        {
+          "url": "https://www.jpl.nasa.gov/missions/deep-space-1-ds1/",
+          "title": "Deep Space 1 — NASA/JPL"
+        }
+      ]
+    },
+    {
+      "key": "annefrank",
+      "oldSha256": "3f500089bfb4a74b407264f2b1d72d10636f6edffe4849303c797b3cbc0c74ec",
+      "newSha256": "34795f7e6fbe262ffa1957756f284320b2db974f956dbf170a9e84c8c33c24a4",
+      "sources": [
+        {
+          "url": "https://www.jpl.nasa.gov/news/nasas-stardust-comet-chaser-passes-asteroid-test/",
+          "title": "NASA’s Stardust Comet-Chaser Passes Asteroid Test — NASA/JPL"
+        }
+      ]
+    },
+    {
+      "key": "Proxima Centauri",
+      "oldSha256": "242b5539c4215111c2ba615030561d9934df009d46335b708428e3f6fb8c4cc9",
+      "newSha256": "d4f96746b9d0ecb79682f561009c6f42f7cf56d36fd7947f540b744351f972b3",
+      "sources": [
+        {
+          "url": "https://www.eso.org/public/news/eso1629/",
+          "title": "Planet Found in Habitable Zone Around Nearest Star — ESO"
+        },
+        {
+          "url": "https://www.eso.org/public/images/potw1604a/",
+          "title": "Our nearest star system observed live — ESO"
+        }
+      ]
+    },
+    {
+      "key": "Sirius",
+      "oldSha256": "1dbf77bd8d43267d617c38b04d8e040adf76aa94fbce4c6f6c875aa2602fd45e",
+      "newSha256": "c3a38cb3accad4fb70b302cc24178ed19de336afeef39d3e2fe5cd5109683c6a",
+      "sources": [
+        {
+          "url": "https://chandra.harvard.edu/photo/2000/0065/",
+          "title": "Sirius A & B — Chandra X-ray Observatory"
+        },
+        {
+          "url": "https://solarsystem.nasa.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaUJoIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e2656a2331f6fd7e164c29507db8599dce197c1c/JPL-20190201-WHATSUf-0001-Transcript.pdf?disposition=inline",
+          "title": "What’s Up: February 2019 transcript — NASA/JPL"
+        }
+      ]
+    },
+    {
+      "key": "Vega",
+      "oldSha256": "e6ff9d91df401796dc87b8471e655192bfbf9dab35330af01ad5b51530537df8",
+      "newSha256": "9992b58640d37c81d7699ce4d802058d871520a9de7c4a39354ab00bc47e489b",
+      "sources": [
+        {
+          "url": "https://ntrs.nasa.gov/citations/19950028610",
+          "title": "Vega: A rapidly rotating pole-on star — NASA NTRS"
+        },
+        {
+          "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-webb-probe-surprisingly-smooth-disk-around-vega/",
+          "title": "NASA’s Hubble, Webb Probe Surprisingly Smooth Disk Around Vega — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "Arcturus",
+      "oldSha256": "b9715ccfa4d13395d9863e5af13090e41c41052f68a363921387ff6b2682eff1",
+      "newSha256": "2ed7d56986fb93b9559d6899b9e4ca2a4f852f925043567b0518df4b21742bf4",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/universe/stars/types/",
+          "title": "Star Types — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "Capella",
+      "oldSha256": "6b57ec31a8ec9a67b11eea31dabeb70636c873755c1efc84775d64ac9559b814",
+      "newSha256": "b85a169c107c3b72be805a23c104f7ba2f8639271ad5cdc4a3e5471a399ee232",
+      "sources": [
+        {
+          "url": "https://cxc.harvard.edu/newsletters/news_35/article7.html",
+          "title": "Coronae and Capella — Chandra X-ray Center"
+        },
+        {
+          "url": "https://eco.mtk.nao.ac.jp/koyomi/faq/stars.html.en",
+          "title": "Glossary on Major Stars — National Astronomical Observatory of Japan"
+        }
+      ]
+    },
+    {
+      "key": "Rigel",
+      "oldSha256": "13292245b17bedb4ac77a15527ee8f38b058bad8dd4af8e2f3fc71fc0d94cf24",
+      "newSha256": "43088657573fc9e081cb01b553e0b581b8ff45fa4469d7c48dbbf9c9123c2d55",
+      "sources": [
+        {
+          "url": "https://apod.nasa.gov/apod/ap961202.html",
+          "title": "Orion’s Star Colors — NASA APOD"
+        },
+        {
+          "url": "https://apod.nasa.gov/rjn/apod/ap230407.html",
+          "title": "Rigel Wide — NASA APOD"
+        }
+      ]
+    },
+    {
+      "key": "Betelgeuse",
+      "oldSha256": "8ed11e1fcb50c34bc7729363c14e1c7ce2d2b1ace88afa3df662503405cc6611",
+      "newSha256": "187559193cb1ae6a90e3849dbd6f70aff1d7cd6c8294785b9367a7af53910e70",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/universe/what-is-betelgeuse-inside-the-strange-volatile-star/",
+          "title": "What is Betelgeuse? Inside the Strange, Volatile Star — NASA Science"
+        },
+        {
+          "url": "https://science.nasa.gov/missions/hubble/hubble-finds-that-betelgeuses-mysterious-dimming-is-due-to-a-traumatic-outburst/",
+          "title": "Hubble Finds that Betelgeuse’s Mysterious Dimming Is Due to a Traumatic Outburst — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "Altair",
+      "oldSha256": "6415bd670c59ff6fae5ccf40011750e67f8cdeab897f02bd8729e3b9128e45e7",
+      "newSha256": "60e5c7af14be78e4e531f320ee3e6cbcf6ce933892cf5ae204326e1d33e82425",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/summer-triangle-corner-altair/",
+          "title": "Summer Triangle Corner: Altair — NASA Science"
+        },
+        {
+          "url": "https://www.jpl.nasa.gov/news/star-with-midriff-bulge-eyed-by-astronomers/",
+          "title": "Star with Midriff Bulge Eyed by Astronomers — NASA/JPL"
+        }
+      ]
+    },
+    {
+      "key": "Deneb",
+      "oldSha256": "255f8f934d18913667d11091f7b945bc0adab46b0572c921a1f8b1ad7bc98147",
+      "newSha256": "bc28eba5ccdbfb88dd5543272eb14a1bf26b2a93c03bc0c1fe080418c4e8630d",
+      "sources": [
+        {
+          "url": "https://simbad.cds.unistra.fr/simbad/sim-basic?Ident=Deneb",
+          "title": "Deneb / Alpha Cygni — CDS SIMBAD"
+        },
+        {
+          "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/summer-triangle-corner-deneb/",
+          "title": "Summer Triangle Corner: Deneb — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "Polaris",
+      "oldSha256": "156606035eee88d250d7a074b1709d5b7032bc2bc00bf523e04673de51679a13",
+      "newSha256": "4ccae70b5c5918eba767eec9ad13dec1afa3c48c5f6767042d8ac50fde6670b9",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/missions/hubble/theres-more-to-the-north-star-than-meets-the-eye/",
+          "title": "There’s More to the North Star Than Meets the Eye — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "Sgr A*",
+      "oldSha256": "93f93aaf918204ad68d5800ce253d2707c375838e44923541df17cb79cf18898",
+      "newSha256": "efd65a7393d47383d2a7f7c475ec4d336daf726e9866a5bbd472d0d97d006196",
+      "sources": [
+        {
+          "url": "https://www.eso.org/public/australia/news/eso2208-eht-mw/",
+          "title": "Astronomers reveal first image of the black hole at the heart of our galaxy — ESO"
+        },
+        {
+          "url": "https://arxiv.org/abs/2311.08680",
+          "title": "First Sagittarius A* Event Horizon Telescope Results. I — EHT Collaboration"
+        }
+      ]
+    },
+    {
+      "key": "M87*",
+      "oldSha256": "18ae53524d6569c18080ec7f3a5eb708b3a7a892d4ecb0a6c6e7e09a2f362f1f",
+      "newSha256": "ac1cd7640530105b8a1d4c735bcddc3428499ff2651e83d01d4104803f68d55b",
+      "sources": [
+        {
+          "url": "https://www.eso.org/public/australia/blog/spot-the-difference-sagittarius-a-m87/",
+          "title": "Spot the difference: Imaging Sagittarius A* and M87* — ESO"
+        },
+        {
+          "url": "https://arxiv.org/abs/1906.11241",
+          "title": "First M87 Event Horizon Telescope Results. IV — EHT Collaboration"
+        }
+      ]
+    },
+    {
+      "key": "Cygnus X-1",
+      "oldSha256": "77df0dad057f67166a81be011e1ee3f66e127da63428fc77ee04b3635d21f218",
+      "newSha256": "e12a7090cfc10fa09e568c104d8188ae4554f7bfa47a449a09bedd68d0093df0",
+      "sources": [
+        {
+          "url": "https://www.ncl.ac.uk/press/articles/archive/2022/11/cygnusx-1/",
+          "title": "Research reveals details of extremely hot matter around black hole — Newcastle University"
+        },
+        {
+          "url": "https://arxiv.org/abs/2102.09091",
+          "title": "Cygnus X-1 contains a 21-solar mass black hole — Miller-Jones et al."
+        }
+      ]
+    },
+    {
+      "key": "Gaia BH1",
+      "oldSha256": "79107663e698b5e7c5f7a48cc763f9b19bec8a128ea503144b6bd7eddd370738",
+      "newSha256": "6c20fa1d11fdeaa07baf062d6f229e891d8ff42055d83a02b7a6bd96eb540a5f",
+      "sources": [
+        {
+          "url": "https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_discovers_a_new_family_of_black_holes",
+          "title": "Gaia discovers a new family of black holes — ESA"
+        },
+        {
+          "url": "https://noirlab.edu/public/news/noirlab2227/",
+          "title": "Astronomers Discover Closest Black Hole to Earth — NSF NOIRLab"
+        }
+      ]
+    },
+    {
+      "key": "Gaia BH2",
+      "oldSha256": "d5858bf02e584602ba5f1307dd995b8deadbe66acf87571a4bfbb7a1a0c7a8c4",
+      "newSha256": "5dc0d07ad0b9375384e627aa255c3115b91cc3df0caceca39f9d61fbc9205b7c",
+      "sources": [
+        {
+          "url": "https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_discovers_a_new_family_of_black_holes",
+          "title": "Gaia discovers a new family of black holes — ESA"
+        },
+        {
+          "url": "https://arxiv.org/abs/2302.07880",
+          "title": "A red giant orbiting a black hole — El-Badry et al."
+        }
+      ]
+    },
+    {
+      "key": "Gaia BH3",
+      "oldSha256": "f5855af467c9563529afbe3811bdc16e5a9ad53c53c273b20e19e36d27079a1d",
+      "newSha256": "55ea73e0c2ed810a3770cd2e71e3783493d37f1f8f2db8bc2677ccf419afe6a8",
+      "sources": [
+        {
+          "url": "https://www.esa.int/Science_Exploration/Space_Science/Gaia/Sleeping_giant_surprises_Gaia_scientists",
+          "title": "Sleeping giant surprises Gaia scientists — ESA"
+        }
+      ]
+    },
+    {
+      "key": "TON 618",
+      "oldSha256": "b650cd545e84513a62376e580781ff190caaf0f3bdc9dad9e993636a47deae37",
+      "newSha256": "cb5a30ecf7c0b95a011602ad2007f9c5abc281e3e11e9610620bc45f70da36ec",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/universe/black-holes/",
+          "title": "Black Hole Basics — NASA Science"
+        },
+        {
+          "url": "https://science.nasa.gov/universe/black-holes/types/",
+          "title": "Black Hole Types — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "M31",
+      "oldSha256": "eca44de9adb007cbbd182c2bab2716eefe3cab5b38894bcf96231f1a3883ec22",
+      "newSha256": "a31eeb489932f2b446979ea3a5e793a949d010d4451d420c573ccee6e41a0e96",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-31/",
+          "title": "Messier 31 (The Andromeda Galaxy) — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "M33",
+      "oldSha256": "f20c889519df2c527b2e34c847f9561deabc714280f8207b22386a02ac9b5564",
+      "newSha256": "0dbae9835ed0f1d0c7b4cd84b98bc6522e64c012fcbf49826ded89f4aa02875c",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-33/",
+          "title": "Messier 33 (The Triangulum Galaxy) — NASA Science"
+        },
+        {
+          "url": "https://science.nasa.gov/missions/hubble/hubble-peers-into-the-center-of-a-star-forming-powerhouse/",
+          "title": "Hubble Peers Into the Center of a Star-forming Powerhouse — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "M45",
+      "oldSha256": "37ccbaf1a49d2a08368ae0f15a6048b57cddf11e58f50bafea823b790327fbe9",
+      "newSha256": "c78a79d73d642dd15ef62ad6ffb38f14c51b1371303d9eb98b3bf3367c1c2d2c",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-45/",
+          "title": "Messier 45 (The Pleiades) — NASA Science"
+        },
+        {
+          "url": "https://science.nasa.gov/missions/tess/nasas-tess-spacecraft-triples-size-of-pleiades-star-cluster/",
+          "title": "NASA’s TESS Spacecraft Triples Size of Pleiades Star Cluster — NASA Science"
+        }
+      ]
+    },
+    {
+      "key": "Omega Centauri",
+      "oldSha256": "3355affa42b721c5570058b38ed306928aaddf2960ad7e822a09774aaf48fe04",
+      "newSha256": "37817280491ce3e75590dec00daed32eba8e6363e9b4154536abc7b670127c2e",
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/asset/hubble/omega-centauri-2/",
+          "title": "Omega Centauri — NASA Science"
+        },
+        {
+          "url": "https://arxiv.org/abs/astro-ph/9911137",
+          "title": "Multiple Stellar Populations in the Globular Cluster omega Centauri as Tracers of a Merger Event — Lee et al."
+        }
+      ]
+    }
+  ],
+  "scope": "Whole 220 landmark and 70 explicit astronomy descriptions replaced; current template-generated catalog descriptions contain numerical facts and newly authored application text, not article extracts."
+}

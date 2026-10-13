@@ -1,0 +1,241 @@
+{
+  "source": "NASA PDS Ring-Moon Systems Node",
+  "retrievedAt": "2026-10-09",
+  "brightness": "Enhanced visual opacity; not calibrated optical depth. All radial widths retain the imported kilometre values.",
+  "jupiter": {
+    "source": "https://pds-rings.seti.org/jupiter/jupiter_rings_table.html",
+    "radiusKm": 69910,
+    "bands": [
+      [
+        "Halo",
+        100000,
+        122400,
+        0.045
+      ],
+      [
+        "Main",
+        122400,
+        129100,
+        0.18
+      ],
+      [
+        "Amalthea",
+        122400,
+        181350,
+        0.035
+      ],
+      [
+        "Thebe",
+        122400,
+        221900,
+        0.015
+      ],
+      [
+        "Thebe Extension",
+        221900,
+        270000,
+        0.006
+      ]
+    ]
+  },
+  "uranus": {
+    "source": "https://pds-rings.seti.org/uranus/uranus_rings_table.html",
+    "radiusKm": 25362,
+    "bands": [
+      [
+        "Zeta",
+        37850.0,
+        41350.0,
+        0.035
+      ],
+      [
+        "Six",
+        41837.235,
+        41838.765,
+        0.3
+      ],
+      [
+        "Five",
+        42232.86,
+        42235.14,
+        0.3
+      ],
+      [
+        "Four",
+        42569.835,
+        42572.165,
+        0.3
+      ],
+      [
+        "Alpha",
+        44713.77,
+        44722.23,
+        0.35
+      ],
+      [
+        "Beta",
+        45656.255,
+        45665.745,
+        0.35
+      ],
+      [
+        "Eta",
+        47175.2,
+        47176.8,
+        0.3
+      ],
+      [
+        "Gamma",
+        47625.925,
+        47628.075,
+        0.3
+      ],
+      [
+        "Delta",
+        48297.7,
+        48302.3,
+        0.35
+      ],
+      [
+        "Lambda",
+        50022.85,
+        50025.15,
+        0.15
+      ],
+      [
+        "Epsilon",
+        51119.95,
+        51178.05,
+        0.5
+      ],
+      [
+        "Nu",
+        65400.0,
+        69200.0,
+        0.018
+      ],
+      [
+        "Mu",
+        89200.0,
+        106200.0,
+        0.008
+      ]
+    ]
+  },
+  "neptune": {
+    "source": "https://pds-rings.seti.org/neptune/neptune_rings_table.html",
+    "radiusKm": 24622,
+    "bands": [
+      [
+        "Galle",
+        41000.0,
+        43000.0,
+        0.028
+      ],
+      [
+        "Le Verrier",
+        53150.0,
+        53250.0,
+        0.22
+      ],
+      [
+        "Lassell",
+        53200.0,
+        57200.0,
+        0.025
+      ],
+      [
+        "Arago",
+        57150.0,
+        57250.0,
+        0.12
+      ],
+      [
+        "Unnamed",
+        61928.0,
+        61978.0,
+        0.08
+      ],
+      [
+        "Adams",
+        62925.5,
+        62940.5,
+        0.3
+      ]
+    ]
+  },
+  "saturn": {
+    "source": "https://pds-rings.seti.org/saturn/saturn_rings_table.html",
+    "retrievedAt": "2026-10-10",
+    "radiusKm": 58230,
+    "geometryNote": "Major bands and named gaps use PDS boundaries; concentric, zero-thickness approximation. Fine ringlets, eccentric F-ring structure and Phoebe ring not resolved.",
+    "bands": [
+      [
+        "D",
+        66900,
+        74491,
+        0.05
+      ],
+      [
+        "C",
+        74491,
+        91975,
+        0.3
+      ],
+      [
+        "B",
+        91975,
+        117570,
+        0.75
+      ],
+      [
+        "Cassini Division",
+        117570,
+        122050,
+        0.07
+      ],
+      [
+        "A inner",
+        122050,
+        133423,
+        0.48
+      ],
+      [
+        "A middle",
+        133745,
+        136487,
+        0.48
+      ],
+      [
+        "A outer",
+        136522,
+        136770,
+        0.48
+      ],
+      [
+        "F",
+        139826,
+        140612,
+        0.2
+      ],
+      [
+        "Janus/Epimetheus",
+        149000,
+        154000,
+        0.008
+      ],
+      [
+        "G",
+        166000,
+        173200,
+        0.008
+      ],
+      [
+        "E",
+        180000,
+        480000,
+        0.002
+      ]
+    ]
+  }
+}

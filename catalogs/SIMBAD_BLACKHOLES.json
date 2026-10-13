@@ -1,0 +1,2544 @@
+{
+  "name": "SIMBAD independently researched source/host targets",
+  "attribution": "CDS, Strasbourg. This research has made use of the SIMBAD database, operated at CDS, Strasbourg, France.",
+  "license": "ODbL 1.0",
+  "licenseUrl": "https://opendatacommons.org/licenses/odbl/1-0/",
+  "source": {
+    "id": "SIMBAD-researched-targets",
+    "url": "https://simbad.cds.unistra.fr/simbad/",
+    "license": "ODbL 1.0",
+    "licenseUrl": "https://opendatacommons.org/licenses/odbl/1-0/",
+    "retrievedAt": "2026-10-11",
+    "rowCount": 73,
+    "scope": "Independent identifier/position/type/distance query for existing named research targets; not a BlackCAT table redistribution and not a complete black-hole catalog. Legacy application IDs retained. Classification and unverified physical parameters explicitly conservative.",
+    "queries": {
+      "bh-crossmatch": "SELECT b.oid,b.main_id,b.ra,b.dec,b.otype,b.coo_bibcode,i.id AS requested_id FROM basic AS b JOIN ident AS i ON i.oidref=b.oid WHERE i.id IN ('MAXI J1744-294','Swift J151857.0-572147','Swift J1727.8-1613','MAXI J1803-298','AT 2019wey','MAXI J0637-430','MAXI J1348-630','Swift J1728.9-3613','MAXI J1810-222','MAXI J1631-479','MAXI J1820+070','MAXI J1813-095','Swift J1658.2-4242','MAXI J1535-571','IGR J17454-2919','IGR J17451-3022','MAXI J1828-249','Swift J1753.7-2544','Swift J174510.8-262411','Swift J1910.2-0546','MAXI J1305-704','MAXI J1836-194','MAXI J1543-564','Swift J1357.2-0933','MAXI J1659-152','XTE J1752-223','XTE J1652-453','Swift J1539.2-6227','Swift J1842.5-1124','Swift J174540.2-290005','IGR J17497-2821','XTE J1817-330','XTE J1726-476','XTE J1818-245','Swift J1753.5-0127','IGR J17098-3628','IGR J17091-3624','XTE J1720-318','XTE J1908+094','SAX J1711.6-3808','XTE J1650-500','XTE J1118+480','XTE J1859+226','SAX J1819.3-2525','XTE J2012+381','XTE J1748-288','XTE J1550-564','XTE J1755-324','GRS 1737-31','GRS 1739-278','XTE J1856+053','GRS 1730-312','GRO J1655-40','GRS 1716-249','GRS 1009-45','GRS 1915+105','GRO J0422+32','GRS 1124-684','GS 2023+338','GS 1734-275','GS 2000+251','GS 1354-64','EXO 1846-031','SLX 1746-331','H 1705-250','H 1743-322','3A 0620-003','3A 1524-617','1H 1659-487','4U 1755-338','4U 1543-475','4U 1630-472','Cen X-2')",
+      "bh-alltypes": "SELECT * FROM alltypes WHERE oidref IN (3509612,893113,3411688,3490599,3507623,2367977,15999507,2628349,3344738,2492462,2827563,2932761,3060443,3239925,2491668,2383235,2384798,2494304,2721979,706496,2329428,2490666,2386330,2345338,2345393,9009263,9009262,3880663,15024720,8342147,13313216,11560901,6295436,13313201,6121950,28120601,16634489,13699078,11963704,13829459,9647578,6344849,2345292,2501645,2386382,7598096,24240533,6174917,11963701,24229120,13313217,7852109,3755887,2638937,7963160,4502987,7819617,3344703,591711,3443557,3494501,5548908,2382127,3511128,2415826,5261854,2387086,2392806,2520353,2672990,2787478,2706817,2953083)",
+      "bh-distances": "SELECT * FROM mesDistance WHERE oidref IN (3509612,893113,3411688,3490599,3507623,2367977,15999507,2628349,3344738,2492462,2827563,2932761,3060443,3239925,2491668,2383235,2384798,2494304,2721979,706496,2329428,2490666,2386330,2345338,2345393,9009263,9009262,3880663,15024720,8342147,13313216,11560901,6295436,13313201,6121950,28120601,16634489,13699078,11963704,13829459,9647578,6344849,2345292,2501645,2386382,7598096,24240533,6174917,11963701,24229120,13313217,7852109,3755887,2638937,7963160,4502987,7819617,3344703,591711,3443557,3494501,5548908,2382127,3511128,2415826,5261854,2387086,2392806,2520353,2672990,2787478,2706817,2953083)"
+    },
+    "responseSha256": {
+      "bh-crossmatch": "71f5cfeb79b6731cd58453688bbc4ce9a1591ee5f88b5605b58ae79b224af90a",
+      "bh-alltypes": "70b8a7fc10a9c5c5a5291140560abe2223f48220ef405666ba2707f7c485383b",
+      "bh-distances": "77b69e2db15bd0343bc5e3e26e75341c985966bc547f5912fbabd4f4e10a9d98"
+    }
+  },
+  "records": [
+    {
+      "id": "blackcat-73",
+      "type": "black-hole",
+      "name": "MAXI J1744-294",
+      "aliases": [],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 266.11249999999995,
+      "decDeg": -29.43277777777778,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=MAXI%20J1744-294",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "MAXI J1744-294",
+        "simbadObjectType": "ev",
+        "simbadAllTypes": "ev|X",
+        "coordinateBibcode": "2025ATel16975....1K",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-72",
+      "type": "black-hole",
+      "name": "Swift J151857.0-572147",
+      "aliases": [
+        "GRB 240303A"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "confirmed",
+      "confirmationMethod": "SIMBAD BH classification",
+      "raDeg": 229.73958333333334,
+      "decDeg": -57.36352777777779,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=GRB%20240303A",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "GRB 240303A",
+        "simbadObjectType": "XB*",
+        "simbadAllTypes": "BH|gB|X|XB*",
+        "coordinateBibcode": "2024ATel16503....1C",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-71",
+      "type": "black-hole",
+      "name": "Swift J1727.8-1613",
+      "aliases": [
+        "SWIFT J1727.8-1613"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 261.9304731183046,
+      "decDeg": -16.205295050650832,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=SWIFT%20J1727.8-1613",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "SWIFT J1727.8-1613",
+        "simbadObjectType": "HXB",
+        "simbadAllTypes": "*|ev|gB|HXB|Opt|X|XB*",
+        "coordinateBibcode": "2020yCat.1350....0G",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-70",
+      "type": "black-hole",
+      "name": "MAXI J1803-298",
+      "aliases": [],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 270.92083333333335,
+      "decDeg": -29.80388888888888,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=MAXI%20J1803-298",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "MAXI J1803-298",
+        "simbadObjectType": "BH?",
+        "simbadAllTypes": "BH?|X",
+        "coordinateBibcode": "2021ATel14587....1S",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-69",
+      "type": "black-hole",
+      "name": "AT 2019wey",
+      "aliases": [
+        "ATLAS 19bcxp"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 68.847,
+      "decDeg": 55.37618055555556,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=ATLAS%2019bcxp",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "ATLAS 19bcxp",
+        "simbadObjectType": "LXB",
+        "simbadAllTypes": "BH?|ev|LXB",
+        "coordinateBibcode": "url:TNS            ",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-68",
+      "type": "black-hole",
+      "name": "MAXI J0637-430",
+      "aliases": [],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 99.09829166666667,
+      "decDeg": -42.86780555555556,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=MAXI%20J0637-430",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "MAXI J0637-430",
+        "simbadObjectType": "LXB",
+        "simbadAllTypes": "BH?|LXB|X",
+        "coordinateBibcode": "2019ATel13257....1K",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-67",
+      "type": "black-hole",
+      "name": "MAXI J1348-630",
+      "aliases": [],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 207.05307847350997,
+      "decDeg": -63.27491918978,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=MAXI%20J1348-630",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "MAXI J1348-630",
+        "simbadObjectType": "HX?",
+        "simbadAllTypes": "*|HX?|X",
+        "coordinateBibcode": "2020yCat.1350....0G",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-66",
+      "type": "black-hole",
+      "name": "Swift J1728.9-3613",
+      "aliases": [
+        "MAXI J1728-360"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 262.2443333333333,
+      "decDeg": -36.243805555555554,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=MAXI%20J1728-360",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "MAXI J1728-360",
+        "simbadObjectType": "XB*",
+        "simbadAllTypes": "X|XB*",
+        "coordinateBibcode": "2019ATel12445....1K",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-65",
+      "type": "black-hole",
+      "name": "MAXI J1810-222",
+      "aliases": [],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 273.16566666666665,
+      "decDeg": -22.32358888888889,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=MAXI%20J1810-222",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "MAXI J1810-222",
+        "simbadObjectType": "X",
+        "simbadAllTypes": "X",
+        "coordinateBibcode": "2022MNRAS.513.6196R",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-64",
+      "type": "black-hole",
+      "name": "MAXI J1631-479",
+      "aliases": [],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 247.8085833333333,
+      "decDeg": -47.807111111111105,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=MAXI%20J1631-479",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "MAXI J1631-479",
+        "simbadObjectType": "XB?",
+        "simbadAllTypes": "X|XB?",
+        "coordinateBibcode": "2019GCN.23803....1D",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-63",
+      "type": "black-hole",
+      "name": "MAXI J1820+070",
+      "aliases": [],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 275.09142659019994,
+      "decDeg": 7.1853569054,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=MAXI%20J1820%2B070",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "MAXI J1820+070",
+        "simbadObjectType": "LXB",
+        "simbadAllTypes": "*|ev|LXB|MIR|NIR|Opt|X",
+        "coordinateBibcode": "2020yCat.1350....0G",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-62",
+      "type": "black-hole",
+      "name": "MAXI J1813-095",
+      "aliases": [],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 273.39166666666665,
+      "decDeg": -9.533055555555556,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=MAXI%20J1813-095",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "MAXI J1813-095",
+        "simbadObjectType": "XB*",
+        "simbadAllTypes": "X|XB*",
+        "coordinateBibcode": "2018ATel11326....1K",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-61",
+      "type": "black-hole",
+      "name": "Swift J1658.2-4242",
+      "aliases": [
+        "SWIFT J1658.2-4242"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 254.55266666666665,
+      "decDeg": -42.69844444444444,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=SWIFT%20J1658.2-4242",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "SWIFT J1658.2-4242",
+        "simbadObjectType": "X",
+        "simbadAllTypes": "X",
+        "coordinateBibcode": "2018GCN.22419....1L",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-60",
+      "type": "black-hole",
+      "name": "MAXI J1535-571",
+      "aliases": [],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 233.83220833333334,
+      "decDeg": -57.230027777777785,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=MAXI%20J1535-571",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "MAXI J1535-571",
+        "simbadObjectType": "XB*",
+        "simbadAllTypes": "X|XB*",
+        "coordinateBibcode": "2017ATel10700....1K",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-59",
+      "type": "black-hole",
+      "name": "IGR J17454-2919",
+      "aliases": [],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 266.3653708333334,
+      "decDeg": -29.331619444444446,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=IGR%20J17454-2919",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "IGR J17454-2919",
+        "simbadObjectType": "HX?",
+        "simbadAllTypes": "gam|HX?",
+        "coordinateBibcode": "2015ATel.7020....1P",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-58",
+      "type": "black-hole",
+      "name": "IGR J17451-3022",
+      "aliases": [],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 266.27799999999996,
+      "decDeg": -30.378694444444445,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=IGR%20J17451-3022",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "IGR J17451-3022",
+        "simbadObjectType": "gam",
+        "simbadAllTypes": "gam",
+        "coordinateBibcode": "2014ATel.6533....1C",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-57",
+      "type": "black-hole",
+      "name": "MAXI J1828-249",
+      "aliases": [
+        "Anon 122858.0-250145"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 277.2419583333333,
+      "decDeg": -25.02941111111111,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=Anon%20122858.0-250145",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "Anon 122858.0-250145",
+        "simbadObjectType": "X",
+        "simbadAllTypes": "UV|X",
+        "coordinateBibcode": "2013ATel.5479....1K",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-56",
+      "type": "black-hole",
+      "name": "Swift J1753.7-2544",
+      "aliases": [
+        "SWIFT J1753.7-2544"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 268.416125,
+      "decDeg": -25.753888888888888,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=SWIFT%20J1753.7-2544",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "SWIFT J1753.7-2544",
+        "simbadObjectType": "XB*",
+        "simbadAllTypes": "ev|gam|X|XB*",
+        "coordinateBibcode": "2013ATel.4899....1C",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-55",
+      "type": "black-hole",
+      "name": "Swift J174510.8-262411",
+      "aliases": [
+        "SWIFT J174510.8-262411"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 266.2952041666667,
+      "decDeg": -26.403499999999998,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=SWIFT%20J174510.8-262411",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "SWIFT J174510.8-262411",
+        "simbadObjectType": "LXB",
+        "simbadAllTypes": "BH?|ev|gam|HX?|LXB|X",
+        "coordinateBibcode": "2013ApJS..209...14K",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-54",
+      "type": "black-hole",
+      "name": "Swift J1910.2-0546",
+      "aliases": [
+        "MAXI J1910-057"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 287.595,
+      "decDeg": -5.798861111111111,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=MAXI%20J1910-057",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "MAXI J1910-057",
+        "simbadObjectType": "LXB",
+        "simbadAllTypes": "ev|gam|HX?|LXB|X",
+        "coordinateBibcode": "2013ApJS..209...14K",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-53",
+      "type": "black-hole",
+      "name": "MAXI J1305-704",
+      "aliases": [],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 196.73041666666666,
+      "decDeg": -70.45141944444444,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=MAXI%20J1305-704",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "MAXI J1305-704",
+        "simbadObjectType": "XB*",
+        "simbadAllTypes": "HX?|X|XB*",
+        "coordinateBibcode": "2016A&A...587A..61C",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-52",
+      "type": "black-hole",
+      "name": "MAXI J1836-194",
+      "aliases": [],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 278.93100000000004,
+      "decDeg": -19.319577777777777,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=MAXI%20J1836-194",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "MAXI J1836-194",
+        "simbadObjectType": "XB*",
+        "simbadAllTypes": "BH?|HX?|IR|Rad|X|XB*",
+        "coordinateBibcode": "2016A&A...587A..61C",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-51",
+      "type": "black-hole",
+      "name": "MAXI J1543-564",
+      "aliases": [],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 235.82231989182998,
+      "decDeg": -56.41364413875,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=MAXI%20J1543-564",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "MAXI J1543-564",
+        "simbadObjectType": "XB*",
+        "simbadAllTypes": "*|BH?|HX?|X|XB*",
+        "coordinateBibcode": "2020yCat.1350....0G",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-50",
+      "type": "black-hole",
+      "name": "Swift J1357.2-0933",
+      "aliases": [
+        "CRTS J135716.8-093238"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 209.32014907916997,
+      "decDeg": -9.54411013542,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=CRTS%20J135716.8-093238",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "CRTS J135716.8-093238",
+        "simbadObjectType": "HXB",
+        "simbadAllTypes": "*|BH?|CV?|ev|gam|HXB|LXB|Rad|X|XB*|XB?",
+        "coordinateBibcode": "2020yCat.1350....0G",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-49",
+      "type": "black-hole",
+      "name": "MAXI J1659-152",
+      "aliases": [],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 254.75700000000003,
+      "decDeg": -15.257980555555555,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=MAXI%20J1659-152",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "MAXI J1659-152",
+        "simbadObjectType": "LXB",
+        "simbadAllTypes": "BH?|gB|HX?|LXB|X|XB*",
+        "coordinateBibcode": "2016A&A...587A..61C",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-48",
+      "type": "black-hole",
+      "name": "XTE J1752-223",
+      "aliases": [],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 268.062875,
+      "decDeg": -22.342322222222222,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=XTE%20J1752-223",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "XTE J1752-223",
+        "simbadObjectType": "LXB",
+        "simbadAllTypes": "BH?|HX?|LXB|V*|X|XB*",
+        "coordinateBibcode": "2016A&A...587A..61C",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-47",
+      "type": "black-hole",
+      "name": "XTE J1652-453",
+      "aliases": [],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 253.08470833333334,
+      "decDeg": -45.34444166666667,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=XTE%20J1652-453",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "XTE J1652-453",
+        "simbadObjectType": "XB*",
+        "simbadAllTypes": "BH?|HX?|X|XB*",
+        "coordinateBibcode": "2016A&A...587A..61C",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-46",
+      "type": "black-hole",
+      "name": "Swift J1539.2-6227",
+      "aliases": [
+        "SWIFT J1539.2-6227"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 234.79984583333334,
+      "decDeg": -62.46730555555556,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=SWIFT%20J1539.2-6227",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "SWIFT J1539.2-6227",
+        "simbadObjectType": "LXB",
+        "simbadAllTypes": "BH?|ev|gam|HX?|LXB|X|XB*",
+        "coordinateBibcode": "2013ApJS..209...14K",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-45",
+      "type": "black-hole",
+      "name": "Swift J1842.5-1124",
+      "aliases": [
+        "PBC J1842.3-1124"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 280.57270833333337,
+      "decDeg": -11.417749999999998,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=PBC%20J1842.3-1124",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "PBC J1842.3-1124",
+        "simbadObjectType": "XB*",
+        "simbadAllTypes": "ev|gam|HX?|X|XB*",
+        "coordinateBibcode": "2008ATel.1716....1M",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-44",
+      "type": "black-hole",
+      "name": "Swift J174540.2-290005",
+      "aliases": [
+        "SWIFT J174540.2-290005"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 266.4170833333334,
+      "decDeg": -29.001777777777775,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=SWIFT%20J174540.2-290005",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "SWIFT J174540.2-290005",
+        "simbadObjectType": "X",
+        "simbadAllTypes": "X",
+        "coordinateBibcode": "2006ATel..921....1K",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-43",
+      "type": "black-hole",
+      "name": "IGR J17497-2821",
+      "aliases": [
+        "[CHM2006] Candidate 1b"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 267.40849583333335,
+      "decDeg": -28.354861111111113,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=%5BCHM2006%5D%20Candidate%201b",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "[CHM2006] Candidate 1b",
+        "simbadObjectType": "LXB",
+        "simbadAllTypes": "gam|HX?|LXB|X",
+        "coordinateBibcode": "2006ATel..909....1T",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-42",
+      "type": "black-hole",
+      "name": "XTE J1817-330",
+      "aliases": [
+        "[KRL2007b] 312"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 274.4314041666667,
+      "decDeg": -33.01883333333333,
+      "distancePc": 2500.0,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=%5BKRL2007b%5D%20312",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "most recent available SIMBAD literature-distance measurement, not parallax inversion",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "[KRL2007b] 312",
+        "simbadObjectType": "LXB",
+        "simbadAllTypes": "BH?|HX?|LXB|X|XB*",
+        "coordinateBibcode": "2006ATel..717....1R",
+        "distanceMeasurements": [
+          {
+            "bibcode": "2006ATel..791....1S",
+            "dist": 2.5,
+            "dist_prec": 1,
+            "method": null,
+            "minus_err": -1.5,
+            "minus_err_prec": 1,
+            "plus_err": 1.5,
+            "plus_err_prec": 1,
+            "qual": null,
+            "unit": "kpc ",
+            "oidref": 2392806,
+            "mespos": 1
+          }
+        ]
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-41",
+      "type": "black-hole",
+      "name": "XTE J1726-476",
+      "aliases": [
+        "[KRL2007b] 239"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 261.70533333333333,
+      "decDeg": -47.64025,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=%5BKRL2007b%5D%20239",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "[KRL2007b] 239",
+        "simbadObjectType": "XB*",
+        "simbadAllTypes": "gam|HX?|X|XB*",
+        "coordinateBibcode": "2007A&A...469..807L",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-40",
+      "type": "black-hole",
+      "name": "XTE J1818-245",
+      "aliases": [],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 274.60179166666666,
+      "decDeg": -24.538322222222227,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=XTE%20J1818-245",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "XTE J1818-245",
+        "simbadObjectType": "LXB",
+        "simbadAllTypes": "HX?|LX?|LXB|X",
+        "coordinateBibcode": "2016A&A...587A..61C",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-39",
+      "type": "black-hole",
+      "name": "Swift J1753.5-0127",
+      "aliases": [
+        "2MAXI J1753-013"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 268.36787448601,
+      "decDeg": -1.45173793202,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=2MAXI%20J1753-013",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "2MAXI J1753-013",
+        "simbadObjectType": "LXB",
+        "simbadAllTypes": "*|BH?|HX?|LXB|Opt|V*|X",
+        "coordinateBibcode": "2020yCat.1350....0G",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-38",
+      "type": "black-hole",
+      "name": "IGR J17098-3628",
+      "aliases": [
+        "[KRL2007b] 224"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 257.44218333333333,
+      "decDeg": -36.465919444444445,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=%5BKRL2007b%5D%20224",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "[KRL2007b] 224",
+        "simbadObjectType": "HX?",
+        "simbadAllTypes": "BH?|gam|HX?|IR|LXB|NIR|X",
+        "coordinateBibcode": "2003yCat.2246....0C",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-37",
+      "type": "black-hole",
+      "name": "IGR J17091-3624",
+      "aliases": [],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 257.2817083333333,
+      "decDeg": -36.40713888888889,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=IGR%20J17091-3624",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "IGR J17091-3624",
+        "simbadObjectType": "LXB",
+        "simbadAllTypes": "BH?|gam|HX?|LXB|X|XB*",
+        "coordinateBibcode": "2016A&A...587A..61C",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-36",
+      "type": "black-hole",
+      "name": "XTE J1720-318",
+      "aliases": [
+        "V* V1228 Sco"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 259.99579166666666,
+      "decDeg": -31.750308333333333,
+      "distancePc": 10000,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=V%2A%20V1228%20Sco",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "most recent available SIMBAD literature-distance measurement, not parallax inversion",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "V* V1228 Sco",
+        "simbadObjectType": "LXB",
+        "simbadAllTypes": "BH?|gam|HX?|LXB|V*|X",
+        "coordinateBibcode": "2016A&A...587A..61C",
+        "distanceMeasurements": [
+          {
+            "bibcode": "2003PASJ...55L..73N",
+            "dist": 10,
+            "dist_prec": 1,
+            "method": null,
+            "minus_err": null,
+            "minus_err_prec": null,
+            "plus_err": null,
+            "plus_err_prec": null,
+            "qual": null,
+            "unit": "kpc ",
+            "oidref": 2382127,
+            "mespos": 1
+          }
+        ]
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-35",
+      "type": "black-hole",
+      "name": "XTE J1908+094",
+      "aliases": [
+        "[KRL2007b] 353"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 287.22116666666665,
+      "decDeg": 9.384677777777778,
+      "distancePc": 2000,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=%5BKRL2007b%5D%20353",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "most recent available SIMBAD literature-distance measurement, not parallax inversion",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "[KRL2007b] 353",
+        "simbadObjectType": "HXB",
+        "simbadAllTypes": "BH?|gam|HX?|HXB|V*|X",
+        "coordinateBibcode": "2016A&A...587A..61C",
+        "distanceMeasurements": [
+          {
+            "bibcode": "2006MNRAS.365.1387C",
+            "dist": 2,
+            "dist_prec": 1,
+            "method": null,
+            "minus_err": -1,
+            "minus_err_prec": 1,
+            "plus_err": 1,
+            "plus_err_prec": 1,
+            "qual": null,
+            "unit": "kpc ",
+            "oidref": 2706817,
+            "mespos": 1
+          }
+        ]
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-34",
+      "type": "black-hole",
+      "name": "SAX J1711.6-3808",
+      "aliases": [],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 257.90458333333333,
+      "decDeg": -38.11833333333333,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=SAX%20J1711.6-3808",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "SAX J1711.6-3808",
+        "simbadObjectType": "XB*",
+        "simbadAllTypes": "gam|HX?|X|XB*",
+        "coordinateBibcode": "2007A&A...469..807L",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-33",
+      "type": "black-hole",
+      "name": "XTE J1650-500",
+      "aliases": [
+        "[GHJ2008] 3"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 252.5040833333333,
+      "decDeg": -49.96211111111111,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=%5BGHJ2008%5D%203",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "[GHJ2008] 3",
+        "simbadObjectType": "HXB",
+        "simbadAllTypes": "gam|HXB|V*|X",
+        "coordinateBibcode": "2007A&A...469..807L",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-32",
+      "type": "black-hole",
+      "name": "XTE J1118+480",
+      "aliases": [
+        "V* KV UMa"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 169.54497100854,
+      "decDeg": 48.0367540917,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=V%2A%20KV%20UMa",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "V* KV UMa",
+        "simbadObjectType": "HXB",
+        "simbadAllTypes": "*|CV*|gam|HXB|LXB|NIR|Opt|V*|X",
+        "coordinateBibcode": "2020yCat.1350....0G",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-31",
+      "type": "black-hole",
+      "name": "XTE J1859+226",
+      "aliases": [
+        "V* V406 Vul"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 284.6728803,
+      "decDeg": 22.658270739999992,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=V%2A%20V406%20Vul",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "V* V406 Vul",
+        "simbadObjectType": "HXB",
+        "simbadAllTypes": "ev|gam|HXB|Opt|V*|X",
+        "coordinateBibcode": "2017yCat.2349....0C",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-30",
+      "type": "black-hole",
+      "name": "SAX J1819.3-2525",
+      "aliases": [
+        "V* V4641 Sgr"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 274.84014302468995,
+      "decDeg": -25.407180443319998,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=V%2A%20V4641%20Sgr",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "V* V4641 Sgr",
+        "simbadObjectType": "HXB",
+        "simbadAllTypes": "*|EB*|gam|HXB|LXB|MIR|NIR|Opt|V*|X",
+        "coordinateBibcode": "2020yCat.1350....0G",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-29",
+      "type": "black-hole",
+      "name": "XTE J2012+381",
+      "aliases": [
+        "INTREF  1012"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 303.15733032739,
+      "decDeg": 38.18354747836,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=INTREF%20%201012",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "INTREF  1012",
+        "simbadObjectType": "LXB",
+        "simbadAllTypes": "*|gam|HX?|LXB|X",
+        "coordinateBibcode": "2020yCat.1350....0G",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-28",
+      "type": "black-hole",
+      "name": "XTE J1748-288",
+      "aliases": [
+        "AX J1748.0-2829"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 267.02108333333337,
+      "decDeg": -28.47383333333333,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=AX%20J1748.0-2829",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "AX J1748.0-2829",
+        "simbadObjectType": "LXB",
+        "simbadAllTypes": "gam|HX?|LXB|V*|X",
+        "coordinateBibcode": "1998IAUC.6934S...1H",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-27",
+      "type": "black-hole",
+      "name": "XTE J1550-564",
+      "aliases": [
+        "V* V381 Nor"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 237.74443246696,
+      "decDeg": -56.4764606625,
+      "distancePc": 5300.0,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=V%2A%20V381%20Nor",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "most recent available SIMBAD literature-distance measurement, not parallax inversion",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "V* V381 Nor",
+        "simbadObjectType": "HXB",
+        "simbadAllTypes": "*|gam|HXB|V*|X",
+        "coordinateBibcode": "2020yCat.1350....0G",
+        "distanceMeasurements": [
+          {
+            "bibcode": "2004MNRAS.354..355J",
+            "dist": 5.3,
+            "dist_prec": 1,
+            "method": null,
+            "minus_err": -2.3,
+            "minus_err_prec": 1,
+            "plus_err": 2.3,
+            "plus_err_prec": 1,
+            "qual": null,
+            "unit": "kpc ",
+            "oidref": 3443557,
+            "mespos": 1
+          }
+        ]
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-26",
+      "type": "black-hole",
+      "name": "XTE J1755-324",
+      "aliases": [
+        "INTREF   866"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 268.8691666666667,
+      "decDeg": -32.4775,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=INTREF%20%20%20866",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "INTREF   866",
+        "simbadObjectType": "LXB",
+        "simbadAllTypes": "gam|HX?|LXB|V*|X",
+        "coordinateBibcode": "2003A&A...411L..59E",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-25",
+      "type": "black-hole",
+      "name": "GRS 1737-31",
+      "aliases": [
+        "AX J1740.1-3102"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 265.0375,
+      "decDeg": -31.040000000000003,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=AX%20J1740.1-3102",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "AX J1740.1-3102",
+        "simbadObjectType": "X",
+        "simbadAllTypes": "HX?|X",
+        "coordinateBibcode": "2016A&A...587A..61C",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-24",
+      "type": "black-hole",
+      "name": "GRS 1739-278",
+      "aliases": [
+        "V* V2606 Oph"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 265.6667916666667,
+      "decDeg": -27.747972222222224,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=V%2A%20V2606%20Oph",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "V* V2606 Oph",
+        "simbadObjectType": "CV*",
+        "simbadAllTypes": "BH?|CV*|HX?|V*|X",
+        "coordinateBibcode": "2007A&A...469..807L",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-23",
+      "type": "black-hole",
+      "name": "XTE J1856+053",
+      "aliases": [
+        "INTREF   948"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 284.17883333333333,
+      "decDeg": 5.309527777777777,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=INTREF%20%20%20948",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "INTREF   948",
+        "simbadObjectType": "LXB",
+        "simbadAllTypes": "gam|HX?|HXB|LXB|X",
+        "coordinateBibcode": "2007ATel.1072....1T",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-22",
+      "type": "black-hole",
+      "name": "GRS 1730-312",
+      "aliases": [
+        "AX J1733.9-3112"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 263.3833333333334,
+      "decDeg": -31.216666666666665,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=AX%20J1733.9-3112",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "AX J1733.9-3112",
+        "simbadObjectType": "LXB",
+        "simbadAllTypes": "gam|HX?|LXB|X",
+        "coordinateBibcode": null,
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-21",
+      "type": "black-hole",
+      "name": "GRO J1655-40",
+      "aliases": [
+        "V* V1033 Sco"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 253.5005933179246,
+      "decDeg": -39.84576713926111,
+      "distancePc": 3200.0,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=V%2A%20V1033%20Sco",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "most recent available SIMBAD literature-distance measurement, not parallax inversion",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "V* V1033 Sco",
+        "simbadObjectType": "HXB",
+        "simbadAllTypes": "*|gam|HXB|LXB|NIR|No*|V*|X",
+        "coordinateBibcode": "2020yCat.1350....0G",
+        "distanceMeasurements": [
+          {
+            "bibcode": "2004MNRAS.354..355J",
+            "dist": 3.2,
+            "dist_prec": 1,
+            "method": null,
+            "minus_err": -0.2,
+            "minus_err_prec": 1,
+            "plus_err": 0.2,
+            "plus_err_prec": 1,
+            "qual": null,
+            "unit": "kpc ",
+            "oidref": 2329428,
+            "mespos": 1
+          }
+        ]
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-20",
+      "type": "black-hole",
+      "name": "GRS 1716-249",
+      "aliases": [
+        "V* V2293 Oph"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 259.90383409797,
+      "decDeg": -25.01781155596,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=V%2A%20V2293%20Oph",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "V* V2293 Oph",
+        "simbadObjectType": "LXB",
+        "simbadAllTypes": "*|ev|gam|HX?|LXB|V*|X",
+        "coordinateBibcode": "2020yCat.1350....0G",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-19",
+      "type": "black-hole",
+      "name": "GRS 1009-45",
+      "aliases": [
+        "V* MM Vel"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 153.40142970962748,
+      "decDeg": -45.075313593949446,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=V%2A%20MM%20Vel",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "V* MM Vel",
+        "simbadObjectType": "HXB",
+        "simbadAllTypes": "*|HXB|LXB|No*|V*|X",
+        "coordinateBibcode": "2020yCat.1350....0G",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-18",
+      "type": "black-hole",
+      "name": "GRS 1915+105",
+      "aliases": [
+        "Granat 1915+105"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 288.798149,
+      "decDeg": 10.945807,
+      "distancePc": 11000,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=Granat%201915%2B105",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "most recent available SIMBAD literature-distance measurement, not parallax inversion",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "Granat 1915+105",
+        "simbadObjectType": "HXB",
+        "simbadAllTypes": "gam|HXB|LXB|MIR|NIR|No*|V*|X",
+        "coordinateBibcode": "2003yCat.2246....0C",
+        "distanceMeasurements": [
+          {
+            "bibcode": "2004MNRAS.354..355J",
+            "dist": 11,
+            "dist_prec": 1,
+            "method": null,
+            "minus_err": -4,
+            "minus_err_prec": 1,
+            "plus_err": 1,
+            "plus_err_prec": 1,
+            "qual": null,
+            "unit": "kpc ",
+            "oidref": 2721979,
+            "mespos": 1
+          }
+        ]
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-17",
+      "type": "black-hole",
+      "name": "GRO J0422+32",
+      "aliases": [
+        "V* V518 Per"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 65.42801144723,
+      "decDeg": 32.90748309894,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=V%2A%20V518%20Per",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "V* V518 Per",
+        "simbadObjectType": "HXB",
+        "simbadAllTypes": "*|gam|HXB|No*|V*|X",
+        "coordinateBibcode": "2020yCat.1350....0G",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-16",
+      "type": "black-hole",
+      "name": "GRS 1124-684",
+      "aliases": [
+        "V* GU Mus"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 171.6108173165,
+      "decDeg": -68.67579937582,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=V%2A%20GU%20Mus",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "V* GU Mus",
+        "simbadObjectType": "HXB",
+        "simbadAllTypes": "*|gam|HXB|No*|UV|V*|X",
+        "coordinateBibcode": "2020yCat.1350....0G",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-15",
+      "type": "black-hole",
+      "name": "GS 2023+338",
+      "aliases": [
+        "V* V404 Cyg"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 306.0159362655975,
+      "decDeg": 33.86721143190583,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=V%2A%20V404%20Cyg",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "V* V404 Cyg",
+        "simbadObjectType": "HXB",
+        "simbadAllTypes": "*|CV*|gam|HXB|NIR|No*|V*|X",
+        "coordinateBibcode": "2020yCat.1350....0G",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-14",
+      "type": "black-hole",
+      "name": "GS 1734-275",
+      "aliases": [
+        "RX J1735.9-2726"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 264.00833,
+      "decDeg": -27.42819,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=RX%20J1735.9-2726",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "RX J1735.9-2726",
+        "simbadObjectType": "LXB",
+        "simbadAllTypes": "gam|HX?|LXB|X",
+        "coordinateBibcode": "1999A&A...349..389V",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-13",
+      "type": "black-hole",
+      "name": "GS 2000+251",
+      "aliases": [
+        "V* QZ Vul"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 300.70634183629625,
+      "decDeg": 25.23628657401223,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=V%2A%20QZ%20Vul",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "V* QZ Vul",
+        "simbadObjectType": "HXB",
+        "simbadAllTypes": "*|gam|HXB|NIR|No*|Opt|V*|X",
+        "coordinateBibcode": "2020yCat.1350....0G",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-12",
+      "type": "black-hole",
+      "name": "GS 1354-64",
+      "aliases": [
+        "V* BW Cir"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 209.5405113906579,
+      "decDeg": -64.73479384958083,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=V%2A%20BW%20Cir",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "V* BW Cir",
+        "simbadObjectType": "HXB",
+        "simbadAllTypes": "*|gam|HXB|No*|V*|X",
+        "coordinateBibcode": "2020yCat.1350....0G",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-11",
+      "type": "black-hole",
+      "name": "EXO 1846-031",
+      "aliases": [],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 282.32125,
+      "decDeg": -3.062222222222222,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=EXO%201846-031",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "EXO 1846-031",
+        "simbadObjectType": "LXB",
+        "simbadAllTypes": "BH?|gam|HX?|LXB|X",
+        "coordinateBibcode": "2003A&A...411L..59E",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-10",
+      "type": "black-hole",
+      "name": "SLX 1746-331",
+      "aliases": [
+        "RX J1749.8-3312"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 267.45391666666666,
+      "decDeg": -33.20322222222222,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=RX%20J1749.8-3312",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "RX J1749.8-3312",
+        "simbadObjectType": "LXB",
+        "simbadAllTypes": "BH?|HX?|LXB|X",
+        "coordinateBibcode": "2016A&A...587A..61C",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-9",
+      "type": "black-hole",
+      "name": "H 1705-250",
+      "aliases": [
+        "V* V2107 Oph"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 257.06045238198914,
+      "decDeg": -25.091711024438332,
+      "distancePc": 8600.0,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=V%2A%20V2107%20Oph",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "most recent available SIMBAD literature-distance measurement, not parallax inversion",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "V* V2107 Oph",
+        "simbadObjectType": "HXB",
+        "simbadAllTypes": "*|gam|HXB|No*|Opt|V*|X",
+        "coordinateBibcode": "2020yCat.1350....0G",
+        "distanceMeasurements": [
+          {
+            "bibcode": "2004MNRAS.354..355J",
+            "dist": 8.6,
+            "dist_prec": 1,
+            "method": null,
+            "minus_err": -2,
+            "minus_err_prec": 1,
+            "plus_err": 2,
+            "plus_err_prec": 1,
+            "qual": null,
+            "unit": "kpc ",
+            "oidref": 2490666,
+            "mespos": 1
+          }
+        ]
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-8",
+      "type": "black-hole",
+      "name": "H 1743-322",
+      "aliases": [
+        "NAME XTE J17464-3213"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 266.564984875,
+      "decDeg": -32.23357222222222,
+      "distancePc": 10400.0,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=NAME%20XTE%20J17464-3213",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "most recent available SIMBAD literature-distance measurement, not parallax inversion",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "NAME XTE J17464-3213",
+        "simbadObjectType": "LXB",
+        "simbadAllTypes": "BH?|gam|HX?|LXB|X",
+        "coordinateBibcode": "2012MNRAS.421..468M",
+        "distanceMeasurements": [
+          {
+            "bibcode": "2005ApJ...632..504C",
+            "dist": 10.4,
+            "dist_prec": 1,
+            "method": null,
+            "minus_err": -2.9,
+            "minus_err_prec": 1,
+            "plus_err": 2.9,
+            "plus_err_prec": 1,
+            "qual": null,
+            "unit": "kpc ",
+            "oidref": 2386330,
+            "mespos": 1
+          }
+        ]
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-7",
+      "type": "black-hole",
+      "name": "3A 0620-003",
+      "aliases": [
+        "1A 0620-00"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 95.68559327388,
+      "decDeg": -0.34563623903999996,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=1A%200620-00",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "1A 0620-00",
+        "simbadObjectType": "HXB",
+        "simbadAllTypes": "*|gam|HXB|MIR|NIR|No*|Opt|Rad|SB*|V*|X",
+        "coordinateBibcode": "2020yCat.1350....0G",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-6",
+      "type": "black-hole",
+      "name": "3A 1524-617",
+      "aliases": [
+        "V* KY TrA"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 232.07070833333336,
+      "decDeg": -61.88272222222222,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=V%2A%20KY%20TrA",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "V* KY TrA",
+        "simbadObjectType": "LXB",
+        "simbadAllTypes": "gam|HX?|LXB|No*|V*|X",
+        "coordinateBibcode": "2016A&A...587A..61C",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-5",
+      "type": "black-hole",
+      "name": "1H 1659-487",
+      "aliases": [
+        "V* V821 Ara"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 255.7057818297,
+      "decDeg": -48.78974665404001,
+      "distancePc": 10000,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=V%2A%20V821%20Ara",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "most recent available SIMBAD literature-distance measurement, not parallax inversion",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "V* V821 Ara",
+        "simbadObjectType": "LXB",
+        "simbadAllTypes": "*|gam|HXB|LXB|MIR|NIR|Rad|V*|X",
+        "coordinateBibcode": "2020yCat.1350....0G",
+        "distanceMeasurements": [
+          {
+            "bibcode": "2004ApJ...609..317H",
+            "dist": 10,
+            "dist_prec": 1,
+            "method": null,
+            "minus_err": -4,
+            "minus_err_prec": 1,
+            "plus_err": 5,
+            "plus_err_prec": 1,
+            "qual": null,
+            "unit": "kpc ",
+            "oidref": 3509612,
+            "mespos": 1
+          }
+        ]
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-4",
+      "type": "black-hole",
+      "name": "4U 1755-338",
+      "aliases": [
+        "V* V4134 Sgr"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 269.66929999999996,
+      "decDeg": -33.8074,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=V%2A%20V4134%20Sgr",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "V* V4134 Sgr",
+        "simbadObjectType": "LXB",
+        "simbadAllTypes": "BH?|gam|HX?|LXB|V*|X",
+        "coordinateBibcode": "2022A&A...661A..38P",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-3",
+      "type": "black-hole",
+      "name": "4U 1543-475",
+      "aliases": [
+        "V* IL Lup"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 236.78448694697997,
+      "decDeg": -47.6695234966,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=V%2A%20IL%20Lup",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "V* IL Lup",
+        "simbadObjectType": "HXB",
+        "simbadAllTypes": "*|gam|HXB|NIR|V*|X",
+        "coordinateBibcode": "2020yCat.1350....0G",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-2",
+      "type": "black-hole",
+      "name": "4U 1630-472",
+      "aliases": [
+        "X Nor X-1"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 248.50670833333336,
+      "decDeg": -47.393,
+      "distancePc": 4000,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=X%20Nor%20X-1",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "most recent available SIMBAD literature-distance measurement, not parallax inversion",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "X Nor X-1",
+        "simbadObjectType": "LXB",
+        "simbadAllTypes": "BH?|gam|HX?|LXB|X",
+        "coordinateBibcode": "2016A&A...587A..61C",
+        "distanceMeasurements": [
+          {
+            "bibcode": "2002A&A...391..923G",
+            "dist": 4,
+            "dist_prec": 1,
+            "method": null,
+            "minus_err": null,
+            "minus_err_prec": null,
+            "plus_err": null,
+            "plus_err_prec": null,
+            "qual": null,
+            "unit": "kpc ",
+            "oidref": 3507623,
+            "mespos": 1
+          }
+        ]
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    },
+    {
+      "id": "blackcat-1",
+      "type": "black-hole",
+      "name": "Cen X-2",
+      "aliases": [
+        "X Cen X-2"
+      ],
+      "blackHoleClass": "stellar",
+      "status": "candidate",
+      "confirmationMethod": "candidate/research target; SIMBAD classification does not establish dynamical confirmation",
+      "raDeg": 210.11749999999998,
+      "decDeg": -64.79322222222223,
+      "distancePc": null,
+      "massSolar": null,
+      "orbitalPeriodDays": null,
+      "rotationPeriodDays": null,
+      "source": "https://simbad.cds.unistra.fr/simbad/sim-id?Ident=X%20Cen%20X-2",
+      "parameterMethods": {
+        "position": "SIMBAD source/host ICRS J2000; not resolved horizon",
+        "distance": "not independently verified in replacement component",
+        "mass": "not independently verified; null",
+        "orbit": "not independently verified; null"
+      },
+      "rawParameters": {
+        "simbadMainId": "X Cen X-2",
+        "simbadObjectType": "X",
+        "simbadAllTypes": "X",
+        "coordinateBibcode": "2016A&A...587A..61C",
+        "distanceMeasurements": []
+      },
+      "rendering": "schematic; black hole itself emits no visible light; disk/jet appearance is illustrative",
+      "legacyIdNote": "Stable application identifier only; former source table and its parameters have been retired."
+    }
+  ]
+}

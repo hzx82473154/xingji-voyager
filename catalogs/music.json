@@ -1,0 +1,22 @@
+{
+  "title": "Meanwhile",
+  "artist": "Scott Buckley",
+  "file": "music/meanwhile.mp3",
+  "sourceUrl": "https://www.scottbuckley.com.au/library/meanwhile/",
+  "downloadSource": "https://www.scottbuckley.com.au/library/wp-content/uploads/2025/01/Meanwhile.mp3",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "'Meanwhile' by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au",
+  "bytes": 6518118,
+  "sha256": "7ab1bee28dfead2efe28a609ab5d4f340210c7e6dc244547c014ca17c1d7f1b2",
+  "durationSeconds": 325.877551,
+  "sampleRate": 44100,
+  "channels": 2,
+  "bitRate": 160000,
+  "codec": "mp3",
+  "fullDecodeVerified": true,
+  "defaultVolume": 0.12,
+  "originalSha256": "39fd49bfb138bcee806fb99d8f2c9b7bf89fc72bb7b730125ef20f0c6b2635b7",
+  "asset": "music_meanwhile",
+  "processing": "Transcoded to 160kbps stereo MP3 for offline use; composition unchanged."
+}

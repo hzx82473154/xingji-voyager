@@ -1,0 +1,29 @@
+[
+  {
+    "body": "lutetia",
+    "oldFile": "surfaces/lutetia-shape.json",
+    "newFile": "surfaces/lutetia-schematic-shape-v2.json",
+    "reason": "No explicit redistribution grant found for the previously imported geometry; archived release removed from current public content",
+    "sha256": "1e70c5f52a8425b8c2d36373e8d326df958d6fd7e1d4f62f0b1852a3b301688f",
+    "modelType": "original mathematical schematic; measured overall size retained",
+    "note": "按已列尺寸121×101×75 km生成的数学椭球；不是实测轮廓，不含真实地形。"
+  },
+  {
+    "body": "steins",
+    "oldFile": "surfaces/steins-shape.json",
+    "newFile": "surfaces/steins-schematic-shape-v2.json",
+    "reason": "No explicit redistribution grant found for the previously imported geometry; archived release removed from current public content",
+    "sha256": "500c7987536ebf7f2dad593c668df86ff08972d0c8447d6286db1ecaf8825112",
+    "modelType": "original mathematical schematic; measured overall size retained",
+    "note": "按目录直径5.16 km生成的数学球体；不代表真实不规则外形，不含真实地形。"
+  },
+  {
+    "body": "arrokoth",
+    "oldFile": "surfaces/arrokoth-shape.json",
+    "newFile": "surfaces/arrokoth-schematic-shape-v2.json",
+    "reason": "No explicit redistribution grant found for the previously imported geometry; archived release removed from current public content",
+    "sha256": "8b37331d33cc15b1d7a2a7513e40500c009f95a74f9ba105da5a93d3ae905fe2",
+    "modelType": "original mathematical schematic; measured overall size retained",
+    "note": "按已列整体尺寸35×20×10 km生成的双椭球接触体示意；两瓣比例与接触形状是近似，不是实测网格，不含真实地形。"
+  }
+]

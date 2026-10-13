@@ -1,0 +1,9 @@
+{
+  "path": "catalogs/surface-source-snapshot.json",
+  "previousFileSha256": "ef09deabc53447d11f7a7c7537977c2101a69997bb2b082425bb1a822d30c6d0",
+  "resultFileSha256": "72546dcc2c4958f0c821e09d6e140f1e159bd781c5353aabbe91815eb5aad55c",
+  "records": 27,
+  "removedHtmlDocuments": 2,
+  "runtimeReferences": false,
+  "scientificIdentifiersAndNumericalFactsRetained": true
+}

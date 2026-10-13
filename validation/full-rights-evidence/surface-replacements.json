@@ -1,0 +1,29 @@
+[
+  {
+    "body": "lutetia",
+    "oldFile": "surfaces/lutetia-esa-information.webp",
+    "newFile": "surfaces/lutetia-eso-licensed.webp",
+    "sha256": "18d0db4dc14185e66c8eda719390fbdacac603150c3f4be6b0af1a1020d22e48",
+    "sourceSha256": "649881730f32a3d37bdbc1545d6f36aa273d8ec081b250bf593fff250e1caeb5",
+    "licence": "CC BY 4.0",
+    "grantSource": "https://www.eso.org/public/outreach/copyright/"
+  },
+  {
+    "body": "steins",
+    "oldFile": "surfaces/steins-esa-information.webp",
+    "newFile": "surfaces/steins-osiris-licensed.webp",
+    "sha256": "e5db53f2cb22009c6832d761757223d23fc2535bd4ff73b720e8f9665b6c2233",
+    "sourceSha256": "f449b7d0c88d2916d2fb868870ff37a74b7a464d2aaedcebad56ede153144440",
+    "licence": "CC BY-SA 4.0",
+    "grantSource": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Rosetta_image_archive_complete"
+  },
+  {
+    "body": "halley",
+    "oldFile": "surfaces/halley-esa-information.webp",
+    "newFile": "surfaces/halley-nasa-observed.webp",
+    "sha256": "840da4a847be90907df24597f9596bb936a9488ecda6c6d1cb8cf04d5134ec3c",
+    "sourceSha256": "4791b33a24c8f512ab7e0cc66913c6df79553def3f86f9b7655de20bffe65b76",
+    "licence": "NASA Media Usage Guidelines — NASA credited observation",
+    "grantSource": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+  }
+]

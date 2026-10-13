@@ -1,0 +1,648 @@
+{
+  "scope": "Current source files, dependencies, saved-site history visible in this checkout; not a worldwide similarity scan",
+  "externalModules": [
+    "three",
+    "three/addons/lines/LineMaterial.js",
+    "three/addons/lines/LineSegments2.js",
+    "three/addons/lines/LineSegmentsGeometry.js",
+    "three/addons/postprocessing/EffectComposer.js",
+    "three/addons/postprocessing/OutputPass.js",
+    "three/addons/postprocessing/RenderPass.js",
+    "three/addons/postprocessing/UnrealBloomPass.js"
+  ],
+  "imports": [
+    {
+      "file": "src/sky.js",
+      "module": "three"
+    },
+    {
+      "file": "src/sky.js",
+      "module": "./astronomy.js"
+    },
+    {
+      "file": "src/sky.js",
+      "module": "./exploration.js"
+    },
+    {
+      "file": "src/universe.js",
+      "module": "./particle-material.js"
+    },
+    {
+      "file": "src/universe.js",
+      "module": "./frame-meter.js"
+    },
+    {
+      "file": "src/universe.js",
+      "module": "./orbit-path.js"
+    },
+    {
+      "file": "src/universe.js",
+      "module": "./render-policy.js"
+    },
+    {
+      "file": "src/universe.js",
+      "module": "three"
+    },
+    {
+      "file": "src/universe.js",
+      "module": "./black-hole-lens.js"
+    },
+    {
+      "file": "src/universe.js",
+      "module": "./resources.js"
+    },
+    {
+      "file": "src/universe.js",
+      "module": "./startup-errors.js"
+    },
+    {
+      "file": "src/universe.js",
+      "module": "./rings.js"
+    },
+    {
+      "file": "src/universe.js",
+      "module": "./background-music.js"
+    },
+    {
+      "file": "src/universe.js",
+      "module": "./display-photometry.js"
+    },
+    {
+      "file": "src/universe.js",
+      "module": "./destination-carousel.js"
+    },
+    {
+      "file": "src/universe.js",
+      "module": "./scene-hud.js"
+    },
+    {
+      "file": "src/universe.js",
+      "module": "./mobile-hud.js"
+    },
+    {
+      "file": "src/universe.js",
+      "module": "./earth-continents.js"
+    },
+    {
+      "file": "src/universe.js",
+      "module": "./explorer-guards.js"
+    },
+    {
+      "file": "src/universe.js",
+      "module": "./free-orbit.js"
+    },
+    {
+      "file": "src/universe.js",
+      "module": "./solar-pivot.js"
+    },
+    {
+      "file": "src/universe.js",
+      "module": "./view-safety.js"
+    },
+    {
+      "file": "src/universe.js",
+      "module": "./exploration.js"
+    },
+    {
+      "file": "src/universe.js",
+      "module": "./sky.js"
+    },
+    {
+      "file": "src/universe.js",
+      "module": "./moons.js"
+    },
+    {
+      "file": "src/universe.js",
+      "module": "./celestial-physics.js"
+    },
+    {
+      "file": "src/universe.js",
+      "module": "./celestial-models.js"
+    },
+    {
+      "file": "src/universe.js",
+      "module": "./extended-models.js"
+    },
+    {
+      "file": "src/universe.js",
+      "module": "./scene-back.js"
+    },
+    {
+      "file": "src/universe.js",
+      "module": "./earth-geography.js"
+    },
+    {
+      "file": "src/universe.js",
+      "module": "./earth-gestures.js"
+    },
+    {
+      "file": "src/universe.js",
+      "module": "./earth-regions.js"
+    },
+    {
+      "file": "src/universe.js",
+      "module": "./earth-detail.js"
+    },
+    {
+      "file": "src/universe.js",
+      "module": "three/addons/postprocessing/EffectComposer.js"
+    },
+    {
+      "file": "src/universe.js",
+      "module": "three/addons/postprocessing/RenderPass.js"
+    },
+    {
+      "file": "src/universe.js",
+      "module": "three/addons/postprocessing/UnrealBloomPass.js"
+    },
+    {
+      "file": "src/universe.js",
+      "module": "three/addons/postprocessing/OutputPass.js"
+    },
+    {
+      "file": "src/universe.js",
+      "module": "./astronomy.js"
+    },
+    {
+      "file": "src/universe.js",
+      "module": "./physical-scale.js"
+    },
+    {
+      "file": "src/universe.js",
+      "module": "./catalog.js"
+    },
+    {
+      "file": "src/black-hole-lens.js",
+      "module": "three"
+    },
+    {
+      "file": "src/black-hole-lens.js",
+      "module": "./render-policy.js"
+    },
+    {
+      "file": "src/particle-material.js",
+      "module": "three"
+    },
+    {
+      "file": "src/particle-material.js",
+      "module": "./spatial-index.js"
+    },
+    {
+      "file": "src/free-orbit.js",
+      "module": "three"
+    },
+    {
+      "file": "src/free-orbit.js",
+      "module": "./physical-scale.js"
+    },
+    {
+      "file": "src/catalog.js",
+      "module": "three"
+    },
+    {
+      "file": "src/catalog.js",
+      "module": "./frame-budget.js"
+    },
+    {
+      "file": "src/catalog.js",
+      "module": "./particle-material.js"
+    },
+    {
+      "file": "src/catalog.js",
+      "module": "./render-policy.js"
+    },
+    {
+      "file": "src/catalog.js",
+      "module": "./orbit-path.js"
+    },
+    {
+      "file": "src/catalog.js",
+      "module": "./display-photometry.js"
+    },
+    {
+      "file": "src/catalog.js",
+      "module": "./body-descriptions.js"
+    },
+    {
+      "file": "src/catalog.js",
+      "module": "./navigation.js"
+    },
+    {
+      "file": "src/catalog.js",
+      "module": "./astronomy.js"
+    },
+    {
+      "file": "src/catalog.js",
+      "module": "./celestial-physics.js"
+    },
+    {
+      "file": "src/catalog.js",
+      "module": "./exploration.js"
+    },
+    {
+      "file": "src/catalog.js",
+      "module": "./extended-catalog.js"
+    },
+    {
+      "file": "src/catalog.js",
+      "module": "./extended-models.js"
+    },
+    {
+      "file": "src/catalog.js",
+      "module": "./celestial-models.js"
+    },
+    {
+      "file": "src/catalog.js",
+      "module": "./physical-scale.js"
+    },
+    {
+      "file": "src/catalog.js",
+      "module": "./physical-scale.js"
+    },
+    {
+      "file": "src/rings.js",
+      "module": "three"
+    },
+    {
+      "file": "src/boundary-drape.js",
+      "module": "three"
+    },
+    {
+      "file": "src/extended-catalog.js",
+      "module": "./physical-scale.js"
+    },
+    {
+      "file": "src/extended-catalog.js",
+      "module": "./frame-budget.js"
+    },
+    {
+      "file": "src/extended-catalog.js",
+      "module": "./physical-scale.js"
+    },
+    {
+      "file": "src/extended-catalog.js",
+      "module": "./display-photometry.js"
+    },
+    {
+      "file": "src/extended-catalog.js",
+      "module": "three"
+    },
+    {
+      "file": "src/extended-catalog.js",
+      "module": "./resources.js"
+    },
+    {
+      "file": "src/extended-catalog.js",
+      "module": "./astronomy.js"
+    },
+    {
+      "file": "src/extended-catalog.js",
+      "module": "./celestial-physics.js"
+    },
+    {
+      "file": "src/exploration.js",
+      "module": "./physical-scale.js"
+    },
+    {
+      "file": "src/moons.js",
+      "module": "three"
+    },
+    {
+      "file": "src/moons.js",
+      "module": "./astronomy.js"
+    },
+    {
+      "file": "src/earth-detail.js",
+      "module": "three"
+    },
+    {
+      "file": "src/earth-detail.js",
+      "module": "./resources.js"
+    },
+    {
+      "file": "src/earth-detail.js",
+      "module": "./earth-gestures.js"
+    },
+    {
+      "file": "src/earth-detail.js",
+      "module": "./earth-geography.js"
+    },
+    {
+      "file": "src/earth-detail.js",
+      "module": "./earth-continents.js"
+    },
+    {
+      "file": "src/body-descriptions.js",
+      "module": "../catalogs/body-profiles.json"
+    },
+    {
+      "file": "src/body-descriptions.js",
+      "module": "./navigation.js"
+    },
+    {
+      "file": "src/earth-continents.js",
+      "module": "./earth-geography.js"
+    },
+    {
+      "file": "src/celestial-physics.js",
+      "module": "three"
+    },
+    {
+      "file": "src/celestial-physics.js",
+      "module": "./astronomy.js"
+    },
+    {
+      "file": "src/celestial-physics.js",
+      "module": "./physical-scale.js"
+    },
+    {
+      "file": "src/celestial-physics.js",
+      "module": "./physical-scale.js"
+    },
+    {
+      "file": "src/earth-geography.js",
+      "module": "three"
+    },
+    {
+      "file": "src/earth-geography.js",
+      "module": "three/addons/lines/LineSegments2.js"
+    },
+    {
+      "file": "src/earth-geography.js",
+      "module": "three/addons/lines/LineSegmentsGeometry.js"
+    },
+    {
+      "file": "src/earth-geography.js",
+      "module": "three/addons/lines/LineMaterial.js"
+    },
+    {
+      "file": "src/earth-geography.js",
+      "module": "./boundary-drape.js"
+    },
+    {
+      "file": "src/extended-models.js",
+      "module": "./orbit-path.js"
+    },
+    {
+      "file": "src/extended-models.js",
+      "module": "./display-photometry.js"
+    },
+    {
+      "file": "src/extended-models.js",
+      "module": "three"
+    },
+    {
+      "file": "src/extended-models.js",
+      "module": "./black-hole-lens.js"
+    },
+    {
+      "file": "src/extended-models.js",
+      "module": "./resources.js"
+    },
+    {
+      "file": "src/extended-models.js",
+      "module": "./celestial-models.js"
+    },
+    {
+      "file": "src/extended-models.js",
+      "module": "./astronomy.js"
+    },
+    {
+      "file": "src/extended-models.js",
+      "module": "./celestial-physics.js"
+    },
+    {
+      "file": "src/extended-models.js",
+      "module": "./physical-scale.js"
+    },
+    {
+      "file": "src/extended-models.js",
+      "module": "./extended-catalog.js"
+    },
+    {
+      "file": "src/orbit-path.js",
+      "module": "three"
+    },
+    {
+      "file": "src/solar-pivot.js",
+      "module": "three"
+    },
+    {
+      "file": "src/celestial-models.js",
+      "module": "./orbit-path.js"
+    },
+    {
+      "file": "src/celestial-models.js",
+      "module": "./particle-material.js"
+    },
+    {
+      "file": "src/celestial-models.js",
+      "module": "three"
+    },
+    {
+      "file": "src/celestial-models.js",
+      "module": "./astronomy.js"
+    },
+    {
+      "file": "src/celestial-models.js",
+      "module": "./celestial-physics.js"
+    },
+    {
+      "file": "src/celestial-models.js",
+      "module": "./physical-scale.js"
+    }
+  ],
+  "files": [
+    {
+      "path": "src/sky.js",
+      "sha256": "e5ed02b2bb671e222446b6cc657e6cd0398c9ee48af8a6a6377c072197d49c26"
+    },
+    {
+      "path": "src/universe.js",
+      "sha256": "cf35d0fa15d2a59f93b4486188fcabb98304c0d4d2b92084766c09f50976a667"
+    },
+    {
+      "path": "src/black-hole-lens.js",
+      "sha256": "dfe0fb33a6857bff458dd37acb2aaa213bfd80b2acdcb95f6608b4a0f346adab"
+    },
+    {
+      "path": "src/particle-material.js",
+      "sha256": "25ad8b52ab02c12d047e37cc1b4698053421ccd2dae026133ad1b4aab3541d4d"
+    },
+    {
+      "path": "src/spatial-index.js",
+      "sha256": "fc2879608f53c9c960630bfca826418733516e552a7bab730f5705e6bfa11115"
+    },
+    {
+      "path": "src/free-orbit.js",
+      "sha256": "a7b89f2cdd9e23c30d0bcf68debc5dba2109e03a928974836c034f0bb9e05670"
+    },
+    {
+      "path": "src/catalog.js",
+      "sha256": "c7cd54fb7407ecc9b7fe1e9723daf1c093b0a9a7c073c42d44f5f549a1a7a4ca"
+    },
+    {
+      "path": "src/destination-carousel.js",
+      "sha256": "0af6b3918da9bad65024f975b28927db742a7b257d9f80e967de96b9f52e9479"
+    },
+    {
+      "path": "src/rings.js",
+      "sha256": "52e681f60ce29c9523f543e56f3772c46cc1e47e18dc0634fc67a5e0394861c1"
+    },
+    {
+      "path": "src/boundary-drape.js",
+      "sha256": "4789aec09515fec806b4f66a544917b7049cb42d9ef10c69a1c2f6f3fce4c693"
+    },
+    {
+      "path": "src/mobile-hud.css",
+      "sha256": "36f56ee1ae7302ee2468f4c984189322e071afd1fd9bad7bcd9f5cd2977ec378"
+    },
+    {
+      "path": "src/extended-catalog.js",
+      "sha256": "6cd3407eee9371d7df331c2976484fd0ef8e57d993076f5cc4da2f5df6977579"
+    },
+    {
+      "path": "src/frame-budget.js",
+      "sha256": "8e2eba931e764739dbdc06116f03959f265cf62b9113a8e780838be8bd9b19bf"
+    },
+    {
+      "path": "src/exploration.js",
+      "sha256": "ef46370cc7d602138f0e850e68c37f0cb69b461eb0c0d358fe9d6ebdebde4e5d"
+    },
+    {
+      "path": "src/moons.js",
+      "sha256": "ffbc8b1ae1d23057f3cf5921fab72fd2ae4605450be3f6bfbfbf6077a06435e4"
+    },
+    {
+      "path": "src/astronomy.js",
+      "sha256": "929f10315156700a7e9fa98f7b75589c12aa33c414cfe80ec6c2739444af6069"
+    },
+    {
+      "path": "src/frame-meter.js",
+      "sha256": "9a642ac332ccc480dd1738103eb666c1a218f68a8a2adfad883de3606e4358e2"
+    },
+    {
+      "path": "src/earth-detail.js",
+      "sha256": "30c481f43fda5f860e6b3e14cd6cc296f4ba2cb54c36990085df2e0a5906e824"
+    },
+    {
+      "path": "src/background-music.js",
+      "sha256": "98e20fbcab64f7622e9b441945677978baa236bfbe31b91b5d081a0b17072eae"
+    },
+    {
+      "path": "src/license-links.js",
+      "sha256": "d71cbd31f26aaf22b3ffafdb54f6acca419423b19bfd95f9482d86283787588d"
+    },
+    {
+      "path": "src/body-descriptions.js",
+      "sha256": "bc5952136dfebd1e2e2f0870fa4bb13f7dedcaf687f7e25060450558a6ef32ec"
+    },
+    {
+      "path": "src/earth-continents.js",
+      "sha256": "93d7c94f96a21a6fd2dec3c170156896e1729550cc4e6116f8d091b8e4d72fac"
+    },
+    {
+      "path": "src/style.css",
+      "sha256": "dd160ab8764556705210d18754e70da3ffdc5e3bc0d6a5451dcafeafbffaac77"
+    },
+    {
+      "path": "src/celestial-physics.js",
+      "sha256": "55886d7067f25a7fa86da0a54b61c44c4db16ca2533d9a74efce7573a5cec851"
+    },
+    {
+      "path": "src/earth-geography.js",
+      "sha256": "c032cb44d4e43e843857a63326bcf046ae207f437d2e2b51b157576d0411d604"
+    },
+    {
+      "path": "src/earth-gestures.js",
+      "sha256": "106ca3d260bf2a4d0dcb0f5211b2091a2b77692feb7c4da1886f0c2187a330a3"
+    },
+    {
+      "path": "src/extended-models.js",
+      "sha256": "72ad4fbf072c51e2e6579f5b418782259b7c0a6db11b4bbdc2ed90034f2b8b59"
+    },
+    {
+      "path": "src/mobile-hud.js",
+      "sha256": "71d8336e3d528f173e578ea387f7cda9aff72177f75826ad4d80d6522f7ea840"
+    },
+    {
+      "path": "src/startup-errors.js",
+      "sha256": "6eeab12ff1c04b19f9739af5e6a81cba54e543676a267b1548c9d105ee66d0e0"
+    },
+    {
+      "path": "src/view-safety.js",
+      "sha256": "4ff8c0e3641840a9b59fd86e5c8343950a18549c89503a46fb32a12082338ed4"
+    },
+    {
+      "path": "src/display-photometry.js",
+      "sha256": "5687359d39bc7387096e8db40f14404eab282a75eeb4e4e80dc14e7233ed3f79"
+    },
+    {
+      "path": "src/navigation.js",
+      "sha256": "36b366daf9694bb0f297a21b3e9f6910d6ac84cb67ed2fab28c1e622ddc156b7"
+    },
+    {
+      "path": "src/orbit-path.js",
+      "sha256": "c2cfe9e90287cfab7c5f19048359daf507450e39b62a99daa805d83bb2aed18a"
+    },
+    {
+      "path": "src/physical-scale.js",
+      "sha256": "264e1dc342b47301914051857fb45cf3912d0baa3b0c03fce752ec6731116acf"
+    },
+    {
+      "path": "src/resources.js",
+      "sha256": "e635b1304c06bad92a49a13273ca2c9b60aa101f35bec8335a9d8831a8424117"
+    },
+    {
+      "path": "src/scene-hud.js",
+      "sha256": "9ea280e522079e3c7480c787cb5401cf41fce160bd591f625d3c59a8a5d65572"
+    },
+    {
+      "path": "src/solar-pivot.js",
+      "sha256": "2f077469ad5a86d85c4e793a4f8848ce7c8e0fd6786646afdc16a83e6ef2ad13"
+    },
+    {
+      "path": "src/shell.html",
+      "sha256": "4f9f4e4a57a9185de595fcbcb22e868bbb29ef70fdef0e959915643e715fb587"
+    },
+    {
+      "path": "src/celestial-models.js",
+      "sha256": "122263382d528f87e7b645314bb3c4cfc7854564c05ce8d40242db74a1114efc"
+    },
+    {
+      "path": "src/license-credits.html",
+      "sha256": "4c8c11ee7afde182ecea53683d0cdf54910e3b727ea8d4b24c2242043e0eb76c"
+    },
+    {
+      "path": "src/password-gate.html",
+      "sha256": "9cfc48f6b60bc1dc957724c4ec95a261edd3d938e35af5153dd7adf6a9aad031"
+    },
+    {
+      "path": "src/render-policy.js",
+      "sha256": "5e24f34f445adc6d445b979a045a78f92f1c1aa33bc7a5588fb010dece27f721"
+    },
+    {
+      "path": "src/password-gate.js",
+      "sha256": "331c53d33ccca72e6ea0ba0f8d187f4bbbcd89b9aa2869ec104c9834454fad76"
+    },
+    {
+      "path": "src/earth-regions.js",
+      "sha256": "2183c41e98168bbd4bb9f79a3146a3612f51b815ff87648dae6f81d6e18bce0c"
+    },
+    {
+      "path": "src/explorer-guards.js",
+      "sha256": "12fe135bec2353189c6ed716a6f4fbfa74e5bc0fb639b90689224648940c41a0"
+    },
+    {
+      "path": "src/scene-hud.css",
+      "sha256": "db917c18c3e4011161284fdbb2d1adf75a0774c17483e248c08f5727dbd820b0"
+    },
+    {
+      "path": "src/scene-back.js",
+      "sha256": "b3335fbd47c06db1eb6f2dddce2aad915339c3752dc672891b32e5035a0a8a8e"
+    }
+  ],
+  "orbitFinding": "Three.js rendering modules retain MIT notices. FreeOrbitControls is local project source in src/free-orbit.js. Other orbit occurrences name astronomy/interaction. No identified external ORBIT repository, UI template dependency or imported screenshot was found in current files. No specific ORBIT source or demonstration video is available here for comparison; no absolute originality certificate is claimed.",
+  "verificationLimit": "Known imports, declarations, source paths, hashes and successful source compilation were checked; no internet-wide code similarity comparison or real GPU/phone test. ORBIT comparison was not requested.",
+  "reviewedOn": "2026-10-13"
+}

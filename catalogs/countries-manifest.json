@@ -1,0 +1,38 @@
+{
+  "name": "Natural Earth Admin 0 Countries",
+  "scale": "1:10M",
+  "retrieved": "2026-10-11",
+  "source": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_10m_admin_0_countries.geojson",
+  "license": "Public domain",
+  "terms": "https://www.naturalearthdata.com/about/terms-of-use/",
+  "sourceSha256": "239eec57ac17f100a11e2536cffc56752c318b50ae765b0918ff7aab4ce8f255",
+  "snapshotSha256": "38cb79f92752dfd137c6541d3aa4d04214e4b4c760fec54e8d54e60258b5b6a8",
+  "features": 258,
+  "vertices": 548472,
+  "transformations": [
+    "Preserve all source country IDs, names, islands and polygon holes; round coordinates to five decimals.",
+    "Repair invalid source polygon topology with Shapely make_valid for intersection and union.",
+    "Keep Chinese parent/display overrides in the runtime.",
+    "RUS/KAZ partition uses the contiguous Natural Earth EUROPE Urals/Ural River path; offshore endpoint extensions are overview conventions.",
+    "TUR source land polygons are assigned using Natural Earth continent regions, without artificial meridian/parallel cuts.",
+    "No population/current administrative statistics retained."
+  ],
+  "continentSnapshot": {
+    "bytes": 2959352,
+    "sha256": "f34ea111d905057b0780d7b992dc66ba7c0238960a47b16d2516db9f00180b80"
+  },
+  "continentSource": {
+    "source": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_10m_geography_regions_polys.geojson",
+    "sha256": "b7b26e50ea917d3696aec87f932def2bf5f890f5770e441d59c162c6f4c92a77",
+    "pathPoints": 1048,
+    "start": [
+      66.364146,
+      68.609626
+    ],
+    "end": [
+      51.771472,
+      46.963665
+    ]
+  },
+  "precisionNote": "1:10M generalized geography, historical raster coastlines and overview continent conventions; not a survey or an administrative delimitation."
+}

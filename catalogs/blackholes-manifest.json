@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-11",
+  "sources": [
+    {
+      "id": "SIMBAD-researched-targets",
+      "url": "https://simbad.cds.unistra.fr/simbad/",
+      "license": "ODbL 1.0",
+      "licenseUrl": "https://opendatacommons.org/licenses/odbl/1-0/",
+      "retrievedAt": "2026-10-11",
+      "rowCount": 73,
+      "scope": "Independent identifier/position/type/distance query for existing named research targets; not a BlackCAT table redistribution and not a complete black-hole catalog. Legacy application IDs retained. Classification and unverified physical parameters explicitly conservative.",
+      "queries": {
+        "bh-crossmatch": "SELECT b.oid,b.main_id,b.ra,b.dec,b.otype,b.coo_bibcode,i.id AS requested_id FROM basic AS b JOIN ident AS i ON i.oidref=b.oid WHERE i.id IN ('MAXI J1744-294','Swift J151857.0-572147','Swift J1727.8-1613','MAXI J1803-298','AT 2019wey','MAXI J0637-430','MAXI J1348-630','Swift J1728.9-3613','MAXI J1810-222','MAXI J1631-479','MAXI J1820+070','MAXI J1813-095','Swift J1658.2-4242','MAXI J1535-571','IGR J17454-2919','IGR J17451-3022','MAXI J1828-249','Swift J1753.7-2544','Swift J174510.8-262411','Swift J1910.2-0546','MAXI J1305-704','MAXI J1836-194','MAXI J1543-564','Swift J1357.2-0933','MAXI J1659-152','XTE J1752-223','XTE J1652-453','Swift J1539.2-6227','Swift J1842.5-1124','Swift J174540.2-290005','IGR J17497-2821','XTE J1817-330','XTE J1726-476','XTE J1818-245','Swift J1753.5-0127','IGR J17098-3628','IGR J17091-3624','XTE J1720-318','XTE J1908+094','SAX J1711.6-3808','XTE J1650-500','XTE J1118+480','XTE J1859+226','SAX J1819.3-2525','XTE J2012+381','XTE J1748-288','XTE J1550-564','XTE J1755-324','GRS 1737-31','GRS 1739-278','XTE J1856+053','GRS 1730-312','GRO J1655-40','GRS 1716-249','GRS 1009-45','GRS 1915+105','GRO J0422+32','GRS 1124-684','GS 2023+338','GS 1734-275','GS 2000+251','GS 1354-64','EXO 1846-031','SLX 1746-331','H 1705-250','H 1743-322','3A 0620-003','3A 1524-617','1H 1659-487','4U 1755-338','4U 1543-475','4U 1630-472','Cen X-2')",
+        "bh-alltypes": "SELECT * FROM alltypes WHERE oidref IN (3509612,893113,3411688,3490599,3507623,2367977,15999507,2628349,3344738,2492462,2827563,2932761,3060443,3239925,2491668,2383235,2384798,2494304,2721979,706496,2329428,2490666,2386330,2345338,2345393,9009263,9009262,3880663,15024720,8342147,13313216,11560901,6295436,13313201,6121950,28120601,16634489,13699078,11963704,13829459,9647578,6344849,2345292,2501645,2386382,7598096,24240533,6174917,11963701,24229120,13313217,7852109,3755887,2638937,7963160,4502987,7819617,3344703,591711,3443557,3494501,5548908,2382127,3511128,2415826,5261854,2387086,2392806,2520353,2672990,2787478,2706817,2953083)",
+        "bh-distances": "SELECT * FROM mesDistance WHERE oidref IN (3509612,893113,3411688,3490599,3507623,2367977,15999507,2628349,3344738,2492462,2827563,2932761,3060443,3239925,2491668,2383235,2384798,2494304,2721979,706496,2329428,2490666,2386330,2345338,2345393,9009263,9009262,3880663,15024720,8342147,13313216,11560901,6295436,13313201,6121950,28120601,16634489,13699078,11963704,13829459,9647578,6344849,2345292,2501645,2386382,7598096,24240533,6174917,11963701,24229120,13313217,7852109,3755887,2638937,7963160,4502987,7819617,3344703,591711,3443557,3494501,5548908,2382127,3511128,2415826,5261854,2387086,2392806,2520353,2672990,2787478,2706817,2953083)"
+      },
+      "responseSha256": {
+        "bh-crossmatch": "71f5cfeb79b6731cd58453688bbc4ce9a1591ee5f88b5605b58ae79b224af90a",
+        "bh-alltypes": "70b8a7fc10a9c5c5a5291140560abe2223f48220ef405666ba2707f7c485383b",
+        "bh-distances": "77b69e2db15bd0343bc5e3e26e75341c985966bc547f5912fbabd4f4e10a9d98"
+      }
+    },
+    {
+      "id": "van-den-Bosch-2016",
+      "url": "https://github.com/remco-space/Black-Hole-Mass-compilation",
+      "paper": "https://doi.org/10.3847/0004-637X/831/2/134",
+      "citation": "van den Bosch 2016, ApJ 831, 134. Full author compilation, 294 systems; not restricted to regression subset.",
+      "retrievedAt": "2026-10-09T16:11:16.624208+00:00",
+      "rowCount": 294,
+      "massUpperLimits": 69,
+      "globularClusterCandidates": 15,
+      "sha256": "119d720c3706627dfd5a4c7482b03946df7fbc0a1154c6196db3a5c34ad64930",
+      "license": "MIT; full license in catalogs/SMBH_LICENSE.txt",
+      "duplicates": 3,
+      "uniqueSystems": 291,
+      "failed": 0
+    },
+    {
+      "id": "discovery-paper-supplements",
+      "citation": "Gaia BH1 El-Badry et al.2022; Gaia BH2 El-Badry et al.2023; Gaia BH3 Gaia Collaboration/Panuzzo et al.2024; CygX-1 Miller-Jones et al.2021; TON618 Shemmer et al.2004",
+      "rowCount": 5,
+      "retrievedAt": "2026-10-09T16:11:16.624208+00:00",
+      "scope": "Named persistent/dormant black holes and TON618 absent from BlackCAT transient sample; bounded published-parameter supplement",
+      "failed": 0
+    }
+  ],
+  "counts": {
+    "massCompilationSourceRows": 294,
+    "massCompilation": 291,
+    "supplements": 5,
+    "total": 369,
+    "confirmed": 227,
+    "candidates": 142,
+    "withPosition": 369,
+    "withDistance": 305,
+    "withMass": 227,
+    "duplicatesRemoved": 3,
+    "failedParameters": 0,
+    "failedRows": 0,
+    "simbadTargets": 73
+  },
+  "failures": []
+}

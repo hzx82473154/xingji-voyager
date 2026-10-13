@@ -1,0 +1,752 @@
+{
+  "retrieved_on": "2026-10-07",
+  "attribution": "Planet textures and active ocean masks: Solar System Scope / INOVE (CC BY 4.0). Active night-light imagery: NASA Black Marble 2016.",
+  "license_verified_source": "https://www.solarsystemscope.com/textures/",
+  "notes": [
+    "All textures are local files. Runtime must not fetch any source URL.",
+    "Solar System Scope maps are based on NASA imagery/elevation, adjusted for display, with fictional gap fills where mapping is incomplete.",
+    "Downloads were obtained from version-pinned npm archives because direct origin downloads were unavailable in this environment. No npm package code was executed or integrated.",
+    "2026-10-11: legacy earth_specular.jpg is retired from active builds due to incomplete original provenance; use earth_specular_sss.jpg. Historical rollback assets are not cleared for public source redistribution."
+  ],
+  "assets": [
+    {
+      "file": "earth_day.jpg",
+      "creator": "Solar System Scope / INOVE",
+      "title": "earth_daymap",
+      "source_page": "https://www.solarsystemscope.com/textures/",
+      "original_url": "https://www.solarsystemscope.com/textures/download/2k_earth_daymap.jpg",
+      "download_url": "https://registry.npmjs.org/gravityexp/-/gravityexp-0.2.0.tgz",
+      "archive_member": "package/public/textures/earth.jpg",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "changes": "JPEG recompressed at quality 88, metadata stripped; geometry and colors unchanged.",
+      "dimensions": [
+        2048,
+        1024
+      ],
+      "mode": "RGB",
+      "bytes": 268175,
+      "sha256": "0d9a8d5cc13b50540c7a6d064c88efd32757a2091b46d7c6b35eff4b384c653f"
+    },
+    {
+      "file": "mercury.jpg",
+      "creator": "Solar System Scope / INOVE",
+      "title": "mercury",
+      "source_page": "https://www.solarsystemscope.com/textures/",
+      "original_url": "https://www.solarsystemscope.com/textures/download/2k_mercury.jpg",
+      "download_url": "https://registry.npmjs.org/gravityexp/-/gravityexp-0.2.0.tgz",
+      "archive_member": "package/public/textures/mercury.jpg",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "changes": "JPEG recompressed at quality 88, metadata stripped; geometry and colors unchanged.",
+      "dimensions": [
+        2048,
+        1024
+      ],
+      "mode": "RGB",
+      "bytes": 599650,
+      "sha256": "25a0b7eb56ac6414be08428d0cc9be1e98ea573d97f1e649e63a78272baebf2a"
+    },
+    {
+      "file": "mars.jpg",
+      "creator": "Solar System Scope / INOVE",
+      "title": "mars",
+      "source_page": "https://www.solarsystemscope.com/textures/",
+      "original_url": "https://www.solarsystemscope.com/textures/download/2k_mars.jpg",
+      "download_url": "https://registry.npmjs.org/gravityexp/-/gravityexp-0.2.0.tgz",
+      "archive_member": "package/public/textures/mars.jpg",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "changes": "JPEG recompressed at quality 88, metadata stripped; geometry and colors unchanged.",
+      "dimensions": [
+        2048,
+        1024
+      ],
+      "mode": "RGB",
+      "bytes": 406226,
+      "sha256": "930d1fcde67dcfebab07b94a141f7589ee281e90212b0878739b069c897d2e5a"
+    },
+    {
+      "file": "jupiter.jpg",
+      "creator": "Solar System Scope / INOVE",
+      "title": "jupiter",
+      "source_page": "https://www.solarsystemscope.com/textures/",
+      "original_url": "https://www.solarsystemscope.com/textures/download/2k_jupiter.jpg",
+      "download_url": "https://registry.npmjs.org/gravityexp/-/gravityexp-0.2.0.tgz",
+      "archive_member": "package/public/textures/jupiter.jpg",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "changes": "JPEG recompressed at quality 88, metadata stripped; geometry and colors unchanged.",
+      "dimensions": [
+        2048,
+        1024
+      ],
+      "mode": "RGB",
+      "bytes": 299945,
+      "sha256": "1106015cf99a435608c713ac87f37db0df55a5e85e4b8130f0b9a46e25dfc92c"
+    },
+    {
+      "file": "saturn.jpg",
+      "creator": "Solar System Scope / INOVE",
+      "title": "saturn",
+      "source_page": "https://www.solarsystemscope.com/textures/",
+      "original_url": "https://www.solarsystemscope.com/textures/download/2k_saturn.jpg",
+      "download_url": "https://registry.npmjs.org/gravityexp/-/gravityexp-0.2.0.tgz",
+      "archive_member": "package/public/textures/saturn.jpg",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "changes": "JPEG recompressed at quality 88, metadata stripped; geometry and colors unchanged.",
+      "dimensions": [
+        2048,
+        1024
+      ],
+      "mode": "RGB",
+      "bytes": 134377,
+      "sha256": "25d7c25b4925f4e6ea04b6c36a45af932b75bb6b4bc36b7b54b5c29e809944ff"
+    },
+    {
+      "file": "uranus.jpg",
+      "creator": "Solar System Scope / INOVE",
+      "title": "uranus",
+      "source_page": "https://www.solarsystemscope.com/textures/",
+      "original_url": "https://www.solarsystemscope.com/textures/download/2k_uranus.jpg",
+      "download_url": "https://registry.npmjs.org/gravityexp/-/gravityexp-0.2.0.tgz",
+      "archive_member": "package/public/textures/uranus.jpg",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "changes": "JPEG recompressed at quality 88, metadata stripped; geometry and colors unchanged.",
+      "dimensions": [
+        2048,
+        1024
+      ],
+      "mode": "RGB",
+      "bytes": 32040,
+      "sha256": "7e6a039e2efd5f0c020f72a769acba82da60d8c5de8f04a7e32dc413b23c35b9"
+    },
+    {
+      "file": "neptune.jpg",
+      "creator": "Solar System Scope / INOVE",
+      "title": "neptune",
+      "source_page": "https://www.solarsystemscope.com/textures/",
+      "original_url": "https://www.solarsystemscope.com/textures/download/2k_neptune.jpg",
+      "download_url": "https://registry.npmjs.org/gravityexp/-/gravityexp-0.2.0.tgz",
+      "archive_member": "package/public/textures/neptune.jpg",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "changes": "JPEG recompressed at quality 88, metadata stripped; geometry and colors unchanged.",
+      "dimensions": [
+        2048,
+        1024
+      ],
+      "mode": "RGB",
+      "bytes": 73144,
+      "sha256": "78c4c272af6b4a1015380a68fc3ed1b785e36ed37a0df0851ec8af0d62dd670a"
+    },
+    {
+      "file": "sun.jpg",
+      "creator": "Solar System Scope / INOVE",
+      "title": "sun",
+      "source_page": "https://www.solarsystemscope.com/textures/",
+      "original_url": "https://www.solarsystemscope.com/textures/download/2k_sun.jpg",
+      "download_url": "https://registry.npmjs.org/gravityexp/-/gravityexp-0.2.0.tgz",
+      "archive_member": "package/public/textures/sun.jpg",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "changes": "JPEG recompressed at quality 88, metadata stripped; geometry and colors unchanged.",
+      "dimensions": [
+        2048,
+        1024
+      ],
+      "mode": "RGB",
+      "bytes": 414177,
+      "sha256": "8c4873f0819d14ebdfbe43fceda6562dcbec535a9127b472ea44919e42ba3a72"
+    },
+    {
+      "file": "moon.jpg",
+      "creator": "Solar System Scope / INOVE",
+      "title": "moon",
+      "source_page": "https://www.solarsystemscope.com/textures/",
+      "original_url": "https://www.solarsystemscope.com/textures/download/2k_moon.jpg",
+      "download_url": "https://registry.npmjs.org/gravityexp/-/gravityexp-0.2.0.tgz",
+      "archive_member": "package/public/textures/moon.jpg",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "changes": "JPEG recompressed at quality 88, metadata stripped; geometry and colors unchanged.",
+      "dimensions": [
+        2048,
+        1024
+      ],
+      "mode": "RGB",
+      "bytes": 731804,
+      "sha256": "d7753fa7d3aa63a6f426ac9f2cad6b1805ecd9491850b81ea69cf4af02687c99"
+    },
+    {
+      "file": "venus_atmosphere.jpg",
+      "creator": "Solar System Scope / INOVE",
+      "title": "venus_atmosphere",
+      "source_page": "https://www.solarsystemscope.com/textures/",
+      "original_url": "https://www.solarsystemscope.com/textures/download/4k_venus_atmosphere.jpg",
+      "download_url": "https://registry.npmjs.org/artastra/-/artastra-1.0.8.tgz",
+      "archive_member": "package/textures/4k_venus_atmosphere.jpg",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "changes": "Resampled to 2048 x 1024 using Pillow, JPEG recompressed at quality 88, metadata stripped.",
+      "dimensions": [
+        2048,
+        1024
+      ],
+      "mode": "RGB",
+      "bytes": 132853,
+      "sha256": "4039995520645c93461622916dfeaee1bf71dd28dd5b9e6e1b9a75e5f7777e90"
+    },
+    {
+      "file": "saturn_ring.png",
+      "creator": "Solar System Scope / INOVE",
+      "title": "Saturn ring radial slice",
+      "source_page": "https://www.solarsystemscope.com/textures/",
+      "original_url": "https://www.solarsystemscope.com/textures/download/2k_saturn_ring_alpha.png",
+      "download_url": "https://registry.npmjs.org/solaris-js/-/solaris-js-0.1.2.tgz",
+      "archive_member": "package/dist/img/saturn-rings.png",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "changes": "Packaged 1024 x 64 derivative retained, PNG optimized; alpha preserved.",
+      "mapping": "The texture horizontal axis represents ring radius; do not apply standard planar ring UVs.",
+      "dimensions": [
+        1024,
+        64
+      ],
+      "mode": "RGBA",
+      "bytes": 23320,
+      "sha256": "21bb8a33cadbe226bdce0fc69d86ab2329d8461b2f2982fdb044f44ead64cdf6"
+    },
+    {
+      "file": "earth_clouds.png",
+      "creator": "Solar System Scope / INOVE; derived for 星际 Voyager",
+      "title": "Transparent cloud layer",
+      "derived_from": "earth_clouds.jpg",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.solarsystemscope.com/textures/",
+      "changes": "Converted to RGBA: RGB is white (255,255,255); alpha is original cloud-map luminance. PNG optimized.",
+      "dimensions": [
+        2048,
+        1024
+      ],
+      "mode": "RGBA",
+      "bytes": 1979627,
+      "sha256": "780ee17903a777f2abe7f1208241ba6a3d496da4f1a9c1191a38c8807978ee69"
+    },
+    {
+      "file": "thumb_sun.png",
+      "creator": "Solar System Scope / INOVE; derived for 星际 Voyager",
+      "title": "sun destination thumbnail",
+      "derived_from": [
+        "sun.jpg"
+      ],
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.solarsystemscope.com/textures/",
+      "changes": "CPU orthographic sphere projection with bilinear texture sampling, directional shading, transparency, and 3x supersampling. Earth uses Asia-centered longitude ~108°E and latitude 20°N; Saturn adds a tilted ring from the radial alpha texture.",
+      "dimensions": [
+        120,
+        120
+      ],
+      "mode": "RGBA",
+      "bytes": 22335,
+      "sha256": "f416a095998965287a0e3f791dd0ac1de606fdf9eadbdca20f4603b5839af747"
+    },
+    {
+      "file": "thumb_mercury.png",
+      "creator": "Solar System Scope / INOVE; derived for 星际 Voyager",
+      "title": "mercury destination thumbnail",
+      "derived_from": [
+        "mercury.jpg"
+      ],
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.solarsystemscope.com/textures/",
+      "changes": "CPU orthographic sphere projection with bilinear texture sampling, directional shading, transparency, and 3x supersampling. Earth uses Asia-centered longitude ~108°E and latitude 20°N; Saturn adds a tilted ring from the radial alpha texture.",
+      "dimensions": [
+        120,
+        120
+      ],
+      "mode": "RGBA",
+      "bytes": 14656,
+      "sha256": "5660db2eacce11a9b50d95c6edd7698e757c48f3e58de0c1e539b5d3f192e2a8"
+    },
+    {
+      "file": "thumb_venus.png",
+      "creator": "Solar System Scope / INOVE; derived for 星际 Voyager",
+      "title": "venus destination thumbnail",
+      "derived_from": [
+        "venus_atmosphere.jpg"
+      ],
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.solarsystemscope.com/textures/",
+      "changes": "CPU orthographic sphere projection with bilinear texture sampling, directional shading, transparency, and 3x supersampling. Earth uses Asia-centered longitude ~108°E and latitude 20°N; Saturn adds a tilted ring from the radial alpha texture.",
+      "dimensions": [
+        120,
+        120
+      ],
+      "mode": "RGBA",
+      "bytes": 14268,
+      "sha256": "18abbfc778691693d3a2bf78cf2ba7ef1dce286c401036de735bca47dcabb601"
+    },
+    {
+      "file": "thumb_earth.png",
+      "creator": "Solar System Scope / INOVE; derived for 星际 Voyager",
+      "title": "earth destination thumbnail",
+      "derived_from": [
+        "earth_day.jpg",
+        "earth_clouds.jpg"
+      ],
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.solarsystemscope.com/textures/",
+      "changes": "CPU orthographic sphere projection with bilinear texture sampling, directional shading, transparency, and 3x supersampling. Earth uses Asia-centered longitude ~108°E and latitude 20°N; Saturn adds a tilted ring from the radial alpha texture.",
+      "dimensions": [
+        120,
+        120
+      ],
+      "mode": "RGBA",
+      "bytes": 20200,
+      "sha256": "0b6863c11d9deba7d7efc49f274475ae20748356c51b9c436399a4f10e7ee6d5"
+    },
+    {
+      "file": "thumb_mars.png",
+      "creator": "Solar System Scope / INOVE; derived for 星际 Voyager",
+      "title": "mars destination thumbnail",
+      "derived_from": [
+        "mars.jpg"
+      ],
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.solarsystemscope.com/textures/",
+      "changes": "CPU orthographic sphere projection with bilinear texture sampling, directional shading, transparency, and 3x supersampling. Earth uses Asia-centered longitude ~108°E and latitude 20°N; Saturn adds a tilted ring from the radial alpha texture.",
+      "dimensions": [
+        120,
+        120
+      ],
+      "mode": "RGBA",
+      "bytes": 17623,
+      "sha256": "c6570b21b01cbe746fd33a23771f5d7df7445f71727e5e81d8f48fe93cc09407"
+    },
+    {
+      "file": "thumb_jupiter.png",
+      "creator": "Solar System Scope / INOVE; derived for 星际 Voyager",
+      "title": "jupiter destination thumbnail",
+      "derived_from": [
+        "jupiter.jpg"
+      ],
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.solarsystemscope.com/textures/",
+      "changes": "CPU orthographic sphere projection with bilinear texture sampling, directional shading, transparency, and 3x supersampling. Earth uses Asia-centered longitude ~108°E and latitude 20°N; Saturn adds a tilted ring from the radial alpha texture.",
+      "dimensions": [
+        120,
+        120
+      ],
+      "mode": "RGBA",
+      "bytes": 18597,
+      "sha256": "4fb8a554d2dbff045ef305778a64328be2a4dfc41b492a31f5e4093a39206102"
+    },
+    {
+      "file": "thumb_saturn.png",
+      "creator": "Solar System Scope / INOVE; derived for 星际 Voyager",
+      "title": "saturn destination thumbnail",
+      "derived_from": [
+        "saturn.jpg",
+        "saturn_ring.png"
+      ],
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.solarsystemscope.com/textures/",
+      "changes": "CPU orthographic sphere projection with bilinear texture sampling, directional shading, transparency, and 3x supersampling. Earth uses Asia-centered longitude ~108°E and latitude 20°N; Saturn adds a tilted ring from the radial alpha texture.",
+      "dimensions": [
+        180,
+        120
+      ],
+      "mode": "RGBA",
+      "bytes": 20658,
+      "sha256": "c57a25c8b1209ca10b1ace57390b1e9ba085129db85ba1c1a55cffb08a5bf534"
+    },
+    {
+      "file": "thumb_uranus.png",
+      "creator": "Solar System Scope / INOVE; derived for 星际 Voyager",
+      "title": "uranus destination thumbnail",
+      "derived_from": [
+        "uranus.jpg"
+      ],
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.solarsystemscope.com/textures/",
+      "changes": "CPU orthographic sphere projection with bilinear texture sampling, directional shading, transparency, and 3x supersampling. Earth uses Asia-centered longitude ~108°E and latitude 20°N; Saturn adds a tilted ring from the radial alpha texture.",
+      "dimensions": [
+        120,
+        120
+      ],
+      "mode": "RGBA",
+      "bytes": 10353,
+      "sha256": "4ad5d5023e70c9f194b38a8aece665edd60cd25fb70d98a626f68ef5ba842e44"
+    },
+    {
+      "file": "thumb_neptune.png",
+      "creator": "Solar System Scope / INOVE; derived for 星际 Voyager",
+      "title": "neptune destination thumbnail",
+      "derived_from": [
+        "neptune.jpg"
+      ],
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.solarsystemscope.com/textures/",
+      "changes": "CPU orthographic sphere projection with bilinear texture sampling, directional shading, transparency, and 3x supersampling. Earth uses Asia-centered longitude ~108°E and latitude 20°N; Saturn adds a tilted ring from the radial alpha texture.",
+      "dimensions": [
+        120,
+        120
+      ],
+      "mode": "RGBA",
+      "bytes": 11610,
+      "sha256": "95a208db2e0177dc5208a730e73cc9a5c4394b484e4480a335e7706f346aeffc"
+    },
+    {
+      "file": "thumb_moon.png",
+      "creator": "Solar System Scope / INOVE; derived for 星际 Voyager",
+      "title": "moon destination thumbnail",
+      "derived_from": [
+        "moon.jpg"
+      ],
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.solarsystemscope.com/textures/",
+      "changes": "CPU orthographic sphere projection with bilinear texture sampling, directional shading, transparency, and 3x supersampling. Earth uses Asia-centered longitude ~108°E and latitude 20°N; Saturn adds a tilted ring from the radial alpha texture.",
+      "dimensions": [
+        120,
+        120
+      ],
+      "mode": "RGBA",
+      "bytes": 18093,
+      "sha256": "fe6e25f89a187431b0b7e67e6039a05e58ece3306d43421e70f7a09c36ee2fa0"
+    },
+    {
+      "file": "hi_earth.jpg",
+      "dimensions": [
+        8192,
+        4096
+      ],
+      "bytes": 2944475,
+      "sha256": "e46f8b21f992074d61dc671571ade58a3570b22e615f41c11ea7df5e0a09b727",
+      "creator": "Solar System Scope / INOVE",
+      "source_page": "https://www.solarsystemscope.com/textures/",
+      "original_url": "https://www.solarsystemscope.com/textures/download/8k_earth_daymap.jpg",
+      "download_url": "https://registry.npmjs.org/artastra/-/artastra-1.0.8.tgz",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "changes": "None. Original JPEG bytes retained; output filename corrected to actual pixel dimensions where upstream filename is misleading.; Voyager JPEG/WebP quality86/83, native source (8192, 4096), output (8192, 4096), no upsampling.",
+      "observation_year": null,
+      "archive_member": "package/textures/earth2.jpg",
+      "mode": "RGB"
+    },
+    {
+      "file": "hi_earth_night.jpg",
+      "dimensions": [
+        8192,
+        4096
+      ],
+      "bytes": 975571,
+      "sha256": "b92d2636790930f90fae83e7d13bc0fd9afef6d8856852a661c88f923d151ba7",
+      "creator": "NASA Earth Observatory images by Joshua Stevens, using Suomi NPP VIIRS data from Miguel Román, NASA GSFC.",
+      "source_page": "https://science.nasa.gov/earth/earth-observatory/earth-at-night/maps/",
+      "source_tiles": "night-tiles.json",
+      "license": "NASA imagery / NASA Media Usage Guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "changes": "Eight original 21600 x 21600 NASA 500 m grayscale tiles downsampled with Lanczos and assembled in A-D west-to-east / 1-2 north-to-south order, yielding true 16384 x 8192; 8K copy further downsampled. JPEG quality 95. No upscale.; Voyager JPEG/WebP quality86/83, native source (8192, 4096), output (8192, 4096), no upsampling.",
+      "observation_year": 2016,
+      "dataset": "Black Marble 2016 annual nighttime-light composite, Suomi NPP VIIRS",
+      "source_resolution": "500 m original global 86400 x 43200, split into eight 21600 x 21600 tiles",
+      "mode": "L"
+    },
+    {
+      "file": "hi_earth_specular.jpg",
+      "dimensions": [
+        4096,
+        2048
+      ],
+      "bytes": 489936,
+      "sha256": "5ae4ba92c40c3f31652ed310468340c11ee86ac855f85751a994f746dfdb9a4c",
+      "creator": "Solar System Scope / INOVE",
+      "source_page": "https://www.solarsystemscope.com/textures/",
+      "original_url": "https://www.solarsystemscope.com/textures/download/8k_earth_specular_map.jpg",
+      "download_url": "https://raw.githubusercontent.com/smithcg1/DigitalSolarSystem/master/8k_earth_specular_map.jpg",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "changes": "None. Original JPEG bytes retained; output filename corrected to actual pixel dimensions where upstream filename is misleading.; Voyager JPEG/WebP quality86/83, native source (8192, 4096), output (4096, 2048), no upsampling.",
+      "observation_year": null,
+      "mode": "L"
+    },
+    {
+      "file": "hi_mercury.jpg",
+      "dimensions": [
+        8192,
+        4096
+      ],
+      "bytes": 11749729,
+      "sha256": "757673ee5fb471ea256539d67c753147adcc02d607979872d857f7578a062a9e",
+      "creator": "Solar System Scope / INOVE",
+      "source_page": "https://www.solarsystemscope.com/textures/",
+      "original_url": "https://www.solarsystemscope.com/textures/download/8k_mercury.jpg",
+      "download_url": "https://registry.npmjs.org/artastra/-/artastra-1.0.8.tgz",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "changes": "None. Original JPEG bytes retained; output filename corrected to actual pixel dimensions where upstream filename is misleading.; Voyager JPEG/WebP quality86/83, native source (8192, 4096), output (8192, 4096), no upsampling.",
+      "observation_year": null,
+      "archive_member": "package/textures/8k_mercury.jpg",
+      "mode": "RGB"
+    },
+    {
+      "file": "hi_venus.jpg",
+      "dimensions": [
+        4096,
+        2048
+      ],
+      "bytes": 434082,
+      "sha256": "f277b956b74ff02e67ee953e5d51e35c11d2cfaaed29bd1994becdc9231d68db",
+      "creator": "Solar System Scope / INOVE",
+      "source_page": "https://www.solarsystemscope.com/textures/",
+      "original_url": "https://www.solarsystemscope.com/textures/download/4k_venus_atmosphere.jpg",
+      "download_url": "https://registry.npmjs.org/artastra/-/artastra-1.0.8.tgz",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "changes": "None. Original JPEG bytes retained; output filename corrected to actual pixel dimensions where upstream filename is misleading.; Voyager JPEG/WebP quality86/83, native source (4096, 2048), output (4096, 2048), no upsampling.",
+      "observation_year": null,
+      "archive_member": "package/textures/4k_venus_atmosphere.jpg",
+      "mode": "RGB"
+    },
+    {
+      "file": "hi_mars.jpg",
+      "dimensions": [
+        8192,
+        4096
+      ],
+      "bytes": 5695890,
+      "sha256": "285841da25eb8bbe871302fb81141c0cbc8d94b4baec7e2b65f626af8e4fcd57",
+      "creator": "Solar System Scope / INOVE",
+      "source_page": "https://www.solarsystemscope.com/textures/",
+      "original_url": "https://www.solarsystemscope.com/textures/download/8k_mars.jpg",
+      "download_url": "https://registry.npmjs.org/artastra/-/artastra-1.0.8.tgz",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "changes": "None. Original JPEG bytes retained; output filename corrected to actual pixel dimensions where upstream filename is misleading.; Voyager JPEG/WebP quality86/83, native source (8192, 4096), output (8192, 4096), no upsampling.",
+      "observation_year": null,
+      "archive_member": "package/textures/8k_mars.jpg",
+      "mode": "RGB"
+    },
+    {
+      "file": "hi_jupiter.jpg",
+      "dimensions": [
+        4096,
+        2048
+      ],
+      "bytes": 845813,
+      "sha256": "cc1af98cb4b9a255f8ba21af06cbfa89eed93eae8595d8893302069114e5e3e0",
+      "creator": "Solar System Scope / INOVE",
+      "source_page": "https://www.solarsystemscope.com/textures/",
+      "original_url": "https://www.solarsystemscope.com/textures/download/8k_jupiter.jpg",
+      "download_url": "https://raw.githubusercontent.com/smithcg1/DigitalSolarSystem/master/8k_jupiter.jpg",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "changes": "None. Original JPEG bytes retained; output filename corrected to actual pixel dimensions where upstream filename is misleading.; Voyager JPEG/WebP quality86/83, native source (4096, 2048), output (4096, 2048), no upsampling.",
+      "observation_year": null,
+      "resolution_note": "Upstream filename says 8k, but decoded image is only 4096 x 2048. This is retained as genuine 4K and not advertised as 8K.",
+      "mode": "RGB"
+    },
+    {
+      "file": "hi_saturn.jpg",
+      "dimensions": [
+        4096,
+        2048
+      ],
+      "bytes": 327692,
+      "sha256": "142518ef7f383d919d12bc2b1ddeb0f1a3322dd005ec0474a88a81ef60f4e355",
+      "creator": "Solar System Scope / INOVE",
+      "source_page": "https://www.solarsystemscope.com/textures/",
+      "original_url": "https://www.solarsystemscope.com/textures/download/8k_saturn.jpg",
+      "download_url": "https://registry.npmjs.org/artastra/-/artastra-1.0.8.tgz",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "changes": "None. Original JPEG bytes retained; output filename corrected to actual pixel dimensions where upstream filename is misleading.; Voyager JPEG/WebP quality86/83, native source (4096, 2048), output (4096, 2048), no upsampling.",
+      "observation_year": null,
+      "archive_member": "package/textures/8k_saturn.jpg",
+      "resolution_note": "Upstream filename says 8k, but decoded image is only 4096 x 2048. This is retained as genuine 4K and not advertised as 8K.",
+      "mode": "RGB"
+    },
+    {
+      "file": "hi_moon.jpg",
+      "dimensions": [
+        8192,
+        4096
+      ],
+      "bytes": 11707719,
+      "sha256": "d0a65d80ee8f8c63b223b4ee1b139b099598ff2c7ceb287cde771028ba6523fa",
+      "creator": "Solar System Scope / INOVE",
+      "source_page": "https://www.solarsystemscope.com/textures/",
+      "original_url": "https://www.solarsystemscope.com/textures/download/8k_moon.jpg",
+      "download_url": "https://raw.githubusercontent.com/smithcg1/DigitalSolarSystem/master/8k_moon.jpg",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "changes": "None. Original JPEG bytes retained; output filename corrected to actual pixel dimensions where upstream filename is misleading.; Voyager JPEG/WebP quality86/83, native source (8192, 4096), output (8192, 4096), no upsampling.",
+      "observation_year": null,
+      "mode": "RGB"
+    },
+    {
+      "file": "hi_sun.jpg",
+      "dimensions": [
+        4096,
+        2048
+      ],
+      "bytes": 1084130,
+      "sha256": "a54337e6f89c0eafb6ae52d4461070cee55fa3bf9e043d6fcf666c0c7517d025",
+      "creator": "Solar System Scope / INOVE",
+      "source_page": "https://www.solarsystemscope.com/textures/",
+      "original_url": "https://www.solarsystemscope.com/textures/download/8k_sun.jpg",
+      "download_url": "https://raw.githubusercontent.com/smithcg1/DigitalSolarSystem/master/8k_sun.jpg",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "changes": "None. Original JPEG bytes retained; output filename corrected to actual pixel dimensions where upstream filename is misleading.; Voyager JPEG/WebP quality86/83, native source (4096, 2048), output (4096, 2048), no upsampling.",
+      "observation_year": null,
+      "resolution_note": "Upstream filename says 8k, but decoded image is only 4096 x 2048. This is retained as genuine 4K and not advertised as 8K.",
+      "mode": "RGB"
+    },
+    {
+      "file": "earth_night.jpg",
+      "dimensions": [
+        2048,
+        1024
+      ],
+      "bytes": 84303,
+      "sha256": "00c4c84646efe904af7069fc91b981b62b09f74986c1e243a1cc58da1eb14f35",
+      "creator": "NASA Earth Observatory images by Joshua Stevens, using Suomi NPP VIIRS data from Miguel Román, NASA GSFC.",
+      "source_page": "https://science.nasa.gov/earth/earth-observatory/earth-at-night/maps/",
+      "source_tiles": "night-tiles.json",
+      "license": "NASA imagery / NASA Media Usage Guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "changes": "Eight original 21600 x 21600 NASA 500 m grayscale tiles downsampled with Lanczos and assembled in A-D west-to-east / 1-2 north-to-south order, yielding true 16384 x 8192; 8K copy further downsampled. JPEG quality 95. No upscale.; Voyager JPEG/WebP quality86/83, native source (8192, 4096), output (2048, 1024), no upsampling.",
+      "observation_year": 2016,
+      "dataset": "Black Marble 2016 annual nighttime-light composite, Suomi NPP VIIRS",
+      "source_resolution": "500 m original global 86400 x 43200, split into eight 21600 x 21600 tiles",
+      "mode": "L"
+    },
+    {
+      "file": "hi_earth_clouds.webp",
+      "dimensions": [
+        4096,
+        2048
+      ],
+      "bytes": 5478814,
+      "sha256": "b59a9b48eaf846543c54fd870ecbed7f3afa1006639a6b1ff2cb83358b645611",
+      "creator": "Solar System Scope / INOVE",
+      "source_page": "https://www.solarsystemscope.com/textures/",
+      "original_file": "earth_clouds_8k.jpg",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "changes": "Original 8192 x 4096 cloud map converted to luminance and downsampled to 4096 x 2048 with Lanczos. Output RGB is white and alpha is source cloud luminance. No upscale. Technical shader alpha texture.; Voyager JPEG/WebP quality86/83, native source (4096, 2048), output (4096, 2048), no upsampling.",
+      "observation_year": null,
+      "mode": "RGBA"
+    },
+    {
+      "file": "m31_galex_2k.jpg",
+      "dimensions": [
+        2048,
+        1525
+      ],
+      "bytes": 1775716,
+      "sha256": "fece14072ea7d2c07b997d41a4280aa9a777396d09b091fe61722a60683e5225",
+      "source_page": "https://www.jpl.nasa.gov/images/pia15416-andromeda/",
+      "publication_date": "2012-05-16",
+      "description": "NASA GALEX ultraviolet two-band observation mosaic: blue is far ultraviolet, orange is near ultraviolet. 11 observational segments assembled by NASA; this project does not synthesize any image content.",
+      "creator": "NASA/JPL-Caltech",
+      "catalog_id": "PIA15416",
+      "original_url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA15416.jpg",
+      "license": "JPL Image Use Policy / NASA Media Usage Guidelines",
+      "license_url": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+      "observation_year": null,
+      "observatory": "GALEX",
+      "wavelength": "Ultraviolet; NASA false-color display composite",
+      "credit_line": "NASA/JPL-Caltech",
+      "changes": "Original official NASA JPEG downsampled with Lanczos to longest side 2048, JPEG quality 94, no upscale. Aspect ratio and all photographed content retained; black background not removed."
+    },
+    {
+      "file": "m33_galex_2k.jpg",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "bytes": 1007652,
+      "sha256": "a693602f0ba4a5cec949c276f1d6eb3e707c7f6e1816a5fe96f7006eb69d2af8",
+      "source_page": "https://science.nasa.gov/photojournal/anatomy-of-a-triangulum/",
+      "publication_date": "2005-10-13",
+      "description": "NASA GALEX ultraviolet observation of M33 (Triangulum). Publication date is Photojournal Image Addition Date, not acquisition date.",
+      "creator": "NASA/JPL-Caltech",
+      "catalog_id": "PIA03033",
+      "original_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia03/pia03033/PIA03033.jpg?crop=faces%2Cfocalpoint&fit=clip&h=2904&w=2904",
+      "license": "JPL Image Use Policy / NASA Media Usage Guidelines",
+      "license_url": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+      "observation_year": null,
+      "observatory": "GALEX",
+      "wavelength": "Ultraviolet; NASA false-color display composite",
+      "credit_line": "NASA/JPL-Caltech",
+      "changes": "Original official NASA JPEG downsampled with Lanczos to longest side 2048, JPEG quality 94, no upscale. Aspect ratio and all photographed content retained; black background not removed."
+    },
+    {
+      "file": "earth_night_2016_gray_16k.jpg",
+      "dimensions": [
+        16384,
+        8192
+      ],
+      "bytes": 4855600,
+      "sha256": "2dfa014ed3b0d8a35e510ca929f764be7e0a16d0e6a0ee8eb847c49ac206fc4d",
+      "creator": "NASA Earth Observatory images by Joshua Stevens, using Suomi NPP VIIRS data from Miguel Román, NASA GSFC.",
+      "source_page": "https://science.nasa.gov/earth/earth-observatory/earth-at-night/maps/",
+      "source_tiles": "night-tiles.json",
+      "license": "NASA imagery / NASA Media Usage Guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "changes": "Eight original 21600 x 21600 NASA 500 m grayscale tiles downsampled with Lanczos and assembled in A-D west-to-east / 1-2 north-to-south order, yielding true 16384 x 8192; 8K copy further downsampled. JPEG quality 95. No upscale.",
+      "observation_year": 2016,
+      "dataset": "Black Marble 2016 annual nighttime-light composite, Suomi NPP VIIRS",
+      "source_resolution": "500 m original global 86400 x 43200, split into eight 21600 x 21600 tiles"
+    },
+    {
+      "file": "earth_specular_sss.jpg",
+      "dimensions": [
+        2048,
+        1024
+      ],
+      "bytes": 224077,
+      "sha256": "b7b89341cb09d7a357a41a38a1ee0a90a03e84b88c0348cd766564d04b916e82",
+      "creator": "Solar System Scope / INOVE",
+      "source_page": "https://www.solarsystemscope.com/textures/",
+      "original_url": "https://www.solarsystemscope.com/textures/download/8k_earth_specular_map.jpg",
+      "download_url": "https://raw.githubusercontent.com/smithcg1/DigitalSolarSystem/master/8k_earth_specular_map.jpg",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "changes": "Existing licensed 4096x2048 Solar System Scope specular map reduced with Lanczos to 2048x1024; JPEG quality90. No generated geographic detail.",
+      "observation_year": null,
+      "mode": "L",
+      "derived_from": "hi_earth_specular.jpg",
+      "derived_from_sha256": "5ae4ba92c40c3f31652ed310468340c11ee86ac855f85751a994f746dfdb9a4c"
+    },
+    {
+      "file": "voyager-ui-reviewed.woff",
+      "creator": "Noto Project Authors / Adobe",
+      "title": "Voyager UI subset from Noto Sans SC Regular",
+      "source_page": "https://github.com/notofonts/noto-cjk",
+      "download_url": "https://registry.npmjs.org/@expo-google-fonts/noto-sans-sc/-/noto-sans-sc-0.4.4.tgz",
+      "archive_member": "package/400Regular/NotoSansSC_400Regular.ttf",
+      "license": "SIL-OFL-1.1",
+      "license_url": "https://openfontlicense.org/",
+      "changes": "Subset and WOFF conversion from Noto Sans SC Regular; full original Adobe OFL notice retained; modified internal family and PostScript names renamed Voyager UI Review / VoyagerUIReview-Regular; glyph outlines unchanged.",
+      "bytes": 101228,
+      "sha256": "87df1bc6870512caf4cd92662571289fb46ff3432604623109ff865bda6dccdb"
+    }
+  ]
+}

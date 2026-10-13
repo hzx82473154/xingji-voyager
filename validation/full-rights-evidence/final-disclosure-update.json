@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-13",
+  "scope": "Licence/source notices and standalone metadata cleanup only; no program, scene, geometry, photo, map, sound or font changes.",
+  "platforms": {
+    "desktop": {
+      "previousRuntimeSha256": "ec822d121897848aa970e9bef6fa5f7068cb893c27a992f73a30667a83fc92c9",
+      "resultSha256": "68c91e07df2be282870957098608a5cd3950e1e207fe607c35b7cdd596719ed0",
+      "programBlocksUnchanged": true,
+      "styleBlocksUnchanged": true
+    },
+    "mobile": {
+      "previousRuntimeSha256": "08419e5baeea243016020381da9c7a1e51eedc750708042088ad5e185f2c81ce",
+      "resultSha256": "79229f16320464b5bb86a9b88f33a71af670a028b9e5a51ec1be704b6f012ebf",
+      "programBlocksUnchanged": true,
+      "styleBlocksUnchanged": true
+    }
+  }
+}

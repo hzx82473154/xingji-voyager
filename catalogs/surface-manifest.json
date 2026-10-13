@@ -1,0 +1,121 @@
+{
+  "name": "NASA Blue Marble Shaded Relief and Bathymetry",
+  "source": "https://gibs.earthdata.nasa.gov/wmts/epsg4326/best/BlueMarble_ShadedRelief_Bathymetry/default/500m",
+  "descriptionSource": "https://science.nasa.gov/earth/earth-observatory/blue-marble-next-generation/base-topography-bathymetry/",
+  "license": "NASA Earth Observatory imagery; credit NASA / MODIS / GEBCO",
+  "epoch": "Historical Blue Marble Next Generation composite, not live imagery",
+  "projection": "EPSG:4326 / GIBS 500m tile matrix",
+  "tileDegrees": "288 / 2**level",
+  "levels": [
+    5,
+    6,
+    7
+  ],
+  "tiles": 931,
+  "bytes": 33733046,
+  "coverage": {
+    "CHN": [
+      70,
+      141,
+      14,
+      57
+    ],
+    "JPN": [
+      126,
+      148,
+      24,
+      48
+    ],
+    "IND": [
+      65,
+      101,
+      4,
+      38
+    ],
+    "EGY": [
+      21,
+      40,
+      19,
+      34
+    ],
+    "Europe": [
+      -13,
+      29,
+      32,
+      62
+    ],
+    "AUS": [
+      109,
+      158,
+      -47,
+      -7
+    ],
+    "USA": [
+      -130,
+      -63,
+      22,
+      53
+    ],
+    "BRA": [
+      -76,
+      -31,
+      -38,
+      7
+    ],
+    "PER": [
+      -85,
+      -64,
+      -22,
+      3
+    ],
+    "TUR": [
+      24,
+      47,
+      32,
+      45
+    ],
+    "MEX": [
+      -120,
+      -83,
+      12,
+      35
+    ],
+    "JOR": [
+      32,
+      40,
+      27,
+      34
+    ],
+    "CAN": [
+      -125,
+      -68,
+      41,
+      58
+    ],
+    "GRC": [
+      17,
+      31,
+      32,
+      44
+    ],
+    "IDN": [
+      94,
+      142,
+      -13,
+      8
+    ],
+    "ISL": [
+      -27,
+      -11,
+      61,
+      69
+    ],
+    "KHM": [
+      99,
+      109,
+      9,
+      17
+    ]
+  },
+  "note": "Country regions include neighbouring land and sea. Level 7 is cached around Chinese landmarks; level 6 also covers mainland China and overseas landmark surroundings."
+}

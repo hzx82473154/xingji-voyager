@@ -1,0 +1,183 @@
+{
+  "catalog": "Gaia DR3 vari_rotation_modulation",
+  "releaseDate": "2022-06-13",
+  "retrievedAt": "2026-10-09T16:28:42.510747+00:00",
+  "expectedReleaseRows": 474026,
+  "columns": [
+    "sourceId",
+    "raDeg",
+    "decDeg",
+    "parallaxMas",
+    "parallaxErrorMas",
+    "distancePc",
+    "distanceKind",
+    "radiusSolar",
+    "teffK",
+    "rotationDays",
+    "rotationErrorDays",
+    "gMag",
+    "bpRp",
+    "hip"
+  ],
+  "counts": {
+    "imported": 474026,
+    "uniqueSourceIds": 474026,
+    "duplicates": 0,
+    "missingPositions": 0,
+    "withRotationPeriod": 474026,
+    "withRadiusSolar": 433741,
+    "withTeffK": 433741,
+    "withDistancePc": 460627,
+    "gspPhotDistances": 433741,
+    "highSignalParallaxFallbackDistances": 26886,
+    "withoutDistance": 13399,
+    "withParallax": 474026,
+    "withHipparcosCrossmatch": 121,
+    "hipparcosCrossmatchRows": 121
+  },
+  "importMode": "Full source join with exact-ID astrophysical radius enrichment",
+  "referenceFrame": "ICRS",
+  "astrometricReferenceEpoch": "J2016.0",
+  "distanceKind": {
+    "0": "Unknown; retain angular position without a fabricated distance",
+    "1": "GSP-Phot model-derived posterior distance (pc), not direct measurement",
+    "2": "1000/parallax estimate (pc), used only at parallax/parallax_error >= 10"
+  },
+  "parameterProvenance": {
+    "raDeg": "gaiadr3.gaia_source.ra",
+    "decDeg": "gaiadr3.gaia_source.dec",
+    "parallaxMas": "gaiadr3.gaia_source.parallax",
+    "parallaxErrorMas": "gaiadr3.gaia_source.parallax_error",
+    "radiusSolar": "gaiadr3.astrophysical_parameters.radius_gspphot (model-derived)",
+    "teffK": "gaiadr3.astrophysical_parameters.teff_gspphot (model-derived)",
+    "rotationDays": "gaiadr3.vari_rotation_modulation.best_rotation_period (photometric modulation inference)",
+    "rotationErrorDays": "gaiadr3.vari_rotation_modulation.best_rotation_period_error",
+    "hip": "gaiadr3.hipparcos2_best_neighbour.original_ext_source_id; closest angular match"
+  },
+  "limitations": [
+    "This fixed-release catalogue contains candidate solar-like rotational variables, not every star.",
+    "The period is inferred from photometric rotational modulation; no resolved surface map or spin-axis orientation is supplied.",
+    "GSP-Phot radii, temperatures and distances are model-derived catalog values; their accuracy depends on source quality and the model assumptions.",
+    "Reciprocal-parallax fallback is a simple estimate at high signal-to-noise, not a full Bayesian distance posterior.",
+    "No radius, distance, surface texture or axial tilt is invented for a missing value.",
+    "Hipparcos crossmatch is used for identity deduplication; Gaia coordinates are at J2016.0, whereas HYG positions use a different reference epoch."
+  ],
+  "sources": {
+    "tapEndpoint": "https://gaia.aip.de/tap",
+    "queryLanguage": "ADQL",
+    "query": "SELECT r.source_id,s.ra,s.dec,s.parallax,s.parallax_error,\ns.phot_g_mean_mag,s.bp_rp,r.best_rotation_period,r.best_rotation_period_error,\ns.teff_gspphot,s.distance_gspphot\nFROM gaiadr3.vari_rotation_modulation r\nJOIN gaiadr3.gaia_source s ON r.source_id=s.source_id",
+    "hipparcosQuery": "SELECT r.source_id,h.original_ext_source_id,h.angular_distance\nFROM gaiadr3.vari_rotation_modulation r\nJOIN gaiadr3.hipparcos2_best_neighbour h ON r.source_id=h.source_id",
+    "schema": "https://gea.esac.esa.int/archive/documentation/GDR3/Gaia_archive/chap_datamodel/sec_dm_variability_tables/ssec_dm_vari_rotation_modulation.html",
+    "mirrorMetadata": "https://gaia.aip.de/metadata/gaiadr3/vari_rotation_modulation/",
+    "doi": "https://doi.org/10.17876/gaia/dr.3/89",
+    "releaseDoi": "https://doi.org/10.5270/esa-qa4lep3",
+    "licenseSource": "https://esdcdoi.esac.esa.int/doi/html/data/astronomy/gaia/DR3.html",
+    "paper": "https://doi.org/10.1051/0004-6361/202244178",
+    "rawCsvSha256": "39b725490cbe3654c55064605ba2943334e27470c9ca7d9e3e6c8f8ebdabca75",
+    "hipparcosCsvSha256": "bee22ff6a98a57e07eabe8fff26c913582ca0dcda8d15e63637e7f32413cd676",
+    "radiusQuery": "SELECT r.source_id,p.radius_gspphot\nFROM gaiadr3.vari_rotation_modulation r\nJOIN gaiadr3.astrophysical_parameters p ON r.source_id=p.source_id\nWHERE p.radius_gspphot IS NOT NULL",
+    "radiusCsvSha256": "ef20a9b0b7adbc4454bef4ac94038536d09868170169777bf70fc24ec953dc2f",
+    "radiusMatchedRows": 433741
+  },
+  "license": "ESA Gaia data: CC BY-NC 3.0 IGO; preserve ESA/DPAC acknowledgement and citation",
+  "acknowledgement": "This work has made use of data from the European Space Agency (ESA) mission Gaia (https://www.cosmos.esa.int/gaia), processed by the Gaia Data Processing and Analysis Consortium (DPAC, https://www.cosmos.esa.int/web/gaia/dpac/consortium). Funding for the DPAC has been provided by national institutions, in particular the institutions participating in the Gaia Multilateral Agreement.",
+  "compressedBytes": 29600925,
+  "uncompressedBytes": 68284266,
+  "outputSha256": "588ab0c3660ceee9438cfc07f4f5f8d7484da8b32b69f156139e4d18985f8a6c",
+  "binary": {
+    "file": "gaia-rotation.bin.gz",
+    "byteOrder": "little-endian",
+    "recordStride": 68,
+    "rowCount": 474026,
+    "rowOrder": "Same as JSON, ascending numeric sourceId",
+    "columns": [
+      {
+        "name": "sourceId",
+        "offset": 0,
+        "type": "uint64",
+        "javascript": "BigInt/string; never Number"
+      },
+      {
+        "name": "raDeg",
+        "offset": 8,
+        "type": "float64"
+      },
+      {
+        "name": "decDeg",
+        "offset": 16,
+        "type": "float64"
+      },
+      {
+        "name": "parallaxMas",
+        "offset": 24,
+        "type": "float32",
+        "nullValue": "NaN"
+      },
+      {
+        "name": "parallaxErrorMas",
+        "offset": 28,
+        "type": "float32",
+        "nullValue": "NaN"
+      },
+      {
+        "name": "distancePc",
+        "offset": 32,
+        "type": "float32",
+        "nullValue": "NaN"
+      },
+      {
+        "name": "distanceKind",
+        "offset": 36,
+        "type": "float32",
+        "nullValue": "NaN"
+      },
+      {
+        "name": "radiusSolar",
+        "offset": 40,
+        "type": "float32",
+        "nullValue": "NaN"
+      },
+      {
+        "name": "teffK",
+        "offset": 44,
+        "type": "float32",
+        "nullValue": "NaN"
+      },
+      {
+        "name": "rotationDays",
+        "offset": 48,
+        "type": "float32",
+        "nullValue": "NaN"
+      },
+      {
+        "name": "rotationErrorDays",
+        "offset": 52,
+        "type": "float32",
+        "nullValue": "NaN"
+      },
+      {
+        "name": "gMag",
+        "offset": 56,
+        "type": "float32",
+        "nullValue": "NaN"
+      },
+      {
+        "name": "bpRp",
+        "offset": 60,
+        "type": "float32",
+        "nullValue": "NaN"
+      },
+      {
+        "name": "hip",
+        "offset": 64,
+        "type": "uint32",
+        "nullValue": 0
+      }
+    ],
+    "precision": "Source IDs exact uint64; astrometry float64; other numeric parameters float32 (~7 significant digits). JSON preserves the audit representation.",
+    "uncompressedBytes": 32233768,
+    "compressedBytes": 26944837,
+    "uncompressedSha256": "05477fa004b289cadde7249594b3d7ebe2995431cb1d3f961fb641afbefba790",
+    "sha256": "51f4f13f082e3f31c4b1f4043fc0a3cae08971a5cd4f6a6bcdbc49163e05f569"
+  }
+}
